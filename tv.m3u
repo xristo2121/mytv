@@ -1,0 +1,483 @@
+#EXTM3U
+#EXTINF:0 ,Первый канал HD
+http://origin1.perm.ertelecom.ru/content/private/s147213/d3720264/r183875sd2500000/21e6cd6f9626d0de395e70139a7ac8361062bb80/playlist.m3u8
+#EXTINF:0 ,Первый канал
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/127/index.m3u8
+#EXTINF:0 ,Россия HD
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183746sd2500000/aa05aa693792890b599d101b0fb441dfaf4baca4/playlist.m3u8
+#EXTINF:0 ,Телеканал «Россия»
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/504/index.m3u8
+#EXTINF:0 ,РТР Планета
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/546/index.m3u8
+#EXTINF:0 ,Россия-24
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/507/index.m3u8
+#EXTINF:0 ,Русский Роман
+http://msk3.peers.tv/streaming/russian_roman/16/tvrec/playlist.m3u8
+#EXTINF:0 ,Русский детектив
+http://stream.liteiptv.ru/rusdetective
+#EXTINF:0 ,Матч ТВ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/535/index.m3u8
+#EXTINF:0 ,Матч ТВ HD
+http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
+#EXTINF:0 ,ТНТ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/502/index.m3u8
+#EXTINF:0 ,СТС
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/506/index.m3u8
+#EXTINF:0 ,СТС Love
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/103/index.m3u8
+#EXTINF:0 ,СТС Мир
+http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:0 ,Пятница
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/503/index.m3u8
+#EXTINF:0 ,ТВ3
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/508/index.m3u8
+#EXTINF:0 ,Мир
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/113/index.m3u8
+#EXTINF:0 ,РЕН ТВ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/128/index.m3u8
+#EXTINF:0 ,Че
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/513/index.m3u8
+#EXTINF:0 ,ТВЦ
+http://origin4.tomsk.ertelecom.ru/content/public/r183728/track_3_2000/playlist.m3u8
+#EXTINF:0 ,Домашний
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/514/index.m3u8
+#EXTINF:0 ,НТВ
+http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
+#EXTINF:0 ,ТНВ-Планета
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/515/index.m3u8
+#EXTINF:0 ,E!Russia
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/537/index.m3u8
+#EXTINF:0 ,Много ТВ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/148/index.m3u8
+#EXTINF:0 ,ТНВ-Планета
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/149/index.m3u8
+#EXTINF:0 ,Рен
+http://msk3.peers.tv/streaming/rentv/126/tvrec/playlist.m3u8
+#EXTINF:0  ,DIGI SPORT 1
+http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0  ,DIGI SPORT 2
+http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0  ,Digi Sport 3
+http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0  ,DIGI SPORT 4
+http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,DOLCE SPORT 1
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:0 ,DOLCE SPORT 2
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:0 ,Eurosport Romania
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Eurosport 2 Romania
+http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Viasat Sport HD
+http://tv3.noip.me/stream/RA9KFWMDAH/102.m3u8
+#EXTINF:0 ,A Spor
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:0 ,beIN SPORT 1 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/10.ts
+#EXTINF:0 ,beIN SPORT 2 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/11.ts
+#EXTINF:0 ,beIN SPORT 3 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/12.ts
+#EXTINF:0 ,beIN SPORT 4 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/13.ts
+#EXTINF:0 ,beIN SPORT 5 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/14.ts
+#EXTINF:0 ,beIN SPORT 6 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/15.ts
+#EXTINF:0 ,beIN SPORT 7 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/16.ts
+#EXTINF:0 ,beIN SPORT 8 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/17.ts
+#EXTINF:0 ,beIN SPORT 9 HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/18.ts
+#EXTINF:0 ,beIN SPORT 10HD
+http://solu-iptv.ddns.net:8000/live/reda/reda/19.ts
+#EXTINF:0 ,BEIN SPORTS 1 HD EN
+http://180.250.29.22/jhos/beib1_4/playlist.m3u8
+#EXTINF:0 ,Bein Sport 1
+http://live01.pushpublish.tv/mylive/bein1/playlist.m3u8
+#EXTINF:0 ,BEIN SPORTS 2 HD EN
+http://180.250.29.22/jhos/beib2_4/playlist.m3u8
+#EXTINF:0 ,BEIN SPORTS 3 HD EN
+http://180.250.29.22/jhos/beib3_4/playlist.m3u8
+#EXTINF:0 ,Bein Sport 4
+http://live01.pushpublish.tv/mylive/bein4/playlist.m3u8
+#EXTINF:0 ,Bein Sport 5
+http://live01.pushpublish.tv/mylive/bein5/playlist.m3u8
+#EXTINF:0 ,Bein Sport 7
+http://live01.pushpublish.tv/mylive/bein7/playlist.m3u8
+#EXTINF:0 ,Спорт 1 HD
+http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
+#EXTINF:0 , NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0 ,СПОРТ ПЛЮС
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
+#EXTINF:0 ,НТВ-ПЛЮС Спорт
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/123/index.m3u8
+#EXTINF:0 ,НТВ-ПЛЮС Футбол
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/124/index.m3u8
+#EXTINF:0 ,Наш футбол
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/531/index.m3u8
+#EXTINF:0 ,KHL
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/519/index.m3u8
+#EXTINF:0 ,НТВ Футбол 2
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/530/index.m3u8
+#EXTINF:0 ,НТВ-ПЛЮС Футбол 3
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/522/index.m3u8
+#EXTINF:0 ,Eurosport
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/141/index.m3u8
+#EXTINF:0 ,Eurosport HD
+http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964991sd2500000/c3d7d9ac9a8eade4c469c8f261cea5368c118be3/playlist.m3u8
+#EXTINF:0 ,Eurosport 2
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
+#EXTINF:0 ,Eurosport 2 HD
+http://origin2.samara.ertelecom.ru/content/private/s147213/d3720264/r965000sd2500000/5ad5b441d56f018a0cab1989c056aa782ade8285/playlist.m3u8
+#EXTINF:0 ,НТВ Теннис
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/528/index.m3u8
+#EXTINF:0 ,НТВ Баскетбол
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/529/index.m3u8
+#EXTINF:0 ,Extreme Sports
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
+#EXTINF:0 ,Боец
+http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
+#EXTINF:0 ,Viasat sport
+http://stream.liteiptv.ru/viasport?.m3u8
+#EXTINF:0 ,Viasat Hockey
+http://stream.liteiptv.ru/viahockey
+#EXTINF:0 ,Premier Sport
+http://stream.liteiptv.ru/prsport
+#EXTINF:0 ,1+1
+http://play.lanet.tv/live/9002.m3u8
+#EXTINF:0 ,2+2
+http://play.lanet.tv/live/9016.m3u8
+#EXTINF:0 ,K1
+http://109.68.40.70:1935/castGeo/k1_3/playlist.m3u8
+#EXTINF:0 ,K1
+http://play.lanet.tv/live/9012.m3u8
+#EXTINF:0 ,K2
+http://play.lanet.tv/live/9020.m3u8
+#EXTINF:0 , MEGA
+http://play.lanet.tv/live/9021.m3u8
+#EXTINF:0 , ТЕТ 
+http://play.lanet.tv/live/9010.m3u8
+#EXTINF:0 ,Новый Канал 
+http://play.lanet.tv/live/9006.m3u8
+#EXTINF:0 ,Україна
+http://91.210.20.50:1234/udp/239.2.2.4:1234
+#EXTINF:0 ,СТБ 
+http://play.lanet.tv/live/9007.m3u8
+#EXTINF:0 ,СТБ 
+http://91.210.20.50:1234/udp/239.2.2.7:1234
+#EXTINF:0 ,НТН
+http://play.lanet.tv/live/9009.m3u8
+#EXTINF: 0 , TONIS
+http://play.lanet.tv/live/9011.m3u8
+#EXTINF: 0 , GAMMA
+http://play.lanet.tv/live/9015.m3u8
+#EXTINF: 0 , MILADY
+http://play.lanet.tv/live/9085.m3u8
+#EXTINF:-1 ,Україна
+http://91.210.20.50:1234/udp/239.2.2.4:1234
+#EXTINF: 0 , ICTV
+http://195.43.146.2/tv/9004.m3u8
+#EXTINF: 0 , ICTV
+http://play.lanet.tv/live/9004.m3u8
+#EXTINF: 0 ,НТН
+http://109.68.40.70:1935/castGeo/ntn_3/playlist.m3u8
+#EXTINF: 0 ,Унiан
+http://play.lanet.tv/live/9065.m3u8
+#EXTINF:0 , Рада 
+http://play.lanet.tv/live/9018.m3u8
+#EXTINF:0,Jurnal TV
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+#EXTINF:0,MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+#EXTINF:0,Moldova 1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:0, Prime
+http://87.248.160.8/edge/smil:prime/playlist.m3u8
+#EXTINF:0,PRO TV Chişinău
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:0,Publika TV
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+#EXTINF:0,Realitatea TV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+#EXTINF:0,TVC 21
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+#EXTINF:0, TVR
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:1,,ТНТ Bravo Moldova   
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+#EXTINF:1,Россия РТР (Молдова)   
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+#EXTINF:1,N4   
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+#EXTINF:1,sts-dixi,СТС (Молдова)
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+#EXTINF:1,STV   
+http://87.248.160.8/edge/smil:set/playlist.m3u8
+#EXTINF:1,Alt tv
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+#EXTINF:1,Accent   
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+#EXTINF:1,Sor tv   
+http://87.248.160.8/edge/smil:sortv/playlist.m3u8
+#EXTINF:1,rentv-md,Рен ТВ (Молдова) 
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+#EXTINF:1,Noroc tv   
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+#EXTINF:1,Busuioc tv   
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+#EXTINF:1,Gold tv   
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:1,2plus,2 Plus (на молд.)  
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+#EXTINF:0,Look Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8?
+#EXTINF:0,Look Plus
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialive/playlist.m3u8?
+#EXTINF:0,Tvr 1
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr1/playlist.m3u8?
+#EXTINF:0,Tvr 2
+http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Tvr 3
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8?
+#EXTINF:0 ,Kanal D
+http://178.21.120.198:1935/live3/_definst_/mp4:kanald/playlist.m3u8?
+#EXTINF:0,National Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:nationaltv/playlist.m3u8?
+#EXTINF:0,Tv H
+http://178.21.120.198:1935/live3/_definst_/mp4:tvh/playlist.m3u8?
+#EXTINF:0,Neptun Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:neptuntv/playlist.m3u8?
+#EXTINF:0,Axn
+http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8?
+#EXTINF:0,Axn White
+http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8?
+#EXTINF:0,Axn Black
+http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8?
+#EXTINF:0,Axn Spin
+http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8?
+#EXTINF:0,Comedy Central
+http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/playlist.m3u8?
+#EXTINF:0,Bollywood Tv HD
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodhd/playlist.m3u8?
+#EXTINF:0,Bollywood Classic
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodclasic/playlist.m3u8?
+#EXTINF:0 TV1000.ro,Tv 1000
+http://82.76.249.81/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Digi Life
+http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Digi World
+http://82.76.249.81/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Digi Animal World
+http://82.76.249.81/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Nat Geo Wild
+http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,National Geographic
+http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,History Channel
+http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Viasat History
+http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Viasat Nature
+http://82.76.249.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Viasat Explore
+http://82.76.249.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Travel Channel
+http://82.76.249.81/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Tv Paprika
+http://82.76.249.81/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0  ,Utv
+http://82.76.249.77/utvedge/utvlive/index.m3u8
+#EXTINF:0 ,Minimax
+http://82.76.249.81/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Megamax
+http://82.76.249.81/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Nickelodeon
+http://82.76.249.81/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Disney Junior
+http://82.76.249.81/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Disney Channel
+http://82.76.249.81/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,B1 Tv
+http://82.76.249.81/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Realitatea Tv
+http://82.76.249.81/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Romania Tv
+http://82.76.249.81/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Кино ТВ
+http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183839sd2000000/7ec8690f6bf994aba2fa7b1f98ef50567eadd9ae/track_2_1200/playlist.m3u8
+#EXTINF:0,Кинорейс 1
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/101/index.m3u8
+#EXTINF:0,Кинорейс 2
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/110/index.m3u8
+#EXTINF:0,TV1000 Action East
+http://stream.liteiptv.ru/tv1000ac
+#EXTINF:0,Мужское Кино
+http://stream.liteiptv.ru/mankino
+#EXTINF:0,Феникс+Кино
+http://stream.liteiptv.ru/fenix?.m3u8
+#EXTINF:0,Дом Кино
+http://stream.liteiptv.ru/domkino?.m3u8
+#EXTINF:0,НСТ
+http://stream.liteiptv.ru/nst?.m3u8
+#EXTINF:0,Ностальгия
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/102/index.m3u8
+#EXTINF:0,Amedia 1
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/554/index.m3u8
+#EXTINF:0,Amedia 1 HD
+http://origin1.samara.ertelecom.ru/content/private/s147213/d3720264/r183800sd2500000/074e1a2237daea54978a107549aedb921caa6915/playlist.m3u8
+#EXTINF:0,Amedia Premium HD
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/555/index.m3u8
+#EXTINF:0,Премьера
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/125/index.m3u8
+#EXTINF:0,Наше Кино
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/126/index.m3u8
+#EXTINF:0,КИНОСОЮЗ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/509/index.m3u8
+#EXTINF:0,Кинохит
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/516/index.m3u8
+#EXTINF:0,Наше новое кино
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/517/index.m3u8
+#EXTINF:0,Кинолюкс
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/521/index.m3u8
+#EXTINF:0,Комеди ТВ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/104/index.m3u8
+#EXTINF:0,Amedia 2
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/510/index.m3u8
+#EXTINF:0,STV
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/105/index.m3u8
+#EXTINF:0,TV XXI
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/525/index.m3u8
+#EXTINF:0,Universal Channel
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/542/index.m3u8
+#EXTINF:0,Комедия
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/145/index.m3u8
+#EXTINF:0,Индия ТВ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/146/index.m3u8
+#EXTINF:0,Русский Иллюзион
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/547/index.m3u8
+#EXTINF:0,Русский иллюзион HD
+http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183815sd2500000/12ff97b85719f4a6b59192ee622ce14eeacc3e70/playlist.m3u8
+#EXTINF:0,Иллюзион +
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/548/index.m3u8
+#EXTINF:0,Еврокино
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/549/index.m3u8
+#EXTINF:0,Еврокино HD
+http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183821sd2500000/8936c7070a078fe5747fd312982d8c9123198ca5/playlist.m3u8
+#EXTINF:0,Fox Russia
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/550/index.m3u8
+#EXTINF:0,Fox Life
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/553/index.m3u8
+#EXTINF:0,Paramount Comedy Russia
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/157/index.m3u8
+#EXTINF:0,Дом Кино
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/154/index.m3u8
+#EXTINF:0,История
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/111/index.m3u8
+#EXTINF:0,Eureka HD
+http://stream.liteiptv.ru/eurekahd
+#EXTINF:0,Моя Планета
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/117/index.m3u8
+#EXTINF:0,Наука 2.0
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/118/index.m3u8
+#EXTINF:0,Outdoor Channel
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/119/index.m3u8
+#EXTINF:0,Сов. Секретно
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/121/index.m3u8
+#EXTINF:0,Авто 24
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/538/index.m3u8
+#EXTINF:0,Nat Geo Wild
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/133/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964959sd2500000/17bffd5d00731afa416cbad453d23086d7544f5c/playlist.m3u8
+#EXTINF:0,national geographic
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/134/index.m3u8
+#EXTINF:0,Discovery World
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/135/index.m3u8
+#EXTINF:0,Discovery Science
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/136/index.m3u8
+#EXTINF:0,Discovery Science HD
+http://origin3.perm.ertelecom.ru/content/private/s147213/d3720264/r964955sd2500000/3046f746e4aee087379d3e056b950ee54ac5a666/playlist.m3u8
+#EXTINF:0,Animal Planet
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/137/index.m3u8
+#EXTINF:0,Animal Planet HD
+http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183872sd2500000/ce6e05b37bf6b2f9166459f0972240fb2da9b7d6/playlist.m3u8
+#EXTINF:0,Investigation Discovery
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/139/index.m3u8
+#EXTINF:0,Discovery Channel
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/140/index.m3u8
+#EXTINF:0,Discovery Channel HD
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r461066sd2500000/ee642e85b0b2abbde2bda27e9000e66d56f2bcfe/playlist.m3u8
+#EXTINF:0,Travel channel HD
+http://origin4.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183776sd2500000/90b2a57b5995b68c671fb715e36fa3915f03dfe1/playlist.m3u8
+#EXTINF:0,Авто Плюс
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/151/index.m3u8
+#EXTINF:0,Время
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/552/index.m3u8
+#EXTINF:0,Домашние Животные
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/158/index.m3u8
+#EXTINF:0,Охота и Рыбалка
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/159/index.m3u8
+#EXTINF:0,Кухня ТВ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/152/index.m3u8
+#EXTINF:0,РБК-ТВ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/106/index.m3u8
+#EXTINF:0 ,Hit Music Channel
+http://82.76.249.81/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,Kiss Tv
+http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,RU.TV
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
+#EXTINF:0,RU TV Молдова
+http://stream.liteiptv.ru/mdrutv?.m3u8
+#EXTINF:0,МУЗ
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/116/index.m3u8
+#EXTINF:0,RUSONG TV
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/120/index.m3u8
+#EXTINF:0,Bridge TV
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/122/index.m3u8
+#EXTINF:0,A-One
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183749sd2000000/30e31cb7ef8a2b27041bd82078807bd73389d869/track_2_1200/playlist.m3u8
+#EXTINF:0,Music Box UA
+http://stream.liteiptv.ru/mbua?.m3u8
+#EXTINF:0,MTV Music UK
+http://stream.liteiptv.ru/mtvmusicuk
+#EXTINF:0,VH1 UK
+http://stream.liteiptv.ru/vh1
+#EXTINF:0,MTV
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/142/index.m3u8
+#EXTINF:0,MTV HD
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183857sd2500000/efe4541060c00fccc01e8c068fce4f5ab911d969/playlist.m3u8
+#EXTINF:0,Европа Плюс
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/115/index.m3u8
+#EXTINF:0,MTV Hits
+http://s2.edem.tv/iptv/NHW72LAQVHZXVF/153/index.m3u8
+#EXTINF:0,#Пик ТВ
+http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:0,One.by
+http://rtmp.one.by:1200
+#EXTINF:0,One.by HD
+http://rtmp.one.by:1300
+#EXTINF:0,One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:0,One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:0,JuCeTV HD Россия
+http://stream.liteiptv.ru/jusetv_hd?.m3u8
+#EXTINF:0,Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0,Eska Best 
+http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
+#EXTINF:0,Radio Monte Carlo TV
+http://stream.liteiptv.ru/musicch1?.m3u8
+#EXTINF:0,Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,Retro TV
+http://stream.liteiptv.ru/retrocz?.m3u8
