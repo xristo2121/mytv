@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:0 group-title="другие",Первый канал HD
+http://origin1.perm.ertelecom.ru/content/private/s147213/d3720264/r183875sd2500000/21e6cd6f9626d0de395e70139a7ac8361062bb80/playlist.m3u8
+#EXTINF:0 group-title="другие",Первый канал
+http://origin2.voronezh.ertelecom.ru/content/public/r451763/track_3_2000/playlist.m3u8
+#EXTINF:0 group-title="другие",Россия HD
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183746sd2500000/aa05aa693792890b599d101b0fb441dfaf4baca4/playlist.m3u8
+#EXTINF:0 group-title="другие",Телеканал «Россия»
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/504/index.m3u8
+#EXTINF:0 group-title="другие",РТР Планета
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/546/index.m3u8
+#EXTINF:0 group-title="другие",Россия-24
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/507/index.m3u8
+#EXTINF:0 group-title="другие",Русский Роман
+http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183833sd2000000/73b8956872eecb5118c0870581e3179d2231f200/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="спорт",Матч ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
+#EXTINF:0 group-title="спорт",Матч ТВ HD
+http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
+#EXTINF:0 group-title="другие",ТНТ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/502/index.m3u8
+#EXTINF:0 group-title="другие",СТС
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/506/index.m3u8
+#EXTINF:0 group-title="другие",СТС Love
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/103/index.m3u8
+#EXTINF:0 group-title="другие",СТС Мир
+http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:0 group-title="другие",Пятница
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/503/index.m3u8
+#EXTINF:0 group-title="другие",ТВ3
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/508/index.m3u8
+#EXTINF:0 group-title="другие",Мир
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/113/index.m3u8
+#EXTINF:0 group-title="другие",РЕН ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/128/index.m3u8
+#EXTINF:0 group-title="другие",Че
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/513/index.m3u8
+#EXTINF:0 group-title="другие",ТВЦ
+http://origin4.tomsk.ertelecom.ru/content/public/r183728/track_3_2000/playlist.m3u8
+#EXTINF:0 group-title="другие",Домашний
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/514/index.m3u8
+#EXTINF:0 group-title="другие",НТВ
+http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="другие",ТНВ-Планета
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/515/index.m3u8
+#EXTINF:0 group-title="другие",E!Russia
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/537/index.m3u8
+#EXTINF:0 group-title="другие",Много ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/148/index.m3u8
+#EXTINF:0 group-title="другие",ТНВ-Планета
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/149/index.m3u8
+#EXTINF:0 group-title="другие",Рен
+http://msk3.peers.tv/streaming/rentv/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="другие",1+1
+http://play.lanet.tv/live/9002.m3u8
+#EXTINF:0 group-title="другие",2+2
+http://play.lanet.tv/live/9016.m3u8
+#EXTINF:0 group-title="другие",Интер
+http://109.68.40.70:1935/castGeo/inter_3/playlist.m3u8
+#EXTINF:0 group-title="другие",K1
+http://play.lanet.tv/live/9012.m3u8
+#EXTINF:0 group-title="другие",K2
+http://play.lanet.tv/live/9020.m3u8
+#EXTINF:0 group-title="другие",Enter Film
+http://play.lanet.tv/tv/9023.m3u8
+#EXTINF:0 group-title="другие", MEGA
+http://play.lanet.tv/live/9021.m3u8
+#EXTINF:0 group-title="другие", ТЕТ 
+http://play.lanet.tv/live/9010.m3u8
+#EXTINF:0 group-title="другие",Новый Канал 
+http://play.lanet.tv/live/9006.m3u8
+#EXTINF:0 group-title="другие",Україна
+http://91.210.20.50:1234/udp/239.2.2.4:1234
+#EXTINF:0 group-title="другие",СТБ 
+http://play.lanet.tv/live/9007.m3u8
+#EXTINF:0 group-title="другие",СТБ 
+http://91.210.20.50:1234/udp/239.2.2.7:1234
+#EXTINF:0 group-title="другие",НТН
+http://play.lanet.tv/live/9009.m3u8
+#EXTINF: 0 group-title="другие", TONIS
+http://play.lanet.tv/live/9011.m3u8
+#EXTINF: 0 group-title="другие", GAMMA
+http://play.lanet.tv/live/9015.m3u8
+#EXTINF: 0 group-title="другие", MILADY
+http://play.lanet.tv/live/9085.m3u8
+#EXTINF:-1 group-title="другие",Україна
+http://91.210.20.50:1234/udp/239.2.2.4:1234
+#EXTINF: 0 group-title="другие", ICTV
+http://play.lanet.tv/live/9004.m3u8
+#EXTINF: 0 group-title="другие",Унiан
+http://play.lanet.tv/live/9065.m3u8
+#EXTINF:0 group-title="другие", Рада 
+http://play.lanet.tv/live/9018.m3u8
+#EXTINF:0 group-title="Молдова",Jurnal TV
+http://109.185.163.141:8883
+#EXTINF:0 group-title="Молдова",Moldova 1
+http://109.185.163.141:8881 
+#EXTINF:0 group-title="Молдова",Prime
+http://109.185.163.141:8882 
+#EXTINF:0 group-title="Молдова",PRO TV Chişinău
+http://109.185.163.141:8886 
+#EXTINF:0 group-title="Молдова",Publika TV
+http://109.185.163.141:8887 
+#EXTINF:0 group-title="Молдова",Realitatea TV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+#EXTINF:0 group-title="Молдова",TVC 21
+http://109.185.163.141:8888
+#EXTINF:0 group-title="Молдова",STV   
+http://109.185.163.141:8892 
+#EXTINF:0 group-title="Молдова",TVR 1 (на молд.)
+http://178.21.122.94:1935/live/_definst_/tvr1/index.m3u8
+#EXTINF:0 group-title="Молдова",TVR 2 (на молд.)
+http://178.21.122.94:1935/live/_definst_/tvr2/index.m3u8
+#EXTINF:0 group-title="Молдова",Antena Stars
+http://89.35.34.254:9003/antenastars
+#EXTINF:0 group-title="Молдова",Antena
+http://stream1.aplay.ro:1935/live/_definst_/AntenaNews_1000/playlist.m3u8
+#EXTINF:0 group-title="Молдова",Look Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Look Plus
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialive/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Tvr 1
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr1/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Tvr 2
+http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова",Tvr 3
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8?
+#EXTINF:0 group-title="Молдова" KanalD.ro,Kanal D
+http://178.21.120.198:1935/live3/_definst_/mp4:kanald/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",National Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:nationaltv/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Tv H
+http://178.21.120.198:1935/live3/_definst_/mp4:tvh/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Neptun Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:neptuntv/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Axn
+http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Axn White
+http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Axn Black
+http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Axn Spin
+http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Comedy Central
+http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Bollywood Tv HD
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodhd/playlist.m3u8?
+#EXTINF:0 group-title="Молдова",Bollywood Classic
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodclasic/playlist.m3u8?
+#EXTINF:0 group-title="Молдова" TV1000.ro,Tv 1000
+http://82.76.249.81/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова",Digi Life
+http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова",Digi World
+http://82.76.249.81/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова",Digi Animal World
+http://82.76.249.81/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" NatGeoWild.ro,Nat Geo Wild
+http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" NationalGeographic.ro,National Geographic
+http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" HistoryChannel.ro,History Channel
+http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" ViasatHistory.ro,Viasat History
+http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" ViasatNature.ro,Viasat Nature
+http://82.76.249.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" ViasatExplorer.ro,Viasat Explore
+http://82.76.249.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0  group-title="Молдова"TravelChannel.ro,Travel Channel
+http://82.76.249.81/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" Paprika.ro,Tv Paprika
+http://82.76.249.81/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова"  UTV.ro,Utv
+http://82.76.249.77/utvedge/utvlive/index.m3u8
+#EXTINF:0 group-title="Молдова" MiniMax.ro,Minimax
+http://82.76.249.81/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова",Megamax
+http://82.76.249.81/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" Nickelodeon.ro,Nickelodeon
+http://82.76.249.81/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" DisneyJunior.ro,Disney Junior
+http://82.76.249.81/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0  group-title="Молдова"DisneyChannel.ro,Disney Channel
+http://82.76.249.81/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" B1TV.ro,B1 Tv
+http://82.76.249.81/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" RealitateaTV.ro,Realitatea Tv
+http://82.76.249.81/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Молдова" RomaniaTV.ro,Romania Tv
+http://82.76.249.81/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="кино",Кино ТВ
+http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183839sd2000000/7ec8690f6bf994aba2fa7b1f98ef50567eadd9ae/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="кино",Кинорейс 1
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/101/index.m3u8
+#EXTINF:0 group-title="кино",Кинорейс 2
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/110/index.m3u8
+#EXTINF:0 group-title="кино",TV1000 Action East
+http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r964883sd2000000/ed753317cf82cb9992ecf0458db58f7cd07a5501/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="кино",TV1000
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r964892sd2000000/63d6b331ec793b8c05b62077c4ffca92444098bf/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="кино",TV1000 Русское кино
+http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964901sd2000000/352363d176dcfe1853d6daff0834fb962a5e1147/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="кино",Ностальгия
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/102/index.m3u8
+#EXTINF:0 group-title="кино",Amedia 1
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/554/index.m3u8
+#EXTINF:0 group-title="кино",Amedia 1 HD
+http://origin1.samara.ertelecom.ru/content/private/s147213/d3720264/r183800sd2500000/074e1a2237daea54978a107549aedb921caa6915/playlist.m3u8
+#EXTINF:0 group-title="кино",Amedia Premium HD
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/555/index.m3u8
+#EXTINF:0 group-title="кино",Премьера
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/125/index.m3u8
+#EXTINF:0 group-title="кино",Наше Кино
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/126/index.m3u8
+#EXTINF:0 group-title="кино",КИНОСОЮЗ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/509/index.m3u8
+#EXTINF:0 group-title="кино",Кинохит
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/516/index.m3u8
+#EXTINF:0 group-title="кино",Наше новое кино
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/517/index.m3u8
+#EXTINF:0 group-title="кино",Кинолюкс
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/521/index.m3u8
+#EXTINF:0 group-title="кино",Комеди ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/104/index.m3u8
+#EXTINF:0 group-title="кино",Amedia 2
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/510/index.m3u8
+#EXTINF:0 group-title="кино",STV
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/105/index.m3u8
+#EXTINF:0 group-title="кино",TV XXI
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/525/index.m3u8
+#EXTINF:0 group-title="кино",Universal Channel
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/542/index.m3u8
+#EXTINF:0 group-title="кино",Комедия
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/145/index.m3u8
+#EXTINF:0 group-title="кино",Индия ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/146/index.m3u8
+#EXTINF:0 group-title="кино",Русский Иллюзион
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/547/index.m3u8
+#EXTINF:0 group-title="кино",Русский иллюзион HD
+http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183815sd2500000/12ff97b85719f4a6b59192ee622ce14eeacc3e70/playlist.m3u8
+#EXTINF:0 group-title="кино",Иллюзион +
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/548/index.m3u8
+#EXTINF:0 group-title="кино",Иллюзион+ HD
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183818sd2500000/a2cf723dd1ff3b868e691e028150843d4083d494/playlist.m3u8
+#EXTINF:0 group-title="кино",Еврокино
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/549/index.m3u8
+#EXTINF:0 group-title="кино",Еврокино HD
+http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183821sd2500000/8936c7070a078fe5747fd312982d8c9123198ca5/playlist.m3u8
+#EXTINF:0 group-title="кино",Fox Russia
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/550/index.m3u8
+#EXTINF:0 group-title="кино",FOX HD
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r964910sd2500000/440f444c17c5faaf04a8f4a9e48bc068c7826009/playlist.m3u8
+#EXTINF:0 group-title="кино",Fox Life
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/553/index.m3u8
+#EXTINF:0 group-title="кино",FOX Life HD
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r964919sd2500000/82f9da2544bbd215e38a498dd667e4d70b0a4ce8/playlist.m3u8
+#EXTINF:0 group-title="кино",Sony HD
+http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r451667sd2500000/b18eee196dfc4ff838f4689bc601386a148dd7fa/playlist.m3u8
+#EXTINF:0 group-title="кино",Sony Sci-Fi
+http://origin2.samara.ertelecom.ru/content/private/s147213/d3720264/r451670sd2000000/a2a7ee3c312c63a02abdcf72bf8b9bb4524ba4b6/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="кино",Paramount Comedy Russia
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/157/index.m3u8
+#EXTINF:0 group-title="кино",Paramount Comedy HD
+http://origin1.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183851sd2500000/325bfd2b8749fcf8f86772033611dac0244fb62e/playlist.m3u8
+#EXTINF:0 group-title="кино",Дом Кино
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/154/index.m3u8
+#EXTINF:0 group-title="познавательные",История
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/111/index.m3u8
+#EXTINF:0 group-title="познавательные",Моя Планета
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/117/index.m3u8
+#EXTINF:0 group-title="познавательные",Наука 2.0
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/118/index.m3u8
+#EXTINF:0 group-title="познавательные",Outdoor Channel
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/119/index.m3u8
+#EXTINF:0 group-title="познавательные",Сов. Секретно
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/121/index.m3u8
+#EXTINF:0 group-title="познавательные",Авто 24
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/538/index.m3u8
+#EXTINF:0 group-title="познавательные",Nat Geo Wild
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/133/index.m3u8
+#EXTINF:0 group-title="познавательные",Nat Geo Wild HD
+http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964959sd2500000/17bffd5d00731afa416cbad453d23086d7544f5c/playlist.m3u8
+#EXTINF:0 group-title="познавательные",national geographic
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/134/index.m3u8
+#EXTINF:0 group-title="познавательные",Discovery World
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/135/index.m3u8
+#EXTINF:0 group-title="познавательные",Discovery Science
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/136/index.m3u8
+#EXTINF:0 group-title="познавательные",Discovery Science HD
+http://origin3.perm.ertelecom.ru/content/private/s147213/d3720264/r964955sd2500000/3046f746e4aee087379d3e056b950ee54ac5a666/playlist.m3u8
+#EXTINF:0 group-title="познавательные",Animal Planet
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/137/index.m3u8
+#EXTINF:0 group-title="познавательные",Animal Planet HD
+http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183872sd2500000/ce6e05b37bf6b2f9166459f0972240fb2da9b7d6/playlist.m3u8
+#EXTINF:0 group-title="познавательные",Investigation Discovery
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/139/index.m3u8
+#EXTINF:0 group-title="познавательные",Discovery Channel
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/140/index.m3u8
+#EXTINF:0 group-title="познавательные",Discovery Channel HD
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r461066sd2500000/ee642e85b0b2abbde2bda27e9000e66d56f2bcfe/playlist.m3u8
+#EXTINF:0 group-title="познавательные",Travel channel HD
+http://origin4.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183776sd2500000/90b2a57b5995b68c671fb715e36fa3915f03dfe1/playlist.m3u8
+#EXTINF:0 group-title="познавательные",TLC HD
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183869sd2500000/c53d84813075afc1846f74caf6cb7f521727a444/playlist.m3u8
+#EXTINF:0 group-title="познавательные",Охотник и рыболов HD
+http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r183764sd2500000/68322f05023856795e0a860bedfd0e5a8e5e74ac/playlist.m3u8
+#EXTINF:0 group-title="познавательные",Авто Плюс
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/151/index.m3u8
+#EXTINF:0,Время
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/552/index.m3u8
+#EXTINF:0 group-title="познавательные",Домашние Животные
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/158/index.m3u8
+#EXTINF:0 group-title="познавательные",Охота и Рыбалка
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/159/index.m3u8
+#EXTINF:0,Кухня ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/152/index.m3u8
+#EXTINF:0,РБК-ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/106/index.m3u8
+#EXTINF:0 group-title="Музыка" H!TMusic.ro,Hit Music Channel
+http://82.76.249.81/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0  group-title="Музыка" MusicChannel.ro,Music Channel
+http://82.76.249.81/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Музыка" KissTV.ro,Kiss Tv
+http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 group-title="Музыка",RU TV
+http://origin1.samara.ertelecom.ru/content/private/s147213/d3720264/r183743sd2000000/7f7622ae2a1d3eec41a3d7ad73787b9e86a67383/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="Музыка",МУЗ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/116/index.m3u8
+#EXTINF:0 group-title="Музыка", MusicBox UA
+http://kirito.la.net.ua/tv/9028.m3u8
+#EXTINF:0 group-title="Музыка",RUSONG TV
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/120/index.m3u8
+#EXTINF:0 group-title="Музыка",Bridge TV
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/122/index.m3u8
+#EXTINF:0 group-title="Музыка",A-One
+http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183749sd2000000/30e31cb7ef8a2b27041bd82078807bd73389d869/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MCM Top
+http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r965051sd2000000/df7c52812ca18337e02b4b00b1fbf5135cc5a264/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="Музыка",VH1 European
+http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MTV
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/142/index.m3u8
+#EXTINF:0 group-title="Музыка",MTV HD
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183857sd2500000/efe4541060c00fccc01e8c068fce4f5ab911d969/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Европа Плюс
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/115/index.m3u8
+#EXTINF:0 group-title="Музыка",MTV Hits
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/153/index.m3u8
+#EXTINF:0 group-title="Музыка",#Пик ТВ
+http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:0 group-title="Музыка",One.by
+http://rtmp.one.by:1200
+#EXTINF:0 group-title="Музыка",One.by HD
+http://rtmp.one.by:1300
+#EXTINF:0 group-title="Музыка",One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:0 group-title="Музыка",One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:0 group-title="Музыка",Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Eska Best 
+http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
+#EXTINF:0 group-title="Музыка",Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0 group-title="Музыка",Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0 group-title="Музыка",Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
