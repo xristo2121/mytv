@@ -13,6 +13,10 @@ http://iptv4.zargacum.net/iptv/77YTH3EYFE/546/index.m3u8
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/507/index.m3u8
 #EXTINF:0 group-title="другие",Русский Роман
 http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183833sd2000000/73b8956872eecb5118c0870581e3179d2231f200/track_2_1200/playlist.m3u8
+#EXTINF:0 group-title="спорт",Матч ТВ
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
+#EXTINF:0 group-title="спорт",Матч ТВ HD
+http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
 #EXTINF:0 group-title="другие",ТНТ
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/502/index.m3u8
 #EXTINF:0 group-title="другие",СТС
@@ -91,7 +95,7 @@ http://play.lanet.tv/live/9018.m3u8
 http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 group-title="спорт" DigiSport2.ro,DIGI SPORT 2
 http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 group-title="спорт" ,Digi Sport 3
+#EXTINF:0 group-title="спорт" ,DIGI SPORT 3
 http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 group-title="спорт" DigiSport4.ro,DIGI SPORT 4
 http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
@@ -103,30 +107,50 @@ http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 group-title="спорт",Eurosport 2 Romania
 http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 group-title="спорт",Sky Sport 1 (UK) 
-http://80.243.189.26:8081/sportshd/sky1/index.m3u8
 #EXTINF:0 group-title="спорт",Sky Sport 2 (UK) 
-http://80.243.189.26:8081/sportshd/sky2/index.m3u8
+http://top-iptv.zapto.org:8000/live/Aria/Aria/535.ts
 #EXTINF:0 group-title="спорт",Sky Sport 3 (UK) 
-http://80.243.189.26:8081/sportshd/skf3/index.m3u8
+http://top-iptv.zapto.org:8000/live/Aria/Aria/534.ts
 #EXTINF:0 group-title="спорт",Sky Sport 4 (UK) 
-http://80.243.189.26:8081/sportshd/sky4/index.m3u8
+http://top-iptv.zapto.org:8000/live/Aria/Aria/533.ts
 #EXTINF:0 group-title="спорт",Sky Sport 5 (UK) 
-http://80.243.189.26:8081/sportshd/sky5/index.m3u8
+http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
 #EXTINF:0 group-title="спорт",Sky Sport F1 (UK) 
 http://80.243.189.26:8081/sportshd/skf1/index.m3u8
-#EXTINF:0 group-title="спорт",BT Sport 1HD
-http://80.243.189.26:8081/sportshd/bt1/index.m3u8
-#EXTINF:0 group-title="спорт",BT Sport 2HD
-http://80.243.189.26:8081/sportshd/bt2/index.m3u8
-#EXTINF:0 group-title="спорт",Sky Sport 1 HD ITALIA
-http://213.136.90.30:8000/live/christop/christop/9249.ts
-#EXTINF:0 group-title="спорт",Sky Sport 2 HD ITALIA
-http://213.136.90.30:8000/live/christop/christop/8883.ts
-#EXTINF:0 group-title="спорт",Sky Sport 3 HD ITALIA
-http://213.136.90.30:8000/live/christop/christop/8884.ts
-#EXTINF:0 group-title="спорт",PREMIUM SPORTS ITALIA
-http://213.136.90.30:8000/live/christop/christop/8325.ts
+#EXTINF:0 group-title="спорт",BT Sport 1
+http://ipsatpro.com:8000/live/best55877/iptv4477/543.m3u8
+#EXTINF:0 group-title="спорт",BT Sport 2
+http://ipsatpro.com:8000/live/best55877/iptv4477/542.m3u8
+#EXTINF:0 group-title="спорт",BT Sport 1 HD
+http://ipsatpro.com:8000/live/best55877/iptv4477/528.m3u8
+#EXTINF:0 group-title="спорт",BT Sport 2 HD
+http://ipsatpro.com:8000/live/best55877/iptv4477/527.m3u8
+#EXTINF:0 group-title="спорт",bein Sports 1 HD
+http://37.187.24.177:80/tarek1/tarek1/699.ch
+#EXTINF:0 group-title="спорт",bein Sports 2 HD
+http://37.187.24.177:80/tarek1/tarek1/700.ch
+#EXTINF:0 group-title="спорт",bein Sports 3 HD
+http://37.187.24.177:80/tarek1/tarek1/701.ch
+#EXTINF:0 group-title="спорт",bein Sports 5 HD
+http://37.187.24.177:80/tarek1/tarek1/703.ch
+#EXTINF:0 group-title="спорт",bein Sports 6 HD
+http://37.187.24.177:80/tarek1/tarek1/704.ch
+#EXTINF:0 group-title="спорт",bein Sports 7 HD
+http://37.187.24.177:80/tarek1/tarek1/705.ch
+#EXTINF:0 group-title="спорт",bein Sports 9 HD
+http://37.187.24.177:80/tarek1/tarek1/707.ch
+#EXTINF:0 group-title="спорт",bein Sports 10 HD
+http://37.187.24.177:80/tarek1/tarek1/708.ch
+#EXTINF:0 group-title="спорт",bein Sports 11 HD
+http://37.187.24.177:80/tarek1/tarek1/709.ch
+#EXTINF:0 group-title="спорт",bein Sports 12 HD
+http://37.187.24.177:80/tarek1/tarek1/710.ch
+#EXTINF:0 group-title="спорт",Sky Sport 1 HD ITALY
+http://tvservice.webhop.me:80/live/alfa/alfa/251.ts
+#EXTINF:0 group-title="спорт",Sky Sport HD 2 ITALY
+http://tvservice.webhop.me:80/live/alfa/alfa/252.ts
+#EXTINF:0 group-title="спорт",Sky Sport 3 HD ITALY
+http://tvservice.webhop.me:80/live/alfa/alfa/253.ts
 #EXTINF:0 group-title="спорт",Arena Sport 1 HR (EUR)
 http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8
 #EXTINF:0 group-title="спорт",Arena Sport 2 HR (EUR) (sk111)
@@ -135,12 +159,16 @@ http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8
 http://169.45.89.106:1935/app/arhd3lsh58/playlist.m3u8
 #EXTINF:0 group-title="спорт",Arena Sport 4 HR (EUR) (sk111)
 http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8
+#EXTINF:0 group-title="спорт",Arena Sport 1 HD
+http://46.40.5.99:8000/arena_1_720
+#EXTINF:0 group-title="спорт",Arena Sport 2 HD
+http://46.40.5.99:8000/arena_2_720
+#EXTINF:0 group-title="спорт",Arena Sport 3 HD
+http://46.40.5.99:8000/arena_3_720
+#EXTINF:0 group-title="спорт",Arena Sport 4 HD
+http://46.40.5.99:8000/arena_4_720
 #EXTINF:0 group-title="спорт",Viasat Sport HD
 http://tv3.noip.me/stream/RA9KFWMDAH/102.m3u8
-#EXTINF:0 group-title="спорт",Матч ТВ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
-#EXTINF:0 group-title="спорт",Матч ТВ HD
-http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
 #EXTINF:0 group-title="спорт",Спорт 1 HD
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
 #EXTINF:0 group-title="спорт",СПОРТ ПЛЮС
@@ -176,47 +204,29 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0 group-title="спорт",Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
 #EXTINF:0 group-title="Молдова",Jurnal TV
-http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
-#EXTINF:0 group-title="Молдова",Moldova 1
-http://87.248.160.8/edge/smil:m1/playlist.m3u8
-#EXTINF:0 group-title="Молдова", Prime
-http://87.248.160.8/edge/smil:prime/playlist.m3u8
-#EXTINF:0 group-title="Молдова",PRO TV Chişinău
-http://87.248.160.8/edge/smil:protv/playlist.m3u8
-#EXTINF:0 group-title="Молдова",Publika TV
-http://87.248.160.8/edge/smil:publica/playlist.m3u8
-#EXTINF:0 group-title="Молдова",Realitatea TV
+http://109.185.163.141:8883
+#EXTINF:0,Moldova 1
+http://109.185.163.141:8881 
+#EXTINF:0,Prime
+http://109.185.163.141:8882 
+#EXTINF:0,PRO TV Chişinău
+http://109.185.163.141:8886 
+#EXTINF:0,Publika TV
+http://109.185.163.141:8887 
+#EXTINF:0,Realitatea TV
 http://87.248.160.8/edge/smil:realitate/playlist.m3u8
-#EXTINF:0 group-title="Молдова",TVC 21
-http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
-#EXTINF:0 group-title="Молдова", TVR
-http://87.248.160.8/edge/smil:tvr/playlist.m3u8
-#EXTINF:1 group-title="Молдова",,ТНТ Bravo Moldova   
-http://87.248.160.8/edge/smil:tnt/playlist.m3u8
-#EXTINF:1 group-title="Молдова",Россия РТР (Молдова)   
-http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
-#EXTINF:1 group-title="Молдова",N4   
-http://87.248.160.8/edge/smil:n4/playlist.m3u8
-#EXTINF:1 group-title="Молдова",sts-dixi,СТС (Молдова)
-http://87.248.160.8/edge/smil:sts/playlist.m3u8
-#EXTINF:1 group-title="Молдова",STV   
-http://87.248.160.8/edge/smil:set/playlist.m3u8
-#EXTINF:1 group-title="Молдова",Alt tv
-http://87.248.160.8/edge/smil:alttv/playlist.m3u8
-#EXTINF:1 group-title="Молдова",Accent   
-http://87.248.160.8/edge/smil:accent/playlist.m3u8
-#EXTINF:1 group-title="Молдова",Sor tv   
-http://87.248.160.8/edge/smil:sortv/playlist.m3u8
-#EXTINF:1 group-title="Молдова",rentv-md,Рен ТВ (Молдова) 
-http://87.248.160.8/edge/smil:rentv/playlist.m3u8
-#EXTINF:1 group-title="Молдова",Noroc tv   
-http://87.248.160.8/edge/smil:noroc/playlist.m3u8
-#EXTINF:1 group-title="Молдова",Busuioc tv   
-http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
-#EXTINF:1 group-title="Молдова",Gold tv   
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
-#EXTINF:1 group-title="Молдова",2plus,2 Plus (на молд.)  
-http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+#EXTINF:0,TVC 21
+http://109.185.163.141:8888
+#EXTINF:0,STV   
+http://109.185.163.141:8892 
+#EXTINF:0,TVR 1 (на молд.)
+http://178.21.122.94:1935/live/_definst_/tvr1/index.m3u8
+#EXTINF:0,TVR 2 (на молд.)
+http://178.21.122.94:1935/live/_definst_/tvr2/index.m3u8
+#EXTINF:0,Antena Stars
+http://89.35.34.254:9003/antenastars
+#EXTINF:0,Antena
+http://stream1.aplay.ro:1935/live/_definst_/AntenaNews_1000/playlist.m3u8
 #EXTINF:0 group-title="Молдова",Look Tv
 http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8?
 #EXTINF:0 group-title="Молдова",Look Plus
