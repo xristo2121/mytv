@@ -73,8 +73,6 @@ http://play.lanet.tv/live/9006.m3u8
 http://91.210.20.50:1234/udp/239.2.2.4:1234
 #EXTINF:0 group-title="другие",СТБ 
 http://play.lanet.tv/live/9007.m3u8
-#EXTINF:0 group-title="другие",СТБ 
-http://91.210.20.50:1234/udp/239.2.2.7:1234
 #EXTINF:0 group-title="другие",НТН
 http://play.lanet.tv/live/9009.m3u8
 #EXTINF: 0 group-title="другие", TONIS
@@ -83,8 +81,6 @@ http://play.lanet.tv/live/9011.m3u8
 http://play.lanet.tv/live/9015.m3u8
 #EXTINF: 0 group-title="другие", MILADY
 http://play.lanet.tv/live/9085.m3u8
-#EXTINF:-1 group-title="другие",Україна
-http://91.210.20.50:1234/udp/239.2.2.4:1234
 #EXTINF: 0 group-title="другие", ICTV
 http://play.lanet.tv/live/9004.m3u8
 #EXTINF: 0 group-title="другие",Унiан
@@ -180,7 +176,7 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/124/index.m3u8
 #EXTINF:0 group-title="спорт",Наш футбол
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/531/index.m3u8
 #EXTINF:0 group-title="спорт",KHL
-http://slynet.8nio.com/at/khl_sly.m3u8
+http://iptv4.zargacum.net/iptv/77YTH3EYFE/519/index.m3u8
 #EXTINF:0 group-title="спорт",НТВ Футбол 2
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/530/index.m3u8
 #EXTINF:0 group-title="спорт",НТВ-ПЛЮС Футбол 3
@@ -205,27 +201,27 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
 #EXTINF:0 group-title="Молдова",Jurnal TV
 http://109.185.163.141:8883
-#EXTINF:0,Moldova 1
+#EXTINF:0 group-title="Молдова",Moldova 1
 http://109.185.163.141:8881 
-#EXTINF:0,Prime
+#EXTINF:0 group-title="Молдова",Prime
 http://109.185.163.141:8882 
-#EXTINF:0,PRO TV Chişinău
+#EXTINF:0 group-title="Молдова",PRO TV Chişinău
 http://109.185.163.141:8886 
-#EXTINF:0,Publika TV
+#EXTINF:0 group-title="Молдова",Publika TV
 http://109.185.163.141:8887 
-#EXTINF:0,Realitatea TV
+#EXTINF:0 group-title="Молдова",Realitatea TV
 http://87.248.160.8/edge/smil:realitate/playlist.m3u8
-#EXTINF:0,TVC 21
+#EXTINF:0 group-title="Молдова",TVC 21
 http://109.185.163.141:8888
-#EXTINF:0,STV   
+#EXTINF:0 group-title="Молдова",STV   
 http://109.185.163.141:8892 
-#EXTINF:0,TVR 1 (на молд.)
+#EXTINF:0 group-title="Молдова",TVR 1 (на молд.)
 http://178.21.122.94:1935/live/_definst_/tvr1/index.m3u8
-#EXTINF:0,TVR 2 (на молд.)
+#EXTINF:0 group-title="Молдова",TVR 2 (на молд.)
 http://178.21.122.94:1935/live/_definst_/tvr2/index.m3u8
-#EXTINF:0,Antena Stars
+#EXTINF:0 group-title="Молдова",Antena Stars
 http://89.35.34.254:9003/antenastars
-#EXTINF:0,Antena
+#EXTINF:0 group-title="Молдова",Antena
 http://stream1.aplay.ro:1935/live/_definst_/AntenaNews_1000/playlist.m3u8
 #EXTINF:0 group-title="Молдова",Look Tv
 http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8?
