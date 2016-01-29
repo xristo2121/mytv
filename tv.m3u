@@ -75,10 +75,6 @@ http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
 #EXTINF:-1,DOLCESPORT 2 (ROM)
 http://digi-hdsport.hopto.org:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:0,Eurosport Romania
-http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Eurosport 2 Romania
-http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Sky Sport 1 (UK) 
 http://62.210.162.88:80/live/SPORTS84/183229012016/1519.ts
 #EXTINF:0,Sky Sport 2 (UK) 
@@ -104,7 +100,7 @@ http://62.210.162.88:80/live/SPORTS84/183229012016/1834.ts
 #EXTINF:-1,CRO : SK3*
 http://62.210.162.88:80/live/SPORTS84/183229012016/1835.ts
 #EXTINF:-1, BeinSport 1 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1883.ts
+http://sv1.alphafeed.tv:9514/live/kam/kam/1.ts
 #EXTINF:-1, BeinSport 2 HD
 http://hyper.de1-eu.com:8000/live/saeid/saeid/1875.ts
 #EXTINF:-1, BeinSport 3 HD
@@ -118,7 +114,7 @@ http://hyper.de1-eu.com:8000/live/saeid/saeid/1871.ts
 #EXTINF:-1, BeinSport 7 HD
 http://hyper.de1-eu.com:8000/live/saeid/saeid/1870.ts
 #EXTINF:-1, BeinSport 8 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1869.ts
+http://sv1.alphafeed.tv:9514/live/kam/kam/6.ts
 #EXTINF:-1, BeinSport 9 HD
 http://hyper.de1-eu.com:8000/live/saeid/saeid/1868.ts
 #EXTINF:-1, BeinSport 10 HD
