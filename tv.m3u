@@ -80,47 +80,55 @@ http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t
 #EXTINF:0,Eurosport 2 Romania
 http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Sky Sport 1 (UK) 
-http://iptv-supplier.com:8000/live/elm/elm/275.ts
+http://62.210.162.88:80/live/SPORTS84/183229012016/1519.ts
 #EXTINF:0,Sky Sport 2 (UK) 
-http://top-iptv.zapto.org:8000/live/Aria/Aria/535.ts
+http://62.210.162.88:80/live/SPORTS84/183229012016/1520.ts
 #EXTINF:0,Sky Sport 3 (UK) 
-http://top-iptv.zapto.org:8000/live/Aria/Aria/534.ts
+http://62.210.162.88:80/live/SPORTS84/183229012016/1521.ts
 #EXTINF:0,Sky Sport 4 (UK) 
-http://top-iptv.zapto.org:8000/live/Aria/Aria/533.ts
+http://62.210.162.88:80/live/SPORTS84/183229012016/1522.ts
 #EXTINF:0,Sky Sport 5 (UK) 
 http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
-#EXTINF:0,Sky Sport F1 (UK) 
-http://80.243.189.26:8081/sportshd/skf1/index.m3u8
+#EXTINF:-1,Sky premiere sports
+http://hyper.de1-eu.com:8000/live/saeid/saeid/976.ts
 #EXTINF:0,BT Sport 1
-http://ipsatpro.com:8000/live/best55877/iptv4477/543.m3u8
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1945.ts
 #EXTINF:0,BT Sport 2
-http://iptv-supplier.com:8000/live/elm/elm/281.ts
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1944.ts
 #EXTINF:-1,BT SPORT ESPN
 http://iptv-supplier.com:8000/live/elm/elm/279.ts
-#EXTINF:0,bein Sports 1 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/1.ts
-#EXTINF:0,bein Sports 2 HD
-http://37.187.24.177:80/tarek1/tarek1/700.ch
-#EXTINF:0,bein Sports 3 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/3.ts
-#EXTINF:-1,BEIN SPORT 4 HD
+#EXTINF:-1,CRO : SK1*
+http://62.210.162.88:80/live/SPORTS84/183229012016/1833.ts
+#EXTINF:-1,CRO : SK2*
+http://62.210.162.88:80/live/SPORTS84/183229012016/1834.ts
+#EXTINF:-1,CRO : SK3*
+http://62.210.162.88:80/live/SPORTS84/183229012016/1835.ts
+#EXTINF:-1, BeinSport 1 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1883.ts
+#EXTINF:-1, BeinSport 2 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1875.ts
+#EXTINF:-1, BeinSport 3 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1874.ts
+#EXTINF:-1, BeinSport 4 HD
 http://sv1.alphafeed.tv:9514/live/kam/kam/286.ts
-#EXTINF:0,bein Sports 5 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/162.ts
-#EXTINF:0,bein Sports 6 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/4.ts
-#EXTINF:0,bein Sports 7 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/5.ts
-#EXTINF:-1BEIN_SPORTS 9 HD
-http://iptv-supplier.com:8000/live/elm/elm/1217.ts
-#EXTINF:-1,BEIN SPORT 8 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/6.ts
-#EXTINF:0,bein Sports 10 HD
+#EXTINF:-1, BeinSport 5 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1872.ts
+#EXTINF:-1, BeinSport 6 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1871.ts
+#EXTINF:-1, BeinSport 7 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1870.ts
+#EXTINF:-1, BeinSport 8 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1869.ts
+#EXTINF:-1, BeinSport 9 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1868.ts
+#EXTINF:-1, BeinSport 10 HD
 http://37.187.24.177:80/tarek1/tarek1/708.ch
-#EXTINF:0,bein Sports 11 HD
+#EXTINF:-1, BeinSport 11 HD
 http://37.187.24.177:80/tarek1/tarek1/709.ch
-#EXTINF:0,bein Sports 12 HD
-http://37.187.24.177:80/tarek1/tarek1/710.ch
+#EXTINF:-1, BeinSport 12 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1880.ts
+#EXTINF:-1,BeinSport 13 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1879.ts
 #EXTINF:-1,|FR| BEINSPORT 1 FR
 http://sv1.alphafeed.tv:9514/live/kam/kam/283.ts
 #EXTINF:-1,|FR| BEINSPORT 2 FR
@@ -189,8 +197,22 @@ http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1124.ts
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1048.ts
 #EXTINF:-1,ALB Supersport Kosovo 2
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1049.ts
+#EXTINF:-1,CTH STADIUM 1 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1534.ts
+#EXTINF:-1,CTH STADIUM 2 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1533.ts
+#EXTINF:-1,CTH STADIUM 3 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1532.ts
+#EXTINF:-1,CTH STADIUM 4 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1531.ts
+#EXTINF:-1,CTH STADIUM 5 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1530.ts
+#EXTINF:-1,CTH STADIUM 6 HD
+http://hyper.de1-eu.com:8000/live/saeid/saeid/1529.ts
 #EXTINF:0,Спорт 1 HD
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
+#EXTINF:-1,FUTBOL 1
+http://62.210.162.88:80/live/SPORTS84/183229012016/1778.ts
 #EXTINF:0,СПОРТ ПЛЮС
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
 #EXTINF:0,НТВ-ПЛЮС Спорт
