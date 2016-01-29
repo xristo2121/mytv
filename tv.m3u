@@ -49,18 +49,32 @@ http://play.lanet.tv/live/9018.m3u8
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
 #EXTINF:0,Матч ТВ HD
 http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
-#EXTINF:0 DigiSport1.ro,DIGI SPORT 1
-http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 DigiSport2.ro,DIGI SPORT 2
-http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 ,DIGI SPORT 3
-http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 DigiSport4.ro,DIGI SPORT 4
-http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 DigiSport1.ro,DIGI SPORT 1 ROMANIA
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1046.ts
+#EXTINF:0 DigiSport2.ro,DIGI SPORT 2 ROMANIA
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1047.ts
+#EXTINF:0 ,DIGI SPORT 3 ROMANIA
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1106.ts
+#EXTINF:-1,DigiSport 1 HUNGARY
+http://213.81.170.239/live002/smil:channel023_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 2 HUNGARY
+http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 3 HUNGARY
+http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 4 HUNGARY
+http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
+#EXTINF:-1,Digi Sport 1
+http://85.25.43.23:8080/hls/volex_02.m3u8
+#EXTINF:-1,Digi Sport 2
+http://85.25.43.23:8080/hls/volex_03.m3u8
+#EXTINF:-1,Digi Sport 3
+http://85.25.43.23:8080/hls/volex_04.m3u8
 #EXTINF:0,DOLCE SPORT 1
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 #EXTINF:0,DOLCE SPORT 2
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:-1,DOLCESPORT 2 (ROM)
+http://digi-hdsport.hopto.org:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
 #EXTINF:0,Eurosport Romania
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Eurosport 2 Romania
@@ -175,8 +189,6 @@ http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1124.ts
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1048.ts
 #EXTINF:-1,ALB Supersport Kosovo 2
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1049.ts
-#EXTINF:0,Viasat Sport HD
-http://tv3.noip.me/stream/RA9KFWMDAH/102.m3u8
 #EXTINF:0,Спорт 1 HD
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
 #EXTINF:0,СПОРТ ПЛЮС
@@ -225,6 +237,14 @@ http://109.185.163.141:8887
 http://109.185.163.141:8888
 #EXTINF:0,STV   
 http://109.185.163.141:8892 
+#EXTINF:0,N4
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+#EXTINF:0,HTV/TV7
+http://87.248.160.8/edge/smil:tv7/playlist.m3u8
+#EXTINF:0,NOROC TV
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+#EXTINF:0,BUSUIOC TV
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
 #EXTINF:0,TVR 1 (на молд.)
 http://178.21.122.94:1935/live/_definst_/tvr1/index.m3u8
 #EXTINF:0,TVR 2 (на молд.)
