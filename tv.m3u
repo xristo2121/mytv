@@ -15,6 +15,8 @@ http://iptv4.zargacum.net/iptv/77YTH3EYFE/507/index.m3u8
 http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183833sd2000000/73b8956872eecb5118c0870581e3179d2231f200/track_2_1200/playlist.m3u8
 #EXTINF:0,ТНТ
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/502/index.m3u8
+#EXTINF:0,Звезда
+http://188.138.102.137:8081/zvezda/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjI1OjUwIFBNJmhhc2hfdmFsdWU9Q0dYUmVVb0N2a1VBUDZyOXpWLzNMUT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0,СТС
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/506/index.m3u8
 #EXTINF:0,СТС Love
@@ -23,6 +25,8 @@ http://iptv4.zargacum.net/iptv/77YTH3EYFE/103/index.m3u8
 http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
 #EXTINF:0,Пятница
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/503/index.m3u8
+#EXTINF:0,5 канал
+http://85.25.103.6:8081/pyatiy/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDExOjUzOjU5IEFNJmhhc2hfdmFsdWU9UlVVVFdLVHFGQkZmM2pOMXpYU3F0dz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0,ТВ3
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/508/index.m3u8
 #EXTINF:0,Мир
@@ -39,10 +43,16 @@ http://iptv4.zargacum.net/iptv/77YTH3EYFE/514/index.m3u8
 http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
 #EXTINF:0,Рен
 http://msk3.peers.tv/streaming/rentv/126/tvrec/playlist.m3u8
+#EXTINF:0,K1
+http://109.68.40.70:1935/castGeo/smil:k1.smil/playlist.m3u8
 #EXTINF:0,Интер
 http://109.68.40.70:1935/castGeo/inter_3/playlist.m3u8
+#EXTINF:0,Интер
+http://188.138.17.25:8081/inter/pl.m3u8
 #EXTINF:0,Україна
 http://91.210.20.50:1234/udp/239.2.2.4:1234
+#EXTINF:0,HTH
+http://149.5.6.18:8081/liveg/ntn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjQyOjMwIFBNJmhhc2hfdmFsdWU9Y1d0Q1V5MWp4RkVvUWxYM3BCQjRSQT09JnZhbGlkbWludXRlcz0yMDA=
 #EXTINF:0, Рада 
 http://play.lanet.tv/live/9018.m3u8
 #EXTINF:0,Матч ТВ
@@ -73,8 +83,10 @@ http://85.25.43.23:8080/hls/volex_04.m3u8
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 #EXTINF:0,DOLCE SPORT 2
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:-1,DOLCESPORT 2 (ROM)
-http://digi-hdsport.hopto.org:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:-1,ROM : DOLCESPORT 1*
+http://62.210.162.88:80/live/SPORTS85/125730012016/1831.ts
+#EXTINF:-1,ROM : DOLCESPORT 2*
+http://62.210.162.88:80/live/SPORTS85/125730012016/1832.ts
 #EXTINF:0,Sky Sport 1 (UK) 
 http://62.210.162.88:80/live/SPORTS84/183229012016/1519.ts
 #EXTINF:0,Sky Sport 2 (UK) 
@@ -205,10 +217,14 @@ http://hyper.de1-eu.com:8000/live/saeid/saeid/1531.ts
 http://hyper.de1-eu.com:8000/live/saeid/saeid/1530.ts
 #EXTINF:-1,CTH STADIUM 6 HD
 http://hyper.de1-eu.com:8000/live/saeid/saeid/1529.ts
+#EXTINF:-1,Viasat Sport
+http://188.138.1.38:8081/via_sport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjAyOjA5IFBNJmhhc2hfdmFsdWU9NDNZblA5dCtaTHhxUTg0T2pFZE5aZz09JnZhbGlkbWludXRlcz0xMjA= 
 #EXTINF:0,Спорт 1 HD
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
-#EXTINF:-1,FUTBOL 1
+#EXTINF:-1,Футбол 1
 http://62.210.162.88:80/live/SPORTS84/183229012016/1778.ts
+#EXTINF:-1,Футбол 2
+http://188.138.17.25:8081/fut2/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjA0OjUwIFBNJmhhc2hfdmFsdWU9ell1ZnEraG5FK0xiWDl0L3BPQmRtUT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0,СПОРТ ПЛЮС
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
 #EXTINF:0,НТВ-ПЛЮС Спорт
@@ -219,6 +235,8 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/124/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/531/index.m3u8
 #EXTINF:0,KHL
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/519/index.m3u8
+#EXTINF:0,KHL HD
+http://188.138.17.62:8081/khl/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDExOjQ5OjQyIEFNJmhhc2hfdmFsdWU9OVZOWEk0VFVwcVEyZXdjTm9mOENYUT09JnZhbGlkbWludXRlcz0xMjA= 
 #EXTINF:0,НТВ Футбол 2
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/530/index.m3u8
 #EXTINF:0,НТВ-ПЛЮС Футбол 3
@@ -351,6 +369,8 @@ http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183839sd20000
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/101/index.m3u8
 #EXTINF:0,Кинорейс 2
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/110/index.m3u8
+#EXTINF:0,TV 1000 Premium HD 
+http://188.138.102.137:8081/1000prem/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDExOjU3OjQzIEFNJmhhc2hfdmFsdWU9ZE1qNmIzWXdVdW5lMFE4RDl2ZDBjUT09JnZhbGlkbWludXRlcz0xMjA= 
 #EXTINF:0,TV1000 Action East
 http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r964883sd2000000/ed753317cf82cb9992ecf0458db58f7cd07a5501/track_2_1200/playlist.m3u8
 #EXTINF:0,TV1000
