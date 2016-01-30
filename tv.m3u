@@ -321,48 +321,8 @@ http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/playlist.m3u8?
 http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodhd/playlist.m3u8?
 #EXTINF:0,Bollywood Classic
 http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodclasic/playlist.m3u8?
-#EXTINF:0 TV1000.ro,Tv 1000
-http://82.76.249.81/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Digi Life
-http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Digi World
-http://82.76.249.81/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Digi Animal World
-http://82.76.249.81/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 NatGeoWild.ro,Nat Geo Wild
-http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 NationalGeographic.ro,National Geographic
-http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 HistoryChannel.ro,History Channel
-http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 ViasatHistory.ro,Viasat History
-http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 ViasatNature.ro,Viasat Nature
-http://82.76.249.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 ViasatExplorer.ro,Viasat Explore
-http://82.76.249.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 TravelChannel.ro,Travel Channel
-http://82.76.249.81/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 Paprika.ro,Tv Paprika
-http://82.76.249.81/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0  UTV.ro,Utv
 http://82.76.249.77/utvedge/utvlive/index.m3u8
-#EXTINF:0 MiniMax.ro,Minimax
-http://82.76.249.81/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Megamax
-http://82.76.249.81/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 Nickelodeon.ro,Nickelodeon
-http://82.76.249.81/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 DisneyJunior.ro,Disney Junior
-http://82.76.249.81/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 DisneyChannel.ro,Disney Channel
-http://82.76.249.81/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 B1TV.ro,B1 Tv
-http://82.76.249.81/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 RealitateaTV.ro,Realitatea Tv
-http://82.76.249.81/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 RomaniaTV.ro,Romania Tv
-http://82.76.249.81/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Кино ТВ
 http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183839sd2000000/7ec8690f6bf994aba2fa7b1f98ef50567eadd9ae/track_2_1200/playlist.m3u8
 #EXTINF:0,Кинорейс 1
