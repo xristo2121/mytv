@@ -59,6 +59,14 @@ http://play.lanet.tv/live/9018.m3u8
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
 #EXTINF:0,Матч ТВ HD
 http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
+#EXTINF:-1,BeinSport 1 SD
+http://sat.010e.net:8000/live/h4/h4/43.ts
+#EXTINF:-1,BeinSport-HD3
+http://sat.010e.net:8000/live/h4/h4/3.ts
+#EXTINF:-1,BeinSport-Full-HD3
+http://sat.010e.net:8000/live/h4/h4/335.ts
+#EXTINF:-1,SKY-SPORT-1
+http://sat.010e.net:8000/live/h4/h4/187.ts
 #EXTINF:0 DigiSport1.ro,DIGI SPORT 1 ROMANIA
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1046.ts
 #EXTINF:0 DigiSport2.ro,DIGI SPORT 2 ROMANIA
