@@ -15,8 +15,6 @@ http://iptv4.zargacum.net/iptv/77YTH3EYFE/507/index.m3u8
 http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183833sd2000000/73b8956872eecb5118c0870581e3179d2231f200/track_2_1200/playlist.m3u8
 #EXTINF:0,ТНТ
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/502/index.m3u8
-#EXTINF:0,Звезда
-http://188.138.102.137:8081/zvezda/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjI1OjUwIFBNJmhhc2hfdmFsdWU9Q0dYUmVVb0N2a1VBUDZyOXpWLzNMUT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0,СТС
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/506/index.m3u8
 #EXTINF:0,СТС Love
@@ -25,8 +23,6 @@ http://iptv4.zargacum.net/iptv/77YTH3EYFE/103/index.m3u8
 http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
 #EXTINF:0,Пятница
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/503/index.m3u8
-#EXTINF:0,5 канал
-http://85.25.103.6:8081/pyatiy/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDExOjUzOjU5IEFNJmhhc2hfdmFsdWU9UlVVVFdLVHFGQkZmM2pOMXpYU3F0dz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0,ТВ3
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/508/index.m3u8
 #EXTINF:0,Мир
@@ -51,138 +47,72 @@ http://109.68.40.70:1935/castGeo/inter_3/playlist.m3u8
 http://188.138.17.25:8081/inter/pl.m3u8
 #EXTINF:0,Україна
 http://91.210.20.50:1234/udp/239.2.2.4:1234
-#EXTINF:0,HTH
-http://149.5.6.18:8081/liveg/ntn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjQyOjMwIFBNJmhhc2hfdmFsdWU9Y1d0Q1V5MWp4RkVvUWxYM3BCQjRSQT09JnZhbGlkbWludXRlcz0yMDA=
 #EXTINF:0, Рада 
 http://play.lanet.tv/live/9018.m3u8
 #EXTINF:0,Матч ТВ
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
 #EXTINF:0,Матч ТВ HD
 http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
-#EXTINF:-1,BeinSport 1 SD
-http://sat.010e.net:8000/live/h4/h4/43.ts
-#EXTINF:-1,BeinSport-HD3
-http://sat.010e.net:8000/live/h4/h4/3.ts
-#EXTINF:-1,BeinSport-Full-HD3
-http://sat.010e.net:8000/live/h4/h4/335.ts
-#EXTINF:-1,SKY-SPORT-1
-http://sat.010e.net:8000/live/h4/h4/187.ts
 #EXTINF:0 DigiSport1.ro,DIGI SPORT 1 ROMANIA
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1046.ts
 #EXTINF:0 DigiSport2.ro,DIGI SPORT 2 ROMANIA
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1047.ts
 #EXTINF:0 ,DIGI SPORT 3 ROMANIA
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1106.ts
-#EXTINF:-1,DigiSport 1 HUNGARY
-http://213.81.170.239/live002/smil:channel023_g3.smil/index.m3u8
-#EXTINF:-1,DigiSport 2 HUNGARY
-http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
-#EXTINF:-1,DigiSport 3 HUNGARY
-http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
-#EXTINF:-1,DigiSport 4 HUNGARY
-http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
-#EXTINF:-1,Digi Sport 1
-http://85.25.43.23:8080/hls/volex_02.m3u8
-#EXTINF:-1,Digi Sport 2
-http://85.25.43.23:8080/hls/volex_03.m3u8
-#EXTINF:-1,Digi Sport 3
-http://85.25.43.23:8080/hls/volex_04.m3u8
 #EXTINF:0,DOLCE SPORT 1
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 #EXTINF:0,DOLCE SPORT 2
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:-1,ROM : DOLCESPORT 1*
-http://62.210.162.88:80/live/SPORTS85/125730012016/1831.ts
-#EXTINF:-1,ROM : DOLCESPORT 2*
-http://62.210.162.88:80/live/SPORTS85/125730012016/1832.ts
-#EXTINF:0,Sky Sport 1 (UK) 
-http://62.210.162.88:80/live/SPORTS84/183229012016/1519.ts
-#EXTINF:0,Sky Sport 2 (UK) 
-http://62.210.162.88:80/live/SPORTS84/183229012016/1520.ts
-#EXTINF:0,Sky Sport 3 (UK) 
-http://62.210.162.88:80/live/SPORTS84/183229012016/1521.ts
-#EXTINF:0,Sky Sport 4 (UK) 
-http://62.210.162.88:80/live/SPORTS84/183229012016/1522.ts
-#EXTINF:0,Sky Sport 5 (UK) 
-http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
-#EXTINF:-1,Sky premiere sports
-http://hyper.de1-eu.com:8000/live/saeid/saeid/976.ts
-#EXTINF:0,BT Sport 1
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1945.ts
-#EXTINF:0,BT Sport 2
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1944.ts
-#EXTINF:-1,BT SPORT ESPN
-http://iptv-supplier.com:8000/live/elm/elm/279.ts
-#EXTINF:-1,CRO : SK1*
-http://62.210.162.88:80/live/SPORTS84/183229012016/1833.ts
-#EXTINF:-1,CRO : SK2*
-http://62.210.162.88:80/live/SPORTS84/183229012016/1834.ts
-#EXTINF:-1,CRO : SK3*
-http://62.210.162.88:80/live/SPORTS84/183229012016/1835.ts
-#EXTINF:-1, BeinSport 1 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1883.m3u8
-#EXTINF:-1, BeinSport 2 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1875.ts
-#EXTINF:-1, BeinSport 3 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1874.ts
-#EXTINF:-1, BeinSport 4 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/286.ts
-#EXTINF:-1, BeinSport 5 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1872.ts
-#EXTINF:-1, BeinSport 6 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1871.ts
-#EXTINF:-1, BeinSport 7 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1870.ts
-#EXTINF:-1, BeinSport 8 HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/6.ts
-#EXTINF:-1, BeinSport 9 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1868.ts
-#EXTINF:-1, BeinSport 10 HD
-http://37.187.24.177:80/tarek1/tarek1/708.ch
-#EXTINF:-1, BeinSport 11 HD
-http://37.187.24.177:80/tarek1/tarek1/709.ch
-#EXTINF:-1, BeinSport 12 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1880.ts
-#EXTINF:-1,BeinSport 13 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1879.ts
-#EXTINF:-1,|FR| BEINSPORT 1 FR
-http://sv1.alphafeed.tv:9514/live/kam/kam/283.ts
-#EXTINF:-1,|FR| BEINSPORT 2 FR
-http://sv1.alphafeed.tv:9514/live/kam/kam/284.ts
-#EXTINF:-1,|FR| BEINSPORT 3 FR
-http://sv1.alphafeed.tv:9514/live/kam/kam/285.ts
-#EXTINF:-1,|FR| CANAL SPORT HD
-http://sv1.alphafeed.tv:9514/live/kam/kam/275.ts
-#EXTINF:-1,|FR| MA CHAINE SPORT
-http://sv1.alphafeed.tv:9514/live/kam/kam/264.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1938.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1939.ts
+#EXTINF:-1,BEIN SPORTS 3 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1940.ts
+#EXTINF:-1,BEIN SPORTS 4 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1941.ts
+#EXTINF:-1,BEIN SPORTS 5 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1943.ts
+#EXTINF:-1,BEIN SPORTS 7 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1944.ts
+#EXTINF:-1,BEIN SPORTS 8 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1945.ts
+#EXTINF:-1,BEIN SPORTS 10 HD (AR)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/1947.ts
+#EXTINF:-1,FR_BEIN SPORT 1
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3348.ts
+#EXTINF:-1,FR_BEIN SPORT 2
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3323.ts
+#EXTINF:-1,FR_BEIN SPORT 3
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3364.ts
 #EXTINF:0,Sky Sport 1 HD ITALY
 http://iptv-supplier.com:8000/live/elm/elm/328.ts
 #EXTINF:0,Sky Sport HD 2 ITALY
 http://iptv-supplier.com:8000/live/elm/elm/573.ts
 #EXTINF:0,Sky Sport 3 HD ITALY
 http://iptv-supplier.com:8000/live/elm/elm/574.ts
-#EXTINF:-1,DEU Sky Sports 1 HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/788.ts
-#EXTINF:-1,DEU SKY SPORT 2
-http://sv1.alphafeed.tv:9514/live/kam/kam/176.ts
-#EXTINF:-1,DE SKY Bundesliga
-http://skyiptv.ddns.net:8000/live/expert/expert/319.ts
-#EXTINF:-1,|DE| SKY SPORT AUSTRIA
-http://sv1.alphafeed.tv:9514/live/kam/kam/174.ts
-#EXTINF:-1,MEDIASET PREMIUM SPORTS HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/966.ts
-#EXTINF:-1,MEDIASET PREMIUM CALCIO 1HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/967.ts
-#EXTINF:-1,NL:FOX SPORTS 1
-http://iptv-supplier.com:8000/live/elm/elm/1573.ts
-#EXTINF:-1,NL:FOX SPORTS 2
-http://iptv-supplier.com:8000/live/elm/elm/1574.ts
-#EXTINF:-1,NL:FOX SPORTS 3
-http://iptv-supplier.com:8000/live/elm/elm/1575.ts
-#EXTINF:-1,NL:FOX SPORTS 4
-http://iptv-supplier.com:8000/live/elm/elm/1576.ts
-#EXTINF:-1,NL:FOX SPORTS 5
-http://iptv-supplier.com:8000/live/elm/elm/1577.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3630.ts
+#EXTINF:-1,Sky Sport News (DE)
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3221.ts
+#EXTINF:-1,SKY Bundesliga 1
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3639.ts
+#EXTINF:-1,NL - Fox Sports 1
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3544.ts
+#EXTINF:-1,NL - Fox Sports 2
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3543.ts
+#EXTINF:-1,NL - Fox Sports 3
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3542.ts
+#EXTINF:-1,NL - Fox Sports 4
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3541.ts
+#EXTINF:-1,NL - Fox Sports 5
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3540.ts
+#EXTINF:-1,Sport Klub 2
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3746.ts
+#EXTINF:-1,Sport Klub 1
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3747.ts
+#EXTINF:-1,FR_CANAL+ SPORT
+http://streamingiptv.no-ip.net:19001/live/arip/arip/3376.ts
 #EXTINF:-1,ARENA SPORT1
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/354.ts
 #EXTINF:-1,ARENA SPORT2
@@ -193,6 +123,16 @@ http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/356.ts
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/357.ts
 #EXTINF:-1,ARENA SPORT5
 http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/665.ts
+#EXTINF:-1,Sky Sports 5 Uk
+http://streamingiptv.no-ip.net:19001/live/arip/arip/2589.ts
+#EXTINF:-1,Sky Sports 4 Uk
+http://streamingiptv.no-ip.net:19001/live/arip/arip/2590.ts
+#EXTINF:-1,Sky Sports 3 Uk
+http://streamingiptv.no-ip.net:19001/live/arip/arip/2591.ts
+#EXTINF:-1,Sky Sports 2 Uk
+http://streamingiptv.no-ip.net:19001/live/arip/arip/2592.ts
+#EXTINF:-1,Sky Sports 1 Uk
+http://streamingiptv.no-ip.net:19001/live/arip/arip/2593.ts
 #EXTINF:0,Arena Sport 1 HD
 http://46.40.5.99:8000/arena_1_720
 #EXTINF:0,Arena Sport 2 HD
@@ -201,54 +141,26 @@ http://46.40.5.99:8000/arena_2_720
 http://46.40.5.99:8000/arena_3_720
 #EXTINF:0,Arena Sport 4 HD
 http://46.40.5.99:8000/arena_4_720
-#EXTINF:-1,Canal+ Futbol
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/437.ts
-#EXTINF:-1,ESP Canal + Liga HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/784.ts
-#EXTINF:-1,Tring Sport 1 HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1196.ts
-#EXTINF:-1,Tring Sport 2 HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1124.ts
-#EXTINF:-1,ALB Supersport Kosovo 1 HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1048.ts
-#EXTINF:-1,ALB Supersport Kosovo 2
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1049.ts
-#EXTINF:-1,CTH STADIUM 1 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1534.ts
-#EXTINF:-1,CTH STADIUM 2 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1533.ts
-#EXTINF:-1,CTH STADIUM 3 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1532.ts
-#EXTINF:-1,CTH STADIUM 4 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1531.ts
-#EXTINF:-1,CTH STADIUM 5 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1530.ts
-#EXTINF:-1,CTH STADIUM 6 HD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/1529.ts
-#EXTINF:-1,Viasat Sport
-http://188.138.1.38:8081/via_sport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjAyOjA5IFBNJmhhc2hfdmFsdWU9NDNZblA5dCtaTHhxUTg0T2pFZE5aZz09JnZhbGlkbWludXRlcz0xMjA= 
 #EXTINF:0,Спорт 1 HD
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
 #EXTINF:-1,Футбол 1
 http://62.210.162.88:80/live/SPORTS84/183229012016/1778.ts
-#EXTINF:-1,Футбол 2
-http://188.138.17.25:8081/fut2/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDEyOjA0OjUwIFBNJmhhc2hfdmFsdWU9ell1ZnEraG5FK0xiWDl0L3BPQmRtUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,СПОРТ ПЛЮС
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
-#EXTINF:0,НТВ-ПЛЮС Спорт
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/123/index.m3u8
-#EXTINF:0,НТВ-ПЛЮС Футбол
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/124/index.m3u8
-#EXTINF:0,Наш футбол
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/531/index.m3u8
+#EXTINF:0,Матч! Наш спорт
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
+#EXTINF:0,МАТЧ! АРЕНА
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/528/index.m3u8
+#EXTINF:0,МАТЧ! ИГРА
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/529/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/124/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/530/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/522/index.m3u8
+#EXTINF:0,Матч! Планета
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/123/index.m3u8
 #EXTINF:0,KHL
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/519/index.m3u8
-#EXTINF:0,KHL HD
-http://188.138.17.62:8081/khl/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDExOjQ5OjQyIEFNJmhhc2hfdmFsdWU9OVZOWEk0VFVwcVEyZXdjTm9mOENYUT09JnZhbGlkbWludXRlcz0xMjA= 
-#EXTINF:0,НТВ Футбол 2
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/530/index.m3u8
-#EXTINF:0,НТВ-ПЛЮС Футбол 3
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/522/index.m3u8
 #EXTINF:0,Eurosport
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/141/index.m3u8
 #EXTINF:0,Eurosport HD
@@ -257,10 +169,6 @@ http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964991sd2500
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 http://origin2.samara.ertelecom.ru/content/private/s147213/d3720264/r965000sd2500000/5ad5b441d56f018a0cab1989c056aa782ade8285/playlist.m3u8
-#EXTINF:0,НТВ Теннис
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/528/index.m3u8
-#EXTINF:0,НТВ Баскетбол
-http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/529/index.m3u8
 #EXTINF:0,VERSUS NHL-NBA HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0,Extreme Sports
@@ -303,8 +211,6 @@ http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8?
 http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialive/playlist.m3u8?
 #EXTINF:0,Tvr 1
 http://178.21.120.198:1935/live3/_definst_/mp4:tvr1/playlist.m3u8?
-#EXTINF:0,Tvr 2
-http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Tvr 3
 http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8?
 #EXTINF:0 KanalD.ro,Kanal D
