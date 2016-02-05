@@ -53,12 +53,6 @@ http://play.lanet.tv/live/9018.m3u8
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
 #EXTINF:0,Матч ТВ HD
 http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
-#EXTINF:0 DigiSport1.ro,DIGI SPORT 1 ROMANIA
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1046.ts
-#EXTINF:0 DigiSport2.ro,DIGI SPORT 2 ROMANIA
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1047.ts
-#EXTINF:0 ,DIGI SPORT 3 ROMANIA
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/1106.ts
 #EXTINF:-1,DigiSport 1 HUNGARY
 http://213.81.170.239/live002/smil:channel023_g3.smil/index.m3u8
 #EXTINF:-1,DigiSport 2 HUNGARY
@@ -71,76 +65,124 @@ http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 #EXTINF:0,DOLCE SPORT 2
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1938.ts
-#EXTINF:-1,BEIN SPORTS 2 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1939.ts
-#EXTINF:-1,BEIN SPORTS 3 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1940.ts
-#EXTINF:-1,BEIN SPORTS 4 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1941.ts
-#EXTINF:-1,BEIN SPORTS 5 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1943.ts
-#EXTINF:-1,BEIN SPORTS 7 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1944.ts
-#EXTINF:-1,BEIN SPORTS 8 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1945.ts
-#EXTINF:-1,BEIN SPORTS 10 HD (AR)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/1947.ts
-#EXTINF:-1,FR_BEIN SPORT 1
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3348.ts
-#EXTINF:-1,FR_BEIN SPORT 2
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3323.ts
-#EXTINF:-1,FR_BEIN SPORT 3
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3364.ts
-#EXTINF:0,Sky Sport 1 HD ITALY
-http://iptv-supplier.com:8000/live/elm/elm/328.ts
-#EXTINF:0,Sky Sport HD 2 ITALY
-http://iptv-supplier.com:8000/live/elm/elm/573.ts
-#EXTINF:0,Sky Sport 3 HD ITALY
-http://iptv-supplier.com:8000/live/elm/elm/574.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3630.ts
-#EXTINF:-1,Sky Sport News (DE)
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3221.ts
-#EXTINF:-1,SKY Bundesliga 1
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3639.ts
-#EXTINF:-1,NL - Fox Sports 1
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3544.ts
-#EXTINF:-1,NL - Fox Sports 2
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3543.ts
-#EXTINF:-1,NL - Fox Sports 3
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3542.ts
-#EXTINF:-1,NL - Fox Sports 4
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3541.ts
-#EXTINF:-1,NL - Fox Sports 5
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3540.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://178.33.231.219:88/live/21487/21487/72.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://178.33.231.219:88/live/21487/21487/73.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://178.33.231.219:88/live/21487/21487/74.ts
+#EXTINF:-1,Bein Sports 4 HD
+http://178.33.231.219:88/live/21487/21487/75.ts
+#EXTINF:-1,Bein Sports 5 HD
+http://178.33.231.219:88/live/21487/21487/76.ts
+#EXTINF:-1,Bein Sports 6 HD
+http://178.33.231.219:88/live/21487/21487/77.ts
+#EXTINF:-1,Bein Sports 7 HD
+http://178.33.231.219:88/live/21487/21487/78.ts
+#EXTINF:-1,Bein Sports 8 HD
+http://178.33.231.219:88/live/21487/21487/79.ts
+#EXTINF:-1,Bein Sports 9 HD
+http://178.33.231.219:88/live/21487/21487/80.ts
+#EXTINF:-1,Bein Sports10 HD
+http://178.33.231.219:88/live/21487/21487/81.ts
+#EXTINF:-1,Bein Sports11 HD
+http://178.33.231.219:88/live/21487/21487/82.ts
+#EXTINF:-1,Bein Sports12 HD
+http://178.33.231.219:88/live/21487/21487/83.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://178.33.231.219:88/live/21487/21487/69.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://178.33.231.219:88/live/21487/21487/70.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://178.33.231.219:88/live/21487/21487/71.ts
+#EXTINF:-1,Fox Sports 1
+http://178.33.231.219:88/live/21487/21487/122.ts
+#EXTINF:-1,Fox Sports 2
+http://178.33.231.219:88/live/21487/21487/123.ts
+#EXTINF:-1,Fox Sports 3
+http://178.33.231.219:88/live/21487/21487/124.ts
+#EXTINF:-1,FOX SPORT
+http://178.33.231.219:88/live/21487/21487/752.ts
+#EXTINF:-1,FOX SPORT2
+http://178.33.231.219:88/live/21487/21487/751.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://178.33.231.219:88/live/21487/21487/37.ts
+#EXTINF:-1,Sky Sports 24 HD
+http://178.33.231.219:88/live/21487/21487/40.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://178.33.231.219:88/live/21487/21487/39.ts
+#EXTINF:-1,BT Sport 1
+http://178.33.231.219:88/live/21487/21487/9.ts
+#EXTINF:-1,BT Sport 2
+http://178.33.231.219:88/live/21487/21487/10.ts
+#EXTINF:-1,Premier Sports
+http://178.33.231.219:88/live/21487/21487/15.ts
+#EXTINF:-1,Setanta Sports
+http://178.33.231.219:88/live/21487/21487/17.ts
+#EXTINF:-1,Super Sport 1
+http://178.33.231.219:88/live/21487/21487/110.ts
+#EXTINF:-1,Super Sport 2
+http://178.33.231.219:88/live/21487/21487/111.ts
+#EXTINF:-1,Super Sport 3
+http://178.33.231.219:88/live/21487/21487/112.ts
+#EXTINF:-1,Super Sport 4
+http://178.33.231.219:88/live/21487/21487/113.ts
+#EXTINF:-1,Sport TV 1
+http://178.33.231.219:88/live/21487/21487/64.ts
+#EXTINF:-1,Sport TV 2
+http://178.33.231.219:88/live/21487/21487/65.ts
+#EXTINF:-1,Sport TV 3
+http://178.33.231.219:88/live/21487/21487/66.ts
+#EXTINF:-1,Sport TV 4
+http://178.33.231.219:88/live/21487/21487/67.ts
+#EXTINF:-1,Canal Sport
+http://178.33.231.219:88/live/21487/21487/47.ts
+#EXTINF:-1,Bein SPORT ES
+http://178.33.231.219:88/live/21487/21487/578.ts
+#EXTINF:-1,Sky Sport DE 1
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/78.ts
+#EXTINF:-1,Sky Sport DE 2
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/79.ts
+#EXTINF:-1,Sky Bundesliga 1
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/80.ts
+#EXTINF:-1,ARENA1 SR
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/19.ts
+#EXTINF:-1,ARENA 2 SR
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/20.ts
+#EXTINF:-1,ARENA 3 SR
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/21.ts
+#EXTINF:-1,ARENA 4 SR
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/22.ts
+#EXTINF:-1,ARENA 5 SR
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/219.ts
+#EXTINF:-1,Bein Sport 1 FR
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/195.ts
+#EXTINF:-1,Bein Sport 2 FR
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/196.ts
 #EXTINF:-1,Sport Klub 2
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3746.ts
-#EXTINF:-1,Sport Klub 1
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3747.ts
-#EXTINF:-1,FR_CANAL+ SPORT
-http://streamingiptv.no-ip.net:19001/live/arip/arip/3376.ts
-#EXTINF:-1,ARENA SPORT1
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/354.ts
-#EXTINF:-1,ARENA SPORT2
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/355.ts
-#EXTINF:-1,ARENA SPORT3
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/356.ts
-#EXTINF:-1,ARENA SPORT4
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/357.ts
-#EXTINF:-1,ARENA SPORT5
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/665.ts
-#EXTINF:-1,Sky Sports 5 Uk
-http://streamingiptv.no-ip.net:19001/live/arip/arip/2589.ts
-#EXTINF:-1,Sky Sports 4 Uk
-http://streamingiptv.no-ip.net:19001/live/arip/arip/2590.ts
-#EXTINF:-1,Sky Sports 3 Uk
-http://streamingiptv.no-ip.net:19001/live/arip/arip/2591.ts
-#EXTINF:-1,Sky Sports 2 Uk
-http://streamingiptv.no-ip.net:19001/live/arip/arip/2592.ts
-#EXTINF:-1,Sky Sports 1 Uk
-http://streamingiptv.no-ip.net:19001/live/arip/arip/2593.ts
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/88.ts
+#EXTINF:-1,Sport Klub 3
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/89.ts
+#EXTINF:-1,Eurosport
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/104.ts
+#EXTINF:-1,Eurosport 2
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/103.ts
+#EXTINF:-1,Viasat Sport
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/483.ts
+#EXTINF:-1,Super Sport 1
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/127.ts
+#EXTINF:-1,Super Sport 2
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/128.ts
+#EXTINF:-1,Super Sport 3
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/129.ts
+#EXTINF:-1,Super Sport 4
+http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/150.ts
+#EXTINF:-1,Spo-AbuDhabi Sports 1
+http://178.33.231.219:88/live/21487/21487/128.ts
+#EXTINF:-1,Spo-AbuDhabi Sports 2
+http://178.33.231.219:88/live/21487/21487/129.ts
+#EXTINF:-1,Spo-AbuDhabi Sports 3
+http://178.33.231.219:88/live/21487/21487/842.ts
 #EXTINF:0,Arena Sport 1 HD
 http://46.40.5.99:8000/arena_1_720
 #EXTINF:0,Arena Sport 2 HD
@@ -149,7 +191,7 @@ http://46.40.5.99:8000/arena_2_720
 http://46.40.5.99:8000/arena_3_720
 #EXTINF:0,Arena Sport 4 HD
 http://46.40.5.99:8000/arena_4_720
-#EXTINF:0,Спорт 1 HD
+#EXTINF:0,АРЕНА
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
 #EXTINF:-1,Футбол 1
 http://62.210.162.88:80/live/SPORTS84/183229012016/1778.ts
@@ -424,4 +466,4 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,Vevo 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/19.ts
