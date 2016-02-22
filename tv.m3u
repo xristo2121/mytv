@@ -69,6 +69,14 @@ http://ipsatpro.com:8000/live/190337745188/19033774518873/834.ts
 http://ipsatpro.com:8000/live/190337745188/19033774518873/833.ts
 #EXTINF:-1,GR: OTE Sport 8
 http://ipsatpro.com:8000/live/190337745188/19033774518873/832.ts
+#EXTINF:-1,DIGI SPORT 1
+http://82.76.249.33/digiedge/livedigisport1hq_2917/playlist.m3u8
+#EXTINF:-1,DIGI SPORT 2
+http://82.76.249.33/digiedge/livedigisport2hq_7139/playlist.m3u8
+#EXTINF:-1,DIGI SPORT 3
+http://82.76.249.33/digiedge/livedigisport3hq_3220/playlist.m3u8
+#EXTINF:-1,DIGI SPORT 4
+http://82.76.249.33/digiedge/digisport4hq/playlist.m3u8
 #EXTINF:-1,SPORT : DIGI SPORT 1*
 http://62.210.162.88:80/live/SPORT108/155021022016/2054.ts
 #EXTINF:-1,SPORT : DIGI SPORT 2*
