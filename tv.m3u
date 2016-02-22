@@ -53,6 +53,22 @@ http://play.lanet.tv/live/9018.m3u8
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
 #EXTINF:0,Матч ТВ HD
 http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
+#EXTINF:-1,GR: OTE Sport 1
+http://ipsatpro.com:8000/live/190337745188/19033774518873/831.ts
+#EXTINF:-1,GR: OTE Sport 2
+http://ipsatpro.com:8000/live/190337745188/19033774518873/838.ts
+#EXTINF:-1,GR: OTE Sport 3
+http://ipsatpro.com:8000/live/190337745188/19033774518873/837.ts
+#EXTINF:-1,GR: OTE Sport 4
+http://ipsatpro.com:8000/live/190337745188/19033774518873/836.ts
+#EXTINF:-1,GR: OTE Sport 5
+http://ipsatpro.com:8000/live/190337745188/19033774518873/835.ts
+#EXTINF:-1,GR: OTE Sport 6
+http://ipsatpro.com:8000/live/190337745188/19033774518873/834.ts
+#EXTINF:-1,GR: OTE Sport 7
+http://ipsatpro.com:8000/live/190337745188/19033774518873/833.ts
+#EXTINF:-1,GR: OTE Sport 8
+http://ipsatpro.com:8000/live/190337745188/19033774518873/832.ts
 #EXTINF:-1,SPORT : DIGI SPORT 1*
 http://62.210.162.88:80/live/SPORT108/155021022016/2054.ts
 #EXTINF:-1,SPORT : DIGI SPORT 2*
