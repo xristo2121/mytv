@@ -51,10 +51,6 @@ http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
 http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
 #EXTINF:-1,DigiSport 4 HUNGARY
 http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
-#EXTINF:0,АРЕНА
-http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
-#EXTINF:-1,Футбол 1
-http://62.210.162.88:80/live/SPORTS84/183229012016/1778.ts
 #EXTINF:0,Матч! Наш спорт
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
