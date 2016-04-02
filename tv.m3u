@@ -1,26 +1,22 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD
-http://origin1.perm.ertelecom.ru/content/private/s147213/d3720264/r183875sd2500000/21e6cd6f9626d0de395e70139a7ac8361062bb80/playlist.m3u8
+http://fr.cdn.edem.tv/iptv/77YTH3EYFE/204/index.m3u8
 #EXTINF:0,Первый канал
-http://origin2.voronezh.ertelecom.ru/content/public/r451763/track_3_2000/playlist.m3u8
+http://fr.cdn.edem.tv/iptv/77YTH3EYFE/127/index.m3u8
 #EXTINF:0,Россия HD
-http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183746sd2500000/aa05aa693792890b599d101b0fb441dfaf4baca4/playlist.m3u8
+http://fr.cdn.edem.tv/iptv/77YTH3EYFE/205/index.m3u8
 #EXTINF:0,Телеканал «Россия»
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/504/index.m3u8
+http://fr.cdn.edem.tv/iptv/77YTH3EYFE/504/index.m3u8
 #EXTINF:0,РТР Планета
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/546/index.m3u8
 #EXTINF:0,Россия-24
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/507/index.m3u8
-#EXTINF:0,Русский Роман
-http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183833sd2000000/73b8956872eecb5118c0870581e3179d2231f200/track_2_1200/playlist.m3u8
 #EXTINF:0,ТНТ
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/502/index.m3u8
 #EXTINF:0,СТС
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/506/index.m3u8
 #EXTINF:0,СТС Love
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/103/index.m3u8
-#EXTINF:0,СТС Мир
-http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
 #EXTINF:0,Пятница
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/503/index.m3u8
 #EXTINF:0,ТВ3
@@ -31,44 +27,14 @@ http://iptv4.zargacum.net/iptv/77YTH3EYFE/113/index.m3u8
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/128/index.m3u8
 #EXTINF:0,Че
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/513/index.m3u8
-#EXTINF:0,ТВЦ
-http://origin4.tomsk.ertelecom.ru/content/public/r183728/track_3_2000/playlist.m3u8
 #EXTINF:0,Домашний
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/514/index.m3u8
 #EXTINF:0,НТВ
 http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
-#EXTINF:0,Рен
-http://msk3.peers.tv/streaming/rentv/126/tvrec/playlist.m3u8
-#EXTINF:0,K1
-http://109.68.40.70:1935/castGeo/smil:k1.smil/playlist.m3u8
-#EXTINF:0,Интер
-http://109.68.40.70:1935/castGeo/inter_3/playlist.m3u8
-#EXTINF:0,Интер
-http://188.138.17.25:8081/inter/pl.m3u8
-#EXTINF:0,Україна
-http://91.210.20.50:1234/udp/239.2.2.4:1234
 #EXTINF:0, Рада 
 http://play.lanet.tv/live/9018.m3u8
 #EXTINF:0,Матч ТВ
 http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
-#EXTINF:0,Матч ТВ HD
-http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/playlist.m3u8
-#EXTINF:-1,GR: OTE Sport 1
-http://ipsatpro.com:8000/live/190337745188/19033774518873/831.ts
-#EXTINF:-1,GR: OTE Sport 2
-http://ipsatpro.com:8000/live/190337745188/19033774518873/838.ts
-#EXTINF:-1,GR: OTE Sport 3
-http://ipsatpro.com:8000/live/190337745188/19033774518873/837.ts
-#EXTINF:-1,GR: OTE Sport 4
-http://ipsatpro.com:8000/live/190337745188/19033774518873/836.ts
-#EXTINF:-1,GR: OTE Sport 5
-http://ipsatpro.com:8000/live/190337745188/19033774518873/835.ts
-#EXTINF:-1,GR: OTE Sport 6
-http://ipsatpro.com:8000/live/190337745188/19033774518873/834.ts
-#EXTINF:-1,GR: OTE Sport 7
-http://ipsatpro.com:8000/live/190337745188/19033774518873/833.ts
-#EXTINF:-1,GR: OTE Sport 8
-http://ipsatpro.com:8000/live/190337745188/19033774518873/832.ts
 #EXTINF:-1,DIGI SPORT 1
 http://82.76.249.33/digiedge/livedigisport1hq_2917/playlist.m3u8
 #EXTINF:-1,DIGI SPORT 2
@@ -77,32 +43,6 @@ http://82.76.249.33/digiedge/livedigisport2hq_7139/playlist.m3u8
 http://82.76.249.33/digiedge/livedigisport3hq_3220/playlist.m3u8
 #EXTINF:-1,DIGI SPORT 4
 http://82.76.249.33/digiedge/digisport4hq/playlist.m3u8
-#EXTINF:-1,SPORT : DIGI SPORT 1*
-http://62.210.162.88:80/live/SPORT108/155021022016/2054.ts
-#EXTINF:-1,SPORT : DIGI SPORT 2*
-http://62.210.162.88:80/live/SPORT108/155021022016/2055.ts
-#EXTINF:-1,SPORT : DIGI SPORT 3*
-http://62.210.162.88:80/live/SPORT108/155021022016/2056.ts
-#EXTINF:-1,SPORT : VIASAT SPORT*
-http://62.210.162.88:80/live/SPORT108/155021022016/2057.ts
-#EXTINF:-1,SPORT : BT SPORT/ESPN*
-http://62.210.162.88:80/live/SPORT108/155021022016/2049.ts
-#EXTINF:-1,SPORT : TYC SPORTS ARG
-http://62.210.162.88:80/live/SPORT108/155021022016/2035.ts
-#EXTINF:-1,SPORT : M4 SPORT HUN
-http://62.210.162.88:80/live/SPORT108/155021022016/2036.ts
-#EXTINF:-1,ROM : DOLCESPORT 1*
-http://62.210.162.88:80/live/SPORT108/155021022016/1831.ts
-#EXTINF:-1,ROM : DOLCESPORT 2*
-http://62.210.162.88:80/live/SPORT108/155021022016/1832.ts
-#EXTINF:-1,USA : SPORT USA*
-http://62.210.162.88:80/live/SPORT108/155021022016/1836.ts
-#EXTINF:-1,RU : FUTBOL 1*
-http://62.210.162.88:80/live/SPORT108/155021022016/1778.ts
-#EXTINF:-1,RU : NTV SPORT 2*
-http://62.210.162.88:80/live/SPORT108/155021022016/1777.ts
-#EXTINF:-1,RU : SPORT 1*
-http://62.210.162.88:80/live/SPORT108/155021022016/1779.ts
 #EXTINF:-1,DigiSport 1 HUNGARY
 http://213.81.170.239/live002/smil:channel023_g3.smil/index.m3u8
 #EXTINF:-1,DigiSport 2 HUNGARY
@@ -111,136 +51,6 @@ http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
 http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
 #EXTINF:-1,DigiSport 4 HUNGARY
 http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
-#EXTINF:0,DOLCE SPORT 1
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
-#EXTINF:0,DOLCE SPORT 2
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:-1,Bein Sports 1 HD
-http://178.33.231.219:88/live/21487/21487/72.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://178.33.231.219:88/live/21487/21487/73.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://178.33.231.219:88/live/21487/21487/74.ts
-#EXTINF:-1,Bein Sports 4 HD
-http://178.33.231.219:88/live/21487/21487/75.ts
-#EXTINF:-1,Bein Sports 5 HD
-http://178.33.231.219:88/live/21487/21487/76.ts
-#EXTINF:-1,Bein Sports 6 HD
-http://178.33.231.219:88/live/21487/21487/77.ts
-#EXTINF:-1,Bein Sports 7 HD
-http://178.33.231.219:88/live/21487/21487/78.ts
-#EXTINF:-1,Bein Sports 8 HD
-http://178.33.231.219:88/live/21487/21487/79.ts
-#EXTINF:-1,Bein Sports 9 HD
-http://178.33.231.219:88/live/21487/21487/80.ts
-#EXTINF:-1,Bein Sports10 HD
-http://178.33.231.219:88/live/21487/21487/81.ts
-#EXTINF:-1,Bein Sports11 HD
-http://178.33.231.219:88/live/21487/21487/82.ts
-#EXTINF:-1,Bein Sports12 HD
-http://178.33.231.219:88/live/21487/21487/83.ts
-#EXTINF:-1,Bein Sports 1 HD
-http://178.33.231.219:88/live/21487/21487/69.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://178.33.231.219:88/live/21487/21487/70.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://178.33.231.219:88/live/21487/21487/71.ts
-#EXTINF:-1,Fox Sports 1
-http://178.33.231.219:88/live/21487/21487/122.ts
-#EXTINF:-1,Fox Sports 2
-http://178.33.231.219:88/live/21487/21487/123.ts
-#EXTINF:-1,Fox Sports 3
-http://178.33.231.219:88/live/21487/21487/124.ts
-#EXTINF:-1,FOX SPORT
-http://178.33.231.219:88/live/21487/21487/752.ts
-#EXTINF:-1,FOX SPORT2
-http://178.33.231.219:88/live/21487/21487/751.ts
-#EXTINF:-1,Sky Sports 1 HD
-http://178.33.231.219:88/live/21487/21487/37.ts
-#EXTINF:-1,Sky Sports 24 HD
-http://178.33.231.219:88/live/21487/21487/40.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://178.33.231.219:88/live/21487/21487/39.ts
-#EXTINF:-1,BT Sport 1
-http://178.33.231.219:88/live/21487/21487/9.ts
-#EXTINF:-1,BT Sport 2
-http://178.33.231.219:88/live/21487/21487/10.ts
-#EXTINF:-1,Premier Sports
-http://178.33.231.219:88/live/21487/21487/15.ts
-#EXTINF:-1,Setanta Sports
-http://178.33.231.219:88/live/21487/21487/17.ts
-#EXTINF:-1,Super Sport 1
-http://178.33.231.219:88/live/21487/21487/110.ts
-#EXTINF:-1,Super Sport 2
-http://178.33.231.219:88/live/21487/21487/111.ts
-#EXTINF:-1,Super Sport 3
-http://178.33.231.219:88/live/21487/21487/112.ts
-#EXTINF:-1,Super Sport 4
-http://178.33.231.219:88/live/21487/21487/113.ts
-#EXTINF:-1,Sport TV 1
-http://178.33.231.219:88/live/21487/21487/64.ts
-#EXTINF:-1,Sport TV 2
-http://178.33.231.219:88/live/21487/21487/65.ts
-#EXTINF:-1,Sport TV 3
-http://178.33.231.219:88/live/21487/21487/66.ts
-#EXTINF:-1,Sport TV 4
-http://178.33.231.219:88/live/21487/21487/67.ts
-#EXTINF:-1,Canal Sport
-http://178.33.231.219:88/live/21487/21487/47.ts
-#EXTINF:-1,Bein SPORT ES
-http://178.33.231.219:88/live/21487/21487/578.ts
-#EXTINF:-1,Sky Sport DE 1
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/78.ts
-#EXTINF:-1,Sky Sport DE 2
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/79.ts
-#EXTINF:-1,Sky Bundesliga 1
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/80.ts
-#EXTINF:-1,ARENA1 SR
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/19.ts
-#EXTINF:-1,ARENA 2 SR
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/20.ts
-#EXTINF:-1,ARENA 3 SR
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/21.ts
-#EXTINF:-1,ARENA 4 SR
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/22.ts
-#EXTINF:-1,ARENA 5 SR
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/219.ts
-#EXTINF:-1,Bein Sport 1 FR
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/195.ts
-#EXTINF:-1,Bein Sport 2 FR
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/196.ts
-#EXTINF:-1,Sport Klub 2
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/88.ts
-#EXTINF:-1,Sport Klub 3
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/89.ts
-#EXTINF:-1,Eurosport
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/104.ts
-#EXTINF:-1,Eurosport 2
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/103.ts
-#EXTINF:-1,Viasat Sport
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/483.ts
-#EXTINF:-1,Super Sport 1
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/127.ts
-#EXTINF:-1,Super Sport 2
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/128.ts
-#EXTINF:-1,Super Sport 3
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/129.ts
-#EXTINF:-1,Super Sport 4
-http://62.210.90.119/live/Listereselexs234rf/s2yAeWQ/150.ts
-#EXTINF:-1,Spo-AbuDhabi Sports 1
-http://178.33.231.219:88/live/21487/21487/128.ts
-#EXTINF:-1,Spo-AbuDhabi Sports 2
-http://178.33.231.219:88/live/21487/21487/129.ts
-#EXTINF:-1,Spo-AbuDhabi Sports 3
-http://178.33.231.219:88/live/21487/21487/842.ts
-#EXTINF:0,Arena Sport 1 HD
-http://46.40.5.99:8000/arena_1_720
-#EXTINF:0,Arena Sport 2 HD
-http://46.40.5.99:8000/arena_2_720
-#EXTINF:0,Arena Sport 3 HD
-http://46.40.5.99:8000/arena_3_720
-#EXTINF:0,Arena Sport 4 HD
-http://46.40.5.99:8000/arena_4_720
 #EXTINF:0,АРЕНА
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
 #EXTINF:-1,Футбол 1
@@ -260,37 +70,27 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/522/index.m3u8
 #EXTINF:0,Матч! Планета
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/123/index.m3u8
 #EXTINF:0,KHL
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/519/index.m3u8
+http://en356.edem.tv/iptv/NHW72LAQVHZXVF/519/index.m3u8
 #EXTINF:0,Eurosport
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/141/index.m3u8
-#EXTINF:0,Eurosport HD
-http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964991sd2500000/c3d7d9ac9a8eade4c469c8f261cea5368c118be3/playlist.m3u8
 #EXTINF:0,Eurosport 2
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
-#EXTINF:0,Eurosport 2 HD
-http://origin2.samara.ertelecom.ru/content/private/s147213/d3720264/r965000sd2500000/5ad5b441d56f018a0cab1989c056aa782ade8285/playlist.m3u8
-#EXTINF:0,VERSUS NHL-NBA HD
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0,Extreme Sports
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
 #EXTINF:0,Jurnal TV
-http://109.185.163.141:8883
+http://cdn.magictvbox.eu/jurnaltv/jurnaltv.m3u8
 #EXTINF:0,Moldova 1
-http://109.185.163.141:8881 
+http://cdn.magictvbox.eu/m1/m1.m3u8
 #EXTINF:0,Prime
 http://109.185.163.141:8882 
 #EXTINF:0,PRO TV Chişinău
-http://109.185.163.141:8886 
-#EXTINF:0,Publika TV
-http://109.185.163.141:8887 
-#EXTINF:0,TVC 21
-http://109.185.163.141:8888
-#EXTINF:0,STV   
-http://109.185.163.141:8892 
-#EXTINF:0,N4
-http://87.248.160.8/edge/smil:n4/playlist.m3u8
+http://cdn.magictvbox.eu/protv/protv.m3u8
+#EXTINF:-1,Publika
+http://cdn.magictvbox.eu/publika.m3u8
+#EXTINF:-1,N4
+http://cdn.magictvbox.eu/n4.m3u8
 #EXTINF:0,HTV/TV7
 http://87.248.160.8/edge/smil:tv7/playlist.m3u8
 #EXTINF:0,NOROC TV
