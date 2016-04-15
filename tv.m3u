@@ -1,40 +1,40 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD
-http://fr.cdn.edem.tv/iptv/77YTH3EYFE/204/index.m3u8
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/204/index.m3u8
 #EXTINF:0,Первый канал
-http://fr.cdn.edem.tv/iptv/77YTH3EYFE/127/index.m3u8
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/127/index.m3u8
 #EXTINF:0,Россия HD
-http://fr.cdn.edem.tv/iptv/77YTH3EYFE/205/index.m3u8
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/205/index.m3u8
 #EXTINF:0,Телеканал «Россия»
-http://fr.cdn.edem.tv/iptv/77YTH3EYFE/504/index.m3u8
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/504/index.m3u8
 #EXTINF:0,РТР Планета
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/546/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/546/index.m3u8
 #EXTINF:0,Россия-24
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/507/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/507/index.m3u8
 #EXTINF:0,ТНТ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/502/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/502/index.m3u8
 #EXTINF:0,СТС
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/506/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/506/index.m3u8
 #EXTINF:0,СТС Love
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/103/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/103/index.m3u8
 #EXTINF:0,Пятница
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/503/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/503/index.m3u8
 #EXTINF:0,ТВ3
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/508/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/508/index.m3u8
 #EXTINF:0,Мир
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/113/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/113/index.m3u8
 #EXTINF:0,РЕН ТВ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/128/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/128/index.m3u8
 #EXTINF:0,Че
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/513/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/513/index.m3u8
 #EXTINF:0,Домашний
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/514/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/514/index.m3u8
 #EXTINF:0,НТВ
 http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
 #EXTINF:0, Рада 
 http://play.lanet.tv/live/9018.m3u8
 #EXTINF:0,Матч ТВ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/535/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/535/index.m3u8
 #EXTINF:-1,DIGI SPORT 1
 http://82.76.249.33/digiedge/livedigisport1hq_2917/playlist.m3u8
 #EXTINF:-1,DIGI SPORT 2
@@ -136,9 +136,9 @@ http://82.76.249.77/utvedge/utvlive/index.m3u8
 #EXTINF:0,Кино ТВ
 http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183839sd2000000/7ec8690f6bf994aba2fa7b1f98ef50567eadd9ae/track_2_1200/playlist.m3u8
 #EXTINF:0,Кинорейс 1
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/101/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/101/index.m3u8
 #EXTINF:0,Кинорейс 2
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/110/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/110/index.m3u8
 #EXTINF:0,TV 1000 Premium HD 
 http://188.138.102.137:8081/1000prem/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDExOjU3OjQzIEFNJmhhc2hfdmFsdWU9ZE1qNmIzWXdVdW5lMFE4RDl2ZDBjUT09JnZhbGlkbWludXRlcz0xMjA= 
 #EXTINF:0,TV1000 Action East
@@ -148,57 +148,57 @@ http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r964892sd20000
 #EXTINF:0,TV1000 Русское кино
 http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964901sd2000000/352363d176dcfe1853d6daff0834fb962a5e1147/track_2_1200/playlist.m3u8
 #EXTINF:0,Ностальгия
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/102/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/102/index.m3u8
 #EXTINF:0,Amedia 1
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/554/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/554/index.m3u8
 #EXTINF:0,Amedia 1 HD
 http://origin1.samara.ertelecom.ru/content/private/s147213/d3720264/r183800sd2500000/074e1a2237daea54978a107549aedb921caa6915/playlist.m3u8
 #EXTINF:0,Amedia Premium HD
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/555/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/555/index.m3u8
 #EXTINF:0,Премьера
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/125/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/125/index.m3u8
 #EXTINF:0,Наше Кино
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/126/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/126/index.m3u8
 #EXTINF:0,КИНОСОЮЗ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/509/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/509/index.m3u8
 #EXTINF:0,Кинохит
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/516/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/516/index.m3u8
 #EXTINF:0,Наше новое кино
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/517/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/517/index.m3u8
 #EXTINF:0,Кинолюкс
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/521/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/521/index.m3u8
 #EXTINF:0,Комеди ТВ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/104/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/104/index.m3u8
 #EXTINF:0,Amedia 2
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/510/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/510/index.m3u8
 #EXTINF:0,STV
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/105/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/105/index.m3u8
 #EXTINF:0,TV XXI
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/525/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/525/index.m3u8
 #EXTINF:0,Universal Channel
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/542/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/542/index.m3u8
 #EXTINF:0,Комедия
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/145/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/145/index.m3u8
 #EXTINF:0,Индия ТВ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/146/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/146/index.m3u8
 #EXTINF:0,Русский Иллюзион
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/547/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/547/index.m3u8
 #EXTINF:0,Русский иллюзион HD
 http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183815sd2500000/12ff97b85719f4a6b59192ee622ce14eeacc3e70/playlist.m3u8
 #EXTINF:0,Иллюзион +
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/548/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/548/index.m3u8
 #EXTINF:0,Иллюзион+ HD
 http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183818sd2500000/a2cf723dd1ff3b868e691e028150843d4083d494/playlist.m3u8
 #EXTINF:0,Еврокино
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/549/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/549/index.m3u8
 #EXTINF:0,Еврокино HD
 http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183821sd2500000/8936c7070a078fe5747fd312982d8c9123198ca5/playlist.m3u8
 #EXTINF:0,Fox Russia
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/550/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/550/index.m3u8
 #EXTINF:0,FOX HD
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r964910sd2500000/440f444c17c5faaf04a8f4a9e48bc068c7826009/playlist.m3u8
 #EXTINF:0,Fox Life
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/553/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/553/index.m3u8
 #EXTINF:0,FOX Life HD
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r964919sd2500000/82f9da2544bbd215e38a498dd667e4d70b0a4ce8/playlist.m3u8
 #EXTINF:0,Sony HD
@@ -206,43 +206,43 @@ http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r451667sd250
 #EXTINF:0,Sony Sci-Fi
 http://origin2.samara.ertelecom.ru/content/private/s147213/d3720264/r451670sd2000000/a2a7ee3c312c63a02abdcf72bf8b9bb4524ba4b6/track_2_1200/playlist.m3u8
 #EXTINF:0,Paramount Comedy Russia
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/157/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/157/index.m3u8
 #EXTINF:0,Paramount Comedy HD
 http://origin1.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183851sd2500000/325bfd2b8749fcf8f86772033611dac0244fb62e/playlist.m3u8
 #EXTINF:0,Дом Кино
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/154/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/154/index.m3u8
 #EXTINF:0,История
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/111/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/111/index.m3u8
 #EXTINF:0,Моя Планета
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/117/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/117/index.m3u8
 #EXTINF:0,Наука 2.0
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/118/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/118/index.m3u8
 #EXTINF:0,Outdoor Channel
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/119/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/119/index.m3u8
 #EXTINF:0,Сов. Секретно
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/121/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/121/index.m3u8
 #EXTINF:0,Авто 24
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/538/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/538/index.m3u8
 #EXTINF:0,Nat Geo Wild
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/133/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/133/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 http://origin1.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964959sd2500000/17bffd5d00731afa416cbad453d23086d7544f5c/playlist.m3u8
 #EXTINF:0,national geographic
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/134/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/134/index.m3u8
 #EXTINF:0,Discovery World
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/135/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/135/index.m3u8
 #EXTINF:0,Discovery Science
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/136/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/136/index.m3u8
 #EXTINF:0,Discovery Science HD
 http://origin3.perm.ertelecom.ru/content/private/s147213/d3720264/r964955sd2500000/3046f746e4aee087379d3e056b950ee54ac5a666/playlist.m3u8
 #EXTINF:0,Animal Planet
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/137/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/137/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183872sd2500000/ce6e05b37bf6b2f9166459f0972240fb2da9b7d6/playlist.m3u8
 #EXTINF:0,Investigation Discovery
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/139/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/139/index.m3u8
 #EXTINF:0,Discovery Channel
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/140/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/140/index.m3u8
 #EXTINF:0,Discovery Channel HD
 http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r461066sd2500000/ee642e85b0b2abbde2bda27e9000e66d56f2bcfe/playlist.m3u8
 #EXTINF:0,Travel channel HD
@@ -252,17 +252,17 @@ http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183869sd25000
 #EXTINF:0,Охотник и рыболов HD
 http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r183764sd2500000/68322f05023856795e0a860bedfd0e5a8e5e74ac/playlist.m3u8
 #EXTINF:0,Авто Плюс
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/151/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/151/index.m3u8
 #EXTINF:0,Время
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/552/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/552/index.m3u8
 #EXTINF:0,Домашние Животные
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/158/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/158/index.m3u8
 #EXTINF:0,Охота и Рыбалка
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/159/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/159/index.m3u8
 #EXTINF:0,Кухня ТВ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/152/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/152/index.m3u8
 #EXTINF:0,РБК-ТВ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/106/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/106/index.m3u8
 #EXTINF:0 H!TMusic.ro,Hit Music Channel
 http://82.76.249.81/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 MusicChannel.ro,Music Channel
@@ -272,13 +272,13 @@ http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00
 #EXTINF:0,RU TV
 http://origin1.samara.ertelecom.ru/content/private/s147213/d3720264/r183743sd2000000/7f7622ae2a1d3eec41a3d7ad73787b9e86a67383/track_2_1200/playlist.m3u8
 #EXTINF:0,МУЗ
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/116/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/116/index.m3u8
 #EXTINF:0, MusicBox UA
 http://kirito.la.net.ua/tv/9028.m3u8
 #EXTINF:0,RUSONG TV
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/120/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/120/index.m3u8
 #EXTINF:0,Bridge TV
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/122/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/122/index.m3u8
 #EXTINF:0,A-One
 http://origin4.perm.ertelecom.ru/content/private/s147213/d3720264/r183749sd2000000/30e31cb7ef8a2b27041bd82078807bd73389d869/track_2_1200/playlist.m3u8
 #EXTINF:0,MCM Top
@@ -286,13 +286,13 @@ http://origin3.samara.ertelecom.ru/content/private/s147213/d3720264/r965051sd200
 #EXTINF:0,VH1 European
 http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
 #EXTINF:0,MTV
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/142/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/142/index.m3u8
 #EXTINF:0,MTV HD
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183857sd2500000/efe4541060c00fccc01e8c068fce4f5ab911d969/playlist.m3u8
 #EXTINF:0,Европа Плюс
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/115/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/115/index.m3u8
 #EXTINF:0,MTV Hits
-http://iptv4.zargacum.net/iptv/77YTH3EYFE/153/index.m3u8
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/153/index.m3u8
 #EXTINF:0,#Пик ТВ
 http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0,One.by
