@@ -30,9 +30,13 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/513/index.m3u8
 #EXTINF:0,Домашний
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/514/index.m3u8
 #EXTINF:0,НТВ
-http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
-#EXTINF:0, Рада 
-http://play.lanet.tv/live/9018.m3u8
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/501/index.m3u8
+#EXTINF:0,НТВ Мир
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/544/index.m3u8
+#EXTINF:0,НТВ HD 
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/213/index.m3u8
+#EXTINF:0,МАТЧ ТВ HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/212/index.m3u8
 #EXTINF:0,Матч ТВ
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/535/index.m3u8
 #EXTINF:-1,DIGI SPORT 1
@@ -55,18 +59,30 @@ http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/528/index.m3u8
+#EXTINF:0,МАТЧ! АРЕНА HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/207/index.m3u8
 #EXTINF:0,МАТЧ! ИГРА
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/529/index.m3u8
 #EXTINF:0,Матч! Футбол 1
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/124/index.m3u8
 #EXTINF:0,Матч! Футбол 2
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/530/index.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/211/index.m3u8
 #EXTINF:0,Матч! Футбол 3
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/522/index.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/206/index.m3u8
 #EXTINF:0,Матч! Планета
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/123/index.m3u8
 #EXTINF:0,KHL
 http://en356.edem.tv/iptv/NHW72LAQVHZXVF/519/index.m3u8
+#EXTINF:0,Телеканал КХЛ HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/215/index.m3u8
+#EXTINF:0,Viasat Sport
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/160/index.m3u8
+#EXTINF:0,Viasat Sport HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/208/index.m3u8
 #EXTINF:0,Eurosport
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/141/index.m3u8
 #EXTINF:0,Eurosport 2
@@ -139,6 +155,10 @@ http://origin2.perm.ertelecom.ru/content/private/s147213/d3720264/r183839sd20000
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/101/index.m3u8
 #EXTINF:0,Кинорейс 2
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/110/index.m3u8
+#EXTINF:0,MGM HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/209/index.m3u8
+#EXTINF:0,RTG HD
+http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/210/index.m3u8
 #EXTINF:0,TV 1000 Premium HD 
 http://188.138.102.137:8081/1000prem/pl.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDExOjU3OjQzIEFNJmhhc2hfdmFsdWU9ZE1qNmIzWXdVdW5lMFE4RDl2ZDBjUT09JnZhbGlkbWludXRlcz0xMjA= 
 #EXTINF:0,TV1000 Action East
