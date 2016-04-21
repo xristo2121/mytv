@@ -105,22 +105,16 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
-#EXTINF:-1,Jurnal TV
-http://91.211.50.77:4011/udp/224.21.21.47:1234
-#EXTINF:-1,Jurnal TV HD
+#EXTINF:-1,Jurnal TV 
 http://91.211.50.77:4011/udp/224.21.21.2:1234
 #EXTINF:0,Moldova 1
 http://91.211.50.77:4011/udp/224.21.21.1:1234
 #EXTINF:-1,Prime
 http://91.211.50.77:4011/udp/224.21.21.29:1234
-#EXTINF:-1,Prime HD
-http://91.211.50.77:4011/udp/224.21.21.200:1234
 #EXTINF:-1,Pro TV Chisinau
 http://91.211.50.77:4011/udp/224.21.21.5:1234
 #EXTINF:-1,Publica TV
 http://91.211.50.77:4011/udp/224.21.21.71:1234
-#EXTINF:-1,Publica TV HD
-http://91.211.50.77:4011/udp/224.21.21.203:1234
 #EXTINF:0,Digi Life
 http://82.76.249.33/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi World
