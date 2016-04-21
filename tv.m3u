@@ -105,30 +105,22 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
-#EXTINF:0,Jurnal TV
-http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+#EXTINF:-1,Jurnal TV
+http://91.211.50.77:4011/udp/224.21.21.47:1234
+#EXTINF:-1,Jurnal TV HD
+http://91.211.50.77:4011/udp/224.21.21.2:1234
 #EXTINF:0,Moldova 1
-http://87.248.160.8/edge/smil:m1/playlist.m3u8
-#EXTINF:0,Prime
-http://87.248.160.8/edge/smil:prime/playlist.m3u8
-#EXTINF:0,PRO TV Chişinău
-http://87.248.160.8/edge/smil:protv/playlist.m3u8
-#EXTINF:-1,Publika
-http://87.248.160.8/edge/smil:publica/playlist.m3u8
-#EXTINF:1,RTR MOLDOVA
-http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
-#EXTINF:-1,N4
-http://87.248.160.8/edge/smil:n4/playlist.m3u8
-#EXTINF:0,NOROC TV
-http://87.248.160.8/edge/smil:noroc/playlist.m3u8
-#EXTINF:0,BUSUIOC TV
-http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
-#EXTINF:1,2Plus tv  
-http://87.248.160.8/edge/smil:2plus/playlist.m3u8
-#EXTINF:1,Tvr  
-http://87.248.160.8/edge/smil:tvr/playlist.m3u8
-#EXTINF:1,Tvc21  
-http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+http://91.211.50.77:4011/udp/224.21.21.1:1234
+#EXTINF:-1,Prime
+http://91.211.50.77:4011/udp/224.21.21.29:1234
+#EXTINF:-1,Prime HD
+http://91.211.50.77:4011/udp/224.21.21.200:1234
+#EXTINF:-1,Pro TV Chisinau
+http://91.211.50.77:4011/udp/224.21.21.5:1234
+#EXTINF:-1,Publica TV
+http://91.211.50.77:4011/udp/224.21.21.71:1234
+#EXTINF:-1,Publica TV HD
+http://91.211.50.77:4011/udp/224.21.21.203:1234
 #EXTINF:0,Digi Life
 http://82.76.249.33/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi World
