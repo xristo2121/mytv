@@ -223,6 +223,8 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/157/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/154/index.m3u8
 #EXTINF:0,История
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/111/index.m3u8
+#EXTINF:0,TELETRAVEL HD
+http://s01.mnogo-tv.by/streamtv/0be9544c1f82354f97b83550e2758b7c/TELETRAVEL_HD720/index.m3u8
 #EXTINF:0,Моя Планета
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/117/index.m3u8
 #EXTINF:0,Наука 2.0
