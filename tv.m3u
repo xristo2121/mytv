@@ -159,8 +159,14 @@ http://82.76.249.33/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online
 http://82.76.249.33/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Viasat Nature 
 http://178.21.120.198:1935/live3/_definst_/mp4:nature/playlist.m3u8
-#EXTINF:0,Discovery Channel
+#EXTINF:0,Discovery Channel Romania
 http://www.portaltv.ro/tk/Discovery.m3u8
+#EXTINF:0,Discovery Science Romania
+http://www.portaltv.ro/tk/DiscoveryScience.m3u8
+#EXTINF:0,Discovery Science HD Romania
+http://www.portaltv.ro/tk/DiscoveryScienceHD.m3u8
+#EXTINF:0,National Geographic HD
+http://www.portaltv.ro/tk/NationalGeographicHD.m3u8
 #EXTINF:0,Nat Geo Wild
 http://82.76.249.33/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,National Geographic
@@ -179,6 +185,8 @@ http://82.76.249.33/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=0
 http://82.76.249.33/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Disney Junior
 http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Disney Channel
+http://www.portaltv.ro/DisneyChannel.m3u8
 #EXTINF:0,Disney Channel
 http://178.21.120.198:1935/live3/_definst_/mp4:disney/playlist.m3u8
 #EXTINF:0,Tvr 3
