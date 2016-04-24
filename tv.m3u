@@ -57,6 +57,8 @@ http://82.76.249.33/digiedge/livedigisport2hq_7139/playlist.m3u8
 http://82.76.249.33/digiedge/livedigisport3hq_3220/playlist.m3u8
 #EXTINF:-1,DIGI SPORT 4
 http://82.76.249.33/digiedge/digisport4hq/playlist.m3u8
+#EXTINF:-1,Dolce Sport 1
+http://www.portaltv.ro/tk/DolceSportHD.m3u8
 #EXTINF:-1,Dolce Sport 2
 http://91.211.50.77:4011/udp/224.20.20.242:1234
 #EXTINF:-1,Dolce Sport 3
@@ -129,8 +131,8 @@ http://91.211.50.77:4011/udp/224.21.21.114:1234
 http://91.211.50.77:4011/udp/224.21.21.117:1234
 #EXTINF:0,HBO HD
 http://portaltv.ro/tk/HBOHD.m3u8
-#EXTINF:0,AXN
-http://www.portaltv.ro/tk/AXN.m3u8
+#EXTINF:0,AXN WHITE
+http://www.portaltv.ro/tk/AXNWHITE.m3u8
 #EXTINF:0,Digi Life
 http://82.76.249.33/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi World
