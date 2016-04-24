@@ -36,7 +36,7 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/213/index.m3u8
 #EXTINF:-1,ICTV
-http://91.211.50.77:4011/udp/224.21.21.156:1234
+http://91.211.50.77:4015/udp/224.21.21.156:1234
 #EXTINF:0,МАТЧ ТВ HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/212/index.m3u8
 #EXTINF:0,Матч ТВ
@@ -66,11 +66,11 @@ http://www.portaltv.ro/tk/DolceSport3.m3u8
 #EXTINF:-1,Dolce Sport 4
 http://m.portaltv.ro/tk/DolceSport4.m3u8
 #EXTINF:-1,Dolce Sport 2
-http://91.211.50.77:4011/udp/224.20.20.242:1234
+http://91.211.50.77:4015/udp/224.20.20.242:1234
 #EXTINF:-1,Dolce Sport 3
-http://91.211.50.77:4011/udp/224.20.20.228:1234
+http://91.211.50.77:4015/udp/224.20.20.228:1234
 #EXTINF:-1,Dolce Sport 4
-http://91.211.50.77:4011/udp/224.20.20.227:1234
+http://91.211.50.77:4015/udp/224.20.20.227:1234
 #EXTINF:-1,DigiSport 1 HUNGARY
 http://213.81.170.239/live002/smil:channel023_g3.smil/index.m3u8
 #EXTINF:-1,DigiSport 2 HUNGARY
@@ -116,25 +116,25 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
 #EXTINF:-1,Jurnal TV 
-http://91.211.50.77:4011/udp/224.21.21.2:1234
+http://91.211.50.77:4015/udp/224.21.21.2:1234
 #EXTINF:0,Moldova 1
-http://91.211.50.77:4011/udp/224.21.21.1:1234
+http://91.211.50.77:4015/udp/224.21.21.1:1234
 #EXTINF:-1,Prime
-http://91.211.50.77:4011/udp/224.21.21.29:1234
+http://91.211.50.77:4015/udp/224.21.21.29:1234
 #EXTINF:-1,Pro TV Chisinau
-http://91.211.50.77:4011/udp/224.21.21.5:1234
+http://91.211.50.77:4015/udp/224.21.21.5:1234
 #EXTINF:-1,Publica TV
-http://91.211.50.77:4011/udp/224.21.21.71:1234
+http://91.211.50.77:4015/udp/224.21.21.71:1234
 #EXTINF:-1,NTV Moldova
-http://91.211.50.77:4011/udp/224.21.21.45:1234
+http://91.211.50.77:4015/udp/224.21.21.45:1234
 #EXTINF:-1,AcasaTV Gold
-http://91.211.50.77:4011/udp/224.21.21.76:1234
+http://91.211.50.77:4015/udp/224.21.21.76:1234
 #EXTINF:-1,Regional
-http://91.211.50.77:4011/udp/224.21.21.111:1234
+http://91.211.50.77:4015/udp/224.21.21.111:1234
 #EXTINF:-1,FAVORIT
-http://91.211.50.77:4011/udp/224.21.21.114:1234
+http://91.211.50.77:4015/udp/224.21.21.114:1234
 #EXTINF:-1,Popas Tv
-http://91.211.50.77:4011/udp/224.21.21.117:1234
+http://91.211.50.77:4015/udp/224.21.21.117:1234
 #EXTINF:0,HBO HD
 http://portaltv.ro/tk/HBOHD.m3u8
 #EXTINF:0,AXN WHITE
