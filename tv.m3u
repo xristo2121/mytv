@@ -115,6 +115,8 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
+#EXTINF:0,Jurnal Tv
+http://cdn.magictvbox.eu/jurnaltv.m3u8
 #EXTINF:-1,Jurnal TV 
 http://91.211.50.77:4015/udp/224.21.21.2:1234
 #EXTINF:0,Moldova 1
