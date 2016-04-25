@@ -25,6 +25,8 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/508/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/113/index.m3u8
 #EXTINF:0,РЕН ТВ
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/128/index.m3u8
+#EXTINF:0,Inter
+http://109.68.40.71:1935/castGeo/smil:inter.smil/playlist.m3u8
 #EXTINF:0,Че
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/513/index.m3u8
 #EXTINF:0,Домашний
