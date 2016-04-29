@@ -61,14 +61,6 @@ http://82.76.249.33/digiedge/livedigisport2hq_7139/playlist.m3u8
 http://82.76.249.33/digiedge/livedigisport3hq_3220/playlist.m3u8
 #EXTINF:-1,DIGI SPORT 4
 http://82.76.249.33/digiedge/digisport4hq/playlist.m3u8
-#EXTINF:-1,Dolce Sport 1
-http://tvapp.portaltv.ro/tk/DolceSportHD.m3u8
-#EXTINF:-1,Dolce Sport 2
-http://tvapp.portaltv.ro/tk/DolceSport2HD.m3u8
-#EXTINF:-1,Dolce Sport 3
-http://tvapp.portaltv.ro/tk/DolceSport3.m3u8
-#EXTINF:-1,Dolce Sport 4
-http://tvapp.portaltv.ro/tk/DolceSport4.m3u8
 #EXTINF:-1,Dolce Sport 2
 http://91.211.50.77:4015/udp/224.20.20.242:1234
 #EXTINF:-1,Dolce Sport 3
@@ -83,6 +75,16 @@ http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
 http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
 #EXTINF:-1,DigiSport 4 HUNGARY
 http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
+#EXTINF:-1,SKY SPORTS 1
+ http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
+#EXTINF:-1,SKY SPORTS 2 
+http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
+#EXTINF:-1,SKY SPORTS 3 
+ http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
+#EXTINF:-1,SKY SPORTS 4 
+ http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
+#EXTINF:-1,SKY SPORTS 5
+ http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
 #EXTINF:0,Матч! Наш спорт
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
