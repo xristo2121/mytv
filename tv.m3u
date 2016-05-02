@@ -21,12 +21,24 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/506/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/103/index.m3u8
 #EXTINF:0,Пятница
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/503/index.m3u8
+#EXTINF:0,HTH
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/533/index.m3u8
+#EXTINF:0,5 канал (Украина)
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/532/index.m3u8
+#EXTINF:0,Мама
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/704/index.m3u8
+#EXTINF:0,CBS Reality
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/706/index.m3u8
 #EXTINF:0,ТВ3
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/508/index.m3u8
+#EXTINF:0,Ю ТВ
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/534/index.m3u8
 #EXTINF:0,Мир
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/113/index.m3u8
 #EXTINF:0,РЕН ТВ
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/128/index.m3u8
+#EXTINF:0,ТВЦ
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/520/index.m3u8
 #EXTINF:0,Inter
 http://109.68.40.71:1935/castGeo/smil:inter.smil/playlist.m3u8
 #EXTINF:0,Че
@@ -213,14 +225,20 @@ http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.r
 http://91.211.50.77:4015/udp/224.21.21.51:1234
 #EXTINF:0,Tvr 3
 http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8
-#EXTINF:0,Кинорейс 1
+#EXTINF:0,TB 1000 Русское кино
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/101/index.m3u8
-#EXTINF:0,Кинорейс 2
+#EXTINF:0,Sony Sci-Fi
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/110/index.m3u8
 #EXTINF:0,MGM HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/209/index.m3u8
 #EXTINF:0,RTG HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/210/index.m3u8
+#EXTINF:0,TV1000 Premium HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/202/index.m3u8
+#EXTINF:0,TV1000 Comedy HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/200/index.m3u8
+#EXTINF:0,TV1000 Megahit HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/201/index.m3u8
 #EXTINF:0,Ностальгия
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/102/index.m3u8
 #EXTINF:0,Amedia 1
@@ -279,6 +297,8 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/553/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/157/index.m3u8
 #EXTINF:0,Дом Кино
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/154/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/203/index.m3u8
 #EXTINF:0,История
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/111/index.m3u8
 #EXTINF:0,TELETRAVEL HD
@@ -329,10 +349,16 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/120/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/122/index.m3u8
 #EXTINF:0,MTV
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/142/index.m3u8
+#EXTINF:0,MTV Dance
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/558/index.m3u8
 #EXTINF:0,Европа Плюс
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/115/index.m3u8
 #EXTINF:0,MTV Hits
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/153/index.m3u8
+#EXTINF:0,VH1 European
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/536/index.m3u8
+#EXTINF:0,Музыка
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/155/index.m3u8
 #EXTINF:0,#Пик ТВ
 http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0,One.by
