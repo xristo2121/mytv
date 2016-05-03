@@ -397,7 +397,6 @@ http://www.djing.com/tv/a-05.m3u8
 http://www.djing.com/tv/i-05.m3u8
 #EXTINF:-1,Djing DJS
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
-
 #EXTINF:0,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,Vevo 2
