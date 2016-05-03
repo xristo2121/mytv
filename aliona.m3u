@@ -3,8 +3,6 @@
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/204/index.m3u8
 #EXTINF:0,Первый канал
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/127/index.m3u8
-#EXTINF:-1,Первый канал (Европа)
-http://91.211.50.77:4015/udp/224.21.21.112:1234
 #EXTINF:0,Россия HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/205/index.m3u8
 #EXTINF:0,Телеканал «Россия»
@@ -21,12 +19,24 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/506/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/103/index.m3u8
 #EXTINF:0,Пятница
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/503/index.m3u8
+#EXTINF:0,HTH
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/533/index.m3u8
+#EXTINF:0,5 канал (Украина)
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/532/index.m3u8
+#EXTINF:0,Мама
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/704/index.m3u8
+#EXTINF:0,CBS Reality
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/706/index.m3u8
 #EXTINF:0,ТВ3
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/508/index.m3u8
+#EXTINF:0,Ю ТВ
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/534/index.m3u8
 #EXTINF:0,Мир
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/113/index.m3u8
 #EXTINF:0,РЕН ТВ
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/128/index.m3u8
+#EXTINF:0,ТВЦ
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/520/index.m3u8
 #EXTINF:0,Inter
 http://109.68.40.71:1935/castGeo/smil:inter.smil/playlist.m3u8
 #EXTINF:0,Че
@@ -39,30 +49,28 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/501/index.m3u8
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/213/index.m3u8
-#EXTINF:-1,ICTV
-http://91.211.50.77:4015/udp/224.21.21.156:1234
-#EXTINF:0,Jurnal Tv
-http://cdn.magictvbox.eu/jurnaltv.m3u8
-#EXTINF:-1,Jurnal TV 
-http://91.211.50.77:4015/udp/224.21.21.2:1234
-#EXTINF:0,Moldova 1
-http://91.211.50.77:4015/udp/224.21.21.1:1234
+#EXTINF: -1, JURNAL TV 
+rtmp://91.220.207.129/playmd/25eafb96-d2bb-4ce6-9bd2-307b28f869a0
+#EXTINF: -1, MOLDOVA 1
+rtmp://91.220.207.129/playmd/9494fd16-36d1-4344-a0b3-699abe0b3601
 #EXTINF:-1,Prime
 http://91.211.50.77:4015/udp/224.21.21.29:1234
 #EXTINF:-1,Pro TV Chisinau
-http://91.211.50.77:4015/udp/224.21.21.5:1234
+rtmp://91.220.207.129/playmd/e942beec-c4e9-11e1-86a7-0025902b2f0c
 #EXTINF:-1,Publica TV
-http://91.211.50.77:4015/udp/224.21.21.71:1234
+http://cdn.magictvbox.eu:8080/publika/720p.m3u8
 #EXTINF:-1,NTV Moldova
-http://91.211.50.77:4015/udp/224.21.21.45:1234
-#EXTINF:-1,AcasaTV Gold
-http://91.211.50.77:4015/udp/224.21.21.76:1234
+rtmp://91.220.207.129/playmd/d9612f21-c088-4a0f-b711-826c48dfcf60
+#EXTINF: -1, ACASA IN MOLDOVA
+rtmp://91.220.207.129/playmd/e0f025f4-4e69-4ea6-a627-457b1852a0ec
 #EXTINF:-1,Regional
 http://91.211.50.77:4015/udp/224.21.21.111:1234
-#EXTINF:-1,Euro TV
-http://91.211.50.77:4015/udp/224.21.21.6:1234
+#EXTINF: -1, EURO TV
+rtmp://91.220.207.129/playmd/14570b4e-c0ce-11e1-ae5c-0025902b2f0c
 #EXTINF:-1,TV7
 http://91.211.50.77:4015/udp/224.21.21.52:1234
+#EXTINF: -1, ZONAM MD
+rtmp://91.220.207.129/playmd/d2dae479-149c-4762-8e8b-056872f441f6
 #EXTINF:-1,FAVORIT
 http://91.211.50.77:4015/udp/224.21.21.114:1234
 #EXTINF:-1,Popas Tv
@@ -111,14 +119,20 @@ http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.r
 http://91.211.50.77:4015/udp/224.21.21.51:1234
 #EXTINF:0,Tvr 3
 http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8
-#EXTINF:0,Кинорейс 1
+#EXTINF:0,TB 1000 Русское кино
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/101/index.m3u8
-#EXTINF:0,Кинорейс 2
+#EXTINF:0,Sony Sci-Fi
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/110/index.m3u8
 #EXTINF:0,MGM HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/209/index.m3u8
 #EXTINF:0,RTG HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/210/index.m3u8
+#EXTINF:0,TV1000 Premium HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/202/index.m3u8
+#EXTINF:0,TV1000 Comedy HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/200/index.m3u8
+#EXTINF:0,TV1000 Megahit HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/201/index.m3u8
 #EXTINF:0,Ностальгия
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/102/index.m3u8
 #EXTINF:0,Amedia 1
@@ -177,6 +191,8 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/553/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/157/index.m3u8
 #EXTINF:0,Дом Кино
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/154/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/203/index.m3u8
 #EXTINF:0,История
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/111/index.m3u8
 #EXTINF:0,TELETRAVEL HD
@@ -227,21 +243,61 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/120/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/122/index.m3u8
 #EXTINF:0,MTV
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/142/index.m3u8
+#EXTINF:0,MTV Dance
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/558/index.m3u8
 #EXTINF:0,Европа Плюс
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/115/index.m3u8
 #EXTINF:0,MTV Hits
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/153/index.m3u8
+#EXTINF:0,VH1 European
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/536/index.m3u8
+#EXTINF:0,Музыка
+http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/155/index.m3u8
 #EXTINF:0,#Пик ТВ
 http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0,One.by
-http://rtmp.one.by:1200d
+#EXTINF:0,ESKA Party HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0,ESKA TV Music
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:0,ESKA Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
 #EXTINF:0,Eska TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:0,Eska Best 
 http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
+#EXTINF:-1,Djing Dancefloor HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1,Djing Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1,Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1,Djing DJS
+http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 #EXTINF:0,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,Vevo 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,Vevo 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,Discovery HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Discovery Science HD
+http://80.80.160.168/live/9/live.m3u8
