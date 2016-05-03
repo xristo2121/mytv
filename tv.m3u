@@ -71,6 +71,16 @@ http://91.211.50.77:4015/udp/224.20.20.242:1234
 http://91.211.50.77:4015/udp/224.20.20.228:1234
 #EXTINF:-1,Dolce Sport 4
 http://91.211.50.77:4015/udp/224.20.20.227:1234
+#EXTINF:-1,NBA versus HD
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1, ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,Pac 12 Network National HD
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
+#EXTINF:-1,Pac 12 Washington HD
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+#EXTINF:-1,COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
 #EXTINF:-1,Fox Sports 1
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
 #EXTINF:-1,Fox Sports 1 HD USA
@@ -365,15 +375,50 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/536/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/155/index.m3u8
 #EXTINF:0,#Пик ТВ
 http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0,One.by
-http://rtmp.one.by:1200d
+#EXTINF:0,ESKA Party HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0,ESKA TV Music
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:0,ESKA Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
 #EXTINF:0,Eska TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:0,Eska Best 
 http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
+#EXTINF:-1,Djing Dancefloor HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1,Djing Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1,Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1,Djing DJS
+http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
+
 #EXTINF:0,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,Vevo 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,Vevo 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,Discovery HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Discovery Science HD
+http://80.80.160.168/live/9/live.m3u8
