@@ -175,7 +175,7 @@ rtmp://91.220.207.129/playmd/9494fd16-36d1-4344-a0b3-699abe0b3601
 http://91.211.50.77:4015/udp/224.21.21.29:1234
 #EXTINF:-1,Pro TV Chisinau
 rtmp://91.220.207.129/playmd/e942beec-c4e9-11e1-86a7-0025902b2f0c
-#EXTINF:-1,Publica TV
+#EXTINF:-1,Publica
 http://cdn.magictvbox.eu:8080/publika/720p.m3u8
 #EXTINF:-1,NTV Moldova
 rtmp://91.220.207.129/playmd/d9612f21-c088-4a0f-b711-826c48dfcf60
