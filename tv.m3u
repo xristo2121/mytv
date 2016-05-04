@@ -172,13 +172,19 @@ rtmp://91.220.207.129/playmd/25eafb96-d2bb-4ce6-9bd2-307b28f869a0
 #EXTINF: -1, MOLDOVA 1
 rtmp://91.220.207.129/playmd/9494fd16-36d1-4344-a0b3-699abe0b3601
 #EXTINF:-1,Prime
-http://91.211.50.77:4015/udp/224.21.21.29:1234
+http://cdn.magictvbox.eu:8080/prime/720p.m3u8
 #EXTINF:-1,Pro TV Chisinau
 rtmp://91.220.207.129/playmd/e942beec-c4e9-11e1-86a7-0025902b2f0c
+#EXTINF:-1,N4
+http://cdn.magictvbox.eu:8080/n4/720p.m3u8
 #EXTINF:-1,Publica
 http://cdn.magictvbox.eu:8080/publika/720p.m3u8
 #EXTINF:-1,NTV Moldova
 rtmp://91.220.207.129/playmd/d9612f21-c088-4a0f-b711-826c48dfcf60
+#EXTINF:-1,TVC21
+http://cdn.magictvbox.eu:8080/tvc21/720p.m3u8
+#EXTINF:-1,UTV
+http://cdn.magictvbox.eu:8080/utv/720p.m3u8
 #EXTINF: -1, ACASA IN MOLDOVA
 rtmp://91.220.207.129/playmd/e0f025f4-4e69-4ea6-a627-457b1852a0ec
 #EXTINF:-1,Regional
@@ -186,14 +192,14 @@ http://91.211.50.77:4015/udp/224.21.21.111:1234
 #EXTINF: -1, EURO TV
 rtmp://91.220.207.129/playmd/14570b4e-c0ce-11e1-ae5c-0025902b2f0c
 #EXTINF:-1,TV7
-http://91.211.50.77:4015/udp/224.21.21.52:1234
+http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
+#EXTINF:-1,GOLD TV
+http://cdn.magictvbox.eu:8080/goldtv/240p.m3u8
 #EXTINF: -1, ZONAM MD
 rtmp://91.220.207.129/playmd/d2dae479-149c-4762-8e8b-056872f441f6
 #EXTINF:-1,FAVORIT
-http://91.211.50.77:4015/udp/224.21.21.114:1234
-#EXTINF:-1,Popas Tv
-http://91.211.50.77:4015/udp/224.21.21.117:1234
-#EXTINF:-1,Kanal D Romania
+http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/51a61b9094739943f5000196/live.isml/events/live-audio%3D64000-video%3D708000.m3u8
+#EXTINF:-1,Kanal D Romanai
 http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/51a61e9c06361d458b0000d5/live.isml/events/live-audio%3D64000-video%3D1891000.m3u8
 #EXTINF:0,Digi Life
 http://82.76.249.33/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
@@ -234,9 +240,23 @@ http://82.76.249.33/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro
 #EXTINF:0,Disney Junior
 http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,Disney Channel Rom
-http://91.211.50.77:4015/udp/224.21.21.51:1234
-#EXTINF:0,Tvr 3
-http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8
+http://178.21.120.198:1935/live3/_definst_/mp4:disney/playlist.m3u8
+#EXTINF:-1,tvr i
+http://stream-12.vty.dailymotion.com/22/dc/1/50b7998806361d3ecc0138cc/51a622ee06361d46a10000b2/live.isml/events/live-audio%3D64000-video%3D708000.m3u8
+#EXTINF:-1,crime$investigation tv
+http://stream-12.vty.dailymotion.com/25/dc/1/50b7998806361d3ecc0138cc/5653105394a6f61397ac89a9/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,docubox tv
+http://stream-12.vty.dailymotion.com/25/dc/1/50b7998806361d3ecc0138cc/51fa2a4d94a6f66ee6000000/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,b1 tv
+http://stream-12.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa27d606361d41ae000015/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,balkanica tv
+http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/565310689473997426478067/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,bebe tv
+http://stream-12.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51fa293706361d41d1000018/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,etno tv
+http://stream-12.vty.dailymotion.com/22/dc/1/50b7998806361d3ecc0138cc/51fa2837947399441d000002/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
+#EXTINF:-1,eurosport 2
+http://stream-12.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51a61e29947399449b0000d2/live.isml/events/live-audio%3D64000-vi
 #EXTINF:0,TB 1000 Русское кино
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
