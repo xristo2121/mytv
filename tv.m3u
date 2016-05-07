@@ -123,12 +123,6 @@ http://37.187.24.177:80/mans104/mans104/711.ch
 http://37.187.24.177:80/mans104/mans104/712.ch
 #EXTINF:-1,Bein Sports HD 15
 http://37.187.24.177:80/mans104/mans104/713.ch
-#EXTINF:-1,Bein Sports HD 16
-http://37.187.24.177:80/mans104/mans104/714.ch
-#EXTINF:-1,Bein Sports 1 FR
-http://37.187.24.177:80/mans104/mans104/715.ch
-#EXTINF:-1,Bein Sports 2 FR
-http://37.187.24.177:80/mans104/mans104/716.ch
 #EXTINF:0,Матч! Наш спорт
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
@@ -167,36 +161,30 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
-#EXTINF: -1, JURNAL TV 
-rtmp://91.220.207.129/playmd/25eafb96-d2bb-4ce6-9bd2-307b28f869a0
-#EXTINF: -1, MOLDOVA 1
-rtmp://91.220.207.129/playmd/9494fd16-36d1-4344-a0b3-699abe0b3601
+#EXTINF:-1,Jurnal TV
+http://87.248.160.7:8080/jurnaltv/720p.m3u8
+#EXTINF:-1,M1
+rtmp://212.0.209.209:1935/live/mp4:MoldovaUnu1
+#EXTINF:-1,M2
+rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
 #EXTINF:-1,Prime
 http://cdn.magictvbox.eu:8080/prime/720p.m3u8
-#EXTINF:-1,Pro TV Chisinau
-rtmp://91.220.207.129/playmd/e942beec-c4e9-11e1-86a7-0025902b2f0c
+#EXTINF:-1,PRO TV Chişinău
+http://87.248.160.7:8080/protv/720p.m3u8
 #EXTINF:-1,N4
 http://cdn.magictvbox.eu:8080/n4/720p.m3u8
 #EXTINF:-1,Publica
 http://cdn.magictvbox.eu:8080/publika/720p.m3u8
-#EXTINF:-1,NTV Moldova
-rtmp://91.220.207.129/playmd/d9612f21-c088-4a0f-b711-826c48dfcf60
 #EXTINF:-1,TVC21
 http://cdn.magictvbox.eu:8080/tvc21/720p.m3u8
 #EXTINF:-1,UTV
 http://cdn.magictvbox.eu:8080/utv/720p.m3u8
-#EXTINF: -1, ACASA IN MOLDOVA
-rtmp://91.220.207.129/playmd/e0f025f4-4e69-4ea6-a627-457b1852a0ec
-#EXTINF:-1,Regional
-http://91.211.50.77:4015/udp/224.21.21.111:1234
 #EXTINF: -1, EURO TV
-rtmp://91.220.207.129/playmd/14570b4e-c0ce-11e1-ae5c-0025902b2f0c
+http://87.248.160.7:8080/eutv/720p.m3u8
 #EXTINF:-1,TV7
 http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
 #EXTINF:-1,GOLD TV
 http://cdn.magictvbox.eu:8080/goldtv/240p.m3u8
-#EXTINF: -1, ZONAM MD
-rtmp://91.220.207.129/playmd/d2dae479-149c-4762-8e8b-056872f441f6
 #EXTINF:-1,FAVORIT
 http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/51a61b9094739943f5000196/live.isml/events/live-audio%3D64000-video%3D708000.m3u8
 #EXTINF:-1,Kanal D Romanai
