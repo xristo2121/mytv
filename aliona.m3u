@@ -53,6 +53,8 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/213/index.m3u8
 http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
 #EXTINF:-1,M1
 http://cdn.magictvbox.eu:8080/m1/720p.m3u8
+#EXTINF:-1,M2
+rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
 #EXTINF:-1,Prime
 http://cdn.magictvbox.eu:8080/prime/720p.m3u8
 #EXTINF:-1,PRO TV Chişinău
