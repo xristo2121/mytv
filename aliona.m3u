@@ -50,7 +50,7 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/213/index.m3u8
 #EXTINF:-1,Jurnal TV
-http://87.248.160.7:8080/jurnaltv/720p.m3u8
+http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
 #EXTINF:-1,M1
 rtmp://212.0.209.209:1935/live/mp4:MoldovaUnu1
 #EXTINF:-1,M2
@@ -58,7 +58,7 @@ rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
 #EXTINF:-1,Prime
 http://cdn.magictvbox.eu:8080/prime/720p.m3u8
 #EXTINF:-1,PRO TV Chişinău
-http://87.248.160.7:8080/protv/720p.m3u8
+http://cdn.magictvbox.eu:8080/protv/720p.m3u8
 #EXTINF:-1,N4
 http://cdn.magictvbox.eu:8080/n4/720p.m3u8
 #EXTINF:-1,Publica
@@ -68,7 +68,7 @@ http://cdn.magictvbox.eu:8080/tvc21/720p.m3u8
 #EXTINF:-1,UTV
 http://cdn.magictvbox.eu:8080/utv/720p.m3u8
 #EXTINF: -1, EURO TV
-http://87.248.160.7:8080/eutv/720p.m3u8
+http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
 #EXTINF:-1,TV7
 http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
 #EXTINF:-1,GOLD TV
