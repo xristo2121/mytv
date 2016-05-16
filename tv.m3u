@@ -49,8 +49,6 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/501/index.m3u8
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/213/index.m3u8
-#EXTINF:-1,ICTV
-http://91.211.50.77:4015/udp/224.21.21.156:1234
 #EXTINF:0,МАТЧ ТВ HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/212/index.m3u8
 #EXTINF:0,Матч ТВ
@@ -87,6 +85,8 @@ http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
  http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
 #EXTINF:-1,SKY SPORTS 5
  http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
+#EXTINF:-1,Trace Sport ✰Stars
+http://stream-01.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa29bf94739943dc000014/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
 #EXTINF:0,Матч! Наш спорт
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
@@ -163,6 +163,8 @@ http://82.76.249.33/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.r
 http://realitateaonline.net:1935/live/mpegts.stream/playlist.m3u8
 #EXTINF:0,Paramount tv
 http://stream-12.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/5653102d06361d730f6252f3/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,Paramount Comedy
+http://stream-12.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/5653102d06361d730f6252f3/live.isml/events/.m3u8
 #EXTINF:0,Romania Tv
 http://82.76.249.33/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Tv Paprika
@@ -175,8 +177,12 @@ http://82.76.249.33/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.r
 http://178.21.120.198:1935/live3/_definst_/mp4:nature/playlist.m3u8
 #EXTINF:0,Nat Geo Wild
 http://82.76.249.33/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1,National Geographic Wild HD
+http://stream-09.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51fa29ac06361d41c2000020/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
 #EXTINF:0,National Geographic
 http://82.76.249.33/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1,National Geographic HD
+http://stream-09.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51adfa5706361d3a8700014d/live.isml/events/live-audio%3D64000-video%3D894000.m3u8
 #EXTINF:0,History Channel
 http://82.76.249.33/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Travel Channel
@@ -389,3 +395,5 @@ http://80.80.160.168/live/7/live.m3u8
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1,Discovery Science HD
 http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,Nickelodeon
+http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de19473995ffc000235/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
