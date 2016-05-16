@@ -123,6 +123,8 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
+#EXTINF:-1,Fight box HD
+http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/51fa2a869473994475000003/live.isml/events(live-1462672813)/live-audio%3D64000-video%3D681000.m3u8
 #EXTINF:-1,Jurnal TV
 http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
 #EXTINF:-1,M1
