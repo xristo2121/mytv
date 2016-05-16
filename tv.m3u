@@ -221,8 +221,8 @@ http://82.76.249.33/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=0
 http://82.76.249.33/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Disney Junior
 http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Disney Channel Rom
-http://178.21.120.198:1935/live3/_definst_/mp4:disney/playlist.m3u8
+#EXTINF:0,Disney Channel 
+http://82.76.249.33/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,tvr i
 http://stream-12.vty.dailymotion.com/22/dc/1/50b7998806361d3ecc0138cc/51a622ee06361d46a10000b2/live.isml/events/live-audio%3D64000-video%3D708000.m3u8
 #EXTINF:-1,crime$investigation tv
