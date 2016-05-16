@@ -60,7 +60,7 @@ http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
 #EXTINF:-1,TV7
 http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
 #EXTINF:-1,GOLD TV
-http://cdn.magictvbox.eu:8080/goldtv/240p.m3u8
+http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
 #EXTINF:-1,FAVORIT
 http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/51a61b9094739943f5000196/live.isml/events/live-audio%3D64000-video%3D708000.m3u8
 #EXTINF:-1,Kanal D Romania
