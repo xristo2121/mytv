@@ -103,6 +103,8 @@ http://82.76.249.33/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=0
 http://82.76.249.33/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Disney Junior
 http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Disney Channel 
+http://82.76.249.33/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,tvr i
 http://stream-12.vty.dailymotion.com/22/dc/1/50b7998806361d3ecc0138cc/51a622ee06361d46a10000b2/live.isml/events/live-audio%3D64000-video%3D708000.m3u8
 #EXTINF:-1,crime & investigation
@@ -113,12 +115,8 @@ http://stream-12.vty.dailymotion.com/25/dc/1/50b7998806361d3ecc0138cc/51fa2a4d94
 http://stream-12.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa27d606361d41ae000015/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
 #EXTINF:-1,balkanica tv
 http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/565310689473997426478067/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
-#EXTINF:-1,bebe tv
-http://stream-12.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51fa293706361d41d1000018/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
 #EXTINF:-1,etno tv
 http://stream-12.vty.dailymotion.com/22/dc/1/50b7998806361d3ecc0138cc/51fa2837947399441d000002/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
-#EXTINF:-1,eurosport 2
-http://stream-12.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51a61e29947399449b0000d2/live.isml/events/live-audio%3D64000-vi
 #EXTINF:0,TB 1000 Русское кино
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
@@ -193,8 +191,6 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/154/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/203/index.m3u8
 #EXTINF:0,История
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/111/index.m3u8
-#EXTINF:0,TELETRAVEL HD
-http://s01.mnogo-tv.by/streamtv/0be9544c1f82354f97b83550e2758b7c/TELETRAVEL_HD720/index.m3u8
 #EXTINF:0,Моя Планета
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/117/index.m3u8
 #EXTINF:0,Наука 2.0
@@ -251,12 +247,6 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/536/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/155/index.m3u8
 #EXTINF:0,#Пик ТВ
 http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0,ESKA Party HD
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:0,ESKA TV Music
-rtmp://stream.smcloud.net/live/eskatv
-#EXTINF:0,ESKA Rock
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
 #EXTINF:0,Eska TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:0,Eska Best 
