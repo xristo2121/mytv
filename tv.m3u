@@ -75,6 +75,16 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,Fox Sports 1
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
+#EXTINF:-1,SKY SPORTS 1
+ http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
+#EXTINF:-1,SKY SPORTS 2 
+http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
+#EXTINF:-1,SKY SPORTS 3 
+ http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
+#EXTINF:-1,SKY SPORTS 4 
+ http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
+#EXTINF:-1,SKY SPORTS 5
+ http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
 #EXTINF:-1,Trace Sport ✰Stars
 http://stream-01.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa29bf94739943dc000014/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
 #EXTINF:0,Матч! Наш спорт
