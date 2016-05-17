@@ -61,12 +61,14 @@ http://82.76.249.33/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=
 http://82.76.249.33/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi Sport 4
 http://82.76.249.33/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Dolce Sport 2
-http://91.211.50.77:4015/udp/224.20.20.242:1234
-#EXTINF:-1,Dolce Sport 3
-http://91.211.50.77:4015/udp/224.20.20.228:1234
-#EXTINF:-1,Dolce Sport 4
-http://91.211.50.77:4015/udp/224.20.20.227:1234
+#EXTINF:-1,DigiSport 1 HUNGARY
+http://213.81.170.239/live002/smil:channel023_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 2 HUNGARY
+http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 3 HUNGARY
+http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
+#EXTINF:-1,DigiSport 4 HUNGARY
+http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
 #EXTINF:-1,NBA versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1, ESPN HD
