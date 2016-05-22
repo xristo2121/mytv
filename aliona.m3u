@@ -47,7 +47,7 @@ rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
 http://cdn.magictvbox.eu:8080/prime/720p.m3u8
 #EXTINF:-1,PRO TV Chişinău
 http://cdn.magictvbox.eu:8080/protv/720p.m3u8
-#EXTINF:-1,N4
+#EXTINF:-1,Național 4
 http://cdn.magictvbox.eu:8080/n4/720p.m3u8
 #EXTINF:-1,Publica
 http://cdn.magictvbox.eu:8080/publika/720p.m3u8
@@ -59,6 +59,32 @@ http://cdn.magictvbox.eu:8080/utv/720p.m3u8
 http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
 #EXTINF:-1,TV7
 http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
+#EXTINF:0, TVR Moldova
+http://cdn.magictvbox.eu:8080/tvr/720p.m3u8
+#EXTINF:0, РТР Молдова
+http://cdn.magictvbox.eu:8080/rtrp/720p.m3u8
+#EXTINF:0, RU TV Moldova
+http://cdn.magictvbox.eu:8080/rutv/720p.m3u8
+#EXTINF:0, Accent TV
+http://cdn.magictvbox.eu:8080/accent/720p.m3u8
+#EXTINF:0, СТС Молдова
+http://cdn.magictvbox.eu:8080/sts/720p.m3u8
+#EXTINF:0, Super TV
+http://cdn.magictvbox.eu:8080/settv/720p.m3u8
+#EXTINF:0, ТНТ BRAVO
+http://cdn.magictvbox.eu:8080/tnt/720p.m3u8
+#EXTINF:0, Agro TV
+http://cdn.magictvbox.eu:8080/agro/720p.m3u8
+#EXTINF:0, Alt TV
+http://cdn.magictvbox.eu:8080/alttv/720p.m3u8
+#EXTINF:0, Busuioc TV
+http://cdn.magictvbox.eu:8080/busuioc/720p.m3u8
+#EXTINF:0, Canal 2
+http://cdn.magictvbox.eu:8080/2plus/720p.m3u8
+#EXTINF:0, Canal 3
+http://cdn.magictvbox.eu:8080/canal3/720p.m3u8
+#EXTINF:0, Noroc TV
+http://cdn.magictvbox.eu:8080/noroc/720p.m3u8
 #EXTINF:-1,GOLD TV
 http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
 #EXTINF:-1,FAVORIT
