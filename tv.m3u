@@ -95,8 +95,12 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/528/index.m3u8
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/207/index.m3u8
 #EXTINF:0,МАТЧ! ИГРА
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/529/index.m3u8
+#EXTINF:0,Матч! Игра HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/225/index.m3u8
 #EXTINF:0,Матч! Футбол 1
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/124/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/222/index.m3u8
 #EXTINF:0,Матч! Футбол 2
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/530/index.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
@@ -107,6 +111,8 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/522/index.m3u8
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/206/index.m3u8
 #EXTINF:0,Матч! Планета
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/123/index.m3u8
+#EXTINF:0,Наш футбол HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/220/index.m3u8
 #EXTINF:0,KHL
 http://en356.edem.tv/iptv/NHW72LAQVHZXVF/519/index.m3u8
 #EXTINF:0,Телеканал КХЛ HD
@@ -269,6 +275,8 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/525/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/542/index.m3u8
 #EXTINF:0,Комедия
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/145/index.m3u8
+#EXTINF:0,HD Кино
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/224/index.m3u8
 #EXTINF:0,Индия ТВ
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/146/index.m3u8
 #EXTINF:0,Русский Иллюзион
@@ -285,16 +293,22 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/550/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/553/index.m3u8
 #EXTINF:0,Paramount Comedy Russia
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/157/index.m3u8
+#EXTINF:0,Nickelodeon HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/223/index.m3u8
 #EXTINF:0,Дом Кино
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/154/index.m3u8
 #EXTINF:0,Viasat Nature/History HD
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/203/index.m3u8
+#EXTINF:0,HD Life
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/226/index.m3u8
 #EXTINF:0,История
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/111/index.m3u8
 #EXTINF:0,TELETRAVEL HD
 http://s01.mnogo-tv.by/streamtv/0be9544c1f82354f97b83550e2758b7c/TELETRAVEL_HD720/index.m3u8
 #EXTINF:0,Моя Планета
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/117/index.m3u8
+#EXTINF:0,History HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/231/index.m3u8
 #EXTINF:0,Наука 2.0
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/118/index.m3u8
 #EXTINF:0,Outdoor Channel
@@ -305,8 +319,12 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/121/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/538/index.m3u8
 #EXTINF:0,Nat Geo Wild
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/133/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/216/index.m3u8
 #EXTINF:0,national geographic
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/134/index.m3u8
+#EXTINF:0,National Geographic HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/230/index.m3u8
 #EXTINF:0,Discovery World
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/135/index.m3u8
 #EXTINF:0,Discovery Science
@@ -315,10 +333,18 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/136/index.m3u8
 http://91.211.50.77:4015/udp/224.21.21.224:1234
 #EXTINF:0,Animal Planet
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/137/index.m3u8
+#EXTINF:0,Animal Planet HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/218/index.m3u8
+#EXTINF:0,TLC HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/232/index.m3u8
+#EXTINF:0,Travel Channel HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/233/index.m3u8
 #EXTINF:0,Investigation Discovery
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/139/index.m3u8
 #EXTINF:0,Discovery Channel
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/140/index.m3u8
+#EXTINF:0,Discovery Channel HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/227/index.m3u8
 #EXTINF:0,Авто Плюс
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/151/index.m3u8
 #EXTINF:0,Время
@@ -339,6 +365,8 @@ http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/120/index.m3u8
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/122/index.m3u8
 #EXTINF:0,MTV
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/142/index.m3u8
+#EXTINF:0,MTV Live HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/221/index.m3u8
 #EXTINF:0,MTV Dance
 http://iptv4.zargacum.net/iptv/NHW72LAQVHZXVF/558/index.m3u8
 #EXTINF:0,Европа Плюс
@@ -361,18 +389,8 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:0,Eska Best 
 http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
-#EXTINF:-1,Djing Dancefloor HD
-http://www.djing.com/tv/d-05.m3u8
-#EXTINF:-1,Djing Underground HD
-http://www.djing.com/tv/u-05.m3u8
-#EXTINF:-1,Djing Hot Hot Hot HD
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1,Djing Animation HD
-http://www.djing.com/tv/a-05.m3u8
-#EXTINF:-1,Djing Classic HD
-http://www.djing.com/tv/i-05.m3u8
-#EXTINF:-1,Djing DJS
-http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
+#EXTINF:0,Trace Urban HD
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/235/index.m3u8
 #EXTINF:0,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,Vevo 2
@@ -399,3 +417,7 @@ http://80.80.160.168/live/8/live.m3u8
 http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1,Nickelodeon
 http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de19473995ffc000235/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:0,E!
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/901/index.m3u8
+#EXTINF:0,Food Network
+http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/902/index.m3u8
