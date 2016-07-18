@@ -37,6 +37,49 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/501/index.m3u8
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/213/index.m3u8
+#EXTINF:-1,Moldova 1
+http://138.201.45.234:8000/live/md/2016/1.ts
+#EXTINF:-1,Moldova 2
+http://138.201.45.234:8000/live/md/2016/2.ts
+#EXTINF:-1,Prime
+http://138.201.45.234:8000/live/md/2016/3.ts
+#EXTINF:-1,Canal 2
+http://138.201.45.234:8000/live/md/2016/4.ts
+#EXTINF:-1,Canal 3
+http://138.201.45.234:8000/live/md/2016/5.ts
+#EXTINF:-1,Jurnal TV
+http://138.201.45.234:8000/live/md/2016/6.ts
+#EXTINF:-1,ProTV Chisinau
+http://138.201.45.234:8000/live/md/2016/7.ts
+#EXTINF:-1,Publika
+http://138.201.45.234:8000/live/md/2016/8.ts
+#EXTINF:-1,N4
+http://138.201.45.234:8000/live/md/2016/9.ts
+#EXTINF:-1,TVC 21
+http://138.201.45.234:8000/live/md/2016/10.ts
+#EXTINF:-1,RTR Moldova
+http://138.201.45.234:8000/live/md/2016/11.ts
+#EXTINF:-1,THT-BRAVO
+http://138.201.45.234:8000/live/md/2016/12.ts
+#EXTINF:-1,Euro TV
+http://138.201.45.234:8000/live/md/2016/13.ts
+#EXTINF:-1,CTC Moldova
+http://138.201.45.234:8000/live/md/2016/14.ts
+#EXTINF:-1,RenTV Moldova
+http://138.201.45.234:8000/live/md/2016/15.ts
+#EXTINF:-1,Realitatea TV
+http://138.201.45.234:8000/live/md/2016/16.ts
+#EXTINF:-1,Accent TV
+http://138.201.45.234:8000/live/md/2016/17.ts
+#EXTINF:-1,Noroc TV
+http://138.201.45.234:8000/live/md/2016/18.ts
+#EXTINF:-1,Busuioc TV
+http://138.201.45.234:8000/live/md/2016/19.ts
+#EXTINF:-1,Gurinel TV
+http://138.201.45.234:8000/live/md/2016/20.ts
+#EXTINF:-1,Zona-M
+http://138.201.45.234:8000/live/md/2016/21.ts
+
 #EXTINF:-1,Jurnal TV
 http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
 #EXTINF:-1,M1
