@@ -11,6 +11,8 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/504/index.m3u8
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/546/index.m3u8
 #EXTINF:0,Россия 24
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/507/index.m3u8
+#EXTINF:0,Звезда
+http://198.16.76.122:8000/113/CCD6BJ6K8R8JSN9N
 #EXTINF:0,ТНТ
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/502/index.m3u8
 #EXTINF:0,СТС
