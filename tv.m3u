@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Первый канал HD
+#EXTINF:0,Первый HD
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/204/index.m3u8
 #EXTINF:0,Первый канал
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/127/index.m3u8
@@ -173,7 +173,7 @@ http://82.76.249.33/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro
 http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Disney Channel 
 http://82.76.249.33/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,TB 1000 Русское кино
+#EXTINF:0,TV1000 Русское кино
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/110/index.m3u8
