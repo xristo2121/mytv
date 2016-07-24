@@ -11,8 +11,6 @@ http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/504/index.m3u8
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/546/index.m3u8
 #EXTINF:0,Россия 24
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/507/index.m3u8
-#EXTINF:0,Звезда
-http://198.16.76.122:8000/113/CCD6BJ6K8R8JSN9N
 #EXTINF:0,ТНТ
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/502/index.m3u8
 #EXTINF:0,СТС
@@ -71,9 +69,19 @@ http://213.81.153.243/live003/smil:channel024_g3.smil/index.m3u8
 http://213.81.153.240/live001/smil:channel026_g3.smil/index.m3u8
 #EXTINF:-1,DigiSport 4 HUNGARY
 http://213.81.170.239/live002/smil:channel027_g3.smil/index.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://151.80.102.59:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1,SKY SPORTS 2
+http://151.80.102.59:8000/live/5grandiptv915/67863345/1339.ts
+#EXTINF:-1,SKY SPORTS 3
+http://151.80.102.59:8000/live/5grandiptv915/67863345/687.ts
+#EXTINF:-1,SKY SPORTS 4
+http://151.80.102.59:8000/live/5grandiptv915/67863345/686.ts
+#EXTINF:-1,SKY SPORTS 5
+http://151.80.102.59:8000/live/5grandiptv915/67863345/699.ts
 #EXTINF:-1,NBA versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1,Trace Sport ✰Stars
+#EXTINF:-1,Trace Sport Stars
 http://883e4eef.ottv.info/iptv/NHW72LAQVHZXVF/234/index.m3u8
 #EXTINF:0,Матч! Наш спорт
 http://fr.cdn.edem.tv/iptv/NHW72LAQVHZXVF/107/index.m3u8
@@ -117,30 +125,6 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
-#EXTINF:-1,Jurnal TV
-http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
-#EXTINF:-1,M1
-http://cdn.magictvbox.eu:8080/m1/720p.m3u8
-#EXTINF:-1,M2
-rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
-#EXTINF:-1,Prime
-http://cdn.magictvbox.eu:8080/prime/720p.m3u8
-#EXTINF:-1,PRO TV Chişinău
-http://cdn.magictvbox.eu:8080/protv/720p.m3u8
-#EXTINF:-1,N4
-http://cdn.magictvbox.eu:8080/n4/720p.m3u8
-#EXTINF:-1,Publica
-http://cdn.magictvbox.eu:8080/publika/720p.m3u8
-#EXTINF:-1,TVC21
-http://cdn.magictvbox.eu:8080/tvc21/720p.m3u8
-#EXTINF:-1,UTV
-http://cdn.magictvbox.eu:8080/utv/720p.m3u8
-#EXTINF: -1, EURO TV
-http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
-#EXTINF:-1,TV7
-http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
-#EXTINF:-1,GOLD TV
-http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
 #EXTINF:0,Digi Life
 http://82.76.249.33/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi World
