@@ -115,6 +115,70 @@ http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/539/index.m3u8
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/NHW72LAQVHZXVF/150/index.m3u8
+#EXTINF:0, Accent TV
+http://cdn.magictvbox.eu:8080/accent/720p.m3u8
+#EXTINF:0, Jurnal TV
+http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
+#EXTINF:0, MBC
+http://cdn.magictvbox.eu:8080/mbc/720p.m3u8
+#EXTINF:0, Moldova 1
+http://cdn.magictvbox.eu:8080/m1/720p.m3u8
+#EXTINF:0, Moldova Sport
+http://cdn.magictvbox.eu:8080/boet/720p.m3u8
+#EXTINF:0, Național 4
+http://cdn.magictvbox.eu:8080/n4/720p.m3u8
+#EXTINF:0, Noroc TV
+http://cdn.magictvbox.eu:8080/noroc/720p.m3u8
+#EXTINF:0, Prime
+http://cdn.magictvbox.eu:8080/prime/720p.m3u8
+#EXTINF:0, PRO TV Chișinău
+http://cdn.magictvbox.eu:8080/protv/720p.m3u8
+#EXTINF:0, Publika TV
+http://cdn.magictvbox.eu:8080/publika/720p.m3u8
+#EXTINF:0, Realitatea TV
+http://cdn.magictvbox.eu:8080/realitate/720p.m3u8
+#EXTINF:0, РЕН ТВ Молдова
+http://cdn.magictvbox.eu:8080/rentv/720p.m3u8
+#EXTINF:0, РТР Молдова
+http://cdn.magictvbox.eu:8080/rtrp/720p.m3u8
+#EXTINF:0, RU TV Moldova
+http://cdn.magictvbox.eu:8080/rutv/720p.m3u8
+#EXTINF:0, Russia Today
+http://cdn.magictvbox.eu:8080/rust/720p.m3u8
+#EXTINF:0, SOR TV
+http://cdn.magictvbox.eu:8080/sortv/720p.m3u8
+#EXTINF:0, СТС Молдова
+http://cdn.magictvbox.eu:8080/sts/720p.m3u8
+#EXTINF:0, Super TV
+http://cdn.magictvbox.eu:8080/settv/720p.m3u8
+#EXTINF:0, ТНТ BRAVO
+http://cdn.magictvbox.eu:8080/tnt/720p.m3u8
+#EXTINF:0, TV7
+http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
+#EXTINF:0, TVC 21
+http://cdn.magictvbox.eu:8080/tvc21/720p.m3u8
+#EXTINF:0, TVR Moldova
+http://cdn.magictvbox.eu:8080/tvr/720p.m3u8
+#EXTINF:0, UTV
+http://cdn.magictvbox.eu:8080/utv/720p.m3u8
+#EXTINF:0, Agro TV
+http://cdn.magictvbox.eu:8080/agro/720p.m3u8
+#EXTINF:0, Alt TV
+http://cdn.magictvbox.eu:8080/alttv/720p.m3u8
+#EXTINF:0, Busuioc TV
+http://cdn.magictvbox.eu:8080/busuioc/720p.m3u8
+#EXTINF:0, Canal 2
+http://cdn.magictvbox.eu:8080/2plus/720p.m3u8
+#EXTINF:0, Canal 3
+http://cdn.magictvbox.eu:8080/canal3/720p.m3u8
+#EXTINF:0, Euro TV
+http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
+#EXTINF:0, Europa Plus TV
+http://cdn.magictvbox.eu:8080/europ/720p.m3u8
+#EXTINF:0, Gold TV
+http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
+#EXTINF:0, Gurinel
+http://cdn.magictvbox.eu:8080/gurinel/720p.m3u8
 #EXTINF:0,Digi Life
 http://82.76.249.33/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi World
