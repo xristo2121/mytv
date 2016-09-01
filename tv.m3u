@@ -99,6 +99,17 @@ http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2723.ts
 http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2724.ts
 #EXTINF:0,Digi Sport 4
 http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2725.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://195.154.183.48:8000/live/miguel/miguel/3728.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://195.154.183.48:8000/live/miguel/miguel/3729.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://195.154.183.48:8000/live/miguel/miguel/3730.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://195.154.183.48:8000/live/miguel/miguel/3731.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://195.154.183.48:8000/live/miguel/miguel/3732.ts
+#EXTINF:-1,UK: Sky Movies Thriller HD
 #EXTINF:-1,NBA versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1,Trace Sport Stars
