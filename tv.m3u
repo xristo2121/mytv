@@ -91,6 +91,14 @@ http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/208/index.m3u8
 http://fr234.edem.tv/iptv/CYSH3HFPHQQAQ9/141/index.m3u8
 #EXTINF:0,Eurosport 2
 http://fr234.edem.tv/iptv/CYSH3HFPHQQAQ9/539/index.m3u8
+#EXTINF:0,Digi Sport 1
+http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2722.ts
+#EXTINF:0,Digi Sport 2
+http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2723.ts
+#EXTINF:0,Digi Sport 3
+http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2724.ts
+#EXTINF:0,Digi Sport 4
+http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2725.ts
 #EXTINF:-1,NBA versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1,Trace Sport Stars
