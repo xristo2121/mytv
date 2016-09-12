@@ -49,24 +49,22 @@ http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/501/index.m3u8
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/213/index.m3u8
+#EXTINF:0, Accent TV
+http://cdn.magictvbox.eu:8080/accent/720p.m3u8
 #EXTINF:0, Jurnal TV
 http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
-#EXTINF:0, MBC
-http://cdn.magictvbox.eu:8080/mbc/720p.m3u8
 #EXTINF:0, Moldova 1
 http://cdn.magictvbox.eu:8080/m1/720p.m3u8
-#EXTINF:0, Moldova Sport
-http://cdn.magictvbox.eu:8080/boet/720p.m3u8
+#EXTINF:0, PRO TV Chișinău
+http://cdn.magictvbox.eu:8080/protv/720p.m3u8
+#EXTINF:0, Publika TV
+http://cdn.magictvbox.eu:8080/publika/720p.m3u8
 #EXTINF:0, Național 4
 http://cdn.magictvbox.eu:8080/n4/720p.m3u8
 #EXTINF:0, Noroc TV
 http://cdn.magictvbox.eu:8080/noroc/720p.m3u8
 #EXTINF:0, Prime
 http://cdn.magictvbox.eu:8080/prime/720p.m3u8
-#EXTINF:0, PRO TV Chișinău
-http://cdn.magictvbox.eu:8080/protv/720p.m3u8
-#EXTINF:0, Publika TV
-http://cdn.magictvbox.eu:8080/publika/720p.m3u8
 #EXTINF:0, Realitatea TV
 http://cdn.magictvbox.eu:8080/realitate/720p.m3u8
 #EXTINF:0, РЕН ТВ Молдова
@@ -107,8 +105,6 @@ http://cdn.magictvbox.eu:8080/canal3/720p.m3u8
 http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
 #EXTINF:0, Europa Plus TV
 http://cdn.magictvbox.eu:8080/europ/720p.m3u8
-#EXTINF:0, Accent TV
-http://cdn.magictvbox.eu:8080/accent/720p.m3u8
 #EXTINF:0, Gold TV
 http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
 #EXTINF:0, Gurinel
