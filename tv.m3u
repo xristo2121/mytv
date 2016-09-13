@@ -97,7 +97,16 @@ http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2723.ts
 http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2724.ts
 #EXTINF:0,Digi Sport 4
 http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2725.ts
-
+#EXTINF:-1,UK: Sky Sport 5 HD
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2900.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2212.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2213.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2214.ts
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2217.ts
 #EXTINF:-1,NBA versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1,Trace Sport Stars
