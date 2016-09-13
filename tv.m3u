@@ -85,10 +85,32 @@ http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/215/index.m3u8
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/160/index.m3u8
 #EXTINF:0,Viasat Sport HD
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/208/index.m3u8
+#EXTINF:-1,TR: Lig TV 1
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1225.ts
+#EXTINF:-1,TR: LIGTV 2 HD
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2380.ts
 #EXTINF:0,Eurosport
 http://fr234.edem.tv/iptv/CYSH3HFPHQQAQ9/141/index.m3u8
 #EXTINF:0,Eurosport 2
 http://fr234.edem.tv/iptv/CYSH3HFPHQQAQ9/539/index.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 1 SR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/46.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/47.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/45.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 SR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/44.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/43.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 SR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/42.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 SR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/40.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/41.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/39.ts
 #EXTINF:0,Digi Sport 1
 http://orbit-iptv.com:2500/live/itlm61L0Ut/ZiJVpVJUf7/2722.ts
 #EXTINF:0,Digi Sport 2
