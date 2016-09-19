@@ -235,40 +235,6 @@ http://cdn.magictvbox.eu:8080/europ/720p.m3u8
 http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
 #EXTINF:0, Gurinel
 http://cdn.magictvbox.eu:8080/gurinel/720p.m3u8
-#EXTINF:0,Digi Life
-http://82.76.249.33/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Digi World
-http://82.76.249.33/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Digi Animal World
-http://82.76.249.33/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Realitatea Tv
-http://82.76.249.33/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Romania Tv
-http://82.76.249.33/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Tv Paprika
-http://82.76.249.33/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Viasat Explore
-http://82.76.249.33/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Viasat Nature
-http://82.76.249.33/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Nat Geo Wild
-http://82.76.249.33/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,National Geographic
-http://82.76.249.33/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,History Channel
-http://82.76.249.33/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Travel Channel
-http://82.76.249.33/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Minimax
-http://82.76.249.33/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Megamax
-http://82.76.249.33/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Nickelodeon
-http://82.76.249.33/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Disney Junior
-http://82.76.249.33/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Disney Channel 
-http://82.76.249.33/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,TV1000 Русское кино
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
