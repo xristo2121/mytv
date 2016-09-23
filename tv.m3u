@@ -85,6 +85,8 @@ http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/215/index.m3u8
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/160/index.m3u8
 #EXTINF:0,Viasat Sport HD
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/208/index.m3u8
+#EXTINF:-1,USA: SPORT 1 HD
+http://158.69.226.108:8000/live/muvi/12345/796.ts
 #EXTINF:-1,SkySport 1 HD
 http://sharingmaster.org:8000/live/norase54/bvg879/8681.ts
 #EXTINF:-1,SKY SPORTS 2
@@ -447,3 +449,9 @@ http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de194
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/901/index.m3u8
 #EXTINF:0,Food Network
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/902/index.m3u8
+#EXTINF:-1,USA: A&E HD
+http://158.69.226.108:8000/live/muvi/12345/562.ts
+#EXTINF:-1,USA: ABC HD LOCAL
+http://158.69.226.108:8000/live/muvi/12345/629.ts
+#EXTINF:-1,USA: TBS HD
+http://158.69.226.108:8000/live/muvi/12345/583.ts
