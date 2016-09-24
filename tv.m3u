@@ -103,11 +103,11 @@ http://sharingmaster.org:8000/live/norase54/bvg879/11841.ts
 http://sharingmaster.org:8000/live/norase54/bvg879/11842.ts
 #EXTINF:-1,UK Setanta
 http://sharingmaster.org:8000/live/norase54/bvg879/11843.ts
-#EXTINF:-1,Bein Sports LaLiga
+#EXTINF:-1 tvg-name="BeINsports.es",Bein Sports LaLiga
 http://sharingmaster.org:8000/live/norase54/bvg879/5015.ts
-#EXTINF:-1,ES Movistar Fútbol
+#EXTINF:-1 tvg-name="CanalPlusFutbol.es",ES Movistar Fútbol
 http://sharingmaster.org:8000/live/norase54/bvg879/5016.ts
-#EXTINF:-1,ES Movistar Deportes 1
+#EXTINF:-1 tvg-name="CanalPlusDeportes.es",ES Movistar Deportes 1
 http://sharingmaster.org:8000/live/norase54/bvg879/5017.ts
 #EXTINF:-1 tvg-name="bein1hd.jsc",BEIN SPORTS 1 HD
 http://sharingmaster.org:8000/live/norase54/bvg879/3421.ts
