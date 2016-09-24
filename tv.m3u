@@ -87,8 +87,8 @@ http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/160/index.m3u8
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/208/index.m3u8
 #EXTINF:-1,USA: SPORT 1 HD
 http://158.69.226.108:8000/live/muvi/12345/796.ts
-#EXTINF:-1,SkySport 1 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/8681.ts
+#EXTINF:-1,SkySport 1 
+http://sharingmaster.org:8000/live/norase54/bvg879/11835.ts
 #EXTINF:-1,SKY SPORTS 2
 http://sharingmaster.org:8000/live/norase54/bvg879/11836.ts
 #EXTINF:-1,SKY SPORTS 3
@@ -99,7 +99,7 @@ http://sharingmaster.org:8000/live/norase54/bvg879/11838.ts
 http://sharingmaster.org:8000/live/norase54/bvg879/11839.ts
 #EXTINF:-1,UK BT Sport 1
 http://sharingmaster.org:8000/live/norase54/bvg879/11841.ts
-#EXTINF:-1,UK BT Sport 1 HD
+#EXTINF:-1,UK BT Sport 2 HD
 http://sharingmaster.org:8000/live/norase54/bvg879/11842.ts
 #EXTINF:-1,UK Setanta
 http://sharingmaster.org:8000/live/norase54/bvg879/11843.ts
