@@ -457,3 +457,5 @@ http://158.69.226.108:8000/live/muvi/12345/562.ts
 http://158.69.226.108:8000/live/muvi/12345/629.ts
 #EXTINF:-1,USA: TBS HD
 http://158.69.226.108:8000/live/muvi/12345/583.ts
+#EXTINF:-1,DIGI SPORT 
+http://s1.finoip.com:20000/live/paolo/paolo/4709.ts
