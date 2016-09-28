@@ -87,6 +87,8 @@ http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/160/index.m3u8
 http://xristo2121.iptvzone.net/iptv/CYSH3HFPHQQAQ9/208/index.m3u8
 #EXTINF:-1,USA: SPORT 1 HD
 http://158.69.226.108:8000/live/muvi/12345/796.ts
+#EXTINF:0,NFL Network
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1,Sky Sports 1  
 http://sharingmaster.org:8000/live/norase54/bvg879/11835.ts
 #EXTINF:-1,Sky Sports 2
