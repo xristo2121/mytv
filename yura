@@ -49,154 +49,6 @@ http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/501/index.m3u8
 http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/213/index.m3u8
-#EXTINF:0,МАТЧ ТВ HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/212/index.m3u8
-#EXTINF:0,Матч ТВ
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/535/index.m3u8
-#EXTINF:0,Матч! Наш спорт
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/107/index.m3u8
-#EXTINF:0,МАТЧ! АРЕНА
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/528/index.m3u8
-#EXTINF:0,МАТЧ! АРЕНА HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/207/index.m3u8
-#EXTINF:0,МАТЧ! ИГРА
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/529/index.m3u8
-#EXTINF:0,Матч! Игра HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/225/index.m3u8
-#EXTINF:0,Матч! Футбол 1
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/124/index.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/222/index.m3u8
-#EXTINF:0,Матч! Футбол 2
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/530/index.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/211/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/522/index.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/206/index.m3u8
-#EXTINF:0,Наш футбол HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/220/index.m3u8
-#EXTINF:0,KHL
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/519/index.m3u8
-#EXTINF:0,Телеканал КХЛ HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/215/index.m3u8
-#EXTINF:0,Viasat Sport
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/160/index.m3u8
-#EXTINF:0,Viasat Sport HD
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/208/index.m3u8
-#EXTINF:-1,USA: SPORT 1 HD
-http://158.69.226.108:8000/live/muvi/12345/796.ts
-#EXTINF:0,NFL Network
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1,Sky Sports 1  
-http://sharingmaster.org:8000/live/norase54/bvg879/11835.ts
-#EXTINF:-1,Sky Sports 2
-http://sharingmaster.org:8000/live/norase54/bvg879/11836.ts
-#EXTINF:-1,Sky Sports 3
-http://sharingmaster.org:8000/live/norase54/bvg879/11837.ts
-#EXTINF:-1,Sky Sports 4
-http://sharingmaster.org:8000/live/norase54/bvg879/11838.ts
-#EXTINF:-1,Sky Sports 5
-http://sharingmaster.org:8000/live/norase54/bvg879/11839.ts
-#EXTINF:-1,UK BT Sport 1
-http://sharingmaster.org:8000/live/norase54/bvg879/11841.ts
-#EXTINF:-1,UK BT Sport 2 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/11842.ts
-#EXTINF:-1,UK Setanta
-http://sharingmaster.org:8000/live/norase54/bvg879/11843.ts
-#EXTINF:-1 tvg-name="BeINsports.es",Bein Sports LaLiga
-http://sharingmaster.org:8000/live/norase54/bvg879/5015.ts
-#EXTINF:-1 tvg-name="CanalPlusFutbol.es",ES Movistar Fútbol
-http://sharingmaster.org:8000/live/norase54/bvg879/5016.ts
-#EXTINF:-1 tvg-name="CanalPlusDeportes.es",ES Movistar Deportes 1
-http://sharingmaster.org:8000/live/norase54/bvg879/5017.ts
-#EXTINF:-1 tvg-name="bein1hd.jsc",BEIN SPORTS 1 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3421.ts
-#EXTINF:-1 tvg-name="bein2hd.jsc",BEIN SPORTS 2 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3414.ts
-#EXTINF:-1 tvg-name="bein3hd.jsc",BEIN SPORTS 3 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3413.ts
-#EXTINF:-1 tvg-name="bein4hd.jsc",BEIN SPORTS 4 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3412.ts
-#EXTINF:-1 tvg-name="bein5hd.jsc",BEIN SPORTS 5 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3411.ts
-#EXTINF:-1 tvg-name="bein6hd.jsc",BEIN SPORTS 6 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3410.ts
-#EXTINF:-1 tvg-name="bein7hd.jsc",BEIN SPORTS 7 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3409.ts
-#EXTINF:-1 tvg-name="bein8hd.jsc",BEIN SPORTS 8 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3408.ts
-#EXTINF:-1 tvg-name="bein9hd.jsc",BEIN SPORTS 9 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3407.ts
-#EXTINF:-1 tvg-name="bein10hd.jsc",BEIN SPORTS 10 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/3420.ts
-#EXTINF:-1 tvg-name="SkySportHD1.de",Sky Sport 1 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/10429.ts
-#EXTINF:-1 tvg-name="SkySportHD2.de" ,DE Sky Sport 2 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/10430.ts
-#EXTINF:-1 tvg-name="LIGTV.tr",LIG TV HD
-http://sharingmaster.org:8000/live/norase54/bvg879/10049.ts
-#EXTINF:-1 tvg-name="LIGTV3.tr",TURKEY LIG TV 3
-http://sharingmaster.org:8000/live/norase54/bvg879/10050.ts
-#EXTINF:-1,ENG Astro Sports 2
-http://sharingmaster.org:8000/live/norase54/bvg879/1476.ts
-#EXTINF:-1,ENG Astro Sports 3
-http://sharingmaster.org:8000/live/norase54/bvg879/1479.ts
-#EXTINF:-1,ENG Astro Sports 4
-http://sharingmaster.org:8000/live/norase54/bvg879/1472.ts
-#EXTINF:-1,Arena Sport 1 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/278.ts
-#EXTINF:-1,Arena Sport 1 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/279.ts
-#EXTINF:-1,Arena Sport 4 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/281.ts
-#EXTINF:-1,NL Fox Sports 1 Eredivisie
-http://sharingmaster.org:8000/live/norase54/bvg879/7844.ts
-#EXTINF:-1,NL Fox Sports 2 Internationaal
-http://sharingmaster.org:8000/live/norase54/bvg879/7843.ts
-#EXTINF:-1,NL Fox Sports 3 Eredivisie
-http://sharingmaster.org:8000/live/norase54/bvg879/7842.ts
-#EXTINF:-1,NL Fox Sports 4 Internationaal
-http://sharingmaster.org:8000/live/norase54/bvg879/7841.ts
-#EXTINF:-1,NL Fox Sports 5 Eredivisie
-http://sharingmaster.org:8000/live/norase54/bvg879/7840.ts
-#EXTINF:-1,PORTUGAL SPORT TV 1 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/13581.ts
-#EXTINF:-1,PORTUGAL SPORT TV 3 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/13583.ts
-#EXTINF:-1,Sport Klub 1
-http://sharingmaster.org:8000/live/norase54/bvg879/9497.ts
-#EXTINF:-1,Sport Klub 2
-http://sharingmaster.org:8000/live/norase54/bvg879/9498.ts
-#EXTINF:-1,Sport Klub 3
-http://sharingmaster.org:8000/live/norase54/bvg879/9499.ts
-#EXTINF:-1,SuperSport 1 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/4627.ts
-#EXTINF:-1,SuperSport 2 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/4626.ts
-#EXTINF:-1,SuperSport 3 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/4625.ts
-#EXTINF:-1,SuperSport 4 HD
-http://sharingmaster.org:8000/live/norase54/bvg879/4624.ts
-#EXTINF:-1,TRING SPORTS 1
-http://sharingmaster.org:8000/live/norase54/bvg879/4608.ts
-#EXTINF:-1,Real Madrid TV
-http://sharingmaster.org:8000/live/norase54/bvg879/13038.ts
-#EXTINF:-1,Barca TV
-http://sharingmaster.org:8000/live/norase54/bvg879/13042.ts
-#EXTINF:0,Eurosport
-http://fr234.edem.tv/iptv/SE6NG5HVVC8RYA/141/index.m3u8
-#EXTINF:0,Eurosport 2
-http://fr234.edem.tv/iptv/SE6NG5HVVC8RYA/539/index.m3u8
-#EXTINF:-1,NBA versus HD
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1,Trace Sport Stars
-http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/234/index.m3u8
-#EXTINF:0,Extreme Sports
-http://fr234.edem.tv/iptv/SE6NG5HVVC8RYA/144/index.m3u8
-#EXTINF:0,Боец
-http://fr234.edem.tv/iptv/SE6NG5HVVC8RYA/150/index.m3u8
 #EXTINF:0, Accent TV
 http://cdn.magictvbox.eu:8080/accent/720p.m3u8
 #EXTINF:0, Jurnal TV
@@ -205,8 +57,6 @@ http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
 http://cdn.magictvbox.eu:8080/mbc/720p.m3u8
 #EXTINF:0, Moldova 1
 http://cdn.magictvbox.eu:8080/m1/720p.m3u8
-#EXTINF:0, Moldova Sport
-http://cdn.magictvbox.eu:8080/boet/720p.m3u8
 #EXTINF:0, Național 4
 http://cdn.magictvbox.eu:8080/n4/720p.m3u8
 #EXTINF:0, Noroc TV
@@ -223,12 +73,6 @@ http://cdn.magictvbox.eu:8080/realitate/720p.m3u8
 http://cdn.magictvbox.eu:8080/rentv/720p.m3u8
 #EXTINF:0, РТР Молдова
 http://cdn.magictvbox.eu:8080/rtrp/720p.m3u8
-#EXTINF:0, RU TV Moldova
-http://cdn.magictvbox.eu:8080/rutv/720p.m3u8
-#EXTINF:0, Russia Today
-http://cdn.magictvbox.eu:8080/rust/720p.m3u8
-#EXTINF:0, SOR TV
-http://cdn.magictvbox.eu:8080/sortv/720p.m3u8
 #EXTINF:0, СТС Молдова
 http://cdn.magictvbox.eu:8080/sts/720p.m3u8
 #EXTINF:0, Super TV
@@ -253,8 +97,6 @@ http://cdn.magictvbox.eu:8080/busuioc/720p.m3u8
 http://cdn.magictvbox.eu:8080/2plus/720p.m3u8
 #EXTINF:0, Canal 3
 http://cdn.magictvbox.eu:8080/canal3/720p.m3u8
-#EXTINF:0, Euro TV
-http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
 #EXTINF:0, Europa Plus TV
 http://cdn.magictvbox.eu:8080/europ/720p.m3u8
 #EXTINF:0, Gold TV
