@@ -87,22 +87,40 @@ http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/160/index.m3u8
 http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/208/index.m3u8
 #EXTINF:-1,USA: SPORT 1 HD
 http://158.69.226.108:8000/live/muvi/12345/796.ts
-#EXTINF:0,NFL Network
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1,Digi Sport 1
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/5848.ts
+#EXTINF:-1,Digi Sport 2
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/5849.ts
+#EXTINF:-1,Digi Sport 3
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/5850.ts
+#EXTINF:-1,Digi Sport 4
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/6354.ts
 #EXTINF:-1,Sky Sports 1  
-http://sharingmaster.org:8000/live/norase54/bvg879/11835.ts
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/6.ts
 #EXTINF:-1,Sky Sports 2
-http://sharingmaster.org:8000/live/norase54/bvg879/11836.ts
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/7.ts
 #EXTINF:-1,Sky Sports 3
 http://sharingmaster.org:8000/live/norase54/bvg879/11837.ts
 #EXTINF:-1,Sky Sports 4
 http://sharingmaster.org:8000/live/norase54/bvg879/11838.ts
 #EXTINF:-1,Sky Sports 5
-http://sharingmaster.org:8000/live/norase54/bvg879/11839.ts
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/10.ts
 #EXTINF:-1,UK BT Sport 1
 http://sharingmaster.org:8000/live/norase54/bvg879/11841.ts
 #EXTINF:-1,UK BT Sport 2 HD
 http://sharingmaster.org:8000/live/norase54/bvg879/11842.ts
+#EXTINF:-1,BT Sport ESPN
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/2781.ts
+#EXTINF:-1,BT Sport Extra 1
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/8660.ts
+#EXTINF:-1,BT Sport Extra 3
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/8662.ts
+#EXTINF:-1,BT Sport Extra 4
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/8663.ts
+#EXTINF:-1,BT Sport Extra 5
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/8664.ts
+#EXTINF:-1,BT Sport Extra 6
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/8665.ts
 #EXTINF:-1,UK Setanta
 http://sharingmaster.org:8000/live/norase54/bvg879/11843.ts
 #EXTINF:-1 tvg-name="BeINsports.es",Bein Sports LaLiga
@@ -135,9 +153,13 @@ http://sharingmaster.org:8000/live/norase54/bvg879/3420.ts
 http://sharingmaster.org:8000/live/norase54/bvg879/10429.ts
 #EXTINF:-1 tvg-name="SkySportHD2.de" ,DE Sky Sport 2 HD
 http://sharingmaster.org:8000/live/norase54/bvg879/10430.ts
-#EXTINF:-1 tvg-name="LIGTV.tr",LIG TV HD
+#EXTINF:-1,LIG TV 1 HD
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/1961.ts
+#EXTINF:-1,LIG TV 2 HD
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/1960.ts
+#EXTINF:-1 tvg-name="LIGTV3.tr",LIG TV 3
 http://sharingmaster.org:8000/live/norase54/bvg879/10049.ts
-#EXTINF:-1 tvg-name="LIGTV3.tr",TURKEY LIG TV 3
+#EXTINF:-1 tvg-name="LIGTV.tr",TURKEY LIG TV 
 http://sharingmaster.org:8000/live/norase54/bvg879/10050.ts
 #EXTINF:-1,ENG Astro Sports 2
 http://sharingmaster.org:8000/live/norase54/bvg879/1476.ts
@@ -181,6 +203,8 @@ http://sharingmaster.org:8000/live/norase54/bvg879/4625.ts
 http://sharingmaster.org:8000/live/norase54/bvg879/4624.ts
 #EXTINF:-1,TRING SPORTS 1
 http://sharingmaster.org:8000/live/norase54/bvg879/4608.ts
+#EXTINF:-1,USA | NFL Network HD
+http://62.210.248.96:11000/live/sibora/a6NElrbzSX/5895.ts
 #EXTINF:-1,Real Madrid TV
 http://sharingmaster.org:8000/live/norase54/bvg879/13038.ts
 #EXTINF:-1,Barca TV
