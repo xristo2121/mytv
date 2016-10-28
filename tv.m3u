@@ -221,70 +221,30 @@ http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/234/index.m3u8
 http://fr234.edem.tv/iptv/SE6NG5HVVC8RYA/144/index.m3u8
 #EXTINF:0,Боец
 http://fr234.edem.tv/iptv/SE6NG5HVVC8RYA/150/index.m3u8
-#EXTINF:0, Accent TV
-http://cdn.magictvbox.eu:8080/accent/720p.m3u8
 #EXTINF:0, Jurnal TV
-http://cdn.magictvbox.eu:8080/jurnaltv/720p.m3u8
-#EXTINF:0, MBC
-http://cdn.magictvbox.eu:8080/mbc/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.4:5656
 #EXTINF:0, Moldova 1
-http://cdn.magictvbox.eu:8080/m1/720p.m3u8
-#EXTINF:0, Moldova Sport
-http://cdn.magictvbox.eu:8080/boet/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.2:5656
+#EXTINF:-1,Moldova 2
+http://109.185.159.215:4011/udp/239.100.0.10:5656
 #EXTINF:0, Național 4
-http://cdn.magictvbox.eu:8080/n4/720p.m3u8
-#EXTINF:0, Noroc TV
-http://cdn.magictvbox.eu:8080/noroc/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:0, Prime
-http://cdn.magictvbox.eu:8080/prime/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0, PRO TV Chișinău
-http://cdn.magictvbox.eu:8080/protv/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.7:5656
 #EXTINF:0, Publika TV
-http://cdn.magictvbox.eu:8080/publika/720p.m3u8
-#EXTINF:0, Realitatea TV
-http://cdn.magictvbox.eu:8080/realitate/720p.m3u8
-#EXTINF:0, РЕН ТВ Молдова
-http://cdn.magictvbox.eu:8080/rentv/720p.m3u8
-#EXTINF:0, РТР Молдова
-http://cdn.magictvbox.eu:8080/rtrp/720p.m3u8
-#EXTINF:0, RU TV Moldova
-http://cdn.magictvbox.eu:8080/rutv/720p.m3u8
-#EXTINF:0, Russia Today
-http://cdn.magictvbox.eu:8080/rust/720p.m3u8
-#EXTINF:0, SOR TV
-http://cdn.magictvbox.eu:8080/sortv/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.8:5656
 #EXTINF:0, СТС Молдова
-http://cdn.magictvbox.eu:8080/sts/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.12:5656
 #EXTINF:0, Super TV
-http://cdn.magictvbox.eu:8080/settv/720p.m3u8
-#EXTINF:0, ТНТ BRAVO
-http://cdn.magictvbox.eu:8080/tnt/720p.m3u8
-#EXTINF:0, TV7
-http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.13:5656
 #EXTINF:0, TVC 21
-http://cdn.magictvbox.eu:8080/tvc21/720p.m3u8
-#EXTINF:0, TVR Moldova
-http://cdn.magictvbox.eu:8080/tvr/720p.m3u8
-#EXTINF:0, UTV
-http://cdn.magictvbox.eu:8080/utv/720p.m3u8
-#EXTINF:0, Agro TV
-http://cdn.magictvbox.eu:8080/agro/720p.m3u8
-#EXTINF:0, Alt TV
-http://cdn.magictvbox.eu:8080/alttv/720p.m3u8
-#EXTINF:0, Busuioc TV
-http://cdn.magictvbox.eu:8080/busuioc/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.9:5656
 #EXTINF:0, Canal 2
-http://cdn.magictvbox.eu:8080/2plus/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0, Canal 3
-http://cdn.magictvbox.eu:8080/canal3/720p.m3u8
-#EXTINF:0, Euro TV
-http://cdn.magictvbox.eu:8080/eutv/720p.m3u8
-#EXTINF:0, Europa Plus TV
-http://cdn.magictvbox.eu:8080/europ/720p.m3u8
-#EXTINF:0, Gold TV
-http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
-#EXTINF:0, Gurinel
-http://cdn.magictvbox.eu:8080/gurinel/720p.m3u8
+http://109.185.159.215:4011/udp/239.100.0.14:5656
 #EXTINF:0,TV1000 Русское кино
 http://xristo2121.iptvzone.net/iptv/SE6NG5HVVC8RYA/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
