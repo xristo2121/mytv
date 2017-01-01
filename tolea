@@ -5,7 +5,6 @@ http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/204/index.m3u8
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/127/index.m3u8
 #EXTINF:0,Россия HD
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/205/index.m3u8
-
 #EXTINF:0,Россия 1
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/504/index.m3u8
 #EXTINF:0,Россия РТР
@@ -74,6 +73,54 @@ http://109.185.159.215:4011/udp/239.100.0.9:5656
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0, Canal 3
 http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:0,МАТЧ ТВ HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/212/index.m3u8
+#EXTINF:0,Матч ТВ
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/535/index.m3u8
+#EXTINF:0,Матч! Наш спорт
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/107/index.m3u8
+#EXTINF:0,МАТЧ! АРЕНА
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/528/index.m3u8
+#EXTINF:0,МАТЧ! АРЕНА HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/207/index.m3u8
+#EXTINF:0,МАТЧ! ИГРА
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/529/index.m3u8
+#EXTINF:0,Матч! Игра HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/225/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/124/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/222/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/530/index.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/211/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/522/index.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/206/index.m3u8
+#EXTINF:0,Наш футбол HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/220/index.m3u8
+#EXTINF:0,KHL
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/519/index.m3u8
+#EXTINF:0,Телеканал КХЛ HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/215/index.m3u8
+#EXTINF:0,Viasat Sport
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/160/index.m3u8
+#EXTINF:0,Viasat Sport HD
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/208/index.m3u8
+#EXTINF:0,Eurosport
+http://fr234.edem.tv/iptv/QCGRTWAW5W2W3D/141/index.m3u8
+#EXTINF:0,Eurosport 2
+http://fr234.edem.tv/iptv/QCGRTWAW5W2W3D/539/index.m3u8
+#EXTINF:-1,NBA versus HD
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,Trace Sport Stars
+http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/234/index.m3u8
+#EXTINF:0,Extreme Sports
+http://fr234.edem.tv/iptv/QCGRTWAW5W2W3D/144/index.m3u8
+#EXTINF:0,Боец
+http://fr234.edem.tv/iptv/QCGRTWAW5W2W3D/150/index.m3u8
 #EXTINF:0,TV1000 Русское кино
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
