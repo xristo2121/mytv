@@ -73,6 +73,8 @@ http://109.185.159.215:4011/udp/239.100.0.9:5656
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0, Canal 3
 http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:-1 ,UFC NETWORK
+http://190.57.234.164/V3/6/1.m3u8?
 #EXTINF:0,МАТЧ ТВ HD
 http://xristo2121.iptvzone.net/iptv/QCGRTWAW5W2W3D/212/index.m3u8
 #EXTINF:0,Матч ТВ
