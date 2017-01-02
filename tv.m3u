@@ -283,6 +283,8 @@ http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/230/index.m3u8
 http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/135/index.m3u8
 #EXTINF:0,Discovery Science
 http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/136/index.m3u8
+#EXTINF:-1,Discovery Science HD
+http://95.65.10.167:8080/play/id46?m3u8
 #EXTINF:0,Animal Planet
 http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/137/index.m3u8
 #EXTINF:0,Animal Planet HD
