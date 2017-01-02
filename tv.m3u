@@ -95,6 +95,12 @@ http://1.442244.info/uk_sky_sports_3/index.m3u8
 http://1.442244.info/uk_sky_sports_4/index.m3u8
 #EXTINF:-1,SKY SPORTS F1
 http://1.442244.info/uk_sky_sports_f1/index.m3u8
+#EXTINF:-1,DE SKY SPORTS 1
+http://1.442244.info/de_sky_sport_1/index.m3u8
+#EXTINF:-1,DE SKY SPORTS 2
+http://1.442244.info/de_sky_sport_2/index.m3u8
+#EXTINF:-1,DE SKY BUNDESLIGA 1
+http://1.442244.info/de_sky_bundesliga_1/index.m3u8
 #EXTINF:-1,PREMIER SPORT
 http://1.442244.info/uk_premier_sport/index.m3u8
 #EXTINF:-1,M FOTBOL
@@ -113,7 +119,7 @@ http://1.442244.info/sp_m_golf/index.m3u8
 http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
 #EXTINF:-1,ZIGGO SPORT GOLF
 http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
-#EXTINF:-1,FOX SPORTS EDL3 www.m3uliste.pw
+#EXTINF:-1,FOX SPORTS EDL3 
 http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
 #EXTINF:-1,ARENA SPORT 1 SERBIA
 http://1.442244.info/ser_arena_sport_1/index.m3u8
@@ -121,6 +127,20 @@ http://1.442244.info/ser_arena_sport_1/index.m3u8
 http://1.442244.info/ser_arena_sport_2/index.m3u8
 #EXTINF:-1,ARENA SPORT 3 SERBIA
 http://1.442244.info/ser_arena_sport_3/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 SERBIA
+http://1.442244.info/ser_arena_sport_4/index.m3u8
+#EXTINF:-1,ARENA SPORT 5 SERBIA
+http://1.442244.info/ser_arena_sport_5/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 CROATIA
+http://1.442244.info/cro_arena_sport_1/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 CROATIA
+http://1.442244.info/cro_arena_sport_2/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 CROATIA
+http://1.442244.info/cro_arena_sport_3/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 CROATIA
+http://1.442244.info/cro_arena_sport_4/index.m3u8
+#EXTINF:-1,ARENA SPORT 5 CROATIA
+http://1.442244.info/cro_arena_sport_5/index.m3u8
 #EXTINF:0,Eurosport
 http://fr234.edem.tv/iptv/VHHM5XKK9FQ6U9/141/index.m3u8
 #EXTINF:0,Eurosport 2
