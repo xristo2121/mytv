@@ -141,6 +141,26 @@ http://1.442244.info/cro_arena_sport_3/index.m3u8
 http://1.442244.info/cro_arena_sport_4/index.m3u8
 #EXTINF:-1,ARENA SPORT 5 CROATIA
 http://1.442244.info/cro_arena_sport_5/index.m3u8
+#EXTINF:-1,Bein Sports 1 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/41.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/55.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/3.ts
+#EXTINF:-1,Bein Sports 4 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/44.ts
+#EXTINF:-1,Bein Sports 5 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/45.ts
+#EXTINF:-1,Bein Sports 6 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/6.ts
+#EXTINF:-1,Bein Sports 7 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/7.ts
+#EXTINF:-1,Bein Sports 8 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/8.ts
+#EXTINF:-1,Bein Sports 10 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/50.ts
+#EXTINF:-1,Bein Sports 12 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/12.ts
 #EXTINF:0,Eurosport
 http://fr234.edem.tv/iptv/VHHM5XKK9FQ6U9/141/index.m3u8
 #EXTINF:0,Eurosport 2
@@ -393,3 +413,7 @@ http://saka24.fansmestar.com/ch034/playlist.m3u8
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/240.ts
 #EXTINF:-1,Diseny-Junior
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/241.ts
+#EXTINF:-1,ID investigation
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/124.ts
+#EXTINF:-1,Discovery Science
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/157.ts
