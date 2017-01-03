@@ -93,6 +93,8 @@ http://1.442244.info/uk_sky_sports_2/index.m3u8
 http://1.442244.info/uk_sky_sports_3/index.m3u8
 #EXTINF:-1,SKY SPORTS 4
 http://1.442244.info/uk_sky_sports_4/index.m3u8
+#EXTINF:-1,Sky Sport 5
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/661.ts
 #EXTINF:-1,SKY SPORTS F1
 http://1.442244.info/uk_sky_sports_f1/index.m3u8
 #EXTINF:-1,DE SKY SPORTS 1
@@ -142,13 +144,13 @@ http://1.442244.info/cro_arena_sport_4/index.m3u8
 #EXTINF:-1,ARENA SPORT 5 CROATIA
 http://1.442244.info/cro_arena_sport_5/index.m3u8
 #EXTINF:-1,Bein Sports 1 HD
-http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/41.ts
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/333.ts
 #EXTINF:-1,Bein Sports 2 HD
-http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/55.ts
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/2082.ts
 #EXTINF:-1,Bein Sports 3 HD
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/3.ts
 #EXTINF:-1,Bein Sports 4 HD
-http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/44.ts
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/336.ts
 #EXTINF:-1,Bein Sports 5 HD
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/45.ts
 #EXTINF:-1,Bein Sports 6 HD
@@ -165,6 +167,16 @@ http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/12.ts
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/283.ts
 #EXTINF:-1,Bein Sports 2 HD France
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/284.ts
+#EXTINF:-1,Sky Sports 1 DE HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/351.ts
+#EXTINF:-1,Sky Sports 2 DE HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/352.ts
+#EXTINF:-1,OSN SPORTS 1 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/392.ts
+#EXTINF:-1,OSN SPORTS 2 HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/393.ts
+#EXTINF:-1,WWE
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/1765.ts
 #EXTINF:-1,Sky Sports 1
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/187.ts
 #EXTINF:0,Eurosport
@@ -411,3 +423,23 @@ http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/124.ts
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/157.ts
 #EXTINF:-1,Nickelodeon Ro
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/227.ts
+#EXTINF:-1,Discovery History
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/353.ts
+#EXTINF:-1,OSN on demand HD
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/389.ts
+#EXTINF:-1,OSN MOVES HD Box Office 1
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/409.ts
+#EXTINF:-1,UK:Sky-Movies-Comedy
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/235.ts
+#EXTINF:-1,UK:Discovery
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/1454.ts
+#EXTINF:-1,UK:Discovery-Sci
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/157.ts
+#EXTINF:-1,UK:National-Geo
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/642.ts
+#EXTINF:-1,UK:National-Wild
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/1456.ts
+#EXTINF:-1,UK:Animal-Planet
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/643.ts
+#EXTINF:-1,UK:Movie4Men
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/1888.ts
