@@ -161,6 +161,12 @@ http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/8.ts
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/50.ts
 #EXTINF:-1,Bein Sports 12 HD
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/12.ts
+#EXTINF:-1,Bein Sports 1 HD France
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/283.ts
+#EXTINF:-1,Bein Sports 2 HD France
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/284.ts
+#EXTINF:-1,Sky Sports 1
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/187.ts
 #EXTINF:0,Eurosport
 http://fr234.edem.tv/iptv/VHHM5XKK9FQ6U9/141/index.m3u8
 #EXTINF:0,Eurosport 2
@@ -417,3 +423,5 @@ http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/241.ts
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/124.ts
 #EXTINF:-1,Discovery Science
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/157.ts
+#EXTINF:-1,Nickelodeon Ro
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/227.ts
