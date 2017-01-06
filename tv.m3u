@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,Первый HD
-http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/204/index.m3u8
+http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/204/index.m3u8,auto
 #EXTINF:0,Первый канал
-http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/127/index.m3u8
+http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/127/index.m3u8,auto
 #EXTINF:0,Россия HD
 http://xristo2121.iptvzone.net/iptv/VHHM5XKK9FQ6U9/205/index.m3u8
 #EXTINF:0,Россия 1
