@@ -37,8 +37,6 @@ http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/113/index.m3u8
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/128/index.m3u8
 #EXTINF:0,ТВЦ
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/520/index.m3u8
-#EXTINF:0,Inter
-http://109.68.40.71:1935/castGeo/smil:inter.smil/playlist.m3u8
 #EXTINF:0,Че
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/513/index.m3u8
 #EXTINF:0,Домашний
@@ -89,8 +87,6 @@ http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/208/index.m3u8
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/187.ts
 #EXTINF:-1,SKY SPORTS 2
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/188.ts
-#EXTINF:-1,SKY SPORTS 3
-http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/189.ts
 #EXTINF:-1,SKY SPORTS 4
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/190.ts
 #EXTINF:-1,Sky Sport 5
@@ -148,9 +144,9 @@ http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/3.ts
 #EXTINF:-1,Bein Sports 4 HD
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/336.ts
 #EXTINF:-1,Bein Sports 5 HD
-http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/45.ts
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/5.ts
 #EXTINF:-1,Bein Sports 6 HD
-http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/6.ts
+http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/46.ts
 #EXTINF:-1,Bein Sports 7 HD
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/7.ts
 #EXTINF:-1,Bein Sports 8 HD
@@ -345,8 +341,6 @@ http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/152/index.m3u8
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/106/index.m3u8
 #EXTINF:0,МУЗ
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/116/index.m3u8
-#EXTINF:0, RU TV
-http://198.16.76.122:8000/126/CCD6BJ6K8R8JSN9N
 #EXTINF:0,RUSONG TV
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/120/index.m3u8
 #EXTINF:0,Bridge TV
@@ -367,46 +361,12 @@ http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/536/index.m3u8
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/155/index.m3u8
 #EXTINF:0,Mezzo Live HD
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/217/index.m3u8
-#EXTINF:0,#Пик ТВ
-http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0,Trace Urban HD
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/235/index.m3u8
-#EXTINF:0,Vevo 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,Vevo 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0,Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Animal Planet
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1,Travel Ch.
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1,Planet Green
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:-1,ID
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1,ESPN HD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1,SHO HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1,Discovery HD
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1,Discovery Science HD
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1,Nickelodeon
-http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de19473995ffc000235/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
 #EXTINF:0,E!
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/901/index.m3u8
 #EXTINF:0,Food Network
 http://xristo2121.iptvzone.net/iptv/ZY6PQUB5CHSFSW/902/index.m3u8
-#EXTINF:-1,USA: A&E HD
-http://158.69.226.108:8000/live/muvi/12345/562.ts
-#EXTINF:-1,USA: ABC HD LOCAL
-http://158.69.226.108:8000/live/muvi/12345/629.ts
-#EXTINF:-1,USA: TBS HD
-http://158.69.226.108:8000/live/muvi/12345/583.ts
 #EXTINF:-1,Diseny-XD-EN
 http://sat.010e.net:8000/live/lZ8hq0aOQM/Zaid-Almaatok/240.ts
 #EXTINF:-1,Diseny-Junior
