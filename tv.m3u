@@ -145,6 +145,8 @@ http://109.185.159.215:4011/udp/239.100.0.2:5656
 http://109.185.159.215:4011/udp/239.100.0.10:5656
 #EXTINF:0, Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:0, NTV Moldova
+http://93.115.137.166/hls/ntvm.m3u8
 #EXTINF:0, Prime
 http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0, PRO TV Chișinău
