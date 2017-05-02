@@ -91,6 +91,10 @@ http://xristo2121.ottv.info/iptv/5TGXXA93SKYB64/220/index.m3u8
 http://xristo2121.ottv.info/iptv/5TGXXA93SKYB64/519/index.m3u8
 #EXTINF:0,Телеканал КХЛ HD
 http://xristo2121.ottv.info/iptv/5TGXXA93SKYB64/215/index.m3u8
+#EXTINF:0,Eurosport 1
+http://xristo2121.ottv.info/iptv/5TGXXA93SKYB64/141/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+http://xristo2121.ottv.info/iptv/5TGXXA93SKYB64/228/index.m3u8
 #EXTINF:0,Viasat Sport
 http://xristo2121.ottv.info/iptv/5TGXXA93SKYB64/160/index.m3u8
 #EXTINF:0,Viasat Sport HD
