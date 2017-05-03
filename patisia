@@ -13,8 +13,6 @@ http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/546/index.m3u8
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/507/index.m3u8
 #EXTINF:0,ТНТ
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/502/index.m3u8
-#EXTINF:0,ТНТ HD
-http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/237/index.m3u8
 #EXTINF:0,СТС
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/506/index.m3u8
 #EXTINF:0,СТС Love
@@ -71,12 +69,22 @@ http://109.185.159.215:4011/udp/239.100.0.10:5656
 http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:0, Prime
 http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,TVR Moldova
+http://94.176.41.250:4022/udp/239.100.0.2:5656
 #EXTINF:0, PRO TV Chișinău
 http://109.185.159.215:4011/udp/239.100.0.7:5656
 #EXTINF:0, Publika TV
 http://109.185.159.215:4011/udp/239.100.0.8:5656
-#EXTINF:0, СТС Молдова
-http://109.185.159.215:4011/udp/239.100.0.12:5656
+#EXTINF:0, TV7
+http://cdnworld.magictvbox.eu/live/live-sd/id_13_svga/index.m3u8
+#EXTINF:0, РЕН ТВ Молдова
+http://cdnworld.magictvbox.eu/live/live-sd/id_15_svga/index.m3u8
+#EXTINF:0, ТНТ Exclusiv TV
+http://cdnworld.magictvbox.eu/live/live-sd/id_12_svga/index.m3u8
+#EXTINF:0, СТС MEGA
+http://cdnworld.magictvbox.eu/live/live-sd/id_17_svga/index.m3u8
+#EXTINF:0, Euro TV
+http://cdnworld.magictvbox.eu/live/live-sd/id_22_svga/index.m3u8
 #EXTINF:0, Super TV
 http://109.185.159.215:4011/udp/239.100.0.13:5656
 #EXTINF:0, TVC 21
@@ -85,6 +93,16 @@ http://109.185.159.215:4011/udp/239.100.0.9:5656
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0, Canal 3
 http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:0, Jurnal TV HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_1.m3u8
+#EXTINF:0, Prime HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_2.m3u8
+#EXTINF:0, Canal 2 HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_3.m3u8
+#EXTINF:0, Canal 3 HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_4.m3u8
+#EXTINF:0, Publika HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_5.m3u8
 #EXTINF:0,TV1000 Русское кино
 http://yura2121.iptvbot.biz/iptv/QCGRTWAW5W2W3D/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
