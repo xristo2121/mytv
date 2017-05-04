@@ -61,6 +61,8 @@ http://xristo2121.ottv.info/iptv/MWNS256S883M5U/744/index.m3u8
 http://xristo2121.ottv.info/iptv/MWNS256S883M5U/745/index.m3u8
 #EXTINF:0,НТВ Право
 http://xristo2121.ottv.info/iptv/MWNS256S883M5U/743/index.m3u8
+#EXTINF:0,Матч! HD
+http://xristo2121.ottv.info/iptv/MWNS256S883M5U/212/index.m3u8
 #EXTINF:0,Матч ТВ
 http://xristo2121.ottv.info/iptv/MWNS256S883M5U/535/index.m3u8
 #EXTINF:0,Матч! Наш спорт
