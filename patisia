@@ -43,8 +43,6 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/113/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/128/index.m3u8
 #EXTINF:0,ТВЦ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/520/index.m3u8
-#EXTINF:0,Inter
-http://109.68.40.71:1935/castGeo/smil:inter.smil/playlist.m3u8
 #EXTINF:0,Че
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/513/index.m3u8
 #EXTINF:0,Домашний
