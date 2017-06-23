@@ -1,0 +1,135 @@
+7[General]
+ipv6 = false
+loglevel = notify
+interface = 0.0.0.0
+keep-alive = infinite
+port = 6152
+socks-interface = 0.0.0.0
+socks-port = 6153
+enhanced-mode-by-rule = true
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
+bypass-system = true
+bypass-tun = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
+
+
+[Proxy]
+Gunzs 5.1=shadowsocks,153.125.239.174,31306,aes-256-cfb,jaz002
+Gunzs 5.2=shadowsocks,153.125.238.176,31844,aes-256-cfb,jaz001
+Gunzs 5.3=shadowsocks,153.125.239.175,31913,aes-256-cfb,jaz002
+Gunzs 5.4=shadowsocks,153.125.238.179,31945,aes-256-cfb,jaz001
+
+
+
+
+[Rule]
+
+#ADBlcok
+DOMAIN-KEYWORD,adsmogo,REJECT
+DOMAIN-KEYWORD,advert-sdk,REJECT
+DOMAIN-SUFFIX,admaster.com.cn,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,miaozhen.com,REJECT
+DOMAIN-SUFFIX,fastapi.net,REJECT
+DOMAIN-SUFFIX,inmobi.com,REJECT
+DOMAIN-SUFFIX,adlive.cn,REJECT
+DOMAIN-SUFFIX,sstc360.com,REJECT
+DOMAIN-SUFFIX,ad-brix.com,REJECT
+DOMAIN-SUFFIX,leadboltads.net,REJECT
+DOMAIN-SUFFIX,joyingmobi.com,REJECT
+DOMAIN-SUFFIX,irs01.com,REJECT
+DOMAIN,ads.mopub.com,REJECT
+DOMAIN,mi.gdt.qq.com,REJECT
+DOMAIN,sax.sina.cn,REJECT
+DOMAIN,sax.sina.com.cn,REJECT
+DOMAIN,mobi.adsage.com,REJECT
+DOMAIN,service.cocounion.com,REJECT
+DOMAIN,cm.ipinyou.com,REJECT
+DOMAIN,lianmeng.admin5.com,REJECT
+DOMAIN,union.admin5.com,REJECT
+DOMAIN,lm.admin5.com,REJECT
+DOMAIN,s.csbew.com,REJECT
+DOMAIN,ad.vsnoon.com,REJECT
+DOMAIN,de.soquair.com,REJECT
+DOMAIN,api.mix.guohead.com,REJECT
+DOMAIN,live.chartboost.com,REJECT
+DOMAIN,api.appodeal.com,REJECT
+DOMAIN,syndication.exoclick.com,REJECT
+DOMAIN,static.exoclick.com,REJECT
+
+#Video APP ADBlcok
+DOMAIN,n.mark.letv.com,REJECT
+DOMAIN,agn.aty.sohu.com,REJECT
+DOMAIN,ad.api.3g.tudou.com,REJECT
+DOMAIN,ad.api.3g.youku.com,REJECT
+DOMAIN,mf.atm.youku.com,REJECT
+DOMAIN,lives.l.qq.com,REJECT
+DOMAIN,livew.l.qq.com,REJECT
+DOMAIN,de.as.pptv.com,REJECT
+DOMAIN,x.da.hunantv.com,REJECT
+IP-CIDR,101.227.14.128/24,REJECT,no-resolve
+IP-CIDR,101.227.200.11/24,REJECT,no-resolve
+
+# Telegram
+IP-CIDR,91.108.56.0/22,Proxy,no-resolve
+IP-CIDR,91.108.4.0/22,Proxy,no-resolve
+IP-CIDR,109.239.140.0/24,Proxy,no-resolve
+IP-CIDR,149.154.160.0/20,Proxy,no-resolve
+
+#STABILITY OF OTHER SITES
+DOMAIN, clients3.google.com,DIRECT,enhanced-mode
+DOMAIN, play.google.com,DIRECT,enhanced-mode
+DOMAIN, apps.google.com,DIRECT,enhanced-mode
+DOMAIN, dns.google.com,DIRECT,enhanced-mode
+DOMAIN, cloud.google.com,DIRECT,enhanced-mode
+DOMAIN, apk-dl.com,DIRECT,enhanced-mode
+DOMAIN, apkpure.com,DIRECT,enhanced-mode
+DOMAIN, play.mob.org,DIRECT,enhanced-mode
+DOMAIN, androeed.ru,DIRECT,enhanced-mode
+DOMAIN, savefrom.net,DIRECT,enhanced-mode
+DOMAIN, deviantart.com,DIRECT,enhanced-mode
+DOMAIN, instagram.com,DIRECT,enhanced-mode
+DOMAIN, chia-anime.tv,DIRECT,enhanced-mode
+DOMAIN, puffinbrowser.com,DIRECT,enhanced-mode
+DOMAIN, soundcloud.com,DIRECT,enhanced-mode
+DOMAIN, snapchat.com,DIRECT,enhanced-mode
+DOMAIN, shadowsocks.org,DIRECT,enhanced-mode
+DOMAIN, twitter.com,DIRECT,enhanced-mode
+DOMAIN, phcorner.net, DIRECT, enhanced-mode
+
+
+#FACEBOOK LITE STABILITY
+DOMAIN, snaptu-mini.facebook.com,DIRECT,force-remote-dns
+DOMAIN,graph.facebook.com,DIRECT,force-remote-dns
+DOMAIN, m.facebook.com,DIRECT, force-remote-dns
+DOMAIN, free.facebook.com,DIRECT,force-remote-dns
+DOMAIN, mqtt-mini.facebook.com,DIRECT, force-remote-dns
+DOMAIN, edge-mqtt.facebook.com,DIRECT, force-remote-dns
+
+#FACEBOOK MESSENGER STABILITY
+DOMAIN,graph2.facebook.com,DIRECT,force-remote-dns
+DOMAIN,b-api.facebook.com,DIRECT,force-remote-dns
+DOMAIN,b-graph.facebook.com,DIRECT,force-remote_dns
+DOMAIN,z-m-graph.facebook.com,DIRECT,force-remote-dns
+DOMAIN,z-m-api.facebook.com,DIRECT,force-remote-dns
+DOMAIN,www.messenger.com,DIRECT,force-remote-dns
+DOMAIN,messenger.com,DIRECT,force-remote-dns
+
+
+FINAL,Gunzs 5.1,enhanced-mode
+
+[Host]
+
+m.facebook.com = 31.13.77.37
+www.facebook.com = 157.240.11.35
+Fbcdn.net = 157.240.0.17
+www.fbcdn.net = 31.13.71.36
+edge-star-shv-01-sea1.facebook.com = 31.13.76.102
+edge-star-shv-01-lax3.facebook.com = 31.13.69.197
+edge-star-shv-01-mia1.facebook.com = 31.13.73.1
+Az-az.facebook.com = 157.240.11.17
+0.facebook.com = 157.240.3.37
+Apps.facebook.com = 157.240.2.20
+yv-in-f94.1e100.net = 74.125.21.94
+free.facebook.com = 31.13.95.37
+edge-star-shv-01-lga3.facebook.com = 31.13.71.1
+edge-star-shv-01-dft4.facebook.com = 157.240.3.19
