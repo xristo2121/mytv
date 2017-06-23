@@ -1,0 +1,23 @@
+#PRX CREATE v3.2
+
+
+[Proxy]
+
+1K DOWNLOADS=Shadowsocks,205.204.85.38,52000,aes-256-cfb,1DEXEbRs9IuhyNzD
+=Shadowsocks,,,rc4,
+=Shadowsocks,,,rc4,
+=Shadowsocks,,,rc4,
+=Shadowsocks,,,rc4,
+
+
+[Rule]
+
+
+#Proxy Name
+FINAl,1K DOWNLOADS,,,,
+
+
+#teamhokage
+
+
+
