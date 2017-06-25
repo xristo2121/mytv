@@ -162,7 +162,7 @@ http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:0, Prime
 http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0, PRO TV Chișinău
-http://109.185.159.215:4011/udp/239.100.0.7:5656
+http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, Publika TV
 http://109.185.159.215:4011/udp/239.100.0.8:5656
 #EXTINF:0, СТС Молдова
