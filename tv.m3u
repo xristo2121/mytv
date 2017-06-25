@@ -89,6 +89,22 @@ http://alphatwo.ddns.net:8000/live/alpha/alpha/43.ts
 http://alphatwo.ddns.net:8000/live/alpha/alpha/38.ts
 #EXTINF:-1,UK: Sky Sports 5 SD
 http://alphatwo.ddns.net:8000/live/alpha/alpha/44.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://alphatwo.ddns.net:8000/live/alpha/alpha/1389.ts
+#EXTINF:-1,UK: BT Sport 1 SD
+http://alphatwo.ddns.net:8000/live/alpha/alpha/56.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://alphatwo.ddns.net:8000/live/alpha/alpha/6667.ts
+#EXTINF:-1,UK: BT Sport 2 SD
+http://alphatwo.ddns.net:8000/live/alpha/alpha/1124.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://alphatwo.ddns.net:8000/live/alpha/alpha/6671.ts
+#EXTINF:-1,UK: BT Sport 3 SD
+http://alphatwo.ddns.net:8000/live/alpha/alpha/815.ts
+#EXTINF:-1,UK: BT Sports Euro HD.
+http://alphatwo.ddns.net:8000/live/alpha/alpha/19.ts
+#EXTINF:-1,UK: BT Sport ESPN..
+http://alphatwo.ddns.net:8000/live/alpha/alpha/129.ts
 #EXTINF:0,Матч! HD
 http://xristo2121.ottv.info/iptv/MWNS256S883M5U/212/index.m3u8
 #EXTINF:0,Матч ТВ
