@@ -67,14 +67,12 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 http://109.185.159.215:4011/udp/239.100.0.10:5656
 #EXTINF:0, Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0, Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:-1,TVR Moldova
-http://94.176.41.250:4022/udp/239.100.0.2:5656
 #EXTINF:0, PRO TV Chișinău
-http://109.185.159.215:4011/udp/239.100.0.7:5656
+http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, Publika TV
 http://109.185.159.215:4011/udp/239.100.0.8:5656
+#EXTINF:-1,TVR Moldova
+http://94.176.41.250:4022/udp/239.100.0.2:5656
 #EXTINF:0, TV7
 http://cdnworld.magictvbox.eu/live/live-sd/id_13_svga/index.m3u8
 #EXTINF:0, РЕН ТВ Молдова
