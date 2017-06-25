@@ -56,7 +56,7 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/213/index.m3u8
 #EXTINF:0, Jurnal TV
 http://109.185.159.215:4011/udp/239.100.0.4:5656
 #EXTINF:0, Moldova 1
-http://109.185.159.215:4011/udp/239.100.0.2:5656
+rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:-1,Moldova 2
 http://109.185.159.215:4011/udp/239.100.0.10:5656
 #EXTINF:0, Național 4
