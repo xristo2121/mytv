@@ -140,7 +140,7 @@ http://flux.jtv.md/jtv-540p.flv
 #EXTINF:0, Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:-1,Moldova 2
-http://109.185.159.215:4011/udp/239.100.0.10:5656
+rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0, Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:0, Prime
@@ -148,13 +148,9 @@ http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0, PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, Publika TV
-http://109.185.159.215:4011/udp/239.100.0.8:5656
+http://livebeta.publika.md/LIVE/P/1000.m3u8
 #EXTINF:0, СТС Молдова
-http://109.185.159.215:4011/udp/239.100.0.12:5656
-#EXTINF:0, Super TV
-http://109.185.159.215:4011/udp/239.100.0.13:5656
-#EXTINF:0, TVC 21
-http://109.185.159.215:4011/udp/239.100.0.9:5656
+http://37.233.27.53:8891
 #EXTINF:0, Canal 2
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0, Canal 3
