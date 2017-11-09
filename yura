@@ -89,54 +89,8 @@ http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/744/index.m3u8
 http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/745/index.m3u8
 #EXTINF:0,НТВ Право
 http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/743/index.m3u8
-#EXTINF:0,Матч! HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/212/index.m3u8
-#EXTINF:0,Матч ТВ
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/535/index.m3u8
-#EXTINF:0,Матч! Наш спорт
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/107/index.m3u8
-#EXTINF:0,МАТЧ! АРЕНА
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/528/index.m3u8
-#EXTINF:0,МАТЧ! АРЕНА HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/207/index.m3u8
-#EXTINF:0,МАТЧ! ИГРА
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/529/index.m3u8
-#EXTINF:0,Матч! Игра HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/225/index.m3u8
-#EXTINF:0,Матч! Футбол 1
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/124/index.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/222/index.m3u8
-#EXTINF:0,Матч! Футбол 2
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/530/index.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/211/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/522/index.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/206/index.m3u8
-#EXTINF:0,Наш футбол HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/220/index.m3u8
-#EXTINF:0,KHL
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/519/index.m3u8
-#EXTINF:0,Телеканал КХЛ HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/215/index.m3u8
-#EXTINF:0,Eurosport 1
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/141/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/228/index.m3u8
-#EXTINF:0,Viasat Sport
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/160/index.m3u8
-#EXTINF:0,Viasat Sport HD
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/208/index.m3u8
-#EXTINF:-1,Trace Sport Stars
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/234/index.m3u8
-#EXTINF:0,Extreme Sports
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/144/index.m3u8
-#EXTINF:0,Боец
-http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/150/index.m3u8
 #EXTINF:0, Jurnal TV
-http://flux.jtv.md/jtv-540p.flv
+http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=token
 #EXTINF:0, Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:-1,Moldova 2
@@ -149,12 +103,40 @@ http://109.185.159.215:4011/udp/239.100.0.3:5656
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, Publika TV
 http://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:0, Publika TV HD
+http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
+#EXTINF:0, Impact TV
+http://cdnworld.magictvbox.eu/Moldova_Sport_HD/index.m3u8?token=token
+#EXTINF:0, ITV
+http://cdnworld.magictvbox.eu/ITV/index.m3u8?token=token
+#EXTINF:0, Media TV
+http://cdnworld.magictvbox.eu/Media_TV/index.m3u8?token=token
+#EXTINF:0, TVR Moldova
+http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=token
 #EXTINF:0, СТС Молдова
 http://37.233.27.53:8891
+#EXTINF:0, ТНТ Exclusiv TV
+http://cdnworld.magictvbox.eu/Exclusiv_TNT/index.m3u8?token=token
+#EXTINF:0, РЕН ТВ Молдова
+http://cdnworld.magictvbox.eu/RenTV_Moldova/index.m3u8?token=token
+#EXTINF:0, НТВ Молдова
+http://cdnworld.magictvbox.eu/NTV_Moldova/index.m3u8?token=token
+#EXTINF:0, TV8
+http://cdnworld.magictvbox.eu/TV7/index.m3u8?token=token
+#EXTINF:0, TVC 21
+http://cdnworld.magictvbox.eu/TVC21/index.m3u8?token=token
 #EXTINF:0, Canal 2
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0, Canal 3
 http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:0, Busuioc TV
+http://cdnworld.magictvbox.eu/BusuiocTV/index.m3u8?token=token
+#EXTINF:0, Noroc TV
+http://cdnworld.magictvbox.eu/Noroc_TV/index.m3u8?token=token
+#EXTINF:0, Popas TV
+http://cdnworld.magictvbox.eu/Popas_TV/index.m3u8?token=token
+#EXTINF:0, Zona M
+http://cdnworld.magictvbox.eu/ZonaM/index.m3u8?token=token
 #EXTINF:0,TV1000 Русское кино
 http://xristo2121.ottv.info/iptv/73KPMK6EF4BK6Y/101/index.m3u8
 #EXTINF:0,Sony Sci-Fi
