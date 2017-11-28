@@ -137,7 +137,25 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/144/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/150/index.m3u8
 #EXTINF:0, Jurnal TV
 http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=token
+#EXTINF:0, PRO TV Chișinău
+http://cdnworld.magictvbox.eu/ProTV_Chisinau/index.m3u8?token=token
+#EXTINF:0, TVR Moldova
+http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=token
+#EXTINF:0, Prime
+http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=token
+#EXTINF:0,Canal 2 HD
+http://cdnworld.magictvbox.eu/Canal2_HD/index.m3u8?token=token
+#EXTINF:0,Canal 3 HD
+http://cdnworld.magictvbox.eu/Canal3_HD/index.m3u8?token=token
+#EXTINF:0, Publika TV
+http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
 #EXTINF:0, Moldova 1
+http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
+#EXTINF:0, Moldova 2
+http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
+#EXTINF:0, Național 4
+http://cdnworld.magictvbox.eu/N4/index.m3u8?token=token
+#EXTINF:0, Noroc TV
 http://cdnworld.magictvbox.eu/Noroc_TV/index.m3u8?token=token
 #EXTINF:0, Popas TV
 http://cdnworld.magictvbox.eu/Popas_TV/index.m3u8?token=token
