@@ -20,6 +20,8 @@ http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
 #EXTINF:0, Național 4
 http://cdnworld.magictvbox.eu/N4/index.m3u8?token=token
+#EXTINF:0, PRO Gold
+http://cdnworld.magictvbox.eu/AcasaTV_Gold/index.m3u8?token=token
 #EXTINF:0, Noroc TV
 http://cdnworld.magictvbox.eu/Noroc_TV/index.m3u8?token=token
 #EXTINF:0,Canal C
