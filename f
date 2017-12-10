@@ -132,6 +132,8 @@ http://cdnworld.magictvbox.eu/Kinoseria/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/Kinosemia/index.m3u8?token=token
 #EXTINF:0,Animal Planet
 http://cdnworld.magictvbox.eu/Animal_Planet/index.m3u8?token=token
+#EXTINF:0,Animal Planet HD
+http://cdnworld.magictvbox.eu/Animal_Planet_HD/index.m3u8?token=token
 #EXTINF:0,Discovery Science
 http://cdnworld.magictvbox.eu/Discovery_Science/index.m3u8?token=token
 #EXTINF:0,Investigation Discovery
