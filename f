@@ -80,6 +80,8 @@ http://cdnworld.magictvbox.eu/24_Tehno/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/Minimax/index.m3u8?token=token
 #EXTINF:0,Cartoon Network
 http://cdnworld.magictvbox.eu/Cartoon_Network/index.m3u8?token=token
+#EXTINF:0,Cartoon Network Russia
+http://cdnworld.magictvbox.eu/Cartoon_Network_RU/index.m3u8?token=token
 #EXTINF:0,Детский
 http://cdnworld.magictvbox.eu/Detskii/index.m3u8?token=token
 #EXTINF:0,GurinelTV
