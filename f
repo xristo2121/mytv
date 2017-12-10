@@ -62,7 +62,7 @@ http://cdnworld.magictvbox.eu/ZeeTV/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/Evrokino/index.m3u8?token=token
 #EXTINF:0,Мир сериалов
 http://cdnworld.magictvbox.eu/Mir_Serialov/index.m3u8?token=token
-#EXTINF:0,Наше кино
+#EXTINF:0,Наше Kино
 http://cdnworld.magictvbox.eu/Nashe_Kino/index.m3u8?token=token
 #EXTINF:0,Илюзион +
 http://cdnworld.magictvbox.eu/Iliuzion+/index.m3u8?token=token
@@ -112,6 +112,8 @@ http://cdnworld.magictvbox.eu/RTV/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/RBK/index.m3u8?token=token
 #EXTINF:0,Интер +
 http://cdnworld.magictvbox.eu/Inter+/index.m3u8?token=token
+#EXTINF:0, 1+1 International
+http://cdnworld.magictvbox.eu/1+1/index.m3u8?token=token
 #EXTINF:0,МИР
 http://cdnworld.magictvbox.eu/Mir/index.m3u8?token=token
 #EXTINF:0,Телекафе
@@ -122,51 +124,79 @@ http://cdnworld.magictvbox.eu/Mir_HD/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/TrinitasTV/index.m3u8?token=token
 #EXTINF:0, Impact TV
 http://cdnworld.magictvbox.eu/Moldova_Sport_HD/index.m3u8?token=token
+#EXTINF:0, Sport 1
+http://cdnworld.magictvbox.eu/Sport_1/index.m3u8?token=token
+#EXTINF:0, Viasat Sport
+http://cdnworld.magictvbox.eu/Viasat_Sport/index.m3u8?token=token
 #EXTINF:0, TV1000
 http://cdnworld.magictvbox.eu/TV1000/index.m3u8?token=token
 #EXTINF:0, TV1000 Action
 http://cdnworld.magictvbox.eu/TV1000_Action/index.m3u8?token=token
+#EXTINF:0, RTVI
+http://cdnworld.magictvbox.eu/RTVi_Europe/index.m3u8?token=token
 #EXTINF:0, Fox HD
 http://cdnworld.magictvbox.eu/Fox_HD/index.m3u8?token=token
 #EXTINF:0, Fox Life HD
 http://cdnworld.magictvbox.eu/Fox_Life_HD/index.m3u8?token=token
 #EXTINF:0,Киносерия
 http://cdnworld.magictvbox.eu/Kinoseria/index.m3u8?token=token
+#EXTINF:0, Родное кино
+http://cdnworld.magictvbox.eu/Rodnoe_Kino/index.m3u8?token=token
+#EXTINF:0, Киносвидание
+http://cdnworld.magictvbox.eu/Kinosvidanie/index.m3u8?token=token
 #EXTINF:0,Киносемья 
 http://cdnworld.magictvbox.eu/Kinosemia/index.m3u8?token=token
+#EXTINF:0, Кинокомедия
+http://cdnworld.magictvbox.eu/Kinokomedia/index.m3u8?token=token
 #EXTINF:0,Animal Planet
 http://cdnworld.magictvbox.eu/Animal_Planet/index.m3u8?token=token
 #EXTINF:0,Animal Planet HD
 http://cdnworld.magictvbox.eu/Animal_Planet_HD/index.m3u8?token=token
 #EXTINF:0,Discovery Science
 http://cdnworld.magictvbox.eu/Discovery_Science/index.m3u8?token=token
+#EXTINF:0,Discovery Science HD
+http://cdnworld.magictvbox.eu/Discovery_Science_HD/index.m3u8?token=token
 #EXTINF:0,Investigation Discovery
 http://cdnworld.magictvbox.eu/Investigation_Discovery/index.m3u8?token=token
 #EXTINF:0,Discovery Channel
 http://cdnworld.magictvbox.eu/Discovery_Channel/index.m3u8?token=token
+#EXTINF:0,Discovery Showcase HD
+http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/index.m3u8?token=token
 #EXTINF:0,Discovery TLC
 http://cdnworld.magictvbox.eu/Discovery_TLC/index.m3u8?token=token
 #EXTINF:0,Nat Geo Wild
 http://cdnworld.magictvbox.eu/Nat_Geo_Wild/index.m3u8?token=token
+EXTINF:0, Nat Geo Wild HD
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/index.m3u8?token=token
 #EXTINF:0,National Geographic
 http://cdnworld.magictvbox.eu/National_Geographic/index.m3u8?token=token
+#EXTINF:0, National Geographic HD
+http://cdnworld.magictvbox.eu/National_Geographic_HD/index.m3u8?token=token
 #EXTINF:0,Viasat Nature
 http://cdnworld.magictvbox.eu/Viasat_Nature/index.m3u8?token=token
+#EXTINF:0, Viasat Nature/History HD
+http://cdnworld.magictvbox.eu/Nature_History_HD/index.m3u8?token=token
 #EXTINF:0,Viasat History
 http://cdnworld.magictvbox.eu/Viasat_History/index.m3u8?token=token
 #EXTINF:0,Viasat Explorer
 http://cdnworld.magictvbox.eu/Viasat_Explorer/index.m3u8?token=token
 #EXTINF:0,Da Vinci Learning
 http://cdnworld.magictvbox.eu/DaVinci_Learning/index.m3u8?token=token
+#EXTINF:0, Драйв
+http://cdnworld.magictvbox.eu/Draiv/index.m3u8?token=token
 #EXTINF:0,Disney Channel
 http://cdnworld.magictvbox.eu/Disney_Channel/index.m3u8?token=token
 #EXTINF:0,Boomerang TV
 http://cdnworld.magictvbox.eu/BoomerangTV/index.m3u8?token=token
 #EXTINF:0,Eurosport Romania
 http://cdnworld.magictvbox.eu/Eurosport_Rom/index.m3u8?token=token
+#EXTINF:0, Eurosport 1 HD
+http://cdnworld.magictvbox.eu/Eurosport_HD/index.m3u8?token=token
 #EXTINF:0,Setanta HD
 http://cdnworld.magictvbox.eu/Setanta_HD/index.m3u8?token=token
 #EXTINF:0,DorcelTV HD
 http://cdnworld.magictvbox.eu/DorcelTV_HD/index.m3u8?token=token
 #EXTINF:0,Private TV
 http://cdnworld.magictvbox.eu/Private_TV/index.m3u8?token=token
+#EXTINF:0, Fashion Television
+http://cdnworld.magictvbox.eu/Fashion_One/index.m3u8?token=token
