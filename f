@@ -164,6 +164,8 @@ http://cdnworld.magictvbox.eu/Disney_Channel/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/BoomerangTV/index.m3u8?token=token
 #EXTINF:0,Eurosport Romania
 http://cdnworld.magictvbox.eu/Eurosport_Rom/index.m3u8?token=token
+#EXTINF:0,Setanta HD
+http://cdnworld.magictvbox.eu/Setanta_HD/index.m3u8?token=token
 #EXTINF:0,DorcelTV HD
 http://cdnworld.magictvbox.eu/DorcelTV_HD/index.m3u8?token=token
 #EXTINF:0,Private TV
