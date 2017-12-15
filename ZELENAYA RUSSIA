@@ -1,0 +1,386 @@
+http://nstreamevo.kumuki.com/4254/STATUS/ZELENAYA51269.m3u
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/376.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/74/channels/1436" ,24 Техно
+http://217.107.196.88:51269/udp/233.12.144.1:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/484.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/16" ,24 Док
+http://217.107.196.88:51269/udp/233.12.144.89:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/9.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/913" ,2х2 
+http://217.107.196.88:51269/udp/233.12.144.2:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/495.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/250" ,365 дней ТВ
+http://217.107.196.88:51269/udp/233.12.144.132:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/637.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1462" ,5 канал UA
+http://217.107.196.88:51269/udp/233.12.144.70:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/499.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/217" ,8 канал
+http://217.107.196.88:51269/udp/233.12.144.81:5050
+#EXTINF:0 tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001519009c77f68b81c898ff061ce85/z" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/1525" ,A-One
+http://217.107.196.88:51269/udp/233.12.144.3:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/833.png" group-title="Фильмы"  ,Amazing life
+http://217.107.196.88:51269/udp/233.12.144.133:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1213.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1371" ,Amedia 1
+http://217.107.196.88:51269/udp/233.12.144.62:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1372.png" group-title="Фильмы"  ,AMEDIA 1 HD
+http://217.107.196.88:51269/udp/233.12.144.134:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/851.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/918" ,Amedia 2
+http://217.107.196.88:51269/udp/233.12.144.181:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1648.png" group-title="Фильмы"  ,AMEDIA HIT HD
+http://217.107.196.88:51269/udp/233.12.144.95:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1152.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1372" ,Amedia Premium HD
+http://217.107.196.88:51269/udp/233.12.144.94:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1472.png" group-title="Познавательные"  tvg-name="mailru_265_1835" ,Animal Family HD
+http://217.107.196.88:51269/udp/233.12.144.135:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/201.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/607" ,Animal planet
+http://217.107.196.88:51269/udp/233.12.144.82:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/730.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/990" ,Animal planet HD
+http://217.107.196.88:51269/udp/233.12.144.136:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1319.png" group-title="Для взрослых"  tvg-name="mailru_265_1759" ,Brazzers TV Europe
+http://217.107.196.88:51269/udp/233.12.144.96:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/28.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/853" ,Bridge TV
+http://217.107.196.88:51269/udp/233.12.144.4:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/134.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/601" ,Cartoon network 
+http://217.107.196.88:51269/udp/233.12.144.137:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/667.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/410" ,Da Vinci Learning
+http://217.107.196.88:51269/udp/233.12.144.100:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1066.png" group-title="Музыкальные"  tvg-name="mailru_265_1716" ,Dange TV
+http://217.107.196.88:51269/udp/233.12.144.97:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/246.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/325" ,Discovery Channel
+http://217.107.196.88:51269/udp/233.12.144.103:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/246.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/1612" ,Discovery HD
+http://217.107.196.88:51269/udp/233.12.144.140:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1357.png" group-title="Познавательные"  tvg-name="mailru_265_1829" ,Discovery Science HD
+http://217.107.196.88:51269/udp/233.12.144.139:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1695.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/1585" ,DTX
+http://217.107.196.88:51269/udp/233.12.144.141:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2165.png" group-title="Региональные"  tvg-name="929" ,English Club TV HD
+http://217.107.196.88:51269/udp/233.12.144.93:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1471.png" group-title="Региональные"  tvg-name="mailru_265_1836" ,Eureka HD
+http://217.107.196.88:51269/udp/233.12.144.142:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/58.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/23" ,Euronews
+http://217.107.196.88:51269/udp/233.12.144.112:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/189.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/681" ,Europa Plus TV
+http://217.107.196.88:51269/udp/233.12.144.143:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1000.png" group-title="Спортивные"  tvg-name="1082" ,Eurosport 2 HD
+http://217.107.196.88:51269/udp/233.12.144.145:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/844.png" group-title="Спортивные"  tvg-name="mailru_256_1607" ,Eurosport News
+http://217.107.196.88:51269/udp/233.12.144.146:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/213.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/661" ,Fashion TV
+http://217.107.196.88:51269/udp/233.12.144.147:5050
+#EXTINF:0 ,Fasion One HD
+http://217.107.196.88:51269/udp/233.12.144.99:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/370.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/659" ,FOX Россия
+http://217.107.196.88:51269/udp/233.12.144.105:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1100.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1031" ,FOX Россия HD
+http://217.107.196.88:51269/udp/233.12.144.148:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/241.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/615" ,Fox Life Россия
+http://217.107.196.88:51269/udp/233.12.144.106:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/444.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/464" ,Fox Life Россия HD
+http://217.107.196.88:51269/udp/233.12.144.149:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/502.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/810" ,Gulli Россия 
+http://217.107.196.88:51269/udp/233.12.144.110:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/55.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/415" ,HD Life
+http://217.107.196.88:51269/udp/233.12.144.150:5050
+#EXTINF:0 tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001568e0917563adf92e39326b5c09d/160x160" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/566" ,Кинопремьера HD
+http://217.107.196.88:51269/udp/233.12.144.6:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1091.png" group-title="Спортивные"  tvg-name="591" ,Матч! Игра HD
+http://217.107.196.88:51269/udp/233.12.144.40:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1153.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/1394" ,History
+http://217.107.196.88:51269/udp/233.12.144.108:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1331.png" group-title="Познавательные"  tvg-name="mailru_256_1798" ,History Россия HD
+http://217.107.196.88:51269/udp/233.12.144.111:5050
+#EXTINF:0 tvg-logo=" http://peers.tv/data/illustrations/ills/2013/12/10/26568/26568555.png" group-title="Для взрослых"  ,Blue Hustler HD
+http://217.107.196.88:51269/udp/233.12.144.151:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1393.png" group-title="Познавательные"  tvg-name="mailru_256_1809" ,ID Xtra (Россия)
+http://217.107.196.88:51269/udp/233.12.144.152:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/45.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/533" ,MCM Top
+http://217.107.196.88:51269/udp/233.12.144.156:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/865.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/575" ,Mezzo
+http://217.107.196.88:51269/udp/233.12.144.154:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/513.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/801" ,Mezzo Live HD
+http://217.107.196.88:51269/udp/233.12.144.153:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1316.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/934" ,MGM HD
+http://217.107.196.88:51269/udp/233.12.144.155:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2078.png" group-title="Музыкальные"  ,MTV Сlassic
+http://217.107.196.88:51269/udp/233.12.144.157:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/187.png" group-title="Музыкальные"  ,MTV HD
+http://217.107.196.88:51269/udp/233.12.144.84:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/453.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/849" ,MTV Hits
+http://217.107.196.88:51269/udp/233.12.144.158:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/455.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/388" ,MTV Rocks
+http://217.107.196.88:51269/udp/233.12.144.86:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/299.png" group-title="Музыкальные"  tvg-name="580" ,myZen.tv HD
+http://217.107.196.88:51269/udp/233.12.144.159:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/408.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/223" ,Nat Geo Wild
+http://217.107.196.88:51269/udp/233.12.144.9:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/259.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/807" ,Nat Geo Wild HD
+http://217.107.196.88:51269/udp/233.12.144.161:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/35.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/102" ,National Geographic
+http://217.107.196.88:51269/udp/233.12.144.10:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/388.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/389" ,National Geographic HD
+http://217.107.196.88:51269/udp/233.12.144.160:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/105.png" group-title="Познавательные"  tvg-name="mailru_256_1721" ,Морской
+http://217.107.196.88:51269/udp/233.12.144.11:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/830.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/917" ,Nick Jr 
+http://217.107.196.88:51269/udp/233.12.144.85:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/8.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/567" ,Nickelodeon 
+http://217.107.196.88:51269/udp/233.12.144.12:5050
+#EXTINF:0 ,Nickelodion HD
+http://217.107.196.88:51269/udp/233.12.144.162:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/520.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/1033" ,Outdoor channel HD
+http://217.107.196.88:51269/udp/233.12.144.163:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1439.png" group-title="Фильмы"  tvg-name="mailru_256_1784" ,Paramount Comedy HD
+http://217.107.196.88:51269/udp/233.12.144.83:5050
+#EXTINF:0 tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a000001519dc878723f5d5d41068f0d4930/z" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/214" ,PRO Business
+http://217.107.196.88:51269/udp/233.12.144.91:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/121.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/18" ,РЕН ТВ
+http://217.107.196.88:51269/udp/233.12.144.18:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1370.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/648" ,Russian Travel Guide HD 
+http://217.107.196.88:51269/udp/233.12.144.131:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/301.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/258" ,RU.TV
+http://217.107.196.88:51269/udp/233.12.144.14:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/493.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/591" ,Rusong TV
+http://217.107.196.88:51269/udp/233.12.144.164:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/863.png" group-title="Новости"  tvg-name="mailru_256_1884" ,Russia Today HD
+http://217.107.196.88:51269/udp/233.12.144.109:5050
+#EXTINF:0 ,Sony Entertaiment Television HD
+http://217.107.196.88:51269/udp/233.12.144.165:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/234.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/516" ,Sony Sci-Fi Россия
+http://217.107.196.88:51269/udp/233.12.144.17:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/841.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/935" ,Sony Turbo
+http://217.107.196.88:51269/udp/233.12.144.16:5050
+#EXTINF:0 ,Sopping Live
+http://217.107.196.88:51269/udp/233.12.144.166:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/792.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/165" ,STV
+http://217.107.196.88:51269/udp/233.12.144.113:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/539.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/331" ,Teletravel HD
+http://217.107.196.88:51269/udp/233.12.144.200:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/141.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/555" ,TiJi Россия 
+http://217.107.196.88:51269/udp/233.12.144.118:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1329.png" group-title="Фильмы"  tvg-name="901" ,TLC HD
+http://217.107.196.88:51269/udp/233.12.144.102:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1473.png" group-title="Спортивные"  tvg-name="1075" ,Trace Urban HD
+http://217.107.196.88:51269/udp/233.12.144.167:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/516.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/124" ,Travel channel HD
+http://217.107.196.88:51269/udp/233.12.144.23:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/42.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/127" ,TV1000
+http://217.107.196.88:51269/udp/233.12.144.168:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/43.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/125" ,TV1000 Action East
+http://217.107.196.88:51269/udp/233.12.144.169:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/535.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1011" ,TV1000 Comedy HD
+http://217.107.196.88:51269/udp/233.12.144.171:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/533.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1012" ,TV1000 Megahit HD
+http://217.107.196.88:51269/udp/233.12.144.172:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/534.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1013" ,TV1000 Premium HD
+http://217.107.196.88:51269/udp/233.12.144.173:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/44.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/267" ,TV1000 Русское кино
+http://217.107.196.88:51269/udp/233.12.144.170:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/70.png" group-title="РАЗНОЕ"  tvg-name="68" ,ТВ XXI
+http://217.107.196.88:51269/udp/233.12.144.174:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/733.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/491" ,VH1 Europe
+http://217.107.196.88:51269/udp/233.12.144.119:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/355.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/332" ,VH 1 Сlassic
+http://217.107.196.88:51269/udp/233.12.144.87:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/40.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/521" ,Viasat Explore
+http://217.107.196.88:51269/udp/233.12.144.175:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/41.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/277" ,Viasat History
+http://217.107.196.88:51269/udp/233.12.144.176:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/423.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/765" ,Viasat Nature
+http://217.107.196.88:51269/udp/233.12.144.177:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/521.png" group-title="Познавательные"  tvg-name="mailru_256_1470" ,Viasat Nature/History HD
+http://217.107.196.88:51269/udp/233.12.144.178:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1218.png" group-title="Спортивные"  tvg-name="mailru_256_1818" ,Viasat Sport HD
+http://217.107.196.88:51269/udp/233.12.144.179:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1692.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1397" ,WBC
+http://217.107.196.88:51269/udp/233.12.144.120:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1362.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/346" ,World Fashion Channel
+http://217.107.196.88:51269/udp/233.12.144.26:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/420.png" group-title="РАЗНОЕ"  tvg-name="http://m.tv.yandex.ru/213/channels/626" ,ZeeTV
+http://217.107.196.88:51269/udp/233.12.144.27:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/231.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/213/channels/153" ,Авто Плюс
+http://217.107.196.88:51269/udp/233.12.144.180:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1351.png" group-title="Мужские"  tvg-name="mailru_256_1786" ,Авто24 HD
+http://217.107.196.88:51269/udp/233.12.144.7:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/6.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/454" ,Матч! Боец
+http://217.107.196.88:51269/udp/233.12.144.182:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/6.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/454" ,Матч! Боец
+http://217.107.196.88:51269/udp/233.12.144.28:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/360.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/669" ,Время
+http://217.107.196.88:51269/udp/233.12.144.29:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1948.png" group-title="Региональные"  tvg-name="mailru_106_852" ,Губерния
+http://217.107.196.88:51269/udp/233.12.144.144:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/136.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/66" ,Детский 
+http://217.107.196.88:51269/udp/233.12.144.30:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/10.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Disney 
+http://217.107.196.88:51269/udp/233.12.144.32:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/326.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/834" ,Дом кино
+http://217.107.196.88:51269/udp/233.12.144.33:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/328.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/520" ,Домашние животные
+http://217.107.196.88:51269/udp/233.12.144.183:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/26.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/304" ,Домашний
+http://217.107.196.88:51269/udp/233.12.144.34:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/706.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/213/channels/505" ,Драйв
+http://217.107.196.88:51269/udp/233.12.144.35:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/302.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/352" ,Еврокино
+http://217.107.196.88:51269/udp/233.12.144.184:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/543.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/930" ,Еда HD
+http://217.107.196.88:51269/udp/233.12.144.185:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/421.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/113" ,Живи!
+http://217.107.196.88:51269/udp/233.12.144.129:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/17.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/405" ,Звезда
+http://217.107.196.88:51269/udp/233.12.144.36:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/374.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/595" ,Здоровое ТВ
+http://217.107.196.88:51269/udp/233.12.144.186:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/496.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/367" ,ZooПарк
+http://217.107.196.88:51269/udp/233.12.144.187:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/811.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/123" ,Иллюзион+
+http://217.107.196.88:51269/udp/233.12.144.38:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/378.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/798" ,Индийское кино
+http://217.107.196.88:51269/udp/233.12.144.188:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1063.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/1036" ,История
+http://217.107.196.88:51269/udp/233.12.144.37:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/317.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/481" ,КХЛ
+http://217.107.196.88:51269/udp/233.12.144.42:5050
+#EXTINF:0 ,КХЛ Live HD
+http://217.107.196.88:51269/udp/233.12.144.189:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/27.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Карусель 
+http://217.107.196.88:51269/udp/233.12.144.39:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/217.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/644" ,Киномикс
+http://217.107.196.88:51269/udp/233.12.144.51:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1286.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1037" ,Кино ТВ
+http://217.107.196.88:51269/udp/233.12.144.88:5050
+#EXTINF:0 tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001568e0cf362c01b385ec1d3425699/160x160" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/462" ,Киносвидание
+http://217.107.196.88:51269/udp/233.12.144.122:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/215.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/542" ,Кинохит
+http://217.107.196.88:51269/udp/233.12.144.123:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/346.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/821" ,Кинокомедия
+http://217.107.196.88:51269/udp/233.12.144.55:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/385.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/54/channels/614" ,Кухня ТВ
+http://217.107.196.88:51269/udp/233.12.144.41:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1884.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1593" ,МАТЧ ТВ
+http://217.107.196.88:51269/udp/233.12.144.20:5050
+#EXTINF:0 tvg-logo="mat_i_dita.png" group-title="Детские"  ,Мать и дитя 
+http://217.107.196.88:51269/udp/233.12.144.43:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/29.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
+http://217.107.196.88:51269/udp/233.12.144.192:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/857.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1331" ,Мир 24
+http://217.107.196.88:51269/udp/233.12.144.44:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1323.png" group-title="Новости"  tvg-name="mailru_256_1973" ,Мир HD
+http://217.107.196.88:51269/udp/233.12.144.90:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/161.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/675" ,Моя планета
+http://217.107.196.88:51269/udp/233.12.144.45:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/222.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/213/channels/82" ,Мужской
+http://217.107.196.88:51269/udp/233.12.144.5:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/18.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/897" ,Муз-ТВ
+http://217.107.196.88:51269/udp/233.12.144.46:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/248.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/715" ,Музыка Первого
+http://217.107.196.88:51269/udp/233.12.144.47:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/139.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/31" ,Мультимания 
+http://217.107.196.88:51269/udp/233.12.144.190:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/542.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/35" ,Нано
+http://217.107.196.88:51269/udp/233.12.144.8:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/16.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/126" ,НТВ
+http://217.107.196.88:51269/udp/233.12.144.24:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/229.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/518" ,НСТ
+http://217.107.196.88:51269/udp/233.12.144.48:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/235.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/723" ,Наука 2.0
+http://217.107.196.88:51269/udp/233.12.144.49:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/762.png" group-title="Спортивные"  tvg-name="889" ,НТВ+ Наш футбол HD
+http://217.107.196.88:51269/udp/233.12.144.104:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/66.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/12" ,Родное кино
+http://217.107.196.88:51269/udp/233.12.144.50:5050
+#EXTINF:0 ,Татарстан - Новый век
+http://217.107.196.88:51269/udp/233.12.144.77:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1019.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/54/channels/1000" ,ОТР
+http://217.107.196.88:51269/udp/233.12.144.53:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/85.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/213/channels/617" ,Охота и рыбалка
+http://217.107.196.88:51269/udp/233.12.144.54:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1268.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/54/channels/1681" ,Охотник и рыболов HD
+http://217.107.196.88:51269/udp/233.12.144.191:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/19.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/1003" ,Пятница
+http://217.107.196.88:51269/udp/233.12.144.58:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/500.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/37" ,Парк развлечений
+http://217.107.196.88:51269/udp/233.12.144.13:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/850.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/774" ,Первый образовательный
+http://217.107.196.88:51269/udp/233.12.144.117:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/536.png" group-title="Общественные"  tvg-name="839" ,Первый HD
+http://217.107.196.88:51269/udp/233.12.144.56:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2153.png" group-title="Общественные"  tvg-name="mailru_256_1755" ,Перец International
+http://217.107.196.88:51269/udp/233.12.144.25:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/332.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/987" ,Киносемья
+http://217.107.196.88:51269/udp/233.12.144.193:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/369.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/434" ,Психология 21
+http://217.107.196.88:51269/udp/233.12.144.194:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/57.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/743" ,РБК ТВ
+http://217.107.196.88:51269/udp/233.12.144.60:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/54.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/638" ,Радость моя 
+http://217.107.196.88:51269/udp/233.12.144.59:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/384.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/363" ,РазТВ
+http://217.107.196.88:51269/udp/233.12.144.195:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1039.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/6" ,Ретро
+http://217.107.196.88:51269/udp/233.12.144.61:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/11.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/711" ,Россия 1
+http://217.107.196.88:51269/udp/233.12.144.19:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/15.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1683" ,Россия 24
+http://217.107.196.88:51269/udp/233.12.144.63:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/551.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/984" ,Россия 1 HD
+http://217.107.196.88:51269/udp/233.12.144.64:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/303.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/750" ,Культура
+http://217.107.196.88:51269/udp/233.12.144.65:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/243.png" group-title="Для взрослых"  tvg-name="mailru_256_1128" ,Русская ночь
+http://217.107.196.88:51269/udp/233.12.144.197:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/768.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/994" ,Русский бестселлер
+http://217.107.196.88:51269/udp/233.12.144.66:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/344.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/53" ,Русский иллюзион
+http://217.107.196.88:51269/udp/233.12.144.67:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/228.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/401" ,Русский роман
+http://217.107.196.88:51269/udp/233.12.144.68:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/394.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/406" ,Русский экстрим
+http://217.107.196.88:51269/udp/233.12.144.127:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/79" ,СТС
+http://217.107.196.88:51269/udp/233.12.144.121:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/177.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/1322" ,СТС Love
+http://217.107.196.88:51269/udp/233.12.144.92:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/538.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/663" ,Сарафан
+http://217.107.196.88:51269/udp/233.12.144.69:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/375.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/275" ,Совершенно секретно
+http://217.107.196.88:51269/udp/233.12.144.198:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/798.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/447" ,Спас
+http://217.107.196.88:51269/udp/233.12.144.21:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/825.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1668" ,Матч! Игра
+http://217.107.196.88:51269/udp/233.12.144.72:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/119.png" group-title="Спортивные"  tvg-name="mailru_256_2124" ,Матч! Арена HD
+http://217.107.196.88:51269/udp/233.12.144.71:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/130.png" group-title="Спортивные"  tvg-name="mailru_256_2120" ,Матч! Наш спорт
+http://217.107.196.88:51269/udp/233.12.144.52:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/335.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/284" ,Страна
+http://217.107.196.88:51269/udp/233.12.144.199:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/21.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/698" ,ТВ-3 Россия
+http://217.107.196.88:51269/udp/233.12.144.74:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/649" ,ТВ Центр
+http://217.107.196.88:51269/udp/233.12.144.128:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/4.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/353" ,ТНТ
+http://217.107.196.88:51269/udp/233.12.144.78:5050
+#EXTINF:0 ,ТНТ Сomedy
+http://217.107.196.88:51269/udp/233.12.144.202:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/859.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/730" ,ТРО 
+http://217.107.196.88:51269/udp/233.12.144.201:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/359.png" group-title="РАЗНОЕ"  tvg-name="http://m.tv.yandex.ru/213/channels/173" ,Телекафе
+http://217.107.196.88:51269/udp/233.12.144.76:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/212.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/747" ,Детский мир 
+http://217.107.196.88:51269/udp/233.12.144.31:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/325.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/779" ,Усадьба
+http://217.107.196.88:51269/udp/233.12.144.79:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/426.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/547" ,Успех
+http://217.107.196.88:51269/udp/233.12.144.124:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/68.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/686" ,Феникс+Кино
+http://217.107.196.88:51269/udp/233.12.144.130:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/371.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/328" ,Футбол
+http://217.107.196.88:51269/udp/233.12.144.125:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/164.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1591" ,Футбол 1 HD
+http://217.107.196.88:51269/udp/233.12.144.75:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/166.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1592" ,Футбол 2 HD
+http://217.107.196.88:51269/udp/233.12.144.57:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/796.png" group-title="Спортивные"  tvg-name="917" ,Матч! Футбол 3 HD
+http://217.107.196.88:51269/udp/233.12.144.126:5050
+#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/471.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/898" ,Ю
+http://217.107.196.88:51269/udp/233.12.144.80:5050
