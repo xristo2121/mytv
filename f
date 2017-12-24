@@ -194,9 +194,5 @@ http://cdnworld.magictvbox.eu/Eurosport_Rom/index.m3u8?token=token
 http://cdnworld.magictvbox.eu/Eurosport_HD/index.m3u8?token=token
 #EXTINF:0,Setanta HD
 http://cdnworld.magictvbox.eu/Setanta_HD/index.m3u8?token=token
-#EXTINF:0,DorcelTV HD
-http://cdnworld.magictvbox.eu/DorcelTV_HD/index.m3u8?token=token
-#EXTINF:0,Private TV
-http://cdnworld.magictvbox.eu/Private_TV/index.m3u8?token=token
 #EXTINF:0, Fashion Television
 http://cdnworld.magictvbox.eu/Fashion_One/index.m3u8?token=token
