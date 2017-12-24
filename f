@@ -1,5 +1,5 @@
 #EXTINF:0, Jurnal TV
-http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=token
+http://flux.jtv.md/jtv-540p.flv
 #EXTINF:0, TV8
 http://cdnworld.magictvbox.eu/TV7/index.m3u8?token=token
 #EXTINF:0, PRO TV Chișinău
