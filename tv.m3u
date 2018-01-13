@@ -35,6 +35,8 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/532/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/704/index.m3u8
 #EXTINF:0,CBS Reality
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/706/index.m3u8
+#EXTINF:0,Морской
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/742/index.m3u8
 #EXTINF:0,ТВ3
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/508/index.m3u8
 #EXTINF:0,Ю ТВ
@@ -47,16 +49,22 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/128/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/520/index.m3u8
 #EXTINF:0,Че
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/513/index.m3u8
+#EXTINF:0,8 канал
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/1057/index.m3u8
 #EXTINF:0,Домашний
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/514/index.m3u8
 #EXTINF:0,Телеканал Звезда
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/544/index.m3u8
+#EXTINF:0,2X2
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/702/index.m3u8
 #EXTINF:0,M1
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/949/index.m3u8
 #EXTINF:0,M2
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/950/index.m3u8
 #EXTINF:0,24 Канал
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/951/index.m3u8
+#EXTINF:0,ТЕТ
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/1009/index.m3u8
 #EXTINF:0,СТБ
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/928/index.m3u8
 #EXTINF:0,Мега
@@ -121,6 +129,8 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/220/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/519/index.m3u8
 #EXTINF:0,Телеканал КХЛ HD
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/215/index.m3u8
+#EXTINF:0,Конный Мир HD
+http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
 #EXTINF:0,Eurosport 1
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/141/index.m3u8
 #EXTINF:0,Eurosport 1 HD
@@ -191,15 +201,17 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/556/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/164/index.m3u8
 #EXTINF:0,AMC
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/557/index.m3u8
+#EXTINF:0,TV 1000 Action
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/131/index.m3u8
 #EXTINF:0,Любимое Кино
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/722/index.m3u8
 #EXTINF:0,КИНОСВИДАНИЕ
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/728/index.m3u8
-#EXTINF:0,Премьера
+#EXTINF:0,КИНОСЕМЬЯ
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/125/index.m3u8
-#EXTINF:0,Наше Кино
+#EXTINF:0,РОДНОЕ КИНО
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/126/index.m3u8
-#EXTINF:0,КИНОСОЮЗ
+#EXTINF:0,КИНОМИКС
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/509/index.m3u8
 #EXTINF:0,Кинохит
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/516/index.m3u8
@@ -209,15 +221,15 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/517/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/521/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/911/index.m3u8
-#EXTINF:0,Комеди ТВ
+#EXTINF:0,ТНТ4
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/104/index.m3u8
 #EXTINF:0,Остросюжетное HD
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/904/index.m3u8
-#EXTINF:0,SONY TB
+#EXTINF:0,Sony Entertainment Television
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/559/index.m3u8
 #EXTINF:0,Sony Turbo
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/708/index.m3u8
-#EXTINF:0,STV
+#EXTINF:0,ЖАРА
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/105/index.m3u8
 #EXTINF:0,TV XXI
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/525/index.m3u8
@@ -227,17 +239,21 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/732/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/542/index.m3u8
 #EXTINF:0,Русская Комедия
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/733/index.m3u8
-#EXTINF:0,Комедия
+#EXTINF:0,КИНОКОМЕДИЯ
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/145/index.m3u8
 #EXTINF:0,Detektiv.tv
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/734/index.m3u8
+#EXTINF:0,FilmBox
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/817/index.m3u8
+#EXTINF:0,Filmbox Arthouse
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/818/index.m3u8
 #EXTINF:0,HD Кино
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/224/index.m3u8
-#EXTINF:0,TV1000 Premium HD
+#EXTINF:0,VIP Premiere
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/202/index.m3u8
-#EXTINF:0,TV1000 Comedy HD
+#EXTINF:0,VIP Comedy
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/200/index.m3u8
-#EXTINF:0,TV1000 Megahit HD
+#EXTINF:0,VIP Megahit
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/201/index.m3u8
 #EXTINF:0,Наш Детектив HD
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/915/index.m3u8
@@ -249,18 +265,22 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/224/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/913/index.m3u8
 #EXTINF:0,Кинопоказ HD2
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/912/index.m3u8
-#EXTINF:0,Индия ТВ
+#EXTINF:0,ИНДИЙСКОЕ КИНО
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/146/index.m3u8
-#EXTINF:0,Bollywood
-http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/719/index.m3u8
+#EXTINF:0,ZEE TV
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/1001/index.m3u8
+#EXTINF:0,КИНОСЕРИЯ
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/148/index.m3u8
 #EXTINF:0,НСТ
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/726/index.m3u8
 #EXTINF:0,Русский Иллюзион
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/547/index.m3u8
-#EXTINF:0,Иллюзион +
+#EXTINF:0,Теленовелла
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/548/index.m3u8
 #EXTINF:0,Еврокино
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/549/index.m3u8
+#EXTINF:0,TV 1000
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/132/index.m3u8
 #EXTINF:0,Fox Russia
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/550/index.m3u8
 #EXTINF:0,Fox Life
@@ -283,6 +303,8 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/117/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/231/index.m3u8
 #EXTINF:0,Наука 2.0
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/118/index.m3u8
+#EXTINF:0,Телеканал Да Винчи
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/537/index.m3u8
 #EXTINF:0,Outdoor Channel
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/119/index.m3u8
 #EXTINF:0,Сов. Секретно
@@ -323,6 +345,8 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/917/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/151/index.m3u8
 #EXTINF:0,Время
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/552/index.m3u8
+#EXTINF:0,Россия-Культура
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/505/index.m3u8
 #EXTINF:0,Домашние Животные
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/158/index.m3u8
 #EXTINF:0,Охотаи Рыбалка
@@ -331,85 +355,99 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/159/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/152/index.m3u8
 #EXTINF:0,Бобёр
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/725/index.m3u8
- #EXTINF:0,Зоопарк
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/731/index.m3u8
- #EXTINF:0,Game Show
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/736/index.m3u8
- #EXTINF:0,Морской
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/742/index.m3u8
- #EXTINF:0,Психология 21
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/532/index.m3u8
- #EXTINF:0,Nickelodeon HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/223/index.m3u8
-  #EXTINF:0,Disney
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/524/index.m3u8
- #EXTINF:0,Детский мир
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/543/index.m3u8
- #EXTINF:0,Jim Jam
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/138/index.m3u8
- #EXTINF:0,Cartoon Network
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/143/index.m3u8
- #EXTINF:0,Карусель
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/156/index.m3u8
- #EXTINF:0,Ani
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/129/index.m3u8
- #EXTINF:0,Мульт
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/909/index.m3u8
- #EXTINF:0,Тлум HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/240/index.m3u8
- #EXTINF:0,Boomerang
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/723/index.m3u8
- #EXTINF:0,О!
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/727/index.m3u8
- #EXTINF:0,Детский
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/730/index.m3u8
- #EXTINF:0,В гостях у сказки
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/737/index.m3u8
- #EXTINF:0,Карусель (+3)
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/740/index.m3u8
- #EXTINF:0,Мультик HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/921/index.m3u8
- #EXTINF:0,Еда HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/918/index.m3u8
- #EXTINF:0,РБК ТВ
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/106/index.m3u8
- #EXTINF:0,МУЗ
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/116/index.m3u8
- #EXTINF:0,Europa Plus TV
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/115/index.m3u8
- #EXTINF:0,ТНТ MUSIC
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/710/index.m3u8
- #EXTINF:0,BRIDGE TV DANCE
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/711/index.m3u8
- #EXTINF:0,RUSONG TV
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/120/index.m3u8
- #EXTINF:0,Bridge TV
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/122/index.m3u8
- #EXTINF:0,BRIDGE HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/236/index.m3u8
- #EXTINF:0,Наше ТВ
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/721/index.m3u8
- #EXTINF:0,VH1 Classic
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/724/index.m3u8
- #EXTINF:0,MTV
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/142/index.m3u8
- #EXTINF:0,MTV Live HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/221/index.m3u8
- #EXTINF:0,MTV Dance
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/558/index.m3u8
- #EXTINF:0,Европа Плюс
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/115/index.m3u8
- #EXTINF:0,MTV Hits
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/153/index.m3u8
- #EXTINF:0,VH1 European
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/536/index.m3u8
- #EXTINF:0,Музыка
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/155/index.m3u8
- #EXTINF:0,Trace Urban HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/235/index.m3u8
- #EXTINF:0,Mezzo Live HD
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/217/index.m3u8
- #EXTINF:0,E!
- http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/901/index.m3u8
+#EXTINF:0,Зоопарк
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/731/index.m3u8
+#EXTINF:0,Game Show
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/736/index.m3u8
+#EXTINF:0,Морской
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/742/index.m3u8
+#EXTINF:0,Психология 21
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/532/index.m3u8
+#EXTINF:0,Доктор
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/512/index.m3u8
+#EXTINF:0,Nickelodeon HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/223/index.m3u8
+#EXTINF:0,Disney
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/524/index.m3u8
+#EXTINF:0,Детский мир
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/543/index.m3u8
+#EXTINF:0,Jim Jam
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/138/index.m3u8
+#EXTINF:0,Cartoon Network
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/143/index.m3u8
+#EXTINF:0,Карусель
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/156/index.m3u8
+#EXTINF:0,Ani
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/129/index.m3u8
+#EXTINF:0,Мульт
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/909/index.m3u8
+#EXTINF:0,Тлум HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/240/index.m3u8
+#EXTINF:0,Boomerang
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/723/index.m3u8
+#EXTINF:0,О!
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/727/index.m3u8
+#EXTINF:0,Детский
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/730/index.m3u8
+#EXTINF:0,В гостях у сказки
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/737/index.m3u8
+#EXTINF:0,Карусель (+3)
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/740/index.m3u8
+#EXTINF:0,Мультик HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/921/index.m3u8
+#EXTINF:0,Еда HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/918/index.m3u8
+#EXTINF:0,РБК ТВ
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/106/index.m3u8
+#EXTINF:0,МУЗ
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/116/index.m3u8
+#EXTINF:0,Europa Plus TV
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/115/index.m3u8
+#EXTINF:0,ТНТ MUSIC
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/710/index.m3u8
+#EXTINF:0,BRIDGE TV DANCE
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/711/index.m3u8
+#EXTINF:0,RUSONG TV
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/120/index.m3u8
+#EXTINF:0,Bridge TV
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/122/index.m3u8
+#EXTINF:0,BRIDGE HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/236/index.m3u8
+#EXTINF:0,360 Tune Box
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/810/index.m3u8
+#EXTINF:0,Наше ТВ
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/721/index.m3u8
+#EXTINF:0,VH1 Classic
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/724/index.m3u8
+#EXTINF:0,MTV
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/142/index.m3u8
+#EXTINF:0,MTV Live HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/221/index.m3u8
+#EXTINF:0,MTV Dance
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/558/index.m3u8
+#EXTINF:0,Европа Плюс
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/115/index.m3u8
+#EXTINF:0,MTV Hits
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/153/index.m3u8
+#EXTINF:0,VH1 European
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/536/index.m3u8
+#EXTINF:0,Музыка
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/155/index.m3u8
+#EXTINF:0,Trace Urban HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/235/index.m3u8
+#EXTINF:0,Mezzo Live HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/217/index.m3u8
+#EXTINF:0,E!
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/901/index.m3u8
 #EXTINF:0,Freeform
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/903/index.m3u8
+#EXTINF:0,FilmBox EN
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/1071/index.m3u8
+#EXTINF:0,Fashiontv EN
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/1010/index.m3u8
+#EXTINF:0,Fashiontv EN HD
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/1011/index.m3u8
+#EXTINF:0,World Fashion Channel
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/1068/index.m3u8
+#EXTINF:0,Gametoon
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/820/index.m3u8
