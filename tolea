@@ -7,14 +7,16 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/127/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/205/index.m3u8
 #EXTINF:0,Россия 1
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/504/index.m3u8
+#EXTINF:0,СТС
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/506/index.m3u8
+#EXTINF:0,ТНТ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/502/index.m3u8
 #EXTINF:0,КВН ТВ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/546/index.m3u8
 #EXTINF:0,Россия 24
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/507/index.m3u8
-#EXTINF:0,ТНТ
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/502/index.m3u8
-#EXTINF:0,СТС
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/506/index.m3u8
+#EXTINF:0,ТНТ HD
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/237/index.m3u8
 #EXTINF:0,СТС Love
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/103/index.m3u8
 #EXTINF:0,Русский бестселлер
@@ -29,10 +31,8 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/503/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/533/index.m3u8
 #EXTINF:0,5 канал (Украина)
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/532/index.m3u8
-#EXTINF:0,Мама
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/704/index.m3u8
-#EXTINF:0,CBS Reality
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/706/index.m3u8
+#EXTINF:0,Морской
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/742/index.m3u8
 #EXTINF:0,ТВ3
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/508/index.m3u8
 #EXTINF:0,Ю ТВ
@@ -41,119 +41,145 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/534/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/113/index.m3u8
 #EXTINF:0,РЕН ТВ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/128/index.m3u8
+#EXTINF:0,Україна
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/809/index.m3u8
 #EXTINF:0,ТВЦ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/520/index.m3u8
-#EXTINF:0,Inter
-http://109.68.40.71:1935/castGeo/smil:inter.smil/playlist.m3u8
 #EXTINF:0,Че
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/513/index.m3u8
+#EXTINF:0,8 канал
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/1057/index.m3u8
 #EXTINF:0,Домашний
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/514/index.m3u8
+#EXTINF:0,Телеканал Звезда
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/544/index.m3u8
+#EXTINF:0,2X2
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/702/index.m3u8
+#EXTINF:0,M1
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/949/index.m3u8
+#EXTINF:0,M2
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/950/index.m3u8
+#EXTINF:0,24 Канал
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/951/index.m3u8
+#EXTINF:0,ТЕТ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/1009/index.m3u8
+#EXTINF:0,СТБ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/928/index.m3u8
+#EXTINF:0,Мега
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/929/index.m3u8
+#EXTINF:0,К1
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/931/index.m3u8
+#EXTINF:0,К2
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/930/index.m3u8
+#EXTINF:0,Enter-фільм
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/933/index.m3u8
+#EXTINF:0,ICTV
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/934/index.m3u8
+#EXTINF:0,Новий Канал
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/935/index.m3u8
+#EXTINF:0,НТН
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/936/index.m3u8
+#EXTINF:0,Iнтер
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/937/index.m3u8
+#EXTINF:0,1+1 International
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/987/index.m3u8
+#EXTINF:0,Lale
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/953/index.m3u8
 #EXTINF:0,НТВ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/501/index.m3u8
-#EXTINF:0,НТВ Мир
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/544/index.m3u8
 #EXTINF:0,НТВ HD 
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/213/index.m3u8
-#EXTINF:0, Jurnal TV
+#EXTINF:0,НТВ Сериал
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/744/index.m3u8
+#EXTINF:0,НТВ Стиль
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/745/index.m3u8
+#EXTINF:0,НТВ Право
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/743/index.m3u8
+#EXTINF:0,Jurnal TV
 http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=token
-#EXTINF:0, Moldova 1
-http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
-#EXTINF:0, Moldova 2
-http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
-#EXTINF:0, Național 4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0, Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:0, PRO TV Chișinău
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0, Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0, Publika TV HD
-http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
-#EXTINF:0, Impact TV
-http://cdnworld.magictvbox.eu/Moldova_Sport_HD/index.m3u8?token=token
-#EXTINF:0, ITV
-http://cdnworld.magictvbox.eu/ITV/index.m3u8?token=token
-#EXTINF:0, Media TV
-http://cdnworld.magictvbox.eu/Media_TV/index.m3u8?token=token
-#EXTINF:0, TVR Moldova
+#EXTINF:0,PRO TV Chișinău
+http://cdnworld.magictvbox.eu/ProTV_Chisinau/index.m3u8?token=token
+#EXTINF:0,TVR Moldova
 http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=token
-#EXTINF:0, СТС Молдова
-http://37.233.27.53:8891
-#EXTINF:0, ТНТ Exclusiv TV
-http://cdnworld.magictvbox.eu/Exclusiv_TNT/index.m3u8?token=token
-#EXTINF:0, РЕН ТВ Молдова
-http://cdnworld.magictvbox.eu/RenTV_Moldova/index.m3u8?token=token
-#EXTINF:0, НТВ Молдова
-http://cdnworld.magictvbox.eu/NTV_Moldova/index.m3u8?token=token
-#EXTINF:0, TV8
-http://cdnworld.magictvbox.eu/TV7/index.m3u8?token=token
-#EXTINF:0, TVC 21
-http://cdnworld.magictvbox.eu/TVC21/index.m3u8?token=token
-#EXTINF:0, Canal 2
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:0, Canal 3
-http://109.185.159.215:4011/udp/239.100.0.14:5656
-#EXTINF:0, Busuioc TV
-http://cdnworld.magictvbox.eu/BusuiocTV/index.m3u8?token=token
-#EXTINF:0, Noroc TV
+#EXTINF:0,Prime
+http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=token
+#EXTINF:0,Canal 2 HD
+http://cdnworld.magictvbox.eu/Canal2_HD/index.m3u8?token=token
+#EXTINF:0,Canal 3 HD
+http://cdnworld.magictvbox.eu/Canal3_HD/index.m3u8?token=token
+#EXTINF:0,Publika TV
+http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
+#EXTINF:0,Moldova 1
+http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
+#EXTINF:0,Moldova 2
+http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
+#EXTINF:0,Național 4
+http://cdnworld.magictvbox.eu/N4/index.m3u8?token=token
+#EXTINF:0,Noroc TV
 http://cdnworld.magictvbox.eu/Noroc_TV/index.m3u8?token=token
-#EXTINF:0, Popas TV
+#EXTINF:0,Popas TV
 http://cdnworld.magictvbox.eu/Popas_TV/index.m3u8?token=token
-#EXTINF:0, Zona M
+#EXTINF:0,Zona M
 http://cdnworld.magictvbox.eu/ZonaM/index.m3u8?token=token
-#EXTINF:0,МАТЧ ТВ HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/212/index.m3u8
+#EXTINF:0,Disney Channel
+http://cdnworld.magictvbox.eu/Disney_Channel/index.m3u8?token=token
+#EXTINF:0,Матч! HD
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/212/index.m3u8
 #EXTINF:0,Матч ТВ
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/535/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/535/index.m3u8
 #EXTINF:0,Матч! Наш спорт
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/107/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/107/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/528/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/528/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/207/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/207/index.m3u8
 #EXTINF:0,МАТЧ! ИГРА
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/529/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/529/index.m3u8
 #EXTINF:0,Матч! Игра HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/225/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/225/index.m3u8
 #EXTINF:0,Матч! Футбол 1
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/124/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/124/index.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/222/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/222/index.m3u8
 #EXTINF:0,Матч! Футбол 2
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/530/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/530/index.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/211/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/211/index.m3u8
 #EXTINF:0,Матч! Футбол 3
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/522/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/522/index.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/206/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/206/index.m3u8
 #EXTINF:0,Наш футбол HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/220/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/220/index.m3u8
 #EXTINF:0,KHL
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/519/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/519/index.m3u8
 #EXTINF:0,Телеканал КХЛ HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/215/index.m3u8
-#EXTINF:0,Viasat Sport
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/160/index.m3u8
-#EXTINF:0,Viasat Sport HD
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/208/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/215/index.m3u8
+#EXTINF:0,Конный Мир HD
+http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
+#EXTINF:0,Eurosport 1
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/141/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/228/index.m3u8
-#EXTINF:0,Eurosport
-http://fr234.edem.tv/iptv/PG8P4S32YXX4RH/141/index.m3u8
-#EXTINF:0,Eurosport 2
-http://fr234.edem.tv/iptv/PG8P4S32YXX4RH/539/index.m3u8
-#EXTINF:-1,Trace Sport Stars
-http://xristo2121.iptvzone.net/iptv/PG8P4S32YXX4RH/234/index.m3u8
+#EXTINF:0,Viasat Sport
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/160/index.m3u8
+#EXTINF:0,Viasat Sport HD
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/208/index.m3u8
+#EXTINF:1,Trace Sport Stars
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/234/index.m3u8
 #EXTINF:0,Extreme Sports
-http://fr234.edem.tv/iptv/PG8P4S32YXX4RH/144/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/144/index.m3u8
 #EXTINF:0,Боец
-http://fr234.edem.tv/iptv/PG8P4S32YXX4RH/150/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/150/index.m3u8
+#EXTINF:0,Eurosport Romania
+http://cdnworld.magictvbox.eu/Eurosport_Rom/index.m3u8?token=token
+#EXTINF:0, Eurosport 1 HD
+http://cdnworld.magictvbox.eu/Eurosport_HD/index.m3u8?token=token
+#EXTINF:0,Setanta HD
+http://cdnworld.magictvbox.eu/Setanta_HD/index.m3u8?token=token
 #EXTINF:0,TV1000 Русское кино
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/101/index.m3u8
-#EXTINF:0,Sony Sci-Fi
+#EXTINF:0,Sony SciFi
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/110/index.m3u8
 #EXTINF:0,MGM HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/209/index.m3u8
@@ -173,11 +199,17 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/556/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/164/index.m3u8
 #EXTINF:0,AMC
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/557/index.m3u8
-#EXTINF:0,Премьера
+#EXTINF:0,TV 1000 Action
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/131/index.m3u8
+#EXTINF:0,Любимое Кино
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/722/index.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/728/index.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/125/index.m3u8
-#EXTINF:0,Наше Кино
+#EXTINF:0,РОДНОЕ КИНО
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/126/index.m3u8
-#EXTINF:0,КИНОСОЮЗ
+#EXTINF:0,КИНОМИКС
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/509/index.m3u8
 #EXTINF:0,Кинохит
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/516/index.m3u8
@@ -187,29 +219,41 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/517/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/521/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/911/index.m3u8
-#EXTINF:0,Комеди ТВ
+#EXTINF:0,ТНТ4
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/104/index.m3u8
 #EXTINF:0,Остросюжетное HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/904/index.m3u8
-#EXTINF:0,SONY TB
+#EXTINF:0,Sony Entertainment Television
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/559/index.m3u8
 #EXTINF:0,Sony Turbo
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/708/index.m3u8
-#EXTINF:0,STV
+#EXTINF:0,ЖАРА
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/105/index.m3u8
+#EXTINF:0,CBS Reality
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/706/index.m3u8
 #EXTINF:0,TV XXI
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/525/index.m3u8
+#EXTINF:0,КИНО ТВ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/732/index.m3u8
 #EXTINF:0,Universal Channel
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/542/index.m3u8
-#EXTINF:0,Комедия
+#EXTINF:0,Русская Комедия
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/733/index.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/145/index.m3u8
+#EXTINF:0,Detektiv.tv
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/734/index.m3u8
+#EXTINF:0,FilmBox
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/817/index.m3u8
+#EXTINF:0,Filmbox Arthouse
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/818/index.m3u8
 #EXTINF:0,HD Кино
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/224/index.m3u8
-#EXTINF:0,TV1000 Premium HD
+#EXTINF:0,VIP Premiere
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/202/index.m3u8
-#EXTINF:0,TV1000 Comedy HD
+#EXTINF:0,VIP Comedy
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/200/index.m3u8
-#EXTINF:0,TV1000 Megahit HD
+#EXTINF:0,VIP Megahit
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/201/index.m3u8
 #EXTINF:0,Наш Детектив HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/915/index.m3u8
@@ -217,18 +261,26 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/915/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/914/index.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/224/index.m3u8
-#EXTINF:0,Кинопоказ HD-1
+#EXTINF:0,Кинопоказ HD1
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/913/index.m3u8
-#EXTINF:0,Кинопоказ HD-2
+#EXTINF:0,Кинопоказ HD2
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/912/index.m3u8
-#EXTINF:0,Индия ТВ
+#EXTINF:0,ИНДИЙСКОЕ КИНО
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/146/index.m3u8
+#EXTINF:0,ZEE TV
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/1001/index.m3u8
+#EXTINF:0,КИНОСЕРИЯ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/148/index.m3u8
+#EXTINF:0,НСТ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/726/index.m3u8
 #EXTINF:0,Русский Иллюзион
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/547/index.m3u8
-#EXTINF:0,Иллюзион +
+#EXTINF:0,Теленовелла
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/548/index.m3u8
 #EXTINF:0,Еврокино
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/549/index.m3u8
+#EXTINF:0,TV 1000
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/132/index.m3u8
 #EXTINF:0,Fox Russia
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/550/index.m3u8
 #EXTINF:0,Fox Life
@@ -237,8 +289,6 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/553/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/920/index.m3u8
 #EXTINF:0,Paramount Comedy Russia
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/157/index.m3u8
-#EXTINF:0,Nickelodeon HD
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/223/index.m3u8
 #EXTINF:0,Дом Кино
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/154/index.m3u8
 #EXTINF:0,Viasat Nature/History HD
@@ -253,6 +303,8 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/117/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/231/index.m3u8
 #EXTINF:0,Наука 2.0
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/118/index.m3u8
+#EXTINF:0,Телеканал Да Винчи
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/537/index.m3u8
 #EXTINF:0,Outdoor Channel
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/119/index.m3u8
 #EXTINF:0,Сов. Секретно
@@ -293,12 +345,56 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/917/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/151/index.m3u8
 #EXTINF:0,Время
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/552/index.m3u8
+#EXTINF:0,Россия-Культура
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/505/index.m3u8
 #EXTINF:0,Домашние Животные
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/158/index.m3u8
-#EXTINF:0,Охота и Рыбалка
+#EXTINF:0,Охотаи Рыбалка
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/159/index.m3u8
 #EXTINF:0,Кухня ТВ
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/152/index.m3u8
+#EXTINF:0,Бобёр
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/725/index.m3u8
+#EXTINF:0,Зоопарк
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/731/index.m3u8
+#EXTINF:0,Game Show
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/736/index.m3u8
+#EXTINF:0,Морской
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/742/index.m3u8
+#EXTINF:0,Психология 21
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/532/index.m3u8
+#EXTINF:0,Доктор
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/512/index.m3u8
+#EXTINF:0,Nickelodeon HD
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/223/index.m3u8
+#EXTINF:0,Disney
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/524/index.m3u8
+#EXTINF:0,Детский мир
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/543/index.m3u8
+#EXTINF:0,Jim Jam
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/138/index.m3u8
+#EXTINF:0,Cartoon Network
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/143/index.m3u8
+#EXTINF:0,Карусель
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/156/index.m3u8
+#EXTINF:0,Ani
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/129/index.m3u8
+#EXTINF:0,Мульт
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/909/index.m3u8
+#EXTINF:0,Тлум HD
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/240/index.m3u8
+#EXTINF:0,Boomerang
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/723/index.m3u8
+#EXTINF:0,О!
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/727/index.m3u8
+#EXTINF:0,Детский
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/730/index.m3u8
+#EXTINF:0,В гостях у сказки
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/737/index.m3u8
+#EXTINF:0,Карусель (+3)
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/740/index.m3u8
+#EXTINF:0,Мультик HD
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/921/index.m3u8
 #EXTINF:0,Еда HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/918/index.m3u8
 #EXTINF:0,РБК ТВ
@@ -307,10 +403,22 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/106/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/116/index.m3u8
 #EXTINF:0,Europa Plus TV
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/115/index.m3u8
+#EXTINF:0,ТНТ MUSIC
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/710/index.m3u8
+#EXTINF:0,BRIDGE TV DANCE
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/711/index.m3u8
 #EXTINF:0,RUSONG TV
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/120/index.m3u8
 #EXTINF:0,Bridge TV
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/122/index.m3u8
+#EXTINF:0,BRIDGE HD
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/236/index.m3u8
+#EXTINF:0,360 Tune Box
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/810/index.m3u8
+#EXTINF:0,Наше ТВ
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/721/index.m3u8
+#EXTINF:0,VH1 Classic
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/724/index.m3u8
 #EXTINF:0,MTV
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/142/index.m3u8
 #EXTINF:0,MTV Live HD
@@ -329,15 +437,5 @@ http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/155/index.m3u8
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/235/index.m3u8
 #EXTINF:0,Mezzo Live HD
 http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/217/index.m3u8
-#EXTINF:0 parent-code="0000",Эгоист
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/526/index.m3u8
-#EXTINF:0 parent-code="0000",Playboy
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/527/index.m3u8
-#EXTINF:0 parent-code="0000",Русская Ночь
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/147/index.m3u8
-#EXTINF:0 parent-code="0000",Brazzers TV Europe
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/910/index.m3u8
-#EXTINF:0 parent-code="0000",Искушение HD
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/919/index.m3u8
 #EXTINF:0,E!
-http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/919/index.m3u8
+http://tolea2121.iptvzone.net/iptv/PG8P4S32YXX4RH/901/index.m3u8
