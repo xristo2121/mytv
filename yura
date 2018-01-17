@@ -35,6 +35,8 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/532/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/704/index.m3u8
 #EXTINF:0,CBS Reality
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/706/index.m3u8
+#EXTINF:0,Морской
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/742/index.m3u8
 #EXTINF:0,ТВ3
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/508/index.m3u8
 #EXTINF:0,Ю ТВ
@@ -47,16 +49,24 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/128/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/520/index.m3u8
 #EXTINF:0,Че
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/513/index.m3u8
+#EXTINF:0,8 канал
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/1057/index.m3u8
 #EXTINF:0,Домашний
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/514/index.m3u8
 #EXTINF:0,Телеканал Звезда
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/544/index.m3u8
+#EXTINF:0,Україна
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/809/index.m3u8
+#EXTINF:0,2X2
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/702/index.m3u8
 #EXTINF:0,M1
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/949/index.m3u8
 #EXTINF:0,M2
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/950/index.m3u8
 #EXTINF:0,24 Канал
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/951/index.m3u8
+#EXTINF:0,ТЕТ
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/1009/index.m3u8
 #EXTINF:0,СТБ
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/928/index.m3u8
 #EXTINF:0,Мега
@@ -91,55 +101,35 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/745/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/743/index.m3u8
 #EXTINF:0, Jurnal TV
 http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=token
+#EXTINF:0, PRO TV Chișinău
+http://cdnworld.magictvbox.eu/ProTV_Chisinau/index.m3u8?token=token
+#EXTINF:0, TVR Moldova
+http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=token
+#EXTINF:0, Prime
+http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=token
+#EXTINF:0,Canal 2 HD
+http://cdnworld.magictvbox.eu/Canal2_HD/index.m3u8?token=token
+#EXTINF:0,Canal 3 HD
+http://cdnworld.magictvbox.eu/Canal3_HD/index.m3u8?token=token
+#EXTINF:0, Publika TV
+http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
 #EXTINF:0, Moldova 1
 http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
 #EXTINF:0, Moldova 2
 http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
 #EXTINF:0, Național 4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0, Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:0, PRO TV Chișinău
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0, Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0, Publika TV HD
-http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
-#EXTINF:0, Impact TV
-http://cdnworld.magictvbox.eu/Moldova_Sport_HD/index.m3u8?token=token
-#EXTINF:0, ITV
-http://cdnworld.magictvbox.eu/ITV/index.m3u8?token=token
-#EXTINF:0, Media TV
-http://cdnworld.magictvbox.eu/Media_TV/index.m3u8?token=token
-#EXTINF:0, TVR Moldova
-http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=token
-#EXTINF:0, СТС Молдова
-http://37.233.27.53:8891
-#EXTINF:0, ТНТ Exclusiv TV
-http://cdnworld.magictvbox.eu/Exclusiv_TNT/index.m3u8?token=token
-#EXTINF:0, РЕН ТВ Молдова
-http://cdnworld.magictvbox.eu/RenTV_Moldova/index.m3u8?token=token
-#EXTINF:0, НТВ Молдова
-http://cdnworld.magictvbox.eu/NTV_Moldova/index.m3u8?token=token
-#EXTINF:0, TV8
-http://cdnworld.magictvbox.eu/TV7/index.m3u8?token=token
-#EXTINF:0, TVC 21
-http://cdnworld.magictvbox.eu/TVC21/index.m3u8?token=token
-#EXTINF:0, Canal 2
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:0, Canal 3
-http://109.185.159.215:4011/udp/239.100.0.14:5656
-#EXTINF:0, Busuioc TV
-http://cdnworld.magictvbox.eu/BusuiocTV/index.m3u8?token=token
+http://cdnworld.magictvbox.eu/N4/index.m3u8?token=token
 #EXTINF:0, Noroc TV
 http://cdnworld.magictvbox.eu/Noroc_TV/index.m3u8?token=token
 #EXTINF:0, Popas TV
 http://cdnworld.magictvbox.eu/Popas_TV/index.m3u8?token=token
 #EXTINF:0, Zona M
 http://cdnworld.magictvbox.eu/ZonaM/index.m3u8?token=token
+#EXTINF:0,Disney Channel
+http://cdnworld.magictvbox.eu/Disney_Channel/index.m3u8?token=token
 #EXTINF:0,TV1000 Русское кино
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/101/index.m3u8
-#EXTINF:0,Sony Sci-Fi
+#EXTINF:0,Sony SciFi
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/110/index.m3u8
 #EXTINF:0,MGM HD
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/209/index.m3u8
@@ -159,15 +149,17 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/556/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/164/index.m3u8
 #EXTINF:0,AMC
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/557/index.m3u8
+#EXTINF:0,TV 1000 Action
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/131/index.m3u8
 #EXTINF:0,Любимое Кино
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/722/index.m3u8
 #EXTINF:0,КИНОСВИДАНИЕ
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/728/index.m3u8
-#EXTINF:0,Премьера
+#EXTINF:0,КИНОСЕМЬЯ
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/125/index.m3u8
-#EXTINF:0,Наше Кино
+#EXTINF:0,РОДНОЕ КИНО
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/126/index.m3u8
-#EXTINF:0,КИНОСОЮЗ
+#EXTINF:0,КИНОМИКС
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/509/index.m3u8
 #EXTINF:0,Кинохит
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/516/index.m3u8
@@ -177,15 +169,15 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/517/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/521/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/911/index.m3u8
-#EXTINF:0,Комеди ТВ
+#EXTINF:0,ТНТ4
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/104/index.m3u8
 #EXTINF:0,Остросюжетное HD
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/904/index.m3u8
-#EXTINF:0,SONY TB
+#EXTINF:0,Sony Entertainment Television
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/559/index.m3u8
 #EXTINF:0,Sony Turbo
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/708/index.m3u8
-#EXTINF:0,STV
+#EXTINF:0,ЖАРА
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/105/index.m3u8
 #EXTINF:0,TV XXI
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/525/index.m3u8
@@ -195,17 +187,21 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/732/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/542/index.m3u8
 #EXTINF:0,Русская Комедия
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/733/index.m3u8
-#EXTINF:0,Комедия
+#EXTINF:0,КИНОКОМЕДИЯ
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/145/index.m3u8
 #EXTINF:0,Detektiv.tv
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/734/index.m3u8
+#EXTINF:0,FilmBox
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/817/index.m3u8
+#EXTINF:0,Filmbox Arthouse
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/818/index.m3u8
 #EXTINF:0,HD Кино
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/224/index.m3u8
-#EXTINF:0,TV1000 Premium HD
+#EXTINF:0,VIP Premiere
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/202/index.m3u8
-#EXTINF:0,TV1000 Comedy HD
+#EXTINF:0,VIP Comedy
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/200/index.m3u8
-#EXTINF:0,TV1000 Megahit HD
+#EXTINF:0,VIP Megahit
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/201/index.m3u8
 #EXTINF:0,Наш Детектив HD
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/915/index.m3u8
@@ -213,22 +209,26 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/915/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/914/index.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/224/index.m3u8
-#EXTINF:0,Кинопоказ HD-1
+#EXTINF:0,Кинопоказ HD1
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/913/index.m3u8
-#EXTINF:0,Кинопоказ HD-2
+#EXTINF:0,Кинопоказ HD2
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/912/index.m3u8
-#EXTINF:0,Индия ТВ
+#EXTINF:0,ИНДИЙСКОЕ КИНО
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/146/index.m3u8
-#EXTINF:0,Bollywood
-http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/719/index.m3u8
+#EXTINF:0,ZEE TV
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/1001/index.m3u8
+#EXTINF:0,КИНОСЕРИЯ
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/148/index.m3u8
 #EXTINF:0,НСТ
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/726/index.m3u8
 #EXTINF:0,Русский Иллюзион
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/547/index.m3u8
-#EXTINF:0,Иллюзион +
+#EXTINF:0,Теленовелла
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/548/index.m3u8
 #EXTINF:0,Еврокино
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/549/index.m3u8
+#EXTINF:0,TV 1000
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/132/index.m3u8
 #EXTINF:0,Fox Russia
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/550/index.m3u8
 #EXTINF:0,Fox Life
@@ -251,6 +251,8 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/117/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/231/index.m3u8
 #EXTINF:0,Наука 2.0
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/118/index.m3u8
+#EXTINF:0,Телеканал Да Винчи
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/537/index.m3u8
 #EXTINF:0,Outdoor Channel
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/119/index.m3u8
 #EXTINF:0,Сов. Секретно
@@ -291,9 +293,11 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/917/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/151/index.m3u8
 #EXTINF:0,Время
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/552/index.m3u8
+#EXTINF:0,Россия-Культура
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/505/index.m3u8
 #EXTINF:0,Домашние Животные
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/158/index.m3u8
-#EXTINF:0,Охота и Рыбалка
+#EXTINF:0,Охотаи Рыбалка
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/159/index.m3u8
 #EXTINF:0,Кухня ТВ
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/152/index.m3u8
@@ -307,6 +311,8 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/736/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/742/index.m3u8
 #EXTINF:0,Психология 21
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/532/index.m3u8
+#EXTINF:0,Доктор
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/512/index.m3u8
 #EXTINF:0,Nickelodeon HD
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/223/index.m3u8
 #EXTINF:0,Disney
@@ -355,6 +361,8 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/120/index.m3u8
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/122/index.m3u8
 #EXTINF:0,BRIDGE HD
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/236/index.m3u8
+#EXTINF:0,360 Tune Box
+http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/810/index.m3u8
 #EXTINF:0,Наше ТВ
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/721/index.m3u8
 #EXTINF:0,VH1 Classic
