@@ -96,33 +96,27 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/745/index.m3u8
 #EXTINF:0,НТВ Право
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/743/index.m3u8
 #EXTINF:0,Jurnal TV
-http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=token
+http://37.233.27.53:8896
 #EXTINF:0,PRO TV Chișinău
-http://cdnworld.magictvbox.eu/ProTV_Chisinau/index.m3u8?token=token
-#EXTINF:0,TVR Moldova
-http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=token
+http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0,Prime
-http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=token
+http://37.233.27.53:8894
 #EXTINF:0,Canal 2 HD
-http://cdnworld.magictvbox.eu/Canal2_HD/index.m3u8?token=token
+http://37.233.27.53:8885
 #EXTINF:0,Canal 3 HD
-http://cdnworld.magictvbox.eu/Canal3_HD/index.m3u8?token=token
+http://37.233.27.53:8893
 #EXTINF:0,Publika TV
-http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
+http://livebeta.publika.md/LIVE/P/1000.m3u8
 #EXTINF:0,Moldova 1
-http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
+rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0,Moldova 2
-http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
+rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0,Național 4
-http://cdnworld.magictvbox.eu/N4/index.m3u8?token=token
-#EXTINF:0,Noroc TV
-http://cdnworld.magictvbox.eu/Noroc_TV/index.m3u8?token=token
-#EXTINF:0,Popas TV
-http://cdnworld.magictvbox.eu/Popas_TV/index.m3u8?token=token
-#EXTINF:0,Zona M
-http://cdnworld.magictvbox.eu/ZonaM/index.m3u8?token=token
+http://37.233.27.53:8884
+#EXTINF:0,TVR Moldova
+http://37.233.27.53:8883
 #EXTINF:0,Disney Channel
-http://cdnworld.magictvbox.eu/Disney_Channel/index.m3u8?token=token
+http://89.28.21.89/Disney_Channel/index.m3u8?token=token
 #EXTINF:0,TV1000 Русское кино
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/101/index.m3u8
 #EXTINF:0,Sony SciFi
