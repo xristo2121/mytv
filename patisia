@@ -96,7 +96,7 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/745/index.m3u8
 #EXTINF:0,НТВ Право
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/743/index.m3u8
 #EXTINF:0,Jurnal TV
-http://109.185.159.215:4011/udp/239.100.0.4:5656
+ http://flux.jtv.md/jtv-540p.flv
 #EXTINF:0,PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0,Prime
