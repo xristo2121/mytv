@@ -96,15 +96,13 @@ http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/745/index.m3u8
 #EXTINF:0,НТВ Право
 http://yura2121.iptvbot.biz/iptv/UUFDKLWRFKPRCB/743/index.m3u8
 #EXTINF:0,Jurnal TV
-http://37.233.27.53:8896
+http://109.185.159.215:4011/udp/239.100.0.4:5656
 #EXTINF:0,PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0,Prime
-http://37.233.27.53:8894
+http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0,Canal 2 HD
-http://37.233.27.53:8885
-#EXTINF:0,Canal 3 HD
-http://37.233.27.53:8893
+http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0,Publika TV
 http://livebeta.publika.md/LIVE/P/1000.m3u8
 #EXTINF:0,Moldova 1
@@ -112,9 +110,7 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0,Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0,Național 4
-http://37.233.27.53:8884
-#EXTINF:0,TVR Moldova
-http://37.233.27.53:8883
+http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:0,Disney Channel
 http://89.28.21.89/Disney_Channel/index.m3u8?token=token
 #EXTINF:0,TV1000 Русское кино
