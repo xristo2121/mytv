@@ -157,18 +157,18 @@ http://cdnworld.magictvbox.eu/Setanta_HD/index.m3u8?token=token
  http://flux.jtv.md/jtv-540p.flv
 #EXTINF:0,PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0,Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:0,Canal 2 HD
-http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0,Publika TV
 http://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:0,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0,Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0,Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0,Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:0,Canal 2 HD
+http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0,TV1000 Русское кино
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/101/index.m3u8
 #EXTINF:0,Sony SciFi
