@@ -111,8 +111,6 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0,Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0,Disney Channel
-http://89.28.21.89/Disney_Channel/index.m3u8?token=token
 #EXTINF:0,TV1000 Русское кино
 http://yura2121.iptvbot.biz/iptv/PG8P4S32YXX4RH/101/index.m3u8
 #EXTINF:0,Sony SciFi
