@@ -136,7 +136,7 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/220/index.m3u8
 #EXTINF:0 tvg-id="kxl" group-title="Channels",KHL
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/519/index.m3u8
 #EXTINF:0 tvg-id="kxl-hd" group-title="Channels",Телеканал КХЛ HD
-http://live.hdmu-tv.online:8085/live/fpu4SIxFLc/N8cy0DJnAe/458.ts
+http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/215/index.m3u8
 #EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир HD
 http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
 #EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
