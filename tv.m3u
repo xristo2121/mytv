@@ -99,6 +99,12 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/744/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/743/index.m3u8
+#EXTINF:-1,Digi Sport 1
+http://live.hdmu-tv.online:8085/live/fpu4SIxFLc/N8cy0DJnAe/2194.ts
+#EXTINF:-1,Digi Sport 2
+http://live.hdmu-tv.online:8085/live/fpu4SIxFLc/N8cy0DJnAe/2193.ts
+#EXTINF:-1,Digi Sport 3
+http://live.hdmu-tv.online:8085/live/fpu4SIxFLc/N8cy0DJnAe/2192.ts
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/212/index.m3u8
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
