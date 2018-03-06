@@ -99,12 +99,20 @@ http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/744/index.m3u8
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/743/index.m3u8
-#EXTINF:-1,Digi Sport 1
-http://live.hdmu-tv.online:8085/live/fpu4SIxFLc/N8cy0DJnAe/2194.ts
-#EXTINF:-1,Digi Sport 2
-http://live.hdmu-tv.online:8085/live/fpu4SIxFLc/N8cy0DJnAe/2193.ts
-#EXTINF:-1,Digi Sport 3
-http://live.hdmu-tv.online:8085/live/fpu4SIxFLc/N8cy0DJnAe/2192.ts
+#EXTINF:0,DIGI Sport 1 HD RO
+http://srv1.telek.me:8080/1991/3565/9af73081d2515e15317e270ed759ccc558d51664
+#EXTINF:0,DIGI Sport 2 HD RO
+http://srv1.telek.me:8080/2429/3565/9af73081d2515e15317e270ed759ccc558d51664
+#EXTINF:0,DIGI Sport 3 HD RO
+http://srv1.telek.me:8080/2193/3565/9af73081d2515e15317e270ed759ccc558d51664
+#EXTINF:0,DIGI Sport 4
+http://srv1.telek.me:8080/2425/3565/9af73081d2515e15317e270ed759ccc558d51664
+#EXTINF:0,Dolce Sport 5 RO
+http://srv1.telek.me:8080/2168/3565/9af73081d2515e15317e270ed759ccc558d51664
+#EXTINF:0,Dolce Sport 6 RO
+http://srv1.telek.me:8080/2430/3565/9af73081d2515e15317e270ed759ccc558d51664
+#EXTINF:0 tvg-id="CanalPlusFutbol.es",C+ F.TBOL HD ES
+http://srv1.telek.me:8080/2411/3565/9af73081d2515e15317e270ed759ccc558d51664
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/LBNLPK8Y25D55L/212/index.m3u8
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
