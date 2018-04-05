@@ -104,55 +104,53 @@ rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0,Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/212/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/212/index.m3u8
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/535/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/535/index.m3u8
 #EXTINF:0 tvg-id="sport-plus" group-title="Channels",Матч! Наш спорт
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/107/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/107/index.m3u8
 #EXTINF:0 tvg-id="sport1_rus" group-title="Channels",МАТЧ! АРЕНА
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/528/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/528/index.m3u8
 #EXTINF:0 tvg-id="sport1_hd" group-title="Channels",МАТЧ! АРЕНА HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/207/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/207/index.m3u8
 #EXTINF:0 tvg-id="sport2_rus" group-title="Channels",МАТЧ! ИГРА
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/529/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/529/index.m3u8
 #EXTINF:0 tvg-id="hd-sport" group-title="Channels",Матч! Игра HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/225/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/225/index.m3u8
 #EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/124/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/124/index.m3u8
 #EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1 HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/222/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/222/index.m3u8
 #EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/530/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/530/index.m3u8
 #EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",МАТЧ! ФУТБОЛ 2 HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/211/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/211/index.m3u8
 #EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/522/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/522/index.m3u8
 #EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",МАТЧ! ФУТБОЛ 3 HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/206/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/206/index.m3u8
 #EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",Наш футбол HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/220/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/220/index.m3u8
 #EXTINF:0 tvg-id="kxl" group-title="Channels",KHL
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/519/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/519/index.m3u8
 #EXTINF:0 tvg-id="kxl-hd" group-title="Channels",Телеканал КХЛ HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/215/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/215/index.m3u8
 #EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир HD
 http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
 #EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/141/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/141/index.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/228/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/228/index.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/160/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/160/index.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport HD
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/208/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/208/index.m3u8
 #EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",Trace Sport Stars
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/234/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/234/index.m3u8
 #EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/144/index.m3u8
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/144/index.m3u8
 #EXTINF:0 tvg-id="boec" group-title="Channels",Боец
-http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB/150/index.m3u8
-#EXTINF:0 tvg-id="setanta-sport" group-title="Channels",Setanta HD
-http://cdnworld.magictvbox.eu/Setanta_HD/index.m3u8?token=token
+http://xristo2121.ottv.info/iptv/HP7US6NPLR2WB2/150/index.m3u8
 #EXTINF:0,TV1000 Русское кино
 http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/101/index.m3u8
 #EXTINF:0,Sony SciFi
