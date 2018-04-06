@@ -117,6 +117,8 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1w
 http://master.cystreams.com:25461/live/greek/qwerty/42.ts
 #EXTINF:-1,MEGA
 http://master.cystreams.com:25461/live/greek/qwerty/43.ts
+#EXTINF:-1,EPSILON TV
+https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:0,TV1000 Русское кино
 http://yura2121.iptvbot.biz/iptv/PG8P4S32YXX4RH/101/index.m3u8
 #EXTINF:0,Sony SciFi
