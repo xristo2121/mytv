@@ -112,7 +112,7 @@ rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0,Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:-1,STAR
-http://master.cystreams.com:25461/live/greek/qwerty/40.ts
+http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1,SKAI
 http://master.cystreams.com:25461/live/greek/qwerty/42.ts
 #EXTINF:-1,MEGA
