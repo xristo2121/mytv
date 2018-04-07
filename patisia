@@ -104,7 +104,7 @@ http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0,Canal 2 HD
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0,Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
+http://37.233.27.53:8887
 #EXTINF:0,Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0,Moldova 2
