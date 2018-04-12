@@ -99,22 +99,6 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/744/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/743/index.m3u8
-#EXTINF:-1,GR: Cosmote Sport 1HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/17393.m3u8
-#EXTINF:-1,GR: Cosmote Sport 2HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/17482.m3u8
-#EXTINF:-1,GR: Cosmote Sport 3HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/17594.m3u8
-#EXTINF:-1,GR: Cosmote Sport 4HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/17599.m3u8
-#EXTINF:-1,GR: Cosmote Sport 5HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/17742.m3u8
-#EXTINF:-1,GR: Cosmote Sport 6HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/19215.m3u8
-#EXTINF:-1,GR: Cosmote Sport 7HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/19216.m3u8
-#EXTINF:-1,GR: Cosmote Sport 8HD
-http://365tv.info:999/live/NgVokbikjW/SCIrR2oJzf/19217.m3u8
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/212/index.m3u8
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
