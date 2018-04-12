@@ -99,28 +99,6 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/744/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/743/index.m3u8
-#EXTINF:0,DIGI Sport 1 HD RO
-http://srv1.telek.me:8080/1991/3565/9af73081d2515e15317e270ed759ccc558d51664
-#EXTINF:0,DIGI Sport 2 HD RO
-http://srv1.telek.me:8080/2429/3565/9af73081d2515e15317e270ed759ccc558d51664
-#EXTINF:0,DIGI Sport 3 HD RO
-http://srv1.telek.me:8080/2193/3565/9af73081d2515e15317e270ed759ccc558d51664
-#EXTINF:0,DIGI Sport 4
-http://srv1.telek.me:8080/2425/3565/9af73081d2515e15317e270ed759ccc558d51664
-#EXTINF:0,Dolce Sport 5 RO
-http://srv1.telek.me:8080/2168/3565/9af73081d2515e15317e270ed759ccc558d51664
-#EXTINF:0,Dolce Sport 6 RO
-http://srv1.telek.me:8080/2430/3565/9af73081d2515e15317e270ed759ccc558d51664
-#EXTINF:-1,TELEKOM_SPORT_1 HD
-http://185.163.195.166:9001/udp/228.33.29.219:1234
-#EXTINF:-1,TELEKOM_SPORT_2
-http://185.163.195.166:9001/udp/228.33.29.220:1234
-#EXTINF:-1,TELEKOM_SPORT_3
-http://185.163.195.166:9001/udp/228.33.29.221:1234
-#EXTINF:-1,TELEKOM_SPORT_4
-http://185.163.195.166:9001/udp/228.33.29.222:1234
-#EXTINF:0 tvg-id="CanalPlusFutbol.es",C+ F.TBOL HD ES
-http://srv1.telek.me:8080/2411/3565/9af73081d2515e15317e270ed759ccc558d51664
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/212/index.m3u8
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
@@ -169,8 +147,6 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/234/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/144/index.m3u8
 #EXTINF:0 tvg-id="boec" group-title="Channels",Боец
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/150/index.m3u8
-#EXTINF:0 tvg-id="setanta-sport" group-title="Channels",Setanta HD
-http://cdnworld.magictvbox.eu/Setanta_HD/index.m3u8?token=token
 #EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
 http://flux.jtv.md/jtv-540p.flv
 #EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
