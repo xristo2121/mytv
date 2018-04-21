@@ -99,21 +99,21 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/744/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/743/index.m3u8
-#EXTINF:-1,GR: Cosmote Sport 1HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 1HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17393.ts
-#EXTINF:-1,GR: Cosmote Sport 2HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 2HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17482.ts
-#EXTINF:-1,GR: Cosmote Sport 3HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 3HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17594.ts
-#EXTINF:-1,GR: Cosmote Sport 4HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 4HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17599.ts
-#EXTINF:-1,GR: Cosmote Sport 5HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 5HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17742.ts
-#EXTINF:-1,GR: Cosmote Sport 6HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 6HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19215.ts
-#EXTINF:-1,GR: Cosmote Sport 7HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 7HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19216.ts
-#EXTINF:-1,GR: Cosmote Sport 8HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 8HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19217.ts
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/212/index.m3u8
@@ -177,7 +177,7 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
+#EXTINF:0 tvg-id="Canal2HD.mx" group-title="Channels",Canal 2 HD
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/101/index.m3u8
@@ -235,7 +235,7 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/105/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/525/index.m3u8
 #EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/732/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/542/index.m3u8
 #EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/733/index.m3u8
@@ -419,8 +419,6 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/810/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/721/index.m3u8
 #EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/724/index.m3u8
-#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
-#EXTM3U
 #EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/204/index.m3u8
 #EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
@@ -521,21 +519,21 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/744/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/743/index.m3u8
-#EXTINF:-1,GR: Cosmote Sport 1HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 1HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17393.ts
-#EXTINF:-1,GR: Cosmote Sport 2HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 2HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17482.ts
-#EXTINF:-1,GR: Cosmote Sport 3HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 3HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17594.ts
-#EXTINF:-1,GR: Cosmote Sport 4HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 4HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17599.ts
-#EXTINF:-1,GR: Cosmote Sport 5HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 5HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17742.ts
-#EXTINF:-1,GR: Cosmote Sport 6HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 6HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19215.ts
-#EXTINF:-1,GR: Cosmote Sport 7HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 7HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19216.ts
-#EXTINF:-1,GR: Cosmote Sport 8HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 8HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19217.ts
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/212/index.m3u8
@@ -599,7 +597,7 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
+#EXTINF:0 tvg-id="Canal2HD.mx" group-title="Channels",Canal 2 HD
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/101/index.m3u8
@@ -657,7 +655,7 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/105/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/525/index.m3u8
 #EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/732/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/542/index.m3u8
 #EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/733/index.m3u8
@@ -841,8 +839,6 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/810/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/721/index.m3u8
 #EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/724/index.m3u8
-#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
-http://xristo2121.ottv.info/iptv/#EXTM3U
 #EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/204/index.m3u8
 #EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
@@ -943,21 +939,21 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/744/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/743/index.m3u8
-#EXTINF:-1,GR: Cosmote Sport 1HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 1HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17393.ts
-#EXTINF:-1,GR: Cosmote Sport 2HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 2HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17482.ts
-#EXTINF:-1,GR: Cosmote Sport 3HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 3HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17594.ts
-#EXTINF:-1,GR: Cosmote Sport 4HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 4HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17599.ts
-#EXTINF:-1,GR: Cosmote Sport 5HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 5HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17742.ts
-#EXTINF:-1,GR: Cosmote Sport 6HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 6HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19215.ts
-#EXTINF:-1,GR: Cosmote Sport 7HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 7HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19216.ts
-#EXTINF:-1,GR: Cosmote Sport 8HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 8HD
 http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19217.ts
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/212/index.m3u8
@@ -1021,7 +1017,7 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
+#EXTINF:0 tvg-id="Canal2HD.mx" group-title="Channels",Canal 2 HD
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/101/index.m3u8
@@ -1079,7 +1075,7 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/105/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/525/index.m3u8
 #EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/732/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/542/index.m3u8
 #EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/733/index.m3u8
@@ -1287,7 +1283,7 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/901/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/903/index.m3u8
 #EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox EN
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1071/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fashiontv EN
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashiontv EN
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1010/index.m3u8
 #EXTINF:0 tvg-id="FashionTV.uk" group-title="Channels",Fashiontv EN HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1011/index.m3u8
@@ -1317,7 +1313,7 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/901/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/903/index.m3u8
 #EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox EN
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1071/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fashiontv EN
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashiontv EN
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1010/index.m3u8
 #EXTINF:0 tvg-id="FashionTV.uk" group-title="Channels",Fashiontv EN HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1011/index.m3u8
@@ -1347,7 +1343,7 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/901/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/903/index.m3u8
 #EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox EN
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1071/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fashiontv EN
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashiontv EN
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1010/index.m3u8
 #EXTINF:0 tvg-id="FashionTV.uk" group-title="Channels",Fashiontv EN HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1011/index.m3u8
