@@ -147,6 +147,8 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/234/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/144/index.m3u8
 #EXTINF:0 tvg-id="boec" group-title="Channels",Боец
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/150/index.m3u8
+#EXTINF:-1,ANTENA 1 ROMANIA
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
 http://flux.jtv.md/jtv-540p.flv
 #EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
