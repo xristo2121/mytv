@@ -505,22 +505,20 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/744/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/745/index.m3u8
 #EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/743/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 1HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17393.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 2HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17482.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 3HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17594.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 4HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17599.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 5HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/17742.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 6HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19215.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 7HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19216.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 8HD
-http://bitaiptv.ddns.net:999/live/nikosmamakos/tKWJFrc1xU/19217.ts
+#EXTINF:0,DIGI Sport 1 HD RO
+http://srv1.telek.me:8080/1991/4602/b1602b268c841dbaddfd24acc44637158ec30d09
+#EXTINF:0,DIGI Sport 2 HD RO
+http://srv1.telek.me:8080/2429/4602/b1602b268c841dbaddfd24acc44637158ec30d09
+#EXTINF:0,DIGI Sport 3 ro
+http://srv1.telek.me:8080/2662/4602/b1602b268c841dbaddfd24acc44637158ec30d09
+#EXTINF:0,DIGI Sport 1 RO
+http://srv1.telek.me:8080/2207/4602/b1602b268c841dbaddfd24acc44637158ec30d09
+#EXTINF:0,DIGI Sport 2 RO
+http://srv1.telek.me:8080/2867/4602/b1602b268c841dbaddfd24acc44637158ec30d09
+#EXTINF:0,DIGI Sport 3 HD RO
+http://srv1.telek.me:8080/2193/4602/b1602b268c841dbaddfd24acc44637158ec30d09
+#EXTINF:0,DIGI Sport 4
+http://srv1.telek.me:8080/2425/4602/b1602b268c841dbaddfd24acc44637158ec30d09
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/212/index.m3u8
 #EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
