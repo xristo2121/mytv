@@ -59,16 +59,10 @@ http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/544/index.m3u8
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/809/index.m3u8
 #EXTINF:0 tvg-id="2x2" group-title="Channels",2X2
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/702/index.m3u8
-#EXTINF:0 tvg-id="m-1" group-title="Channels",M1
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/949/index.m3u8
-#EXTINF:0 tvg-id="m-2" group-title="Channels",M2
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/950/index.m3u8
 #EXTINF:0 tvg-id="news24" group-title="Channels",24 Канал
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/951/index.m3u8
 #EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1009/index.m3u8
-#EXTINF:0 tvg-id="stb" group-title="Channels",СТБ
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/928/index.m3u8
 #EXTINF:0 tvg-id="mega" group-title="Channels",Мега
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/929/index.m3u8
 #EXTINF:0 tvg-id="k1" group-title="Channels",К1
@@ -77,10 +71,6 @@ http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/931/index.m3u8
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/930/index.m3u8
 #EXTINF:0 tvg-id="enter-film" group-title="Channels",Enter-фільм
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/933/index.m3u8
-#EXTINF:0 tvg-id="ictv" group-title="Channels",ICTV
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/934/index.m3u8
-#EXTINF:0 tvg-id="novkan" group-title="Channels",Новий Канал
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/935/index.m3u8
 #EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/936/index.m3u8
 #EXTINF:0 tvg-id="inter" group-title="Channels",Iнтер
@@ -164,7 +154,7 @@ http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/150/index.m3u8
 #EXTINF:-1,ANTENA 1 ROMANIA
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
-http://flux.jtv.md/jtv-540p.flv
+http://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=6d55a4c2e1f988028367202876cc53f91fa45e17&expire=1524930183
 #EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
