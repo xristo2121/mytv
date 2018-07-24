@@ -27,8 +27,6 @@ http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/906/index.m3u8
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/907/index.m3u8
 #EXTINF:0,Пятница
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/503/index.m3u8
-#EXTINF:0,HTH
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/533/index.m3u8
 #EXTINF:0,5 канал (Украина)
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/532/index.m3u8
 #EXTINF:0,Морской
@@ -47,24 +45,16 @@ http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/809/index.m3u8
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/520/index.m3u8
 #EXTINF:0,Че
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/513/index.m3u8
-#EXTINF:0,8 канал
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/1057/index.m3u8
 #EXTINF:0,Домашний
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/514/index.m3u8
 #EXTINF:0,Телеканал Звезда
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/544/index.m3u8
 #EXTINF:0,2X2
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/702/index.m3u8
-#EXTINF:0,M1
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/949/index.m3u8
-#EXTINF:0,M2
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/950/index.m3u8
 #EXTINF:0,24 Канал
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/951/index.m3u8
 #EXTINF:0,ТЕТ
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/1009/index.m3u8
-#EXTINF:0,СТБ
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/928/index.m3u8
 #EXTINF:0,Мега
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/929/index.m3u8
 #EXTINF:0,К1
@@ -73,18 +63,12 @@ http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/931/index.m3u8
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/930/index.m3u8
 #EXTINF:0,Enter-фільм
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/933/index.m3u8
-#EXTINF:0,ICTV
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/934/index.m3u8
-#EXTINF:0,Новий Канал
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/935/index.m3u8
 #EXTINF:0,НТН
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/936/index.m3u8
 #EXTINF:0,Iнтер
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/937/index.m3u8
 #EXTINF:0,1+1 International
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/987/index.m3u8
-#EXTINF:0,Lale
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/953/index.m3u8
 #EXTINF:0,НТВ
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/501/index.m3u8
 #EXTINF:0,НТВ HD 
@@ -99,58 +83,44 @@ http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/743/index.m3u8
 http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v3a1/mono.m3u8?token=31286d5e7c61af181226ce4bbd33c397c04908b7
 #EXTINF:0,PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0,Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:0,Canal 2 HD
-http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:-1,Prime 
+http://185.163.195.166:9001/udp/228.33.29.2:1234
 #EXTINF:0,Publika TV
 http://37.233.27.53:8887
+#EXTINF:-1,Publika HD 
+http://185.163.195.166:9001/udp/228.33.29.5:1234
 #EXTINF:0,Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0,Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
+#EXTINF:-1,RTR Moldova
+http://185.163.195.166:9001/udp/228.33.29.9:1234
 #EXTINF:0,Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:-1,ACCENT_TV 
-http://194.31.42.19:81/47
-#EXTINF:-1,Disney Junior Romania
-http://194.31.42.19:81/40
-#EXTINF:-1,GURINEL TV HD 
-http://194.31.42.19:81/67 
+#EXTINF:-1,CANAL 2 HD 
+http://185.163.195.166:9001/udp/228.33.29.8:1234
+#EXTINF:-1,CANAL 3 HD 
+http://185.163.195.166:9001/udp/228.33.29.10:1234
 #EXTINF:-1,MINIMAX 
-http://194.31.42.19:81/77 
+http://89.42.75.230:4641/minimax
+#EXTINF:-1,MINIMAX RO
+http://185.163.195.166:9001/udp/228.33.29.73:1234
+#EXTINF:-1,BOOMERANG 
+http://185.163.195.166:9001/udp/228.33.29.75:1234
+#EXTINF:-1,Gurinel TV
+http://185.163.195.166:9001/udp/228.33.29.79:1234
 #EXTINF:-1,TV8 
-http://194.31.42.19:81/15
-#EXTINF:-1,NOROC_TV HD 
-http://194.31.42.19:81/16 
-#EXTINF:-1,STAR
-http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
-#EXTINF:-1,SKAI
-http://master.cystreams.com:25461/live/greek/qwerty/42.ts
-#EXTINF:-1,MEGA
-http://master.cystreams.com:25461/live/greek/qwerty/43.ts
-#EXTINF:-1,ANT1 HD
-https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8
-#EXTINF:-1,EPSILON TV
-https://s1.streamings.gr/epsilontv/epsilontv.m3u8
-#EXTINF:0,TV1000 Русское кино
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/101/index.m3u8
-#EXTINF:0,Sony SciFi
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/110/index.m3u8
-#EXTINF:0,MGM HD
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/209/index.m3u8
-#EXTINF:0,RTG HD
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/210/index.m3u8
-#EXTINF:0,Ностальгия
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/102/index.m3u8
-#EXTINF:0,Amedia 1
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/554/index.m3u8
-#EXTINF:0,Amedia 2
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/510/index.m3u8
-#EXTINF:0,Amedia Premium HD
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/555/index.m3u8
-#EXTINF:0,Amedia 2
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/556/index.m3u8
+http://185.163.195.166:9001/udp/228.33.29.11:1234
+#EXTINF:-1,GOLD HD 
+http://185.163.195.166:9001/udp/228.33.29.90:1234
+#EXTINF:-1,TARAF 
+http://185.163.195.166:9001/udp/228.33.29.91:1234
+#EXTINF:-1,ETNO TV 
+http://185.163.195.166:9001/udp/228.33.29.92:1234
+#EXTINF:-1,NOROC TV 
+http://185.163.195.166:9001/udp/228.33.29.93:1234
+#EXTINF:-1,BUSUIOC TV 
+http://185.163.195.166:9001/udp/228.33.29.94:1234
 #EXTINF:0,Мужское кино
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/164/index.m3u8
 #EXTINF:0,AMC
@@ -223,6 +193,22 @@ http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/913/index.m3u8
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/912/index.m3u8
 #EXTINF:0,ИНДИЙСКОЕ КИНО
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/146/index.m3u8
+#EXTINF:0,TV1000 Русское кино
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/101/index.m3u8
+#EXTINF:0,Sony SciFi
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/110/index.m3u8
+#EXTINF:0,MGM HD
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/209/index.m3u8
+#EXTINF:0,Ностальгия
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/102/index.m3u8
+#EXTINF:0,Amedia 1
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/554/index.m3u8
+#EXTINF:0,Amedia 2
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/510/index.m3u8
+#EXTINF:0,Amedia Premium HD
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/555/index.m3u8
+#EXTINF:0,Amedia 2
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/556/index.m3u8
 #EXTINF:0,ZEE TV
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/1001/index.m3u8
 #EXTINF:0,КИНОСЕРИЯ
@@ -393,8 +379,6 @@ http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/155/index.m3u8
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/235/index.m3u8
 #EXTINF:0,Mezzo Live HD
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/217/index.m3u8
-#EXTINF:0,E!
-http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/901/index.m3u8
 #EXTINF:0 parent-code="0000",Playboy
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/527/index.m3u8
 #EXTINF:0 parent-code="0000",Русская Ночь
