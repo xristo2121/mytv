@@ -1,0 +1,381 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/204/index.m3u8
+#EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/127/index.m3u8
+#EXTINF:0 tvg-id="rossiya-hd" group-title="Channels",Россия HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/205/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/504/index.m3u8
+#EXTINF:0 tvg-id="sts" group-title="Channels",СТС
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/506/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/502/index.m3u8
+#EXTINF:0 tvg-id="kvn-tv" group-title="Channels",КВН ТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/546/index.m3u8
+#EXTINF:0 tvg-id="vesti" group-title="Channels",Россия 24
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/507/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/237/index.m3u8
+#EXTINF:0 tvg-id="sts-love" group-title="Channels",СТС Love
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/103/index.m3u8
+#EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский бестселлер
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/905/index.m3u8
+#EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский роман
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/906/index.m3u8
+#EXTINF:0 tvg-id="rus-detective" group-title="Channels",Русский детектив
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/907/index.m3u8
+#EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/503/index.m3u8
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/532/index.m3u8
+#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/742/index.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="Channels",ТВ3
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/508/index.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="Channels",Ю ТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/534/index.m3u8
+#EXTINF:0 tvg-id="mir" group-title="Channels",Мир
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/113/index.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/128/index.m3u8
+#EXTINF:0 tvg-id="trk-ukraina" group-title="Channels",Україна
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/809/index.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/520/index.m3u8
+#EXTINF:0 tvg-id="chetv" group-title="Channels",Че
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/513/index.m3u8
+#EXTINF:0 tvg-id="home" group-title="Channels",Домашний
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/514/index.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="Channels",Телеканал Звезда
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/544/index.m3u8
+#EXTINF:0 tvg-id="2x2" group-title="Channels",2X2
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/702/index.m3u8
+#EXTINF:0 tvg-id="news24" group-title="Channels",24 Канал
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/951/index.m3u8
+#EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/1009/index.m3u8
+#EXTINF:0 tvg-id="mega" group-title="Channels",Мега
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/929/index.m3u8
+#EXTINF:0 tvg-id="k1" group-title="Channels",К1
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/931/index.m3u8
+#EXTINF:0 tvg-id="k2" group-title="Channels",К2
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/930/index.m3u8
+#EXTINF:0 tvg-id="enter-film" group-title="Channels",Enter-фільм
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/933/index.m3u8
+#EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/936/index.m3u8
+#EXTINF:0 tvg-id="inter" group-title="Channels",Iнтер
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/937/index.m3u8
+#EXTINF:0 tvg-id="1p1_int" group-title="Channels",1+1 International
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/987/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/501/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/213/index.m3u8
+#EXTINF:0 tvg-id="ntv-serial" group-title="Channels",НТВ Сериал
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/744/index.m3u8
+#EXTINF:0 tvg-id="ntv-style" group-title="Channels",НТВ Стиль
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/745/index.m3u8
+#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/743/index.m3u8
+#EXTINF:0 tvg-id="jurnal" group-title="Channels",Jurnal TV
+http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v3a1/mono.m3u8?token=31286d5e7c61af181226ce4bbd33c397c04908b7
+#EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
+http://185.163.195.166:9001/udp/228.33.29.2:1234
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
+http://37.233.27.53:8887
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika HD
+http://185.163.195.166:9001/udp/228.33.29.5:1234
+#EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
+rtmp://live.trm.md:1935/live/MoldovaUnu1
+#EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 2
+rtmp://live.trm.md:1935/live/MoldovaDoi2
+#EXTINF:0 tvg-id="rtr-md" group-title="Channels",RTR Moldova
+http://185.163.195.166:9001/udp/228.33.29.9:1234
+#EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 2 HD
+http://185.163.195.166:9001/udp/228.33.29.8:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 3 HD
+http://185.163.195.166:9001/udp/228.33.29.10:1234
+#EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",MINIMAX
+http://89.42.75.230:4641/minimax
+#EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",MINIMAX RO
+http://185.163.195.166:9001/udp/228.33.29.73:1234
+#EXTINF:0 tvg-id="Boomerang.ro" group-title="Channels",BOOMERANG
+http://185.163.195.166:9001/udp/228.33.29.75:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gurinel TV
+http://185.163.195.166:9001/udp/228.33.29.79:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8
+http://185.163.195.166:9001/udp/228.33.29.11:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLD HD
+http://185.163.195.166:9001/udp/228.33.29.90:1234
+#EXTINF:0 tvg-id="TarafTV.ro" group-title="Channels",Taraf TV
+http://185.163.195.166:9001/udp/228.33.29.91:1234
+#EXTINF:0 tvg-id="EtnoTV.ro" group-title="Channels",Etno TV
+http://185.163.195.166:9001/udp/228.33.29.92:1234
+#EXTINF:0 tvg-id="noroctv" group-title="Channels",Noroc TV
+http://185.163.195.166:9001/udp/228.33.29.93:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Busuioc TV
+http://185.163.195.166:9001/udp/228.33.29.94:1234
+#EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/164/index.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/557/index.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",TV 1000 Action
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/131/index.m3u8
+#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Channels",Любимое Кино
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/722/index.m3u8
+#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Channels",КИНОСВИДАНИЕ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/728/index.m3u8
+#EXTINF:0 tvg-id="hd-kino" group-title="Channels",КИНОСЕМЬЯ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/125/index.m3u8
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="Channels",РОДНОЕ КИНО
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/126/index.m3u8
+#EXTINF:0 tvg-id="kino-plus" group-title="Channels",КИНОМИКС
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/509/index.m3u8
+#EXTINF:0 tvg-id="kinohit" group-title="Channels",Кинохит
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/516/index.m3u8
+#EXTINF:0 tvg-id="nashe-novoe" group-title="Channels",Наше новое кино
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/517/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Кинолюкс
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/521/index.m3u8
+#EXTINF:0 tvg-id="domkino-prem" group-title="Channels",Дом Кино Премиум HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/911/index.m3u8
+#EXTINF:0 tvg-id="tnt4" group-title="Channels",ТНТ4
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/104/index.m3u8
+#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Channels",Остросюжетное HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/904/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony Entertainment Television
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/559/index.m3u8
+#EXTINF:0 tvg-id="sony-turbo" group-title="Channels",Sony Turbo
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/708/index.m3u8
+#EXTINF:0 tvg-id="zhara" group-title="Channels",ЖАРА
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/105/index.m3u8
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/706/index.m3u8
+#EXTINF:0 tvg-id="tv21" group-title="Channels",TV XXI
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/525/index.m3u8
+#EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/732/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/542/index.m3u8
+#EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/733/index.m3u8
+#EXTINF:0 tvg-id="komediya" group-title="Channels",КИНОКОМЕДИЯ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/145/index.m3u8
+#EXTINF:0 tvg-id="detektiv" group-title="Channels",Detektiv.tv
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/734/index.m3u8
+#EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/817/index.m3u8
+#EXTINF:0 tvg-id="film-box-arthouse" group-title="Channels",Filmbox Arthouse
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/818/index.m3u8
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",HD Кино
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/224/index.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",VIP Premiere
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/202/index.m3u8
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="Channels",VIP Comedy
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/200/index.m3u8
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Channels",VIP Megahit
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/201/index.m3u8
+#EXTINF:0 tvg-id="semeinoe-hd" group-title="Channels",Наш Детектив HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/915/index.m3u8
+#EXTINF:0 tvg-id="nashe-hd" group-title="Channels",Наш Кинороман HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/914/index.m3u8
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",КИНОПРЕМЬЕРА HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/224/index.m3u8
+#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Channels",Кинопоказ HD1
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/913/index.m3u8
+#EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Channels",Кинопоказ HD2
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/912/index.m3u8
+#EXTINF:0 tvg-id="indiya" group-title="Channels",ИНДИЙСКОЕ КИНО
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/146/index.m3u8
+#EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/101/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony SciFi
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/110/index.m3u8
+#EXTINF:0 tvg-id="mgm-hd" group-title="Channels",MGM HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/209/index.m3u8
+#EXTINF:0 tvg-id="nostalgia" group-title="Channels",Ностальгия
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/102/index.m3u8
+#EXTINF:0 tvg-id="amedia1" group-title="Channels",Amedia 1
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/554/index.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/510/index.m3u8
+#EXTINF:0 tvg-id="amedia-hd" group-title="Channels",Amedia Premium HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/555/index.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/556/index.m3u8
+#EXTINF:0 tvg-id="zee" group-title="Channels",ZEE TV
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/1001/index.m3u8
+#EXTINF:0 tvg-id="mnogo-tv" group-title="Channels",КИНОСЕРИЯ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/148/index.m3u8
+#EXTINF:0 tvg-id="nstv" group-title="Channels",НСТ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/726/index.m3u8
+#EXTINF:0 tvg-id="illuzion" group-title="Channels",Русский Иллюзион
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/547/index.m3u8
+#EXTINF:0 tvg-id="telenovella" group-title="Channels",Теленовелла
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/548/index.m3u8
+#EXTINF:0 tvg-id="evrokino" group-title="Channels",Еврокино
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/549/index.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/132/index.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",Fox Russia
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/550/index.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",Fox Life
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/553/index.m3u8
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/920/index.m3u8
+#EXTINF:0 tvg-id="paramount-comedy" group-title="Channels",Paramount Comedy Russia
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/157/index.m3u8
+#EXTINF:0 tvg-id="domkino" group-title="Channels",Дом Кино
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/154/index.m3u8
+#EXTINF:0 tvg-id="nature-history" group-title="Channels",Viasat Nature/History HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/203/index.m3u8
+#EXTINF:0 tvg-id="hd-life" group-title="Channels",HD Life
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/226/index.m3u8
+#EXTINF:0 tvg-id="istoria" group-title="Channels",История
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/111/index.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="Channels",Моя Планета
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/117/index.m3u8
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/231/index.m3u8
+#EXTINF:0 tvg-id="nauka" group-title="Channels",Наука 2.0
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/118/index.m3u8
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Телеканал Да Винчи
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/537/index.m3u8
+#EXTINF:0 tvg-id="outdoor" group-title="Channels",Outdoor Channel
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/119/index.m3u8
+#EXTINF:0 tvg-id="sov-sek" group-title="Channels",Сов. Секретно
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/121/index.m3u8
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="Channels",Travel+Adventure HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/908/index.m3u8
+#EXTINF:0 tvg-id="avto24" group-title="Channels",Авто 24
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/538/index.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/133/index.m3u8
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",Nat Geo Wild HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/216/index.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/134/index.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/230/index.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Discovery World
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/135/index.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/136/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/137/index.m3u8
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/218/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/232/index.m3u8
+#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/233/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Investigation Discovery
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/139/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/140/index.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/227/index.m3u8
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Channels",Охотник и рыболов HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/917/index.m3u8
+#EXTINF:0 tvg-id="avto-plus" group-title="Channels",Авто Плюс
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/151/index.m3u8
+#EXTINF:0 tvg-id="vremya" group-title="Channels",Время
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/552/index.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="Channels",Россия-Культура
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/505/index.m3u8
+#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="Channels",Домашние Животные
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/158/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Охотаи Рыбалка
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/159/index.m3u8
+#EXTINF:0 tvg-id="kuhnya" group-title="Channels",Кухня ТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/152/index.m3u8
+#EXTINF:0 tvg-id="bober" group-title="Channels",Бобёр
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/725/index.m3u8
+#EXTINF:0 tvg-id="zoopark" group-title="Channels",Зоопарк
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/731/index.m3u8
+#EXTINF:0 tvg-id="game-show" group-title="Channels",Game Show
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/736/index.m3u8
+#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/742/index.m3u8
+#EXTINF:0 tvg-id="psihologiya21" group-title="Channels",Психология 21
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/532/index.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Channels",Доктор
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/512/index.m3u8
+#EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",Nickelodeon HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/223/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/524/index.m3u8
+#EXTINF:0 tvg-id="det" group-title="Channels",Детский мир
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/543/index.m3u8
+#EXTINF:0 tvg-id="jimjam" group-title="Channels",Jim Jam
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/138/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/143/index.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="Channels",Карусель
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/156/index.m3u8
+#EXTINF:0 tvg-id="ani" group-title="Channels",Ani
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/129/index.m3u8
+#EXTINF:0 tvg-id="mult" group-title="Channels",Мульт
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/909/index.m3u8
+#EXTINF:0 tvg-id="tlum-hd" group-title="Channels",Тлум HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/240/index.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Channels",Boomerang
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/723/index.m3u8
+#EXTINF:0 tvg-id="o" group-title="Channels",О!
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/727/index.m3u8
+#EXTINF:0 tvg-id="detskiy" group-title="Channels",Детский
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/730/index.m3u8
+#EXTINF:0 tvg-id="vgus" group-title="Channels",В гостях у сказки
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/737/index.m3u8
+#EXTINF:0 tvg-id="karusel+3" group-title="Channels",Карусель (+3)
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/740/index.m3u8
+#EXTINF:0 tvg-id="multik-hd" group-title="Channels",Мультик HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/921/index.m3u8
+#EXTINF:0 tvg-id="eda-hd" group-title="Channels",Еда HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/918/index.m3u8
+#EXTINF:0 tvg-id="rbk" group-title="Channels",РБК ТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/106/index.m3u8
+#EXTINF:0 tvg-id="muz-tv" group-title="Channels",МУЗ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/116/index.m3u8
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Europa Plus TV
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/115/index.m3u8
+#EXTINF:0 tvg-id="tnt-music" group-title="Channels",ТНТ MUSIC
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/710/index.m3u8
+#EXTINF:0 tvg-id="dange" group-title="Channels",BRIDGE TV DANCE
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/711/index.m3u8
+#EXTINF:0 tvg-id="rusong" group-title="Channels",RUSONG TV
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/120/index.m3u8
+#EXTINF:0 tvg-id="bridge" group-title="Channels",Bridge TV
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/122/index.m3u8
+#EXTINF:0 tvg-id="bridge-hd" group-title="Channels",BRIDGE HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/236/index.m3u8
+#EXTINF:0 tvg-id="360TuneBox.cz" group-title="Channels",360 Tune Box
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/810/index.m3u8
+#EXTINF:0 tvg-id="nashe-tv" group-title="Channels",Наше ТВ
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/721/index.m3u8
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/724/index.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/142/index.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV Live HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/221/index.m3u8
+#EXTINF:0 tvg-id="mtv-dance" group-title="Channels",MTV Dance
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/558/index.m3u8
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Европа Плюс
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/115/index.m3u8
+#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/153/index.m3u8
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1 European
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/536/index.m3u8
+#EXTINF:0 tvg-id="muzika1" group-title="Channels",Музыка
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/155/index.m3u8
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/235/index.m3u8
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live HD
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/217/index.m3u8
