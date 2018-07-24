@@ -101,8 +101,6 @@ http://109.185.159.215:4011/udp/239.100.0.5:5656
 http://185.163.195.166:9001/udp/228.33.29.8:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 3 HD
 http://185.163.195.166:9001/udp/228.33.29.10:1234
-#EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",MINIMAX
-http://89.42.75.230:4641/minimax
 #EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",MINIMAX RO
 http://185.163.195.166:9001/udp/228.33.29.73:1234
 #EXTINF:0 tvg-id="Boomerang.ro" group-title="Channels",BOOMERANG
