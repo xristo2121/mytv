@@ -91,6 +91,12 @@ http://37.233.27.53:8887
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
+#EXTINF:-1,Disney Junior
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Nick Jr
+http://telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Boomerang
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
 http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/164/index.m3u8
 #EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
