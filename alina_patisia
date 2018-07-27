@@ -84,41 +84,13 @@ http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v3a1/mono.m3u8?token=31286d5e7c61
 #EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
-http://185.163.195.166:9001/udp/228.33.29.2:1234
+http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
 http://37.233.27.53:8887
-#EXTINF:0 tvg-id="publika" group-title="Channels",Publika HD
-http://185.163.195.166:9001/udp/228.33.29.5:1234
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
-#EXTINF:0 tvg-id="rtr-md" group-title="Channels",RTR Moldova
-http://185.163.195.166:9001/udp/228.33.29.9:1234
-#EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 2 HD
-http://185.163.195.166:9001/udp/228.33.29.8:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 3 HD
-http://185.163.195.166:9001/udp/228.33.29.10:1234
-#EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",MINIMAX RO
-http://185.163.195.166:9001/udp/228.33.29.73:1234
-#EXTINF:0 tvg-id="Boomerang.ro" group-title="Channels",BOOMERANG
-http://185.163.195.166:9001/udp/228.33.29.75:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gurinel TV
-http://185.163.195.166:9001/udp/228.33.29.79:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV8
-http://185.163.195.166:9001/udp/228.33.29.11:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOLD HD
-http://185.163.195.166:9001/udp/228.33.29.90:1234
-#EXTINF:0 tvg-id="TarafTV.ro" group-title="Channels",Taraf TV
-http://185.163.195.166:9001/udp/228.33.29.91:1234
-#EXTINF:0 tvg-id="EtnoTV.ro" group-title="Channels",Etno TV
-http://185.163.195.166:9001/udp/228.33.29.92:1234
-#EXTINF:0 tvg-id="noroctv" group-title="Channels",Noroc TV
-http://185.163.195.166:9001/udp/228.33.29.93:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",Busuioc TV
-http://185.163.195.166:9001/udp/228.33.29.94:1234
 #EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
 http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/164/index.m3u8
 #EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
