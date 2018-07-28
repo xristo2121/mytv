@@ -93,11 +93,13 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:-1 tvg-id="MiniMax.ro" group-title="Channels",Minimax RO
 http://185.162.141.69:20077/minimax
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 tvg-id="DisneyChannel.ro" group-title="Channels",Disney 
+http://185.162.141.69:20077/disney 
+#EXTINF:-1 tvg-id="DisneyJunior.ro" group-title="Channels",Disney Junior
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Nick Jr
 http://telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Boomerang
+#EXTINF:-1 tvg-id="Boomerang.ro" group-title="Channels",Boomerang
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
 http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/164/index.m3u8
