@@ -91,6 +91,8 @@ http://37.233.27.53:8887
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
+#EXTINF:-1 tvg-id="MiniMax.ro" group-title="Channels",Minimax RO
+http://185.162.141.69:20077/minimax
 #EXTINF:-1,Disney Junior
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Nick Jr
