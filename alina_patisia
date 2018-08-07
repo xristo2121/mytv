@@ -86,7 +86,7 @@ http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
 http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
-http://37.233.27.53:8887
+https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 2
