@@ -91,8 +91,6 @@ https://livebeta.publika.md/LIVE/P/1500.m3u8
 rtmp://live.trm.md:1935/live/MoldovaUnu1
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
-#EXTINF:-1 tvg-id="MiniMax.ro" group-title="Channels",Minimax RO
-http://79.116.154.152:4022/udp/239.192.0.5:1234
 #EXTINF:-1 tvg-id="DisneyJunior.ro" group-title="Channels",Disney Junior
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Nick Jr
