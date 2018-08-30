@@ -148,7 +148,7 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/144/index.m3u8
 #EXTINF:0 tvg-id="boec" group-title="Channels",Боец
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/150/index.m3u8
 #EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
-http://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=6d55a4c2e1f988028367202876cc53f91fa45e17&expire=1524930183
+http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/index.m3u8?token=6f7d985b24178f3db7835a9fcb2f06e020a436d6
 #EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
