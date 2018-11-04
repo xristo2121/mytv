@@ -80,11 +80,11 @@ http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/745/index.m3u8
 #EXTINF:0,НТВ Право
 http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/743/index.m3u8
 #EXTINF:0,Jurnal TV
-http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v3a1/mono.m3u8?token=31286d5e7c61af181226ce4bbd33c397c04908b7
+http://185.163.195.166:9001/udp/228.33.29.4:1234
 #EXTINF:0,PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1,Prime 
-http://109.185.159.215:4011/udp/239.100.0.3:5656
+http://185.163.195.166:9001/udp/228.33.29.2:1234
 #EXTINF:0,Publika TV
 http://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:0,Moldova 1
@@ -103,6 +103,10 @@ http://185.163.195.166:9001/udp/228.33.29.10:1234
 http://185.163.195.166:9001/udp/228.33.29.73:1234
 #EXTINF:-1,BOOMERANG 
 http://185.163.195.166:9001/udp/228.33.29.75:1234
+#EXTINF:-1,CARTOON NETWORK RO
+http://185.163.195.166:9001/udp/228.33.29.74:1234
+#EXTINF:-1,DISNEY CHANNEL RO
+http://185.163.195.166:9001/udp/228.33.29.80:1234
 #EXTINF:-1,Gurinel TV
 http://185.163.195.166:9001/udp/228.33.29.79:1234
 #EXTINF:-1,TV8 
