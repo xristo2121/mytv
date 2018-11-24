@@ -67,8 +67,6 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/950/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/951/index.m3u8
 #EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/1009/index.m3u8
-#EXTINF:0 tvg-id="stb" group-title="Channels",СТБ
-http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/928/index.m3u8
 #EXTINF:0 tvg-id="mega" group-title="Channels",Мега
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/929/index.m3u8
 #EXTINF:0 tvg-id="k1" group-title="Channels",К1
@@ -77,8 +75,6 @@ http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/931/index.m3u8
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/930/index.m3u8
 #EXTINF:0 tvg-id="enter-film" group-title="Channels",Enter-фільм
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/933/index.m3u8
-#EXTINF:0 tvg-id="ictv" group-title="Channels",ICTV
-http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/934/index.m3u8
 #EXTINF:0 tvg-id="novkan" group-title="Channels",Новий Канал
 http://xristo2121.ottv.info/iptv/BB5TSWMLBFARM7/935/index.m3u8
 #EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
