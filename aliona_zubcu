@@ -1,373 +1,433 @@
 #EXTM3U
-#EXTINF:0,Первый HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/204/index.m3u8
-#EXTINF:0,Первый канал
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/127/index.m3u8
-#EXTINF:0,Россия HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/205/index.m3u8
-#EXTINF:0,Россия 1
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/504/index.m3u8
-#EXTINF:0,СТС
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/506/index.m3u8
-#EXTINF:0,ТНТ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/502/index.m3u8
-#EXTINF:0,КВН ТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/546/index.m3u8
-#EXTINF:0,Россия 24
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/507/index.m3u8
-#EXTINF:0,ТНТ HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/237/index.m3u8
-#EXTINF:0,СТС Love
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/103/index.m3u8
-#EXTINF:0,Русский бестселлер
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/905/index.m3u8
-#EXTINF:0,Русский роман
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/906/index.m3u8
-#EXTINF:0,Русский детектив
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/907/index.m3u8
-#EXTINF:0,Пятница
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/503/index.m3u8
-#EXTINF:0,HTH
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/533/index.m3u8
-#EXTINF:0,5 канал (Украина)
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/532/index.m3u8
-#EXTINF:0,Морской
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/742/index.m3u8
-#EXTINF:0,ТВ3
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/508/index.m3u8
-#EXTINF:0,Ю ТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/534/index.m3u8
-#EXTINF:0,Мир
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/113/index.m3u8
-#EXTINF:0,РЕН ТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/128/index.m3u8
-#EXTINF:0,Україна
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/809/index.m3u8
-#EXTINF:0,ТВЦ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/520/index.m3u8
-#EXTINF:0,Че
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/513/index.m3u8
-#EXTINF:0,8 канал
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/1057/index.m3u8
-#EXTINF:0,Домашний
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/514/index.m3u8
-#EXTINF:0,Телеканал Звезда
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/544/index.m3u8
-#EXTINF:0,2X2
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/702/index.m3u8
-#EXTINF:0,M1
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/949/index.m3u8
-#EXTINF:0,M2
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/950/index.m3u8
-#EXTINF:0,24 Канал
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/951/index.m3u8
-#EXTINF:0,ТЕТ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/1009/index.m3u8
-#EXTINF:0,СТБ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/928/index.m3u8
-#EXTINF:0,Мега
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/929/index.m3u8
-#EXTINF:0,К1
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/931/index.m3u8
-#EXTINF:0,К2
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/930/index.m3u8
-#EXTINF:0,Enter-фільм
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/933/index.m3u8
-#EXTINF:0,ICTV
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/934/index.m3u8
-#EXTINF:0,Новий Канал
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/935/index.m3u8
-#EXTINF:0,НТН
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/936/index.m3u8
-#EXTINF:0,Iнтер
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/937/index.m3u8
-#EXTINF:0,1+1 International
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/987/index.m3u8
-#EXTINF:0,Lale
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/953/index.m3u8
-#EXTINF:0,НТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/501/index.m3u8
-#EXTINF:0,НТВ HD 
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/213/index.m3u8
-#EXTINF:0,НТВ Сериал
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/744/index.m3u8
-#EXTINF:0,НТВ Стиль
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/745/index.m3u8
-#EXTINF:0,НТВ Право
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/743/index.m3u8
-#EXTINF:0,Jurnal TV
-http://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=6d55a4c2e1f988028367202876cc53f91fa45e17&expire=1524930183 
-#EXTINF:0,PRO TV Chișinău
+#EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/204/index.m3u8
+#EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/127/index.m3u8
+#EXTINF:0 tvg-id="rossiya-hd" group-title="Channels",Россия HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/205/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/504/index.m3u8
+#EXTINF:0 tvg-id="kvn-tv" group-title="Channels",КВН ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/546/index.m3u8
+#EXTINF:0 tvg-id="vesti" group-title="Channels",Россия 24
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/507/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/502/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/237/index.m3u8
+#EXTINF:0 tvg-id="sts" group-title="Channels",СТС
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/506/index.m3u8
+#EXTINF:0 tvg-id="sts-love" group-title="Channels",СТС Love
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/103/index.m3u8
+#EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский бестселлер
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/905/index.m3u8
+#EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский роман
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/906/index.m3u8
+#EXTINF:0 tvg-id="rus-detective" group-title="Channels",Русский детектив
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/907/index.m3u8
+#EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/503/index.m3u8
+#EXTINF:0 tvg-id="ntn" group-title="Channels",HTH
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/533/index.m3u8
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/532/index.m3u8
+#EXTINF:0 tvg-id="mama" group-title="Channels",Мама
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/704/index.m3u8
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/706/index.m3u8
+#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/742/index.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="Channels",ТВ3
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/508/index.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="Channels",Ю ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/534/index.m3u8
+#EXTINF:0 tvg-id="mir" group-title="Channels",Мир
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/113/index.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/128/index.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/520/index.m3u8
+#EXTINF:0 tvg-id="chetv" group-title="Channels",Че
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/513/index.m3u8
+#EXTINF:0 tvg-id="8-kanal" group-title="Channels",8 канал
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1057/index.m3u8
+#EXTINF:0 tvg-id="home" group-title="Channels",Домашний
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/514/index.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="Channels",Телеканал Звезда
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/544/index.m3u8
+#EXTINF:0 tvg-id="trk-ukraina" group-title="Channels",Україна
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/809/index.m3u8
+#EXTINF:0 tvg-id="2x2" group-title="Channels",2X2
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/702/index.m3u8
+#EXTINF:0 tvg-id="m-1" group-title="Channels",M1
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/949/index.m3u8
+#EXTINF:0 tvg-id="m-2" group-title="Channels",M2
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/950/index.m3u8
+#EXTINF:0 tvg-id="news24" group-title="Channels",24 Канал
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/951/index.m3u8
+#EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1009/index.m3u8
+#EXTINF:0 tvg-id="mega" group-title="Channels",Мега
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/929/index.m3u8
+#EXTINF:0 tvg-id="k1" group-title="Channels",К1
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/931/index.m3u8
+#EXTINF:0 tvg-id="k2" group-title="Channels",К2
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/930/index.m3u8
+#EXTINF:0 tvg-id="enter-film" group-title="Channels",Enter-фільм
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/933/index.m3u8
+#EXTINF:0 tvg-id="novkan" group-title="Channels",Новий Канал
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/935/index.m3u8
+#EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/936/index.m3u8
+#EXTINF:0 tvg-id="inter" group-title="Channels",Iнтер
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/937/index.m3u8
+#EXTINF:0 tvg-id="1p1_int" group-title="Channels",1+1 International
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/987/index.m3u8
+#EXTINF:0 tvg-id="lale" group-title="Channels",Lale
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/953/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/501/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/213/index.m3u8
+#EXTINF:0 tvg-id="ntv-serial" group-title="Channels",НТВ Сериал
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/744/index.m3u8
+#EXTINF:0 tvg-id="ntv-style" group-title="Channels",НТВ Стиль
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/745/index.m3u8
+#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/743/index.m3u8
+#EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/212/index.m3u8
+#EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/535/index.m3u8
+#EXTINF:0 tvg-id="sport-plus" group-title="Channels",Матч! Наш спорт
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/107/index.m3u8
+#EXTINF:0 tvg-id="sport1_rus" group-title="Channels",МАТЧ! АРЕНА
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/528/index.m3u8
+#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",МАТЧ! АРЕНА HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/207/index.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="Channels",МАТЧ! ИГРА
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/529/index.m3u8
+#EXTINF:0 tvg-id="hd-sport" group-title="Channels",Матч! Игра HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/225/index.m3u8
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/124/index.m3u8
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1 HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/222/index.m3u8
+#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/530/index.m3u8
+#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",МАТЧ! ФУТБОЛ 2 HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/211/index.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/522/index.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",МАТЧ! ФУТБОЛ 3 HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/206/index.m3u8
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",Наш футбол HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/220/index.m3u8
+#EXTINF:0 tvg-id="kxl" group-title="Channels",KHL
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/519/index.m3u8
+#EXTINF:0 tvg-id="kxl-hd" group-title="Channels",Телеканал КХЛ HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/215/index.m3u8
+#EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир HD
+http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
+#EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/141/index.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/228/index.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/160/index.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/208/index.m3u8
+#EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",Trace Sport Stars
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/234/index.m3u8
+#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/144/index.m3u8
+#EXTINF:0 tvg-id="boec" group-title="Channels",Боец
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/150/index.m3u8
+#EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
+http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/index.m3u8?token=6f7d985b24178f3db7835a9fcb2f06e020a436d6
+#EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0,Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:0,Canal 2 HD
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:0,Publika TV
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
 http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0,Moldova 1
+#EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
 rtmp://live.trm.md:1935/live/MoldovaUnu1
-#EXTINF:0,Moldova 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 2
 rtmp://live.trm.md:1935/live/MoldovaDoi2
-#EXTINF:0,Național 4
+#EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0,TV1000 Русское кино
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/101/index.m3u8
-#EXTINF:0,Sony SciFi
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/110/index.m3u8
-#EXTINF:0,MGM HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/209/index.m3u8
-#EXTINF:0,RTG HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/210/index.m3u8
-#EXTINF:0,Ностальгия
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/102/index.m3u8
-#EXTINF:0,Amedia 1
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/554/index.m3u8
-#EXTINF:0,Amedia 2
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/510/index.m3u8
-#EXTINF:0,Amedia Premium HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/555/index.m3u8
-#EXTINF:0,Amedia 2
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/556/index.m3u8
-#EXTINF:0,Мужское кино
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/164/index.m3u8
-#EXTINF:0,AMC
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/557/index.m3u8
-#EXTINF:0,TV 1000 Action
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/131/index.m3u8
-#EXTINF:0,Любимое Кино
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/722/index.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/728/index.m3u8
-#EXTINF:0,КИНОСЕМЬЯ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/125/index.m3u8
-#EXTINF:0,РОДНОЕ КИНО
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/126/index.m3u8
-#EXTINF:0,КИНОМИКС
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/509/index.m3u8
-#EXTINF:0,Кинохит
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/516/index.m3u8
-#EXTINF:0,Наше новое кино
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/517/index.m3u8
-#EXTINF:0,Кинолюкс
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/521/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/911/index.m3u8
-#EXTINF:0,ТНТ4
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/104/index.m3u8
-#EXTINF:0,Остросюжетное HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/904/index.m3u8
-#EXTINF:0,Sony Entertainment Television
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/559/index.m3u8
-#EXTINF:0,Sony Turbo
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/708/index.m3u8
-#EXTINF:0,ЖАРА
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/105/index.m3u8
-#EXTINF:0,CBS Reality
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/706/index.m3u8
-#EXTINF:0,TV XXI
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/525/index.m3u8
-#EXTINF:0,КИНО ТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/732/index.m3u8
-#EXTINF:0,Universal Channel
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/542/index.m3u8
-#EXTINF:0,Русская Комедия
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/733/index.m3u8
-#EXTINF:0,КИНОКОМЕДИЯ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/145/index.m3u8
-#EXTINF:0,Detektiv.tv
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/734/index.m3u8
-#EXTINF:0,FilmBox
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/817/index.m3u8
-#EXTINF:0,Filmbox Arthouse
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/818/index.m3u8
-#EXTINF:0,HD Кино
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/224/index.m3u8
-#EXTINF:0,VIP Premiere
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/202/index.m3u8
-#EXTINF:0,VIP Comedy
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/200/index.m3u8
-#EXTINF:0,VIP Megahit
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/201/index.m3u8
-#EXTINF:0,Наш Детектив HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/915/index.m3u8
-#EXTINF:0,Наш Кинороман HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/914/index.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/224/index.m3u8
-#EXTINF:0,Кинопоказ HD1
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/913/index.m3u8
-#EXTINF:0,Кинопоказ HD2
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/912/index.m3u8
-#EXTINF:0,ИНДИЙСКОЕ КИНО
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/146/index.m3u8
-#EXTINF:0,ZEE TV
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/1001/index.m3u8
-#EXTINF:0,КИНОСЕРИЯ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/148/index.m3u8
-#EXTINF:0,НСТ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/726/index.m3u8
-#EXTINF:0,Русский Иллюзион
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/547/index.m3u8
-#EXTINF:0,Теленовелла
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/548/index.m3u8
-#EXTINF:0,Еврокино
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/549/index.m3u8
-#EXTINF:0,TV 1000
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/132/index.m3u8
-#EXTINF:0,Fox Russia
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/550/index.m3u8
-#EXTINF:0,Fox Life
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/553/index.m3u8
-#EXTINF:0,Fox Life HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/920/index.m3u8
-#EXTINF:0,Paramount Comedy Russia
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/157/index.m3u8
-#EXTINF:0,Дом Кино
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/154/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/203/index.m3u8
-#EXTINF:0,HD Life
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/226/index.m3u8
-#EXTINF:0,История
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/111/index.m3u8
-#EXTINF:0,Моя Планета
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/117/index.m3u8
-#EXTINF:0,History HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/231/index.m3u8
-#EXTINF:0,Наука 2.0
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/118/index.m3u8
-#EXTINF:0,Телеканал Да Винчи
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/537/index.m3u8
-#EXTINF:0,Outdoor Channel
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/119/index.m3u8
-#EXTINF:0,Сов. Секретно
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/121/index.m3u8
-#EXTINF:0,Travel+Adventure HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/908/index.m3u8
-#EXTINF:0,Авто 24
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/538/index.m3u8
-#EXTINF:0,Nat Geo Wild
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/133/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/216/index.m3u8
-#EXTINF:0,National Geographic
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/134/index.m3u8
-#EXTINF:0,National Geographic HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/230/index.m3u8
-#EXTINF:0,Discovery World
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/135/index.m3u8
-#EXTINF:0,Discovery Science
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/136/index.m3u8
-#EXTINF:0,Animal Planet
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/137/index.m3u8
-#EXTINF:0,Animal Planet HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/218/index.m3u8
-#EXTINF:0,TLC HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/232/index.m3u8
-#EXTINF:0,Travel Channel HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/233/index.m3u8
-#EXTINF:0,Investigation Discovery
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/139/index.m3u8
-#EXTINF:0,Discovery Channel
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/140/index.m3u8
-#EXTINF:0,Discovery Channel HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/227/index.m3u8
-#EXTINF:0,Охотник и рыболов HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/917/index.m3u8
-#EXTINF:0,Авто Плюс
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/151/index.m3u8
-#EXTINF:0,Время
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/552/index.m3u8
-#EXTINF:0,Россия-Культура
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/505/index.m3u8
-#EXTINF:0,Домашние Животные
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/158/index.m3u8
-#EXTINF:0,Охотаи Рыбалка
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/159/index.m3u8
-#EXTINF:0,Кухня ТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/152/index.m3u8
-#EXTINF:0,Бобёр
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/725/index.m3u8
-#EXTINF:0,Зоопарк
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/731/index.m3u8
-#EXTINF:0,Game Show
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/736/index.m3u8
-#EXTINF:0,Морской
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/742/index.m3u8
-#EXTINF:0,Психология 21
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/532/index.m3u8
-#EXTINF:0,Доктор
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/512/index.m3u8
-#EXTINF:0,Nickelodeon HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/223/index.m3u8
-#EXTINF:0,Disney
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/524/index.m3u8
-#EXTINF:0,Детский мир
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/543/index.m3u8
-#EXTINF:0,Jim Jam
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/138/index.m3u8
-#EXTINF:0,Cartoon Network
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/143/index.m3u8
-#EXTINF:0,Карусель
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/156/index.m3u8
-#EXTINF:0,Ani
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/129/index.m3u8
-#EXTINF:0,Мульт
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/909/index.m3u8
-#EXTINF:0,Тлум HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/240/index.m3u8
-#EXTINF:0,Boomerang
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/723/index.m3u8
-#EXTINF:0,О!
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/727/index.m3u8
-#EXTINF:0,Детский
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/730/index.m3u8
-#EXTINF:0,В гостях у сказки
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/737/index.m3u8
-#EXTINF:0,Карусель (+3)
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/740/index.m3u8
-#EXTINF:0,Мультик HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/921/index.m3u8
-#EXTINF:0,Еда HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/918/index.m3u8
-#EXTINF:0,РБК ТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/106/index.m3u8
-#EXTINF:0,МУЗ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/116/index.m3u8
-#EXTINF:0,Europa Plus TV
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/115/index.m3u8
-#EXTINF:0,ТНТ MUSIC
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/710/index.m3u8
-#EXTINF:0,BRIDGE TV DANCE
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/711/index.m3u8
-#EXTINF:0,RUSONG TV
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/120/index.m3u8
-#EXTINF:0,Bridge TV
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/122/index.m3u8
-#EXTINF:0,BRIDGE HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/236/index.m3u8
-#EXTINF:0,360 Tune Box
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/810/index.m3u8
-#EXTINF:0,Наше ТВ
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/721/index.m3u8
-#EXTINF:0,VH1 Classic
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/724/index.m3u8
-#EXTINF:0,MTV
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/142/index.m3u8
-#EXTINF:0,MTV Live HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/221/index.m3u8
-#EXTINF:0,MTV Dance
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/558/index.m3u8
-#EXTINF:0,Европа Плюс
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/115/index.m3u8
-#EXTINF:0,MTV Hits
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/153/index.m3u8
-#EXTINF:0,VH1 European
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/536/index.m3u8
-#EXTINF:0,Музыка
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/155/index.m3u8
-#EXTINF:0,Trace Urban HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/235/index.m3u8
-#EXTINF:0,Mezzo Live HD
-http://yura2121.iptvbot.biz/iptv/HP7US6NPLR2WB2/217/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/101/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony SciFi
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/110/index.m3u8
+#EXTINF:0 tvg-id="mgm-hd" group-title="Channels",MGM HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/209/index.m3u8
+#EXTINF:0 tvg-id="rtg-hd" group-title="Channels",RTG HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/210/index.m3u8
+#EXTINF:0 tvg-id="nostalgia" group-title="Channels",Ностальгия
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/102/index.m3u8
+#EXTINF:0 tvg-id="amedia1" group-title="Channels",Amedia 1
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/554/index.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/510/index.m3u8
+#EXTINF:0 tvg-id="amedia-hd" group-title="Channels",Amedia Premium HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/555/index.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/556/index.m3u8
+#EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/164/index.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/557/index.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",TV 1000 Action
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/131/index.m3u8
+#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Channels",Любимое Кино
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/722/index.m3u8
+#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Channels",КИНОСВИДАНИЕ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/728/index.m3u8
+#EXTINF:0 tvg-id="hd-kino" group-title="Channels",КИНОСЕМЬЯ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/125/index.m3u8
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="Channels",РОДНОЕ КИНО
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/126/index.m3u8
+#EXTINF:0 tvg-id="kino-plus" group-title="Channels",КИНОМИКС
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/509/index.m3u8
+#EXTINF:0 tvg-id="kinohit" group-title="Channels",Кинохит
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/516/index.m3u8
+#EXTINF:0 tvg-id="nashe-novoe" group-title="Channels",Наше новое кино
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/517/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Кинолюкс
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/521/index.m3u8
+#EXTINF:0 tvg-id="domkino-prem" group-title="Channels",Дом Кино Премиум HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/911/index.m3u8
+#EXTINF:0 tvg-id="tnt4" group-title="Channels",ТНТ4
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/104/index.m3u8
+#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Channels",Остросюжетное HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/904/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony Entertainment Television
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/559/index.m3u8
+#EXTINF:0 tvg-id="sony-turbo" group-title="Channels",Sony Turbo
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/708/index.m3u8
+#EXTINF:0 tvg-id="zhara" group-title="Channels",ЖАРА
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/105/index.m3u8
+#EXTINF:0 tvg-id="tv21" group-title="Channels",TV XXI
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/525/index.m3u8
+#EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/732/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/542/index.m3u8
+#EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/733/index.m3u8
+#EXTINF:0 tvg-id="komediya" group-title="Channels",КИНОКОМЕДИЯ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/145/index.m3u8
+#EXTINF:0 tvg-id="detektiv" group-title="Channels",Detektiv.tv
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/734/index.m3u8
+#EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/817/index.m3u8
+#EXTINF:0 tvg-id="film-box-arthouse" group-title="Channels",Filmbox Arthouse
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/818/index.m3u8
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",HD Кино
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/224/index.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",VIP Premiere
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/202/index.m3u8
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="Channels",VIP Comedy
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/200/index.m3u8
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Channels",VIP Megahit
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/201/index.m3u8
+#EXTINF:0 tvg-id="semeinoe-hd" group-title="Channels",Наш Детектив HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/915/index.m3u8
+#EXTINF:0 tvg-id="nashe-hd" group-title="Channels",Наш Кинороман HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/914/index.m3u8
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",КИНОПРЕМЬЕРА HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/224/index.m3u8
+#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Channels",Кинопоказ HD1
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/913/index.m3u8
+#EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Channels",Кинопоказ HD2
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/912/index.m3u8
+#EXTINF:0 tvg-id="indiya" group-title="Channels",ИНДИЙСКОЕ КИНО
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/146/index.m3u8
+#EXTINF:0 tvg-id="zee" group-title="Channels",ZEE TV
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1001/index.m3u8
+#EXTINF:0 tvg-id="mnogo-tv" group-title="Channels",КИНОСЕРИЯ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/148/index.m3u8
+#EXTINF:0 tvg-id="nstv" group-title="Channels",НСТ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/726/index.m3u8
+#EXTINF:0 tvg-id="illuzion" group-title="Channels",Русский Иллюзион
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/547/index.m3u8
+#EXTINF:0 tvg-id="telenovella" group-title="Channels",Теленовелла
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/548/index.m3u8
+#EXTINF:0 tvg-id="evrokino" group-title="Channels",Еврокино
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/549/index.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/132/index.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",Fox Russia
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/550/index.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",Fox Life
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/553/index.m3u8
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/920/index.m3u8
+#EXTINF:0 tvg-id="paramount-comedy" group-title="Channels",Paramount Comedy Russia
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/157/index.m3u8
+#EXTINF:0 tvg-id="domkino" group-title="Channels",Дом Кино
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/154/index.m3u8
+#EXTINF:0 tvg-id="nature-history" group-title="Channels",Viasat Nature/History HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/203/index.m3u8
+#EXTINF:0 tvg-id="hd-life" group-title="Channels",HD Life
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/226/index.m3u8
+#EXTINF:0 tvg-id="istoria" group-title="Channels",История
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/111/index.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="Channels",Моя Планета
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/117/index.m3u8
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/231/index.m3u8
+#EXTINF:0 tvg-id="nauka" group-title="Channels",Наука 2.0
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/118/index.m3u8
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Телеканал Да Винчи
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/537/index.m3u8
+#EXTINF:0 tvg-id="outdoor" group-title="Channels",Outdoor Channel
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/119/index.m3u8
+#EXTINF:0 tvg-id="sov-sek" group-title="Channels",Сов. Секретно
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/121/index.m3u8
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="Channels",Travel+Adventure HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/908/index.m3u8
+#EXTINF:0 tvg-id="avto24" group-title="Channels",Авто 24
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/538/index.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/133/index.m3u8
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",Nat Geo Wild HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/216/index.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/134/index.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/230/index.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Discovery World
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/135/index.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/136/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/137/index.m3u8
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/218/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/232/index.m3u8
+#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/233/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Investigation Discovery
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/139/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/140/index.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/227/index.m3u8
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Channels",Охотник и рыболов HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/917/index.m3u8
+#EXTINF:0 tvg-id="avto-plus" group-title="Channels",Авто Плюс
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/151/index.m3u8
+#EXTINF:0 tvg-id="vremya" group-title="Channels",Время
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/552/index.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="Channels",Россия-Культура
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/505/index.m3u8
+#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="Channels",Домашние Животные
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/158/index.m3u8
+#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="Channels",Охотаи Рыбалка
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/159/index.m3u8
+#EXTINF:0 tvg-id="kuhnya" group-title="Channels",Кухня ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/152/index.m3u8
+#EXTINF:0 tvg-id="bober" group-title="Channels",Бобёр
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/725/index.m3u8
+#EXTINF:0 tvg-id="zoopark" group-title="Channels",Зоопарк
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/731/index.m3u8
+#EXTINF:0 tvg-id="game-show" group-title="Channels",Game Show
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/736/index.m3u8
+#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/742/index.m3u8
+#EXTINF:0 tvg-id="psihologiya21" group-title="Channels",Психология 21
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/532/index.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Channels",Доктор
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/512/index.m3u8
+#EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",Nickelodeon HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/223/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/524/index.m3u8
+#EXTINF:0 tvg-id="det" group-title="Channels",Детский мир
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/543/index.m3u8
+#EXTINF:0 tvg-id="jimjam" group-title="Channels",Jim Jam
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/138/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/143/index.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="Channels",Карусель
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/156/index.m3u8
+#EXTINF:0 tvg-id="ani" group-title="Channels",Ani
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/129/index.m3u8
+#EXTINF:0 tvg-id="mult" group-title="Channels",Мульт
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/909/index.m3u8
+#EXTINF:0 tvg-id="tlum-hd" group-title="Channels",Тлум HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/240/index.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Channels",Boomerang
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/723/index.m3u8
+#EXTINF:0 tvg-id="o" group-title="Channels",О!
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/727/index.m3u8
+#EXTINF:0 tvg-id="detskiy" group-title="Channels",Детский
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/730/index.m3u8
+#EXTINF:0 tvg-id="vgus" group-title="Channels",В гостях у сказки
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/737/index.m3u8
+#EXTINF:0 tvg-id="karusel+3" group-title="Channels",Карусель (+3)
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/740/index.m3u8
+#EXTINF:0 tvg-id="multik-hd" group-title="Channels",Мультик HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/921/index.m3u8
+#EXTINF:0 tvg-id="eda-hd" group-title="Channels",Еда HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/918/index.m3u8
+#EXTINF:0 tvg-id="rbk" group-title="Channels",РБК ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/106/index.m3u8
+#EXTINF:0 tvg-id="muz-tv" group-title="Channels",МУЗ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/116/index.m3u8
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Europa Plus TV
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/115/index.m3u8
+#EXTINF:0 tvg-id="tnt-music" group-title="Channels",ТНТ MUSIC
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/710/index.m3u8
+#EXTINF:0 tvg-id="dange" group-title="Channels",BRIDGE TV DANCE
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/711/index.m3u8
+#EXTINF:0 tvg-id="rusong" group-title="Channels",RUSONG TV
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/120/index.m3u8
+#EXTINF:0 tvg-id="bridge" group-title="Channels",Bridge TV
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/122/index.m3u8
+#EXTINF:0 tvg-id="bridge-hd" group-title="Channels",BRIDGE HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/236/index.m3u8
+#EXTINF:0 tvg-id="360TuneBox.cz" group-title="Channels",360 Tune Box
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/810/index.m3u8
+#EXTINF:0 tvg-id="nashe-tv" group-title="Channels",Наше ТВ
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/721/index.m3u8
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/724/index.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/142/index.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV Live HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/221/index.m3u8
+#EXTINF:0 tvg-id="mtv-dance" group-title="Channels",MTV Dance
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/558/index.m3u8
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Европа Плюс
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/115/index.m3u8
+#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/153/index.m3u8
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1 European
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/536/index.m3u8
+#EXTINF:0 tvg-id="muzika1" group-title="Channels",Музыка
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/155/index.m3u8
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/235/index.m3u8
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/217/index.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/901/index.m3u8
+#EXTINF:0 tvg-id="Freeform.us" group-title="Channels",Freeform
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/903/index.m3u8
+#EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox EN
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1071/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fashiontv EN
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1010/index.m3u8
+#EXTINF:0 tvg-id="FashionTV.uk" group-title="Channels",Fashiontv EN HD
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1011/index.m3u8
+#EXTINF:0 tvg-id="world-fashion" group-title="Channels",World Fashion Channel
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/1068/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gametoon
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/820/index.m3u8
