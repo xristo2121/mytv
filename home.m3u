@@ -27,12 +27,8 @@ http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/906/index.m3u8
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/907/index.m3u8
 #EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/503/index.m3u8
-#EXTINF:0 tvg-id="ntn" group-title="Channels",HTH
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/533/index.m3u8
 #EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/532/index.m3u8
-#EXTINF:0 tvg-id="mama" group-title="Channels",Мама
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/704/index.m3u8
 #EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/706/index.m3u8
 #EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
@@ -59,10 +55,6 @@ http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/544/index.m3u8
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/809/index.m3u8
 #EXTINF:0 tvg-id="2x2" group-title="Channels",2X2
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/702/index.m3u8
-#EXTINF:0 tvg-id="m-1" group-title="Channels",M1
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/949/index.m3u8
-#EXTINF:0 tvg-id="m-2" group-title="Channels",M2
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/950/index.m3u8
 #EXTINF:0 tvg-id="news24" group-title="Channels",24 Канал
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/951/index.m3u8
 #EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
@@ -75,16 +67,12 @@ http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/931/index.m3u8
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/930/index.m3u8
 #EXTINF:0 tvg-id="enter-film" group-title="Channels",Enter-фільм
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/933/index.m3u8
-#EXTINF:0 tvg-id="novkan" group-title="Channels",Новий Канал
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/935/index.m3u8
 #EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/936/index.m3u8
 #EXTINF:0 tvg-id="inter" group-title="Channels",Iнтер
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/937/index.m3u8
 #EXTINF:0 tvg-id="1p1_int" group-title="Channels",1+1 International
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/987/index.m3u8
-#EXTINF:0 tvg-id="lale" group-title="Channels",Lale
-http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/953/index.m3u8
 #EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/501/index.m3u8
 #EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
