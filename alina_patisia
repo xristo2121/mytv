@@ -33,14 +33,24 @@ http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/744/index.m3u8
 http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/745/index.m3u8
 #EXTINF:0,НТВ Право
 http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/743/index.m3u8
-#EXTINF:0, Publika TV
-https://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:0, PRO TV Chișinău
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0, Moldova 1
-http://live.trm.md:1935/live/_definst_/MoldovaUnu1/chunklist_w866294327.m3u8
-#EXTINF:0, Moldova 2
-http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
+#EXTINF:-1,N4 (Молдова)
+http://37.233.27.53:8884
+#EXTINF:-1,Prime (Молдова)
+http://37.233.27.53:8894
+#EXTINF:-1,Familia
+http://37.233.27.53:8892
+#EXTINF:-1,TVR Moldova
+http://37.233.27.53:8883
+#EXTINF:-1,Canal 2
+http://37.233.27.53:8885
+#EXTINF:-1,Publika TV
+http://37.233.27.53:8887
+#EXTINF:-1,Moldova 1
+http://37.233.27.53:8881
+#EXTINF:-1,Moldova 2
+http://37.233.27.53:8889
+#EXTINF:-1,CTC Dixi
+http://37.233.27.53:8891
 #EXTINF:0,Мужское кино
 http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/164/index.m3u8
 #EXTINF:0,AMC
