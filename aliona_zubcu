@@ -7,6 +7,16 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/127/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/205/index.m3u8
 #EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/504/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
+http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/501/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
+http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/213/index.m3u8
+#EXTINF:0 tvg-id="ntv-serial" group-title="Channels",НТВ Сериал
+http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/744/index.m3u8
+#EXTINF:0 tvg-id="ntv-style" group-title="Channels",НТВ Стиль
+http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/745/index.m3u8
+#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
+http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/743/index.m3u8
 #EXTINF:0 tvg-id="kvn-tv" group-title="Channels",КВН ТВ
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/546/index.m3u8
 #EXTINF:0 tvg-id="vesti" group-title="Channels",Россия 24
@@ -15,10 +25,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/507/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/502/index.m3u8
 #EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/237/index.m3u8
-#EXTINF:0 tvg-id="sts" group-title="Channels",СТС
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/506/index.m3u8
-#EXTINF:0 tvg-id="sts-love" group-title="Channels",СТС Love
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/103/index.m3u8
 #EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский бестселлер
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/905/index.m3u8
 #EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский роман
@@ -27,9 +33,7 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/906/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/907/index.m3u8
 #EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/503/index.m3u8
-#EXTINF:0 tvg-id="ntn" group-title="Channels",HTH
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/533/index.m3u8
-#EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",Усадьба
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/532/index.m3u8
 #EXTINF:0 tvg-id="mama" group-title="Channels",Мама
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/704/index.m3u8
@@ -43,26 +47,12 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/508/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/534/index.m3u8
 #EXTINF:0 tvg-id="mir" group-title="Channels",Мир
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/113/index.m3u8
-#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/128/index.m3u8
-#EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/520/index.m3u8
-#EXTINF:0 tvg-id="chetv" group-title="Channels",Че
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/513/index.m3u8
 #EXTINF:0 tvg-id="8-kanal" group-title="Channels",8 канал
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/1057/index.m3u8
-#EXTINF:0 tvg-id="home" group-title="Channels",Домашний
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/514/index.m3u8
 #EXTINF:0 tvg-id="zvezda" group-title="Channels",Телеканал Звезда
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/544/index.m3u8
-#EXTINF:0 tvg-id="trk-ukraina" group-title="Channels",Україна
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/809/index.m3u8
 #EXTINF:0 tvg-id="2x2" group-title="Channels",2X2
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/702/index.m3u8
-#EXTINF:0 tvg-id="m-1" group-title="Channels",M1
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/949/index.m3u8
-#EXTINF:0 tvg-id="m-2" group-title="Channels",M2
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/950/index.m3u8
 #EXTINF:0 tvg-id="news24" group-title="Channels",24 Канал
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/951/index.m3u8
 #EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
@@ -74,9 +64,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/931/index.m3u8
 #EXTINF:0 tvg-id="k2" group-title="Channels",К2
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/930/index.m3u8
 #EXTINF:0 tvg-id="enter-film" group-title="Channels",Enter-фільм
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/933/index.m3u8
-#EXTINF:0 tvg-id="novkan" group-title="Channels",Новий Канал
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/935/index.m3u8
 #EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/936/index.m3u8
 #EXTINF:0 tvg-id="inter" group-title="Channels",Iнтер
@@ -85,80 +72,24 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/937/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/987/index.m3u8
 #EXTINF:0 tvg-id="lale" group-title="Channels",Lale
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/953/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/501/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/213/index.m3u8
-#EXTINF:0 tvg-id="ntv-serial" group-title="Channels",НТВ Сериал
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/744/index.m3u8
-#EXTINF:0 tvg-id="ntv-style" group-title="Channels",НТВ Стиль
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/745/index.m3u8
-#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/743/index.m3u8
-#EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/212/index.m3u8
-#EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/535/index.m3u8
-#EXTINF:0 tvg-id="sport-plus" group-title="Channels",Матч! Наш спорт
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/107/index.m3u8
-#EXTINF:0 tvg-id="sport1_rus" group-title="Channels",МАТЧ! АРЕНА
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/528/index.m3u8
-#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",МАТЧ! АРЕНА HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/207/index.m3u8
-#EXTINF:0 tvg-id="sport2_rus" group-title="Channels",МАТЧ! ИГРА
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/529/index.m3u8
-#EXTINF:0 tvg-id="hd-sport" group-title="Channels",Матч! Игра HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/225/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/124/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1 HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/222/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/530/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",МАТЧ! ФУТБОЛ 2 HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/211/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/522/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",МАТЧ! ФУТБОЛ 3 HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/206/index.m3u8
-#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",Наш футбол HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/220/index.m3u8
-#EXTINF:0 tvg-id="kxl" group-title="Channels",KHL
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/519/index.m3u8
-#EXTINF:0 tvg-id="kxl-hd" group-title="Channels",Телеканал КХЛ HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/215/index.m3u8
-#EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир HD
-http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
-#EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/141/index.m3u8
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/228/index.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/160/index.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport HD
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/208/index.m3u8
-#EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",Trace Sport Stars
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/234/index.m3u8
-#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/144/index.m3u8
-#EXTINF:0 tvg-id="boec" group-title="Channels",Боец
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/150/index.m3u8
-#EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
-http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/index.m3u8?token=6f7d985b24178f3db7835a9fcb2f06e020a436d6
-#EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
-http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
+https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
-rtmp://live.trm.md:1935/live/MoldovaUnu1
+http://live.trm.md:1935/live/M1Mlive/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 2
-rtmp://live.trm.md:1935/live/MoldovaDoi2
-#EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
+http://live.trm.md:1935/live/M2Mlive/playlist.m3u8
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",Pro tv Moldova
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime Moldova
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 Moldova
 http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 3 Moldova
+http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:0 tvg-id="n4" group-title="Channels",N4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:0 tvg-id="ext" group-title="Channels",RU TV Moldova
+http://217.12.116.122/hls/rutv_direct.m3u8
 #EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/101/index.m3u8
 #EXTINF:0 tvg-id="set" group-title="Channels",Sony SciFi
@@ -179,7 +110,7 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/555/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/556/index.m3u8
 #EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/164/index.m3u8
-#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",Hollywood
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/557/index.m3u8
 #EXTINF:0 tvg-id="tv1000-action" group-title="Channels",TV 1000 Action
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/131/index.m3u8
@@ -197,8 +128,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/509/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/516/index.m3u8
 #EXTINF:0 tvg-id="nashe-novoe" group-title="Channels",Наше новое кино
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/517/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Кинолюкс
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/521/index.m3u8
 #EXTINF:0 tvg-id="domkino-prem" group-title="Channels",Дом Кино Премиум HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/911/index.m3u8
 #EXTINF:0 tvg-id="tnt4" group-title="Channels",ТНТ4
@@ -215,7 +144,7 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/105/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/525/index.m3u8
 #EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/732/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
+#EXTINF:0 tvg-id="ext" group-title="Channels",Диалоги о рыбалке
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/542/index.m3u8
 #EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/733/index.m3u8
@@ -223,10 +152,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/733/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/145/index.m3u8
 #EXTINF:0 tvg-id="detektiv" group-title="Channels",Detektiv.tv
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/734/index.m3u8
-#EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/817/index.m3u8
-#EXTINF:0 tvg-id="film-box-arthouse" group-title="Channels",Filmbox Arthouse
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/818/index.m3u8
 #EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",HD Кино
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/224/index.m3u8
 #EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",VIP Premiere
@@ -241,8 +166,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/915/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/914/index.m3u8
 #EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",КИНОПРЕМЬЕРА HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/224/index.m3u8
-#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Channels",Кинопоказ HD1
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/913/index.m3u8
 #EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Channels",Кинопоказ HD2
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/912/index.m3u8
 #EXTINF:0 tvg-id="indiya" group-title="Channels",ИНДИЙСКОЕ КИНО
@@ -255,8 +178,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/148/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/726/index.m3u8
 #EXTINF:0 tvg-id="illuzion" group-title="Channels",Русский Иллюзион
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/547/index.m3u8
-#EXTINF:0 tvg-id="telenovella" group-title="Channels",Теленовелла
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/548/index.m3u8
 #EXTINF:0 tvg-id="evrokino" group-title="Channels",Еврокино
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/549/index.m3u8
 #EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
@@ -265,7 +186,7 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/132/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/550/index.m3u8
 #EXTINF:0 tvg-id="fox-life" group-title="Channels",Fox Life
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/553/index.m3u8
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Приключения HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/920/index.m3u8
 #EXTINF:0 tvg-id="paramount-comedy" group-title="Channels",Paramount Comedy Russia
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/157/index.m3u8
@@ -289,7 +210,7 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/537/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/119/index.m3u8
 #EXTINF:0 tvg-id="sov-sek" group-title="Channels",Сов. Секретно
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/121/index.m3u8
-#EXTINF:0 tvg-id="travel-adv-hd" group-title="Channels",Travel+Adventure HD
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="Channels",Эврика HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/908/index.m3u8
 #EXTINF:0 tvg-id="avto24" group-title="Channels",Авто 24
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/538/index.m3u8
@@ -301,7 +222,7 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/216/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/134/index.m3u8
 #EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/230/index.m3u8
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Discovery World
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Поехали!
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/135/index.m3u8
 #EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/136/index.m3u8
@@ -393,8 +314,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/120/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/122/index.m3u8
 #EXTINF:0 tvg-id="bridge-hd" group-title="Channels",BRIDGE HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/236/index.m3u8
-#EXTINF:0 tvg-id="360TuneBox.cz" group-title="Channels",360 Tune Box
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/810/index.m3u8
 #EXTINF:0 tvg-id="nashe-tv" group-title="Channels",Наше ТВ
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/721/index.m3u8
 #EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
@@ -417,8 +336,6 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/155/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/235/index.m3u8
 #EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live HD
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/217/index.m3u8
-#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/901/index.m3u8
 #EXTINF:0 tvg-id="Freeform.us" group-title="Channels",Freeform
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/903/index.m3u8
 #EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox EN
@@ -429,6 +346,5 @@ http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/1010/index.m3u8
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/1011/index.m3u8
 #EXTINF:0 tvg-id="world-fashion" group-title="Channels",World Fashion Channel
 http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/1068/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gametoon
-http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/820/index.m3u8
- 
+#EXTINF:0 tvg-id="food-network" group-title="Channels",Food Network
+http://xristo2121.ottv.info/iptv/TZ6QANAKN56QWZ/1107/index.m3u8
