@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС
+http://myott.tv/stream/X3LBHP9231/138.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый канал HD
 http://ott.shara.club/yuradafni/TUbqJnW03M/194
 #EXTINF:0 tvg-id="pervy" tvg-logo="https://iptvx.one/icn/pervyj.png" group-title="Channels",Первый канал
