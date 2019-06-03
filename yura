@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Первый канал
 http://fox-tv.fun:25461/54610/567032/1
-#EXTINF:-1,Первый канал +4
-http://fox-tv.fun:25461/54610/567032/476
 #EXTINF:-1,Первый канал HD
 http://fox-tv.fun:25461/54610/567032/142
 #EXTINF:-1,Победа HD
@@ -15,8 +13,6 @@ http://fox-tv.fun:25461/54610/567032/125
 http://fox-tv.fun:25461/54610/567032/2
 #EXTINF:-1,Россия 1 HD
 http://fox-tv.fun:25461/54610/567032/20
-#EXTINF:-1,Россия 1 +4
-http://fox-tv.fun:25461/54610/567032/479
 #EXTINF:-1,Россия 24
 http://fox-tv.fun:25461/54610/567032/12
 #EXTINF:-1,МИР HD
@@ -31,8 +27,6 @@ http://fox-tv.fun:25461/54610/567032/485
 http://fox-tv.fun:25461/54610/567032/486
 #EXTINF:-1,НТВ
 http://fox-tv.fun:25461/54610/567032/4
-#EXTINF:-1,НТВ +4
-http://fox-tv.fun:25461/54610/567032/475
 #EXTINF:-1,НТВ МИР
 http://fox-tv.fun:25461/54610/567032/5
 #EXTINF:-1,НТВ Сериал
