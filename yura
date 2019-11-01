@@ -1,389 +1,423 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/204/index.m3u8
-#EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/127/index.m3u8
-#EXTINF:0 tvg-id="rossiya-hd" group-title="Channels",Россия HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/205/index.m3u8
-#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/504/index.m3u8
-#EXTINF:0 tvg-id="kvn-tv" group-title="Channels",КВН ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/546/index.m3u8
-#EXTINF:0 tvg-id="vesti" group-title="Channels",Россия 24
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/507/index.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/502/index.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/237/index.m3u8
-#EXTINF:0 tvg-id="sts" group-title="Channels",СТС
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/506/index.m3u8
-#EXTINF:0 tvg-id="sts-love" group-title="Channels",СТС Love
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/103/index.m3u8
-#EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский бестселлер
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/905/index.m3u8
-#EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский роман
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/906/index.m3u8
-#EXTINF:0 tvg-id="rus-detective" group-title="Channels",Русский детектив
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/907/index.m3u8
-#EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/503/index.m3u8
-#EXTINF:0 tvg-id="ntn" group-title="Channels",HTH
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/533/index.m3u8
-#EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/532/index.m3u8
-#EXTINF:0 tvg-id="mama" group-title="Channels",Мама
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/704/index.m3u8
-#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/706/index.m3u8
-#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/742/index.m3u8
-#EXTINF:0 tvg-id="tv3" group-title="Channels",ТВ3
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/508/index.m3u8
-#EXTINF:0 tvg-id="muztv" group-title="Channels",Ю ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/534/index.m3u8
-#EXTINF:0 tvg-id="mir" group-title="Channels",Мир
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/113/index.m3u8
-#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/128/index.m3u8
-#EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/520/index.m3u8
-#EXTINF:0 tvg-id="chetv" group-title="Channels",Че
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/513/index.m3u8
-#EXTINF:0 tvg-id="8-kanal" group-title="Channels",8 канал
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/1057/index.m3u8
-#EXTINF:0 tvg-id="home" group-title="Channels",Домашний
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/514/index.m3u8
-#EXTINF:0 tvg-id="zvezda" group-title="Channels",Телеканал Звезда
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/544/index.m3u8
-#EXTINF:0 tvg-id="2x2" group-title="Channels",2X2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/702/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/501/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/213/index.m3u8
-#EXTINF:0 tvg-id="ntv-serial" group-title="Channels",НТВ Сериал
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/744/index.m3u8
-#EXTINF:0 tvg-id="ntv-style" group-title="Channels",НТВ Стиль
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/745/index.m3u8
-#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/743/index.m3u8
-#EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/212/index.m3u8
-#EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/535/index.m3u8
-#EXTINF:0 tvg-id="sport-plus" group-title="Channels",Матч! Наш спорт
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/107/index.m3u8
-#EXTINF:0 tvg-id="sport1_rus" group-title="Channels",МАТЧ! АРЕНА
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/528/index.m3u8
-#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",МАТЧ! АРЕНА HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/207/index.m3u8
-#EXTINF:0 tvg-id="sport2_rus" group-title="Channels",МАТЧ! ИГРА
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/529/index.m3u8
-#EXTINF:0 tvg-id="hd-sport" group-title="Channels",Матч! Игра HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/225/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/124/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/222/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/530/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",МАТЧ! ФУТБОЛ 2 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/211/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/522/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",МАТЧ! ФУТБОЛ 3 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/206/index.m3u8
-#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",Наш футбол HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/220/index.m3u8
-#EXTINF:0 tvg-id="kxl" group-title="Channels",KHL
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/519/index.m3u8
-#EXTINF:0 tvg-id="kxl-hd" group-title="Channels",Телеканал КХЛ HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/215/index.m3u8
-#EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир HD
-http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
-#EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/141/index.m3u8
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/228/index.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/160/index.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/208/index.m3u8
-#EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",Trace Sport Stars
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/234/index.m3u8
-#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/144/index.m3u8
-#EXTINF:0 tvg-id="boec" group-title="Channels",Боец
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/150/index.m3u8s
-#EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
-rtmp://live.trm.md:1935/live/MoldovaUnu1
-#EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 2
-rtmp://live.trm.md:1935/live/MoldovaDoi2
-#EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/101/index.m3u8
-#EXTINF:0 tvg-id="set" group-title="Channels",Sony SciFi
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/110/index.m3u8
-#EXTINF:0 tvg-id="mgm-hd" group-title="Channels",MGM HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/209/index.m3u8
-#EXTINF:0 tvg-id="rtg-hd" group-title="Channels",RTG HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/210/index.m3u8
-#EXTINF:0 tvg-id="nostalgia" group-title="Channels",Ностальгия
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/102/index.m3u8
-#EXTINF:0 tvg-id="amedia1" group-title="Channels",Amedia 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/554/index.m3u8
-#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/510/index.m3u8
-#EXTINF:0 tvg-id="amedia-hd" group-title="Channels",Amedia Premium HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/555/index.m3u8
-#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/556/index.m3u8
-#EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/164/index.m3u8
-#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/557/index.m3u8
-#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",TV 1000 Action
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/131/index.m3u8
-#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Channels",Любимое Кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/722/index.m3u8
-#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Channels",КИНОСВИДАНИЕ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/728/index.m3u8
-#EXTINF:0 tvg-id="hd-kino" group-title="Channels",КИНОСЕМЬЯ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/125/index.m3u8
-#EXTINF:0 tvg-id="ntv-nashekino" group-title="Channels",РОДНОЕ КИНО
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/126/index.m3u8
-#EXTINF:0 tvg-id="kino-plus" group-title="Channels",КИНОМИКС
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/509/index.m3u8
-#EXTINF:0 tvg-id="kinohit" group-title="Channels",Кинохит
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/516/index.m3u8
-#EXTINF:0 tvg-id="nashe-novoe" group-title="Channels",Наше новое кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/517/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Кинолюкс
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/521/index.m3u8
-#EXTINF:0 tvg-id="domkino-prem" group-title="Channels",Дом Кино Премиум HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/911/index.m3u8
-#EXTINF:0 tvg-id="tnt4" group-title="Channels",ТНТ4
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/104/index.m3u8
-#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Channels",Остросюжетное HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/904/index.m3u8
-#EXTINF:0 tvg-id="set" group-title="Channels",Sony Entertainment Television
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/559/index.m3u8
-#EXTINF:0 tvg-id="sony-turbo" group-title="Channels",Sony Turbo
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/708/index.m3u8
-#EXTINF:0 tvg-id="zhara" group-title="Channels",ЖАРА
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/105/index.m3u8
-#EXTINF:0 tvg-id="tv21" group-title="Channels",TV XXI
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/525/index.m3u8
-#EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/732/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/542/index.m3u8
-#EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/733/index.m3u8
-#EXTINF:0 tvg-id="komediya" group-title="Channels",КИНОКОМЕДИЯ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/145/index.m3u8
-#EXTINF:0 tvg-id="detektiv" group-title="Channels",Detektiv.tv
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/734/index.m3u8
-#EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/817/index.m3u8
-#EXTINF:0 tvg-id="film-box-arthouse" group-title="Channels",Filmbox Arthouse
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/818/index.m3u8
-#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",HD Кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/224/index.m3u8
-#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",VIP Premiere
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/202/index.m3u8
-#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="Channels",VIP Comedy
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/200/index.m3u8
-#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Channels",VIP Megahit
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/201/index.m3u8
-#EXTINF:0 tvg-id="semeinoe-hd" group-title="Channels",Наш Детектив HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/915/index.m3u8
-#EXTINF:0 tvg-id="nashe-hd" group-title="Channels",Наш Кинороман HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/914/index.m3u8
-#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",КИНОПРЕМЬЕРА HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/224/index.m3u8
-#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Channels",Кинопоказ HD1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/913/index.m3u8
-#EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Channels",Кинопоказ HD2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/912/index.m3u8
-#EXTINF:0 tvg-id="indiya" group-title="Channels",ИНДИЙСКОЕ КИНО
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/146/index.m3u8
-#EXTINF:0 tvg-id="zee" group-title="Channels",ZEE TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/1001/index.m3u8
-#EXTINF:0 tvg-id="mnogo-tv" group-title="Channels",КИНОСЕРИЯ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/148/index.m3u8
-#EXTINF:0 tvg-id="nstv" group-title="Channels",НСТ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/726/index.m3u8
-#EXTINF:0 tvg-id="illuzion" group-title="Channels",Русский Иллюзион
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/547/index.m3u8
-#EXTINF:0 tvg-id="telenovella" group-title="Channels",Теленовелла
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/548/index.m3u8
-#EXTINF:0 tvg-id="evrokino" group-title="Channels",Еврокино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/549/index.m3u8
-#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/132/index.m3u8
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",Fox Russia
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/550/index.m3u8
-#EXTINF:0 tvg-id="fox-life" group-title="Channels",Fox Life
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/553/index.m3u8
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/920/index.m3u8
-#EXTINF:0 tvg-id="paramount-comedy" group-title="Channels",Paramount Comedy Russia
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/157/index.m3u8
-#EXTINF:0 tvg-id="domkino" group-title="Channels",Дом Кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/154/index.m3u8
-#EXTINF:0 tvg-id="nature-history" group-title="Channels",Viasat Nature/History HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/203/index.m3u8
-#EXTINF:0 tvg-id="hd-life" group-title="Channels",HD Life
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/226/index.m3u8
-#EXTINF:0 tvg-id="istoria" group-title="Channels",История
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/111/index.m3u8
-#EXTINF:0 tvg-id="moya-planeta" group-title="Channels",Моя Планета
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/117/index.m3u8
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/231/index.m3u8
-#EXTINF:0 tvg-id="nauka" group-title="Channels",Наука 2.0
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/118/index.m3u8
-#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Телеканал Да Винчи
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/537/index.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="Channels",Outdoor Channel
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/119/index.m3u8
-#EXTINF:0 tvg-id="sov-sek" group-title="Channels",Сов. Секретно
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/121/index.m3u8
-#EXTINF:0 tvg-id="travel-adv-hd" group-title="Channels",Travel+Adventure HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/908/index.m3u8
-#EXTINF:0 tvg-id="avto24" group-title="Channels",Авто 24
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/538/index.m3u8
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/133/index.m3u8
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",Nat Geo Wild HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/216/index.m3u8
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/134/index.m3u8
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/230/index.m3u8
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Discovery World
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/135/index.m3u8
-#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/136/index.m3u8
-#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/137/index.m3u8
-#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/218/index.m3u8
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/232/index.m3u8
-#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/233/index.m3u8
-#EXTINF:0 tvg-id="id-extra" group-title="Channels",Investigation Discovery
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/139/index.m3u8
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/140/index.m3u8
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/227/index.m3u8
-#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Channels",Охотник и рыболов HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/917/index.m3u8
-#EXTINF:0 tvg-id="avto-plus" group-title="Channels",Авто Плюс
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/151/index.m3u8
-#EXTINF:0 tvg-id="vremya" group-title="Channels",Время
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/552/index.m3u8
-#EXTINF:0 tvg-id="kultura" group-title="Channels",Россия-Культура
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/505/index.m3u8
-#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="Channels",Домашние Животные
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/158/index.m3u8
-#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="Channels",Охотаи Рыбалка
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/159/index.m3u8
-#EXTINF:0 tvg-id="kuhnya" group-title="Channels",Кухня ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/152/index.m3u8
-#EXTINF:0 tvg-id="bober" group-title="Channels",Бобёр
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/725/index.m3u8
-#EXTINF:0 tvg-id="zoopark" group-title="Channels",Зоопарк
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/731/index.m3u8
-#EXTINF:0 tvg-id="game-show" group-title="Channels",Game Show
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/736/index.m3u8
-#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/742/index.m3u8
-#EXTINF:0 tvg-id="psihologiya21" group-title="Channels",Психология 21
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/532/index.m3u8
-#EXTINF:0 tvg-id="24dok" group-title="Channels",Доктор
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/512/index.m3u8
-#EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",Nickelodeon HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/223/index.m3u8
-#EXTINF:0 tvg-id="disney" group-title="Channels",Disney
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/524/index.m3u8
-#EXTINF:0 tvg-id="det" group-title="Channels",Детский мир
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/543/index.m3u8
-#EXTINF:0 tvg-id="jimjam" group-title="Channels",Jim Jam
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/138/index.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/143/index.m3u8
-#EXTINF:0 tvg-id="karusel" group-title="Channels",Карусель
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/156/index.m3u8
-#EXTINF:0 tvg-id="ani" group-title="Channels",Ani
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/129/index.m3u8
-#EXTINF:0 tvg-id="mult" group-title="Channels",Мульт
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/909/index.m3u8
-#EXTINF:0 tvg-id="tlum-hd" group-title="Channels",Тлум HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/240/index.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="Channels",Boomerang
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/723/index.m3u8
-#EXTINF:0 tvg-id="o" group-title="Channels",О!
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/727/index.m3u8
-#EXTINF:0 tvg-id="detskiy" group-title="Channels",Детский
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/730/index.m3u8
-#EXTINF:0 tvg-id="vgus" group-title="Channels",В гостях у сказки
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/737/index.m3u8
-#EXTINF:0 tvg-id="karusel+3" group-title="Channels",Карусель (+3)
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/740/index.m3u8
-#EXTINF:0 tvg-id="multik-hd" group-title="Channels",Мультик HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/921/index.m3u8
-#EXTINF:0 tvg-id="eda-hd" group-title="Channels",Еда HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/918/index.m3u8
-#EXTINF:0 tvg-id="rbk" group-title="Channels",РБК ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/106/index.m3u8
-#EXTINF:0 tvg-id="muz-tv" group-title="Channels",МУЗ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/116/index.m3u8
-#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Europa Plus TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/115/index.m3u8
-#EXTINF:0 tvg-id="tnt-music" group-title="Channels",ТНТ MUSIC
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/710/index.m3u8
-#EXTINF:0 tvg-id="dange" group-title="Channels",BRIDGE TV DANCE
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/711/index.m3u8
-#EXTINF:0 tvg-id="rusong" group-title="Channels",RUSONG TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/120/index.m3u8
-#EXTINF:0 tvg-id="bridge" group-title="Channels",Bridge TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/122/index.m3u8
-#EXTINF:0 tvg-id="bridge-hd" group-title="Channels",BRIDGE HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/236/index.m3u8
-#EXTINF:0 tvg-id="360TuneBox.cz" group-title="Channels",360 Tune Box
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/810/index.m3u8
-#EXTINF:0 tvg-id="nashe-tv" group-title="Channels",Наше ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/721/index.m3u8
-#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/724/index.m3u8
-#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/142/index.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV Live HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/221/index.m3u8
-#EXTINF:0 tvg-id="mtv-dance" group-title="Channels",MTV Dance
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/558/index.m3u8
-#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Европа Плюс
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/115/index.m3u8
-#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/153/index.m3u8
-#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1 European
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/536/index.m3u8
-#EXTINF:0 tvg-id="muzika1" group-title="Channels",Музыка
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/155/index.m3u8
-#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/235/index.m3u8
-#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/217/index.m3u8
+#EXTINF:0 tvg-id="ort-hd" ,Первый HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/pervyHD.ts
+#EXTINF:0 tvg-id="ort" ,Первый канал
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/pervy.ts
+#EXTINF:0 tvg-id="rossiya-hd" ,Россия 1 HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rossia1HD.ts
+#EXTINF:0 tvg-id="rtr" ,Россия 1
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rossia1.ts
+#EXTINF:0 tvg-id="tnt" ,ТНТ HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tntHD.ts
+#EXTINF:0 tvg-id="tnt" ,ТНТ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tnt.ts
+#EXTINF:0 tvg-id="sts" ,СТС
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/sts.ts
+#EXTINF:0 tvg-id="ntv" ,НТВ HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ntvHD.ts
+#EXTINF:0 tvg-id="ntv" ,НТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ntv.ts
+#EXTINF:0 tvg-id="rentv" ,РЕН ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rentv.ts
+#EXTINF:0 tvg-id="rentv" ,РЕН HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rentvHD.ts
+#EXTINF:0 tvg-id="tvcen" ,ТВЦ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tvcentr.ts
+#EXTINF:0 tvg-id="tv3" ,ТВ-3
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tv3-ru.ts
+#EXTINF:0 tvg-id="home" ,Домашний
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/domashny.ts
+#EXTINF:0 tvg-id="piter" ,Пятый канал
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/5kanal-ru.ts
+#EXTINF:0 tvg-id="mir" ,Мир
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mir.ts
+#EXTINF:0 tvg-id="ext" ,Мир Premium HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mir-premium.ts
+#EXTINF:0 tvg-id="otr" ,ОТР
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/otr.ts
+#EXTINF:0 tvg-id="ntvmir" ,НТВ Мир
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ntv-mir.ts
+#EXTINF:0 tvg-id="viasat-sport" ,Viasat Sport
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/viasat-sport.ts
+#EXTINF:0 tvg-id="viasat-sport" ,Viasat Sport HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/viasat-sporthd.ts
+#EXTINF:0 tvg-id="boec" ,МАТЧ! Боец
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-boets.ts
+#EXTINF:0 tvg-id="sport-plus" ,МАТЧ! Страна
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-nash-sport.ts
+#EXTINF:0 tvg-id="match" ,Матч ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-tv.ts
+#EXTINF:0 tvg-id="match" ,Матч! HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-tvhd.ts
+#EXTINF:0 tvg-id="sport1_rus" ,МАТЧ! Арена
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-arena.ts
+#EXTINF:0 tvg-id="sport1_hd" ,МАТЧ! Арена HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-arenahd.ts
+#EXTINF:0 tvg-id="sport2_rus" ,МАТЧ! Игра
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-igra.ts
+#EXTINF:0 tvg-id="hd-sport" ,МАТЧ! Игра HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-igrahd.ts
+#EXTINF:0 tvg-id="ntv-sport" ,МАТЧ! Планета
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-planeta.ts
+#EXTINF:0 tvg-id="ntv-football-1" ,МАТЧ! Футбол 1
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-football1.ts
+#EXTINF:0 tvg-id="ntv-football-1" ,МАТЧ! Футбол 1 HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-football1hd.ts
+#EXTINF:0 tvg-id="ntv-football-2" ,МАТЧ! Футбол 2
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-football2.ts
+#EXTINF:0 tvg-id="ntv-football-2" ,МАТЧ! Футбол 2 HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-football2hd.ts
+#EXTINF:0 tvg-id="ntv-football-3" ,МАТЧ! Футбол 3
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-football3.ts
+#EXTINF:0 tvg-id="ntv-football-3" ,Матч! Футбол 3 HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-football3hd.ts
+#EXTINF:0 tvg-id="ntv-nashfootball" ,МАТЧ ПРЕМЬЕР
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-premier.ts
+#EXTINF:0 tvg-id="ntv-nashfootball" ,МАТЧ ПРЕМЬЕР HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/match-premierhd.ts
+#EXTINF:0 tvg-id="boxtv" ,Бокс ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/box-tv.ts
+#EXTINF:0 tvg-id="ext" ,UFC ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ufc.ts
+#EXTINF:0 tvg-id="kxl" ,КХЛ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kxl.ts
+#EXTINF:0 tvg-id="kxl-hd" ,КХЛ HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kxl-hd.ts
+#EXTINF:0 tvg-id="esp" ,Eurosport
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/eurosport1-ru.ts
+#EXTINF:0 tvg-id="esp-hd" ,Eurosport 1 HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/eurosport1hd.ts
+#EXTINF:0 tvg-id="esp2-hd" ,Eurosport 2 HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/eurosport2HD.ts
+#EXTINF:0 tvg-id="ext" ,Eurosport Gold HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/eurosport-gold.ts
+#EXTINF:0 tvg-id="esp" ,Eurosport 4K
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/eurosport-4k.ts
+#EXTINF:0 tvg-id="ExtremeSports.uk" ,Extreme Sport
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/extreme-sports.ts
+#EXTINF:0 tvg-id="russkij-extreme" ,Русский Экстрим
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/russky-ekstrim.ts
+#EXTINF:0 tvg-id="tochka" ,Точка отрыва
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tochka-otryva.ts
+#EXTINF:0 tvg-id="ext" ,Сетанта Спорт 2
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/setanta-sports-plus.ts
+#EXTINF:0 tvg-id="setanta-sport" ,Сетанта Спорт
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/setanta-sports.ts
+#EXTINF:0 tvg-id="ntv-football-1" ,Футбол HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/football-ru.ts
+#EXTINF:0 tvg-id="chetv" ,Че
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/che.ts
+#EXTINF:0 tvg-id="kultura" ,Россия-Культура
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rossia-k.ts
+#EXTINF:0 tvg-id="zvezda" ,Телеканал Звезда
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/zvezda.ts
+#EXTINF:0 tvg-id="tnt4" ,ТНТ4
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tnt4.ts
+#EXTINF:0 tvg-id="sts-love" ,СТС Love
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/sts-love.ts
+#EXTINF:0 tvg-id="kvn-tv" ,КВН ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kvn-tv.ts
+#EXTINF:0 tvg-id="pyatnica" ,Пятница HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/piatnicaHD.ts
+#EXTINF:0 tvg-id="pyatnica" ,Пятница
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/piatnica.ts
+#EXTINF:0 tvg-id="muztv" ,Ю
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/yu.ts
+#EXTINF:0 tvg-id="super" ,Супер
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/super.ts
+#EXTINF:0 tvg-id="ext" ,FAN
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/fan.ts
+#EXTINF:0 tvg-id="ext" ,FAN HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/fanhd.ts
+#EXTINF:0 tvg-id="game-show" ,E tv
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/e-tv.ts
+#EXTINF:0 tvg-id="365dney" ,365 дней ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/365-dnej.ts
+#EXTINF:0 tvg-id="bober" ,Бобёр
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/bobior.ts
+#EXTINF:0 tvg-id="eda-hd" ,Еда Премиум
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/eda-hd.ts
+#EXTINF:0 tvg-id="food-network-rus" ,Food Network
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/food-network.ts
+#EXTINF:0 tvg-id="food-network-rus" ,Food Network HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/food-networkHD.ts
+#EXTINF:0 tvg-id="history" ,Viasat History
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/viasat-history.ts
+#EXTINF:0 tvg-id="explorer-rus" ,Viasat Explore
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/viasat-explore.ts
+#EXTINF:0 tvg-id="viasat-nature" ,Viasat Nature
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/viasat-nature.ts
+#EXTINF:0 tvg-id="natgeo" ,Nat Geographic
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/national-geographic.ts
+#EXTINF:0 tvg-id="natgeo_hd" ,National Geographic HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/national-geographicHD.ts
+#EXTINF:0 tvg-id="HistoryHD.ru" ,History HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/history-hd.ts
+#EXTINF:0 tvg-id="history2-rus" ,H2
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/h2.ts
+#EXTINF:0 tvg-id="ntv-style" ,НТВ Стиль
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ntv-style.ts
+#EXTINF:0 tvg-id="nature-history" ,Viasat Nature/History HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/viasat-nature-history-hd.ts
+#EXTINF:0 tvg-id="wild-hd" ,Nat Geo Wild HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nat-geo-wild.ts
+#EXTINF:0 tvg-id="avto24" ,Авто 24
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/avto24.ts
+#EXTINF:0 tvg-id="drive" ,Драйв
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/drive.ts
+#EXTINF:0 tvg-id="avto-plus" ,Авто Плюс
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/avto-plus.ts
+#EXTINF:0 tvg-id="nautical" ,Морской
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/morskoy.ts
+#EXTINF:0 tvg-id="discov_rus" ,Discovery Channel
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/discovery-channel.ts
+#EXTINF:0 tvg-id="discov_rus-hd" ,Discovery Channel HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/discovery-channelHD.ts
+#EXTINF:0 tvg-id="id-extra" ,ID Xtra
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/id-xtra-ru.ts
+#EXTINF:0 tvg-id="discov_turbo-extra" ,DTX
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/dtx.ts
+#EXTINF:0 tvg-id="discov_sci" ,Discovery Science
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/discovery-science.ts
+#EXTINF:0 tvg-id="discov_sci" ,Discovery Science HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/discovery-scienceHD.ts
+#EXTINF:0 tvg-id="travel-hd" ,Travel Channel HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/travel-channelHD.ts
+#EXTINF:0 tvg-id="travel+adv" ,Travel+Adventure
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/travel-adventure.ts
+#EXTINF:0 tvg-id="travel-adv-hd" ,Travel+Adventure HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/travel-adventureHD.ts
+#EXTINF:0 tvg-id="nauka" ,Наука 2.0
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nauka-20.ts
+#EXTINF:0 tvg-id="eureka-hd" ,Eureka HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/eureka-hd.ts
+#EXTINF:0 tvg-id="ntv-pravo" ,НТВ Право
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ntv-pravo.ts
+#EXTINF:0 tvg-id="puteshestviya-hd" ,Приключения HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/prikluchenia-hd.ts
+#EXTINF:0 tvg-id="animal_rus" ,Animal Planet
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/animal-planet.ts
+#EXTINF:0 tvg-id="animal-hd" ,Animal Planet HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/animal-planetHD.ts
+#EXTINF:0 tvg-id="animal-family-hd" ,В мире животных HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/v-mire-zhivotnyx-hd.ts
+#EXTINF:0 tvg-id="FineLiving.ru" ,Fine Living
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/fine-living.ts
+#EXTINF:0 tvg-id="FineLiving.ru" ,Fine living HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/fine-livingHD.ts
+#EXTINF:0 tvg-id="tlc-russia" ,TLC
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tlc.ts
+#EXTINF:0 tvg-id="tlc-russia-hd" ,TLC HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tlcHD.ts
+#EXTINF:0 tvg-id="ohota-i-rybalka" ,Охота и рыбалка
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/oxota-i-rybalka.ts
+#EXTINF:0 tvg-id="rtg-hd" ,RTG HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rtg-hd.ts
+#EXTINF:0 tvg-id="iq-hd" ,Планета HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/planeta-hd.ts
+#EXTINF:0 tvg-id="ext" ,Дикая охота HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/dikaya-oxota-hd.ts
+#EXTINF:0 tvg-id="ext" ,Дикая рыбалка HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/dikaya-rybalka-hd.ts
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" ,Охотник и Рыболов HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/oxotnik-i-rybolov-hd.ts
+#EXTINF:0 tvg-id="ext" ,Дикий
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/dikiy.ts
+#EXTINF:0 tvg-id="moya-planeta" ,Моя Планета
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/moya-planeta.ts
+#EXTINF:0 tvg-id="kinopokaz-hd1" ,Шокирующее
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kinopokaz-hd1.ts
+#EXTINF:0 tvg-id="kinopokaz-hd2" ,Комедийное HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kinopokaz-hd2.ts
+#EXTINF:0 tvg-id="paramount-comedy" ,Paramount Comedy
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/paramount-comedy.ts
+#EXTINF:0 tvg-id="paramount-comedy" ,Paramount Comedy HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/paramount-comedy-hd.ts
+#EXTINF:0 tvg-id="fox-hd" ,FOX HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/foxHD.ts
+#EXTINF:0 tvg-id="fox-life" ,Fox Life
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/foxlife.ts
+#EXTINF:0 tvg-id="fox-crime" ,Fox Russia
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/fox.ts
+#EXTINF:0 tvg-id="amedia1" ,Amedia 1
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/amedia1.ts
+#EXTINF:0 tvg-id="amedia2" ,Amedia 2
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/amedia2.ts
+#EXTINF:0 tvg-id="amedia-hit" ,Amedia Hit
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/amedia-hit.ts
+#EXTINF:0 tvg-id="amedia-hd" ,AMEDIA Premium HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/amedia-premium.ts
+#EXTINF:0 tvg-id="domkino-prem" ,Дом Кино Премиум HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/domkino-premium.ts
+#EXTINF:0 tvg-id="evrokino" ,Еврокино
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/evrokino.ts
+#EXTINF:0 tvg-id="kino-tv" ,КИНО ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kino-tv.ts
+#EXTINF:0 tvg-id="kino-tv" ,Кино ТВ HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kino-tvhd.ts
+#EXTINF:0 tvg-id="lyubimoe-kino" ,Любимое Кино
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nashe-lubimoe-kino.ts
+#EXTINF:0 tvg-id="domkino" ,Дом Кино
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/domkino.ts
+#EXTINF:0 tvg-id="nashe-hd" ,Наш Кинороман HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nash-kinoroman.ts
+#EXTINF:0 tvg-id="semeinoe-hd" ,Наше Крутое HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nash-detektiv.ts
+#EXTINF:0 tvg-id="axn" ,SONY Sci-Fi
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/sony-scifi.ts
+#EXTINF:0 tvg-id="strashnoe-hd" ,Страшное HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/strashnoe-hd.ts
+#EXTINF:0 tvg-id="nstv" ,НСТ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nst.ts
+#EXTINF:0 tvg-id="hollywood-hd" ,Hollywood HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/hollywood-hd.ts
+#EXTINF:0 tvg-id="set" ,Sony Entertainment Television
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/sony-enter.ts
+#EXTINF:0 tvg-id="tv1000" ,TV 1000
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tv1000.ts
+#EXTINF:0 tvg-id="tv1000-action" ,TV1000 Action
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tv1000-action.ts
+#EXTINF:0 tvg-id="Comedy.am" ,VIP Comedy
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/vip-comedy.ts
+#EXTINF:0 tvg-id="tv1000-megahit-hd" ,VIP Megahit
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/vip-megahit.ts
+#EXTINF:0 tvg-id="tv1000-premium-hd" ,VIP Premiere
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/vip-premiere.ts
+#EXTINF:0 tvg-id="tv1000_rus" ,TV1000 Русское кино
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tv1000-russkoe-kino.ts
+#EXTINF:0 tvg-id="tv1000-premium-hd" ,TV1000 Premium HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tv1000-premium.ts
+#EXTINF:0 tvg-id="rus-bestseller" ,Русский бестселлер
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/russky-bestseller.ts
+#EXTINF:0 tvg-id="rus-detective" ,Русский детектив
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/russky-detektiv.ts
+#EXTINF:0 tvg-id="komediya-vgtrk" ,Русская комедия
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/russkaya-komedia.ts
+#EXTINF:0 tvg-id="illuzion" ,Русский Иллюзион
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/russky-illuzion.ts
+#EXTINF:0 tvg-id="rus-roman" ,Русский роман
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/russky-roman.ts
+#EXTINF:0 tvg-id="kinopremium-hd" ,Кинопремиум HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kinopremium-hd.ts
+#EXTINF:0 tvg-id="ostrsuszet-hd" ,Остросюжетное HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ostrosiuzhetnoe-hd.ts
+#EXTINF:0 tvg-id="uhd-cinema" ,Ultra HD Cinema
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ultra-hd-cinema.ts
+#EXTINF:0 tvg-id="ntv-premiera" ,Кино UHD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kino-ultra-hd.ts
+#EXTINF:0 tvg-id="ext" ,Сериал UHD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/serial-ultrahd.ts
+#EXTINF:0 tvg-id="pobeda" ,Победа
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/pobeda.ts
+#EXTINF:0 tvg-id="ntv-serial" ,НТВ Сериал
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ntv-serial.ts
+#EXTINF:0 tvg-id="mir-seriala" ,Мир Сериала
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mir-seriala.ts
+#EXTINF:0 tvg-id="ext" ,Spike Russia
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/spike.ts
+#EXTINF:0 tvg-id="egoist" ,SHOT TV
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/shot-tv.ts
+#EXTINF:0 tvg-id="sony-turbo" ,Sony Turbo
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/sony-turbo.ts
+#EXTINF:0 tvg-id="paramount" ,Paramount Channel
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/paramount-channel.ts
+#EXTINF:0 tvg-id="konnyj-mir" ,Конный мир HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/konny-mir.ts
+#EXTINF:0 tvg-id="mtv-rus" ,MTV
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mtv-russia.ts
+#EXTINF:0 tvg-id="mtvlive-hd" ,MTV Live HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mtv-live.ts
+#EXTINF:0 tvg-id="mtv-dance" ,MTV Dance
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mtv-dance.ts
+#EXTINF:0 tvg-id="mtv-hits" ,MTV HITS
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mtv-hits.ts
+#EXTINF:0 tvg-id="mtv-rocks" ,MTV Rocks
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mtv-rocks.ts
+#EXTINF:0 tvg-id="muzika1" ,Музыка первого
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/muzyka-pervogo.ts
+#EXTINF:0 tvg-id="europa-plus" ,Europa Plus TV
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/europa-plus-tv.ts
+#EXTINF:0 tvg-id="nashe-tv" ,Наше ТВ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nashe-tv.ts
+#EXTINF:0 tvg-id="muz-tv" ,МУЗ
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/muztv.ts
+#EXTINF:0 tvg-id="rutv" ,RU.TV
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/ru-tv.ts
+#EXTINF:0 tvg-id="bridge" ,Bridge TV
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/bridge-tv.ts
+#EXTINF:0 tvg-id="dange" ,Bridge TV Dance
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/bridge-tv-dance.ts
+#EXTINF:0 tvg-id="bridge-hd" ,BRIDGE HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/bridge-hd.ts
+#EXTINF:0 tvg-id="tnt-music" ,ТНТ MUSIC
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tnt-music.ts
+#EXTINF:0 tvg-id="rusong" ,BRIDGE TV Русский Хит
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/bridge-tv-ruxit.ts
+#EXTINF:0 tvg-id="zhara" ,Жара
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/zhara.ts
+#EXTINF:0 tvg-id="topsong" ,BRIDGE TV Classic
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/bridge-tv-classic.ts
+#EXTINF:0 tvg-id="vh-1-classic" ,VH-1 Classic
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/vh1-classic.ts
+#EXTINF:0 tvg-id="iconcerts_hd" ,iConcerts HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/iconcerts.ts
+#EXTINF:0 tvg-id="mcm-top" ,MCM Top
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mcm-top.ts
+#EXTINF:0 tvg-id="cartoon" ,Cartoon Network
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/cartoon-network.ts
+#EXTINF:0 tvg-id="disney" ,Disney
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/disney.ts
+#EXTINF:0 tvg-id="mult" ,Мульт
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mult.ts
+#EXTINF:0 tvg-id="ext" ,Kapitan Fantastika HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/kapitan-fantastika.ts
+#EXTINF:0 tvg-id="ext" ,Gulli Girls
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/gulli-girl.ts
+#EXTINF:0 tvg-id="2x2" ,2x2
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/2na2.ts
+#EXTINF:0 tvg-id="boomerang" ,Boomerang
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/boomerang.ts
+#EXTINF:0 tvg-id="karusel" ,Карусель
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/karusel.ts
+#EXTINF:0 tvg-id="det" ,Детский мир
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/detsky-mir.ts
+#EXTINF:0 tvg-id="nick-jr" ,Nick Jr.
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nick-jr.ts
+#EXTINF:0 tvg-id="o" ,O!
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/o_.ts
+#EXTINF:0 tvg-id="jimjam" ,Jim Jam
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/jimjam.ts
+#EXTINF:0 tvg-id="nickelodeon-rus" ,Nickelodeon
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nickelodeon-ru.ts
+#EXTINF:0 tvg-id="nickelod-hd" ,Nickelodeon HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/nickelodeon-hd.ts
+#EXTINF:0 tvg-id="tiji" ,Tiji TV
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tiji.ts
+#EXTINF:0 tvg-id="tlum-hd" ,Тлум HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/tlum-hd.ts
+#EXTINF:0 tvg-id="sts-kids" ,СТС Kids HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/sts-kids-hd.ts
+#EXTINF:0 tvg-id="multik-hd" ,Мультик HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/multik-hd.ts
+#EXTINF:0 tvg-id="strana" ,Мультимузыка
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/multimuzyka.ts
+#EXTINF:0 tvg-id="detskiy" ,Детский
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/detsky.ts
+#EXTINF:0 tvg-id="mat-i-ditya" ,Мама
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/mama.ts
+#EXTINF:0 tvg-id="rtvint" ,RTVi
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rtvi.ts
+#EXTINF:0 tvg-id="dozhd" ,Дождь
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/dozd.ts
+#EXTINF:0 tvg-id="dozhd" ,Дождь HD
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/dozhd.ts
+#EXTINF:0 tvg-id="moskva24" ,Москва 24
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/moskva-24.ts
+#EXTINF:0 tvg-id="rbk" ,РБК
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rbk.ts
+#EXTINF:0 tvg-id="podmoskovie" ,360° Подмосковье
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/360-podmoskovie.ts
+#EXTINF:0 tvg-id="euro" ,Euronews
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/euronews.ts
+#EXTINF:0 tvg-id="vesti" ,Россия-24
+http://ott-n.shara.club:80/live/s.202540.31bedda9fef1d27865d2b514f54785edf00/rossia-24.ts
