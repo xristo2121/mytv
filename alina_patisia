@@ -1,355 +1,355 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ort-hd" ,Первый HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/pervyHD.ts
+http://cdn02n.ipstream.one:80/pervyHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ort" ,Первый канал
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/pervy.ts
+http://cdn02n.ipstream.one:80/pervy/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rossiya-hd" ,Россия 1 HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rossia1HD.ts
+http://cdn02n.ipstream.one:80/rossia1HD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rtr" ,Россия 1
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rossia1.ts
+http://cdn02n.ipstream.one:80/rossia1/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tnt" ,ТНТ HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tntHD.ts
+http://cdn02n.ipstream.one:80/tntHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tnt" ,ТНТ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tnt.ts
+http://cdn02n.ipstream.one:80/tnt/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="sts" ,СТС
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/sts.ts
+http://cdn02n.ipstream.one:80/sts/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntv" ,НТВ HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ntvHD.ts
+http://cdn02n.ipstream.one:80/ntvHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntv" ,НТВ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ntv.ts
+http://cdn02n.ipstream.one:80/ntv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rentv" ,РЕН ТВ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rentv.ts
+http://cdn02n.ipstream.one:80/rentv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rentv" ,РЕН HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rentvHD.ts
+http://cdn02n.ipstream.one:80/rentvHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tvcen" ,ТВЦ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tvcentr.ts
+http://cdn02n.ipstream.one:80/tvcentr/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tv3" ,ТВ-3
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tv3-ru.ts
+http://cdn02n.ipstream.one:80/tv3-ru/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="home" ,Домашний
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/domashny.ts
+http://cdn02n.ipstream.one:80/domashny/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="piter" ,Пятый канал
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/5kanal-ru.ts
+http://cdn02n.ipstream.one:80/5kanal-ru/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mir" ,Мир
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mir.ts
+http://cdn02n.ipstream.one:80/mir/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Мир Premium HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mir-premium.ts
+http://cdn02n.ipstream.one:80/mir-premium/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="otr" ,ОТР
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/otr.ts
+http://cdn02n.ipstream.one:80/otr/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntvmir" ,НТВ Мир
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ntv-mir.ts
+http://cdn02n.ipstream.one:80/ntv-mir/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="chetv" ,Че
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/che.ts
+http://cdn02n.ipstream.one:80/che/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kultura" ,Россия-Культура
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rossia-k.ts
+http://cdn02n.ipstream.one:80/rossia-k/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="zvezda" ,Телеканал Звезда
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/zvezda.ts
+http://cdn02n.ipstream.one:80/zvezda/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tnt4" ,ТНТ4
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tnt4.ts
+http://cdn02n.ipstream.one:80/tnt4/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="sts-love" ,СТС Love
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/sts-love.ts
+http://cdn02n.ipstream.one:80/sts-love/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kvn-tv" ,КВН ТВ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kvn-tv.ts
+http://cdn02n.ipstream.one:80/kvn-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="pyatnica" ,Пятница HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/piatnicaHD.ts
+http://cdn02n.ipstream.one:80/piatnicaHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="pyatnica" ,Пятница
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/piatnica.ts
+http://cdn02n.ipstream.one:80/piatnica/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="muztv" ,Ю
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/yu.ts
+http://cdn02n.ipstream.one:80/yu/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="super" ,Супер
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/super.ts
+http://cdn02n.ipstream.one:80/super/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,FAN
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/fan.ts
+http://cdn02n.ipstream.one:80/fan/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,FAN HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/fanhd.ts
+http://cdn02n.ipstream.one:80/fanhd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="game-show" ,E tv
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/e-tv.ts
+http://cdn02n.ipstream.one:80/e-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="365dney" ,365 дней ТВ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/365-dnej.ts
+http://cdn02n.ipstream.one:80/365-dnej/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="bober" ,Бобёр
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/bobior.ts
+http://cdn02n.ipstream.one:80/bobior/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="eda-hd" ,Еда Премиум
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/eda-hd.ts
+http://cdn02n.ipstream.one:80/eda-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="food-network-rus" ,Food Network
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/food-network.ts
+http://cdn02n.ipstream.one:80/food-network/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="food-network-rus" ,Food Network HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/food-networkHD.ts
+http://cdn02n.ipstream.one:80/food-networkHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="history" ,Viasat History
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/viasat-history.ts
+http://cdn02n.ipstream.one:80/viasat-history/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="explorer-rus" ,Viasat Explore
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/viasat-explore.ts
+http://cdn02n.ipstream.one:80/viasat-explore/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="viasat-nature" ,Viasat Nature
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/viasat-nature.ts
+http://cdn02n.ipstream.one:80/viasat-nature/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="natgeo" ,Nat Geographic
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/national-geographic.ts
+http://cdn02n.ipstream.one:80/national-geographic/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="natgeo_hd" ,National Geographic HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/national-geographicHD.ts
+http://cdn02n.ipstream.one:80/national-geographicHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="HistoryHD.ru" ,History HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/history-hd.ts
+http://cdn02n.ipstream.one:80/history-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="history2-rus" ,H2
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/h2.ts
+http://cdn02n.ipstream.one:80/h2/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntv-style" ,НТВ Стиль
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ntv-style.ts
+http://cdn02n.ipstream.one:80/ntv-style/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nature-history" ,Viasat Nature/History HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/viasat-nature-history-hd.ts
+http://cdn02n.ipstream.one:80/viasat-nature-history-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="wild-hd" ,Nat Geo Wild HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nat-geo-wild.ts
+http://cdn02n.ipstream.one:80/nat-geo-wild/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="avto24" ,Авто 24
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/avto24.ts
+http://cdn02n.ipstream.one:80/avto24/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="drive" ,Драйв
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/drive.ts
+http://cdn02n.ipstream.one:80/drive/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="avto-plus" ,Авто Плюс
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/avto-plus.ts
+http://cdn02n.ipstream.one:80/avto-plus/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nautical" ,Морской
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/morskoy.ts
+http://cdn02n.ipstream.one:80/morskoy/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="discov_rus" ,Discovery Channel
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/discovery-channel.ts
+http://cdn02n.ipstream.one:80/discovery-channel/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="discov_rus-hd" ,Discovery Channel HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/discovery-channelHD.ts
+http://cdn02n.ipstream.one:80/discovery-channelHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="id-extra" ,ID Xtra
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/id-xtra-ru.ts
+http://cdn02n.ipstream.one:80/id-xtra-ru/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="discov_turbo-extra" ,DTX
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/dtx.ts
+http://cdn02n.ipstream.one:80/dtx/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="discov_sci" ,Discovery Science
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/discovery-science.ts
+http://cdn02n.ipstream.one:80/discovery-science/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="discov_sci" ,Discovery Science HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/discovery-scienceHD.ts
+http://cdn02n.ipstream.one:80/discovery-scienceHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="travel-hd" ,Travel Channel HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/travel-channelHD.ts
+http://cdn02n.ipstream.one:80/travel-channelHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="travel+adv" ,Travel+Adventure
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/travel-adventure.ts
+http://cdn02n.ipstream.one:80/travel-adventure/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="travel-adv-hd" ,Travel+Adventure HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/travel-adventureHD.ts
+http://cdn02n.ipstream.one:80/travel-adventureHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nauka" ,Наука 2.0
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nauka-20.ts
+http://cdn02n.ipstream.one:80/nauka-20/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="eureka-hd" ,Eureka HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/eureka-hd.ts
+http://cdn02n.ipstream.one:80/eureka-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntv-pravo" ,НТВ Право
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ntv-pravo.ts
+http://cdn02n.ipstream.one:80/ntv-pravo/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="puteshestviya-hd" ,Приключения HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/prikluchenia-hd.ts
+http://cdn02n.ipstream.one:80/prikluchenia-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="animal_rus" ,Animal Planet
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/animal-planet.ts
+http://cdn02n.ipstream.one:80/animal-planet/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="animal-hd" ,Animal Planet HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/animal-planetHD.ts
+http://cdn02n.ipstream.one:80/animal-planetHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="animal-family-hd" ,В мире животных HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/v-mire-zhivotnyx-hd.ts
+http://cdn02n.ipstream.one:80/v-mire-zhivotnyx-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="FineLiving.ru" ,Fine Living
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/fine-living.ts
+http://cdn02n.ipstream.one:80/fine-living/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="FineLiving.ru" ,Fine living HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/fine-livingHD.ts
+http://cdn02n.ipstream.one:80/fine-livingHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tlc-russia" ,TLC
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tlc.ts
+http://cdn02n.ipstream.one:80/tlc/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tlc-russia-hd" ,TLC HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tlcHD.ts
+http://cdn02n.ipstream.one:80/tlcHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ohota-i-rybalka" ,Охота и рыбалка
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/oxota-i-rybalka.ts
+http://cdn02n.ipstream.one:80/oxota-i-rybalka/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rtg-hd" ,RTG HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rtg-hd.ts
+http://cdn02n.ipstream.one:80/rtg-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="iq-hd" ,Планета HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/planeta-hd.ts
+http://cdn02n.ipstream.one:80/planeta-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Дикая охота HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/dikaya-oxota-hd.ts
+http://cdn02n.ipstream.one:80/dikaya-oxota-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Дикая рыбалка HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/dikaya-rybalka-hd.ts
+http://cdn02n.ipstream.one:80/dikaya-rybalka-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" ,Охотник и Рыболов HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/oxotnik-i-rybolov-hd.ts
+http://cdn02n.ipstream.one:80/oxotnik-i-rybolov-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Дикий
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/dikiy.ts
+http://cdn02n.ipstream.one:80/dikiy/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="moya-planeta" ,Моя Планета
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/moya-planeta.ts
+http://cdn02n.ipstream.one:80/moya-planeta/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kinopokaz-hd1" ,Шокирующее
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kinopokaz-hd1.ts
+http://cdn02n.ipstream.one:80/kinopokaz-hd1/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kinopokaz-hd2" ,Комедийное HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kinopokaz-hd2.ts
+http://cdn02n.ipstream.one:80/kinopokaz-hd2/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="paramount-comedy" ,Paramount Comedy
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/paramount-comedy.ts
+http://cdn02n.ipstream.one:80/paramount-comedy/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="paramount-comedy" ,Paramount Comedy HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/paramount-comedy-hd.ts
+http://cdn02n.ipstream.one:80/paramount-comedy-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="fox-hd" ,FOX HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/foxHD.ts
+http://cdn02n.ipstream.one:80/foxHD/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="fox-life" ,Fox Life
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/foxlife.ts
+http://cdn02n.ipstream.one:80/foxlife/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="fox-crime" ,Fox Russia
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/fox.ts
+http://cdn02n.ipstream.one:80/fox/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="amedia1" ,Amedia 1
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/amedia1.ts
+http://cdn02n.ipstream.one:80/amedia1/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="amedia2" ,Amedia 2
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/amedia2.ts
+http://cdn02n.ipstream.one:80/amedia2/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="amedia-hit" ,Amedia Hit
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/amedia-hit.ts
+http://cdn02n.ipstream.one:80/amedia-hit/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="amedia-hd" ,AMEDIA Premium HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/amedia-premium.ts
+http://cdn02n.ipstream.one:80/amedia-premium/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="domkino-prem" ,Дом Кино Премиум HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/domkino-premium.ts
+http://cdn02n.ipstream.one:80/domkino-premium/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="evrokino" ,Еврокино
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/evrokino.ts
+http://cdn02n.ipstream.one:80/evrokino/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kino-tv" ,КИНО ТВ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kino-tv.ts
+http://cdn02n.ipstream.one:80/kino-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kino-tv" ,Кино ТВ HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kino-tvhd.ts
+http://cdn02n.ipstream.one:80/kino-tvhd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="lyubimoe-kino" ,Любимое Кино
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nashe-lubimoe-kino.ts
+http://cdn02n.ipstream.one:80/nashe-lubimoe-kino/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="domkino" ,Дом Кино
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/domkino.ts
+http://cdn02n.ipstream.one:80/domkino/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nashe-hd" ,Наш Кинороман HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nash-kinoroman.ts
+http://cdn02n.ipstream.one:80/nash-kinoroman/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="semeinoe-hd" ,Наше Крутое HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nash-detektiv.ts
+http://cdn02n.ipstream.one:80/nash-detektiv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="axn" ,SONY Sci-Fi
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/sony-scifi.ts
+http://cdn02n.ipstream.one:80/sony-scifi/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="strashnoe-hd" ,Страшное HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/strashnoe-hd.ts
+http://cdn02n.ipstream.one:80/strashnoe-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nstv" ,НСТ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nst.ts
+http://cdn02n.ipstream.one:80/nst/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="hollywood-hd" ,Hollywood HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/hollywood-hd.ts
+http://cdn02n.ipstream.one:80/hollywood-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="set" ,Sony Entertainment Television
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/sony-enter.ts
+http://cdn02n.ipstream.one:80/sony-enter/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tv1000" ,TV 1000
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tv1000.ts
+http://cdn02n.ipstream.one:80/tv1000/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tv1000-action" ,TV1000 Action
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tv1000-action.ts
+http://cdn02n.ipstream.one:80/tv1000-action/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="Comedy.am" ,VIP Comedy
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/vip-comedy.ts
+http://cdn02n.ipstream.one:80/vip-comedy/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tv1000-megahit-hd" ,VIP Megahit
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/vip-megahit.ts
+http://cdn02n.ipstream.one:80/vip-megahit/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tv1000-premium-hd" ,VIP Premiere
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/vip-premiere.ts
+http://cdn02n.ipstream.one:80/vip-premiere/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tv1000_rus" ,TV1000 Русское кино
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tv1000-russkoe-kino.ts
+http://cdn02n.ipstream.one:80/tv1000-russkoe-kino/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tv1000-premium-hd" ,TV1000 Premium HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tv1000-premium.ts
+http://cdn02n.ipstream.one:80/tv1000-premium/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rus-bestseller" ,Русский бестселлер
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/russky-bestseller.ts
+http://cdn02n.ipstream.one:80/russky-bestseller/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rus-detective" ,Русский детектив
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/russky-detektiv.ts
+http://cdn02n.ipstream.one:80/russky-detektiv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="komediya-vgtrk" ,Русская комедия
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/russkaya-komedia.ts
+http://cdn02n.ipstream.one:80/russkaya-komedia/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="illuzion" ,Русский Иллюзион
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/russky-illuzion.ts
+http://cdn02n.ipstream.one:80/russky-illuzion/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rus-roman" ,Русский роман
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/russky-roman.ts
+http://cdn02n.ipstream.one:80/russky-roman/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kinopremium-hd" ,Кинопремиум HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kinopremium-hd.ts
+http://cdn02n.ipstream.one:80/kinopremium-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ostrsuszet-hd" ,Остросюжетное HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ostrosiuzhetnoe-hd.ts
+http://cdn02n.ipstream.one:80/ostrosiuzhetnoe-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="uhd-cinema" ,Ultra HD Cinema
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ultra-hd-cinema.ts
+http://cdn02n.ipstream.one:80/ultra-hd-cinema/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntv-premiera" ,Кино UHD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kino-ultra-hd.ts
+http://cdn02n.ipstream.one:80/kino-ultra-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Сериал UHD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/serial-ultrahd.ts
+http://cdn02n.ipstream.one:80/serial-ultrahd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="pobeda" ,Победа
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/pobeda.ts
+http://cdn02n.ipstream.one:80/pobeda/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntv-serial" ,НТВ Сериал
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ntv-serial.ts
+http://cdn02n.ipstream.one:80/ntv-serial/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mir-seriala" ,Мир Сериала
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mir-seriala.ts
+http://cdn02n.ipstream.one:80/mir-seriala/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Spike Russia
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/spike.ts
+http://cdn02n.ipstream.one:80/spike/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="egoist" ,SHOT TV
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/shot-tv.ts
+http://cdn02n.ipstream.one:80/shot-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="sony-turbo" ,Sony Turbo
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/sony-turbo.ts
+http://cdn02n.ipstream.one:80/sony-turbo/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="paramount" ,Paramount Channel
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/paramount-channel.ts
+http://cdn02n.ipstream.one:80/paramount-channel/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="konnyj-mir" ,Конный мир HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/konny-mir.ts
+http://cdn02n.ipstream.one:80/konny-mir/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mtv-rus" ,MTV
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mtv-russia.ts
+http://cdn02n.ipstream.one:80/mtv-russia/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mtvlive-hd" ,MTV Live HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mtv-live.ts
+http://cdn02n.ipstream.one:80/mtv-live/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mtv-dance" ,MTV Dance
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mtv-dance.ts
+http://cdn02n.ipstream.one:80/mtv-dance/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mtv-hits" ,MTV HITS
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mtv-hits.ts
+http://cdn02n.ipstream.one:80/mtv-hits/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mtv-rocks" ,MTV Rocks
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mtv-rocks.ts
+http://cdn02n.ipstream.one:80/mtv-rocks/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="muzika1" ,Музыка первого
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/muzyka-pervogo.ts
+http://cdn02n.ipstream.one:80/muzyka-pervogo/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="europa-plus" ,Europa Plus TV
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/europa-plus-tv.ts
+http://cdn02n.ipstream.one:80/europa-plus-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nashe-tv" ,Наше ТВ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nashe-tv.ts
+http://cdn02n.ipstream.one:80/nashe-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="muz-tv" ,МУЗ
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/muztv.ts
+http://cdn02n.ipstream.one:80/muztv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rutv" ,RU.TV
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/ru-tv.ts
+http://cdn02n.ipstream.one:80/ru-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="bridge" ,Bridge TV
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/bridge-tv.ts
+http://cdn02n.ipstream.one:80/bridge-tv/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="dange" ,Bridge TV Dance
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/bridge-tv-dance.ts
+http://cdn02n.ipstream.one:80/bridge-tv-dance/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="bridge-hd" ,BRIDGE HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/bridge-hd.ts
+http://cdn02n.ipstream.one:80/bridge-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tnt-music" ,ТНТ MUSIC
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tnt-music.ts
+http://cdn02n.ipstream.one:80/tnt-music/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rusong" ,BRIDGE TV Русский Хит
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/bridge-tv-ruxit.ts
+http://cdn02n.ipstream.one:80/bridge-tv-ruxit/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="zhara" ,Жара
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/zhara.ts
+http://cdn02n.ipstream.one:80/zhara/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="topsong" ,BRIDGE TV Classic
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/bridge-tv-classic.ts
+http://cdn02n.ipstream.one:80/bridge-tv-classic/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="vh-1-classic" ,VH-1 Classic
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/vh1-classic.ts
+http://cdn02n.ipstream.one:80/vh1-classic/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="iconcerts_hd" ,iConcerts HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/iconcerts.ts
+http://cdn02n.ipstream.one:80/iconcerts/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mcm-top" ,MCM Top
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mcm-top.ts
+http://cdn02n.ipstream.one:80/mcm-top/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="cartoon" ,Cartoon Network
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/cartoon-network.ts
+http://cdn02n.ipstream.one:80/cartoon-network/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="disney" ,Disney
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/disney.ts
+http://cdn02n.ipstream.one:80/disney/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mult" ,Мульт
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mult.ts
+http://cdn02n.ipstream.one:80/mult/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Kapitan Fantastika HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/kapitan-fantastika.ts
+http://cdn02n.ipstream.one:80/kapitan-fantastika/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ext" ,Gulli Girls
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/gulli-girl.ts
+http://cdn02n.ipstream.one:80/gulli-girl/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="2x2" ,2x2
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/2na2.ts
+http://cdn02n.ipstream.one:80/2na2/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="boomerang" ,Boomerang
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/boomerang.ts
+http://cdn02n.ipstream.one:80/boomerang/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="karusel" ,Карусель
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/karusel.ts
+http://cdn02n.ipstream.one:80/karusel/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="det" ,Детский мир
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/detsky-mir.ts
+http://cdn02n.ipstream.one:80/detsky-mir/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nick-jr" ,Nick Jr.
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nick-jr.ts
+http://cdn02n.ipstream.one:80/nick-jr/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="o" ,O!
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/o_.ts
+http://cdn02n.ipstream.one:80/o_/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="jimjam" ,Jim Jam
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/jimjam.ts
+http://cdn02n.ipstream.one:80/jimjam/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nickelodeon-rus" ,Nickelodeon
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nickelodeon-ru.ts
+http://cdn02n.ipstream.one:80/nickelodeon-ru/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="nickelod-hd" ,Nickelodeon HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/nickelodeon-hd.ts
+http://cdn02n.ipstream.one:80/nickelodeon-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tiji" ,Tiji TV
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tiji.ts
+http://cdn02n.ipstream.one:80/tiji/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="tlum-hd" ,Тлум HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/tlum-hd.ts
+http://cdn02n.ipstream.one:80/tlum-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="sts-kids" ,СТС Kids HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/sts-kids-hd.ts
+http://cdn02n.ipstream.one:80/sts-kids-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="multik-hd" ,Мультик HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/multik-hd.ts
+http://cdn02n.ipstream.one:80/multik-hd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="strana" ,Мультимузыка
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/multimuzyka.ts
+http://cdn02n.ipstream.one:80/multimuzyka/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="detskiy" ,Детский
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/detsky.ts
+http://cdn02n.ipstream.one:80/detsky/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="mat-i-ditya" ,Мама
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/mama.ts
+http://cdn02n.ipstream.one:80/mama/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rtvint" ,RTVi
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rtvi.ts
+http://cdn02n.ipstream.one:80/rtvi/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="dozhd" ,Дождь
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/dozd.ts
+http://cdn02n.ipstream.one:80/dozd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="dozhd" ,Дождь HD
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/dozhd.ts
+http://cdn02n.ipstream.one:80/dozhd/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="moskva24" ,Москва 24
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/moskva-24.ts
+http://cdn02n.ipstream.one:80/moskva-24/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="rbk" ,РБК
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rbk.ts
+http://cdn02n.ipstream.one:80/rbk/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="podmoskovie" ,360° Подмосковье
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/360-podmoskovie.ts
+http://cdn02n.ipstream.one:80/360-podmoskovie/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="euro" ,Euronews
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/euronews.ts
+http://cdn02n.ipstream.one:80/euronews/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="vesti" ,Россия-24
-http://ott-n.shara.club:80/live/s.203692.33c3929994aa50ba46ad36536dd0acf345c/rossia-24.ts
+http://cdn02n.ipstream.one:80/rossia-24/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
