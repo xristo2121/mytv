@@ -1,389 +1,1109 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/204/index.m3u8
-#EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/127/index.m3u8
-#EXTINF:0 tvg-id="rossiya-hd" group-title="Channels",Россия HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/205/index.m3u8
-#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/504/index.m3u8
-#EXTINF:0 tvg-id="kvn-tv" group-title="Channels",КВН ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/546/index.m3u8
-#EXTINF:0 tvg-id="vesti" group-title="Channels",Россия 24
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/507/index.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/502/index.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/237/index.m3u8
-#EXTINF:0 tvg-id="sts" group-title="Channels",СТС
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/506/index.m3u8
-#EXTINF:0 tvg-id="sts-love" group-title="Channels",СТС Love
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/103/index.m3u8
-#EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский бестселлер
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/905/index.m3u8
-#EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский роман
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/906/index.m3u8
-#EXTINF:0 tvg-id="rus-detective" group-title="Channels",Русский детектив
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/907/index.m3u8
-#EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/503/index.m3u8
-#EXTINF:0 tvg-id="ntn" group-title="Channels",HTH
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/533/index.m3u8
-#EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/532/index.m3u8
-#EXTINF:0 tvg-id="mama" group-title="Channels",Мама
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/704/index.m3u8
-#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/706/index.m3u8
-#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/742/index.m3u8
-#EXTINF:0 tvg-id="tv3" group-title="Channels",ТВ3
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/508/index.m3u8
-#EXTINF:0 tvg-id="muztv" group-title="Channels",Ю ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/534/index.m3u8
-#EXTINF:0 tvg-id="mir" group-title="Channels",Мир
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/113/index.m3u8
-#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/128/index.m3u8
-#EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/520/index.m3u8
-#EXTINF:0 tvg-id="chetv" group-title="Channels",Че
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/513/index.m3u8
-#EXTINF:0 tvg-id="8-kanal" group-title="Channels",8 канал
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/1057/index.m3u8
-#EXTINF:0 tvg-id="home" group-title="Channels",Домашний
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/514/index.m3u8
-#EXTINF:0 tvg-id="zvezda" group-title="Channels",Телеканал Звезда
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/544/index.m3u8
-#EXTINF:0 tvg-id="2x2" group-title="Channels",2X2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/702/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/501/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/213/index.m3u8
-#EXTINF:0 tvg-id="ntv-serial" group-title="Channels",НТВ Сериал
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/744/index.m3u8
-#EXTINF:0 tvg-id="ntv-style" group-title="Channels",НТВ Стиль
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/745/index.m3u8
-#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/743/index.m3u8
-#EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/212/index.m3u8
-#EXTINF:0 tvg-id="match" group-title="Channels",Матч ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/535/index.m3u8
-#EXTINF:0 tvg-id="sport-plus" group-title="Channels",Матч! Наш спорт
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/107/index.m3u8
-#EXTINF:0 tvg-id="sport1_rus" group-title="Channels",МАТЧ! АРЕНА
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/528/index.m3u8
-#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",МАТЧ! АРЕНА HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/207/index.m3u8
-#EXTINF:0 tvg-id="sport2_rus" group-title="Channels",МАТЧ! ИГРА
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/529/index.m3u8
-#EXTINF:0 tvg-id="hd-sport" group-title="Channels",Матч! Игра HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/225/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/124/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/222/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/530/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",МАТЧ! ФУТБОЛ 2 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/211/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/522/index.m3u8
-#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",МАТЧ! ФУТБОЛ 3 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/206/index.m3u8
-#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",Наш футбол HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/220/index.m3u8
-#EXTINF:0 tvg-id="kxl" group-title="Channels",KHL
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/519/index.m3u8
-#EXTINF:0 tvg-id="kxl-hd" group-title="Channels",Телеканал КХЛ HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/215/index.m3u8
-#EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир HD
-http://xristo2121.ottv.info/iptv/UUFDKLWRFKPRCB/214/index.m3u8
-#EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/141/index.m3u8
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/228/index.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/160/index.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/208/index.m3u8
-#EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",Trace Sport Stars
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/234/index.m3u8
-#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/144/index.m3u8
-#EXTINF:0 tvg-id="boec" group-title="Channels",Боец
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/150/index.m3u8s
-#EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
-rtmp://live.trm.md:1935/live/MoldovaUnu1
-#EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 2
-rtmp://live.trm.md:1935/live/MoldovaDoi2
-#EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/101/index.m3u8
-#EXTINF:0 tvg-id="set" group-title="Channels",Sony SciFi
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/110/index.m3u8
-#EXTINF:0 tvg-id="mgm-hd" group-title="Channels",MGM HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/209/index.m3u8
-#EXTINF:0 tvg-id="rtg-hd" group-title="Channels",RTG HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/210/index.m3u8
-#EXTINF:0 tvg-id="nostalgia" group-title="Channels",Ностальгия
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/102/index.m3u8
-#EXTINF:0 tvg-id="amedia1" group-title="Channels",Amedia 1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/554/index.m3u8
-#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/510/index.m3u8
-#EXTINF:0 tvg-id="amedia-hd" group-title="Channels",Amedia Premium HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/555/index.m3u8
-#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/556/index.m3u8
-#EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/164/index.m3u8
-#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/557/index.m3u8
-#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",TV 1000 Action
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/131/index.m3u8
-#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Channels",Любимое Кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/722/index.m3u8
-#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Channels",КИНОСВИДАНИЕ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/728/index.m3u8
-#EXTINF:0 tvg-id="hd-kino" group-title="Channels",КИНОСЕМЬЯ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/125/index.m3u8
-#EXTINF:0 tvg-id="ntv-nashekino" group-title="Channels",РОДНОЕ КИНО
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/126/index.m3u8
-#EXTINF:0 tvg-id="kino-plus" group-title="Channels",КИНОМИКС
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/509/index.m3u8
-#EXTINF:0 tvg-id="kinohit" group-title="Channels",Кинохит
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/516/index.m3u8
-#EXTINF:0 tvg-id="nashe-novoe" group-title="Channels",Наше новое кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/517/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Кинолюкс
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/521/index.m3u8
-#EXTINF:0 tvg-id="domkino-prem" group-title="Channels",Дом Кино Премиум HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/911/index.m3u8
-#EXTINF:0 tvg-id="tnt4" group-title="Channels",ТНТ4
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/104/index.m3u8
-#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Channels",Остросюжетное HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/904/index.m3u8
-#EXTINF:0 tvg-id="set" group-title="Channels",Sony Entertainment Television
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/559/index.m3u8
-#EXTINF:0 tvg-id="sony-turbo" group-title="Channels",Sony Turbo
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/708/index.m3u8
-#EXTINF:0 tvg-id="zhara" group-title="Channels",ЖАРА
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/105/index.m3u8
-#EXTINF:0 tvg-id="tv21" group-title="Channels",TV XXI
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/525/index.m3u8
-#EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/732/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/542/index.m3u8
-#EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/733/index.m3u8
-#EXTINF:0 tvg-id="komediya" group-title="Channels",КИНОКОМЕДИЯ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/145/index.m3u8
-#EXTINF:0 tvg-id="detektiv" group-title="Channels",Detektiv.tv
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/734/index.m3u8
-#EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/817/index.m3u8
-#EXTINF:0 tvg-id="film-box-arthouse" group-title="Channels",Filmbox Arthouse
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/818/index.m3u8
-#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",HD Кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/224/index.m3u8
-#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",VIP Premiere
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/202/index.m3u8
-#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="Channels",VIP Comedy
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/200/index.m3u8
-#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Channels",VIP Megahit
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/201/index.m3u8
-#EXTINF:0 tvg-id="semeinoe-hd" group-title="Channels",Наш Детектив HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/915/index.m3u8
-#EXTINF:0 tvg-id="nashe-hd" group-title="Channels",Наш Кинороман HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/914/index.m3u8
-#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",КИНОПРЕМЬЕРА HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/224/index.m3u8
-#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Channels",Кинопоказ HD1
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/913/index.m3u8
-#EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Channels",Кинопоказ HD2
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/912/index.m3u8
-#EXTINF:0 tvg-id="indiya" group-title="Channels",ИНДИЙСКОЕ КИНО
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/146/index.m3u8
-#EXTINF:0 tvg-id="zee" group-title="Channels",ZEE TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/1001/index.m3u8
-#EXTINF:0 tvg-id="mnogo-tv" group-title="Channels",КИНОСЕРИЯ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/148/index.m3u8
-#EXTINF:0 tvg-id="nstv" group-title="Channels",НСТ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/726/index.m3u8
-#EXTINF:0 tvg-id="illuzion" group-title="Channels",Русский Иллюзион
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/547/index.m3u8
-#EXTINF:0 tvg-id="telenovella" group-title="Channels",Теленовелла
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/548/index.m3u8
-#EXTINF:0 tvg-id="evrokino" group-title="Channels",Еврокино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/549/index.m3u8
-#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/132/index.m3u8
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",Fox Russia
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/550/index.m3u8
-#EXTINF:0 tvg-id="fox-life" group-title="Channels",Fox Life
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/553/index.m3u8
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/920/index.m3u8
-#EXTINF:0 tvg-id="paramount-comedy" group-title="Channels",Paramount Comedy Russia
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/157/index.m3u8
-#EXTINF:0 tvg-id="domkino" group-title="Channels",Дом Кино
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/154/index.m3u8
-#EXTINF:0 tvg-id="nature-history" group-title="Channels",Viasat Nature/History HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/203/index.m3u8
-#EXTINF:0 tvg-id="hd-life" group-title="Channels",HD Life
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/226/index.m3u8
-#EXTINF:0 tvg-id="istoria" group-title="Channels",История
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/111/index.m3u8
-#EXTINF:0 tvg-id="moya-planeta" group-title="Channels",Моя Планета
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/117/index.m3u8
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/231/index.m3u8
-#EXTINF:0 tvg-id="nauka" group-title="Channels",Наука 2.0
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/118/index.m3u8
-#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Телеканал Да Винчи
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/537/index.m3u8
-#EXTINF:0 tvg-id="outdoor" group-title="Channels",Outdoor Channel
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/119/index.m3u8
-#EXTINF:0 tvg-id="sov-sek" group-title="Channels",Сов. Секретно
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/121/index.m3u8
-#EXTINF:0 tvg-id="travel-adv-hd" group-title="Channels",Travel+Adventure HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/908/index.m3u8
-#EXTINF:0 tvg-id="avto24" group-title="Channels",Авто 24
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/538/index.m3u8
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/133/index.m3u8
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",Nat Geo Wild HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/216/index.m3u8
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/134/index.m3u8
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/230/index.m3u8
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Discovery World
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/135/index.m3u8
-#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/136/index.m3u8
-#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/137/index.m3u8
-#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/218/index.m3u8
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/232/index.m3u8
-#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/233/index.m3u8
-#EXTINF:0 tvg-id="id-extra" group-title="Channels",Investigation Discovery
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/139/index.m3u8
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/140/index.m3u8
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/227/index.m3u8
-#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Channels",Охотник и рыболов HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/917/index.m3u8
-#EXTINF:0 tvg-id="avto-plus" group-title="Channels",Авто Плюс
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/151/index.m3u8
-#EXTINF:0 tvg-id="vremya" group-title="Channels",Время
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/552/index.m3u8
-#EXTINF:0 tvg-id="kultura" group-title="Channels",Россия-Культура
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/505/index.m3u8
-#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="Channels",Домашние Животные
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/158/index.m3u8
-#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="Channels",Охотаи Рыбалка
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/159/index.m3u8
-#EXTINF:0 tvg-id="kuhnya" group-title="Channels",Кухня ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/152/index.m3u8
-#EXTINF:0 tvg-id="bober" group-title="Channels",Бобёр
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/725/index.m3u8
-#EXTINF:0 tvg-id="zoopark" group-title="Channels",Зоопарк
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/731/index.m3u8
-#EXTINF:0 tvg-id="game-show" group-title="Channels",Game Show
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/736/index.m3u8
-#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/742/index.m3u8
-#EXTINF:0 tvg-id="psihologiya21" group-title="Channels",Психология 21
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/532/index.m3u8
-#EXTINF:0 tvg-id="24dok" group-title="Channels",Доктор
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/512/index.m3u8
-#EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",Nickelodeon HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/223/index.m3u8
-#EXTINF:0 tvg-id="disney" group-title="Channels",Disney
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/524/index.m3u8
-#EXTINF:0 tvg-id="det" group-title="Channels",Детский мир
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/543/index.m3u8
-#EXTINF:0 tvg-id="jimjam" group-title="Channels",Jim Jam
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/138/index.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/143/index.m3u8
-#EXTINF:0 tvg-id="karusel" group-title="Channels",Карусель
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/156/index.m3u8
-#EXTINF:0 tvg-id="ani" group-title="Channels",Ani
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/129/index.m3u8
-#EXTINF:0 tvg-id="mult" group-title="Channels",Мульт
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/909/index.m3u8
-#EXTINF:0 tvg-id="tlum-hd" group-title="Channels",Тлум HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/240/index.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="Channels",Boomerang
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/723/index.m3u8
-#EXTINF:0 tvg-id="o" group-title="Channels",О!
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/727/index.m3u8
-#EXTINF:0 tvg-id="detskiy" group-title="Channels",Детский
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/730/index.m3u8
-#EXTINF:0 tvg-id="vgus" group-title="Channels",В гостях у сказки
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/737/index.m3u8
-#EXTINF:0 tvg-id="karusel+3" group-title="Channels",Карусель (+3)
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/740/index.m3u8
-#EXTINF:0 tvg-id="multik-hd" group-title="Channels",Мультик HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/921/index.m3u8
-#EXTINF:0 tvg-id="eda-hd" group-title="Channels",Еда HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/918/index.m3u8
-#EXTINF:0 tvg-id="rbk" group-title="Channels",РБК ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/106/index.m3u8
-#EXTINF:0 tvg-id="muz-tv" group-title="Channels",МУЗ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/116/index.m3u8
-#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Europa Plus TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/115/index.m3u8
-#EXTINF:0 tvg-id="tnt-music" group-title="Channels",ТНТ MUSIC
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/710/index.m3u8
-#EXTINF:0 tvg-id="dange" group-title="Channels",BRIDGE TV DANCE
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/711/index.m3u8
-#EXTINF:0 tvg-id="rusong" group-title="Channels",RUSONG TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/120/index.m3u8
-#EXTINF:0 tvg-id="bridge" group-title="Channels",Bridge TV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/122/index.m3u8
-#EXTINF:0 tvg-id="bridge-hd" group-title="Channels",BRIDGE HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/236/index.m3u8
-#EXTINF:0 tvg-id="360TuneBox.cz" group-title="Channels",360 Tune Box
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/810/index.m3u8
-#EXTINF:0 tvg-id="nashe-tv" group-title="Channels",Наше ТВ
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/721/index.m3u8
-#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/724/index.m3u8
-#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/142/index.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV Live HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/221/index.m3u8
-#EXTINF:0 tvg-id="mtv-dance" group-title="Channels",MTV Dance
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/558/index.m3u8
-#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Европа Плюс
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/115/index.m3u8
-#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/153/index.m3u8
-#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1 European
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/536/index.m3u8
-#EXTINF:0 tvg-id="muzika1" group-title="Channels",Музыка
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/155/index.m3u8
-#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/235/index.m3u8
-#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live HD
-http://xristo2121.ottv.info/iptv/ZYAB7HVP542MQF/217/index.m3u8
+#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz"
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pervy" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9195.png",Первый
+http://cdn.ottg.tv/9195/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=70
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pervy" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2214.png",Первый HD
+http://cdn.ottg.tv/2214/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=76
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rossia1" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9226.png",Россия 1
+http://cdn.ottg.tv/9226/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=80
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rossia1" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5963.png",Россия HD
+http://cdn.ottg.tv/5963/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=81
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9413.png",НТВ
+http://cdn.ottg.tv/9413/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=86
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8711.png",НТВ HD
+http://cdn.ottg.tv/8711/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=87
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv-mir" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7870.png",НТВ Мир
+http://cdn.ottg.tv/7870/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=92
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tvcentr" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7846.png",ТВЦ
+http://cdn.ottg.tv/7846/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=93
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="5kanal-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4750.png",Пятый канал
+http://cdn.ottg.tv/4750/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=97
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tnt" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2468.png",ТНТ
+http://cdn.ottg.tv/2468/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=101
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tnt" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1337.png",ТНТ HD
+http://cdn.ottg.tv/1337/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=102
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sts" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9716.png",СТС
+http://cdn.ottg.tv/9716/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=106
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mir" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2810.png",Мир ТВ
+http://cdn.ottg.tv/2810/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=114
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mir-premium" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7640.png",Мир Premium HD
+http://cdn.ottg.tv/7640/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=115
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="otr" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2345.png",ОТР
+http://cdn.ottg.tv/2345/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=118
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zvezda" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7796.png",Звезда
+http://cdn.ottg.tv/7796/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=119
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zvezda-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8214.png",Звезда +2
+http://cdn.ottg.tv/8214/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=120
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sts-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9013.png",СТС +6
+http://cdn.ottg.tv/9013/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=109
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sts-love" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6621.png",СТС Love
+http://cdn.ottg.tv/6621/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=110
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rentv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8082.png",Рен ТВ HD
+http://cdn.ottg.tv/8082/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=111
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="che" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8708.png",Че
+http://cdn.ottg.tv/8708/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=123
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv3-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7473.png",ТВ3
+http://cdn.ottg.tv/7473/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=125
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="piatnica" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3755.png",Пятница
+http://cdn.ottg.tv/3755/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=129
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="piatnica" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9657.png",Пятница HD
+http://cdn.ottg.tv/9657/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=130
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtvi" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5498.png",RTVi
+http://cdn.ottg.tv/5498/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=133
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="super" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3573.png",Супер
+http://cdn.ottg.tv/3573/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=134
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="domashny" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9505.png",Домашний
+http://cdn.ottg.tv/9505/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=138
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="galaxy-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2753.png",Galaxy HD
+http://cdn.ottg.tv/2753/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=139
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kultura" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4539.png",Россия К
+http://cdn.ottg.tv/4539/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=142
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtr-planeta-eu" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5330.png",Планета РТР
+http://cdn.ottg.tv/5330/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=146
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="8kanal-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2455.png",8 канал
+http://cdn.ottg.tv/2455/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=147
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vremia" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3482.png",Время
+http://cdn.ottg.tv/3482/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=148
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nostalgia" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9997.png",Ностальгия
+http://cdn.ottg.tv/9997/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=149
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="yu" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4785.png",Ю
+http://cdn.ottg.tv/4785/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=150
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="2na2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2935.png",2х2
+http://cdn.ottg.tv/2935/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=154
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tnt4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4848.png",ТНТ4
+http://cdn.ottg.tv/4848/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=158
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kvn-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7270.png",КВН ТВ
+http://cdn.ottg.tv/7270/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=162
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sarafan" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8267.png",Сарафан
+http://cdn.ottg.tv/8267/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=163
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="voprosy-i-otvety" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8132.png",Вопросы и ответы
+http://cdn.ottg.tv/8132/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=164
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="1plus1" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7016.png",1+1
+http://cdn.ottg.tv/7016/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=165
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ukraina" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7003.png",Украина
+http://cdn.ottg.tv/7003/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=166
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ictv-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5886.png",ICTV
+http://cdn.ottg.tv/5886/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=167
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="inter-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5928.png",Интер
+http://cdn.ottg.tv/5928/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=168
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="stb-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4772.png",СТБ
+http://cdn.ottg.tv/4772/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=169
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="2plus2" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7476.png",2+2
+http://cdn.ottg.tv/7476/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=170
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="novy-kanal-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4256.png",Новый канал
+http://cdn.ottg.tv/4256/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=171
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="k1-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4625.png",К1
+http://cdn.ottg.tv/4625/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=172
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="k2-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4349.png",К2
+http://cdn.ottg.tv/4349/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=173
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tet-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/3700.png",ТЕТ
+http://cdn.ottg.tv/3700/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=174
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntn-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4544.png",НТН
+http://cdn.ottg.tv/4544/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=175
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8979.png",Discovery Channel HD
+http://cdn.ottg.tv/8979/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=180
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-science" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6482.png",Discovery Science HD
+http://cdn.ottg.tv/6482/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=181
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dtx" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7612.png",Discovery Turbo Xtra HD
+http://cdn.ottg.tv/7612/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=182
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="history-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2267.png",History HD
+http://cdn.ottg.tv/2267/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=183
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="h2" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1940.png",History2 HD
+http://cdn.ottg.tv/1940/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=184
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="id-xtra-eu" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5885.png",Investigation Discovery CEE HD
+http://cdn.ottg.tv/5885/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=185
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tlc" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9012.png",TLC HD
+http://cdn.ottg.tv/9012/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=186
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="planeta-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7223.png",Моя планета HD
+http://cdn.ottg.tv/7223/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=187
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eureka-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3269.png",Эврика HD
+http://cdn.ottg.tv/3269/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=188
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="national-geographic" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4998.png",National Geographic HD
+http://cdn.ottg.tv/4998/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=189
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nauka-20" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5138.png",Наука 2.0
+http://cdn.ottg.tv/5138/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=190
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nano-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1215.png",Нано HD
+http://cdn.ottg.tv/1215/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=191
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="galaxy-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6157.png",Galaxy
+http://cdn.ottg.tv/6157/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=192
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="texno-24" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2534.png",Техно 24
+http://cdn.ottg.tv/2534/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=193
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="oruzhie" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6836.png",Оружие
+http://cdn.ottg.tv/6836/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=194
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7501.png",Nat Geo Wild HD
+http://cdn.ottg.tv/7501/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=195
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="animal-planet" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3507.png",Animal Planet HD
+http://cdn.ottg.tv/3507/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=196
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="v-mire-zhivotnyx-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3907.png",В мире животных HD
+http://cdn.ottg.tv/3907/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=197
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtd-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9349.png",RTД HD
+http://cdn.ottg.tv/9349/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=198
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mama" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3737.png",Мама
+http://cdn.ottg.tv/3737/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=199
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="doktor" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9022.png",Доктор
+http://cdn.ottg.tv/9022/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=200
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tvoy-dom" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1715.png",Твой Дом HD
+http://cdn.ottg.tv/1715/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=201
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="da-vinci" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9395.png",Da Vinci
+http://cdn.ottg.tv/9395/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=202
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="viasat-explore" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3139.png",Viasat Explore HD
+http://cdn.ottg.tv/3139/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=203
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="viasat-nature-history-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8772.png",Viasat Nature/History HD
+http://cdn.ottg.tv/8772/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=204
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="viasat-history" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4637.png",Viasat History HD
+http://cdn.ottg.tv/4637/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=205
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="istoria" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8719.png",История
+http://cdn.ottg.tv/8719/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=206
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="365-dnej" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2331.png",365 дней ТВ
+http://cdn.ottg.tv/2331/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=207
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="moya-planeta" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5359.png",Моя Планета
+http://cdn.ottg.tv/5359/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=208
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtg-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1636.png",RTG HD
+http://cdn.ottg.tv/1636/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=209
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="prikluchenia-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3242.png",Приключения HD
+http://cdn.ottg.tv/3242/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=210
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="travel-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5730.png",Travel Channel HD
+http://cdn.ottg.tv/5730/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=211
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="travel-adventure" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4485.png",Travel+Adventure HD
+http://cdn.ottg.tv/4485/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=212
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fine-living" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6252.png",Fine Living HD
+http://cdn.ottg.tv/6252/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=213
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="oxota-i-rybalka" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4351.png",Охота и рыбалка
+http://cdn.ottg.tv/4351/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=214
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="oxotnik-i-rybolov-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5955.png",Охотник и рыболов HD
+http://cdn.ottg.tv/5955/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=215
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dialogi-o-rybalke" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5891.png",Диалоги о рыбалке HD
+http://cdn.ottg.tv/5891/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=216
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dikaya-oxota-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9212.png",Дикая Охота HD
+http://cdn.ottg.tv/9212/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=217
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dikaya-rybalka-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9250.png",Дикая Рыбалка HD
+http://cdn.ottg.tv/9250/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=218
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="outdoor-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1496.png",Outdoor channel
+http://cdn.ottg.tv/1496/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=219
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zhivaya-priroda" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7063.png",Живая природа HD
+http://cdn.ottg.tv/7063/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=220
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zhivaya-planeta" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1313.png",Живая планета
+http://cdn.ottg.tv/1313/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=221
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kuxnia-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9708.png",Кухня ТВ HD
+http://cdn.ottg.tv/9708/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=222
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eda-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9940.png",Еда Премиум HD
+http://cdn.ottg.tv/9940/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=223
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="food-network" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4922.png",Food Network HD
+http://cdn.ottg.tv/4922/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=224
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="avto24" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8624.png",Авто 24
+http://cdn.ottg.tv/8624/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=225
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="avto-plus" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2339.png",Авто плюс HD
+http://cdn.ottg.tv/2339/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=226
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="morskoy" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7138.png",Морской
+http://cdn.ottg.tv/7138/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=227
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="hd-life" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6256.png",HDL HD
+http://cdn.ottg.tv/6256/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=228
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinopremiera-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7998.png",Кинопремьера HD
+http://cdn.ottg.tv/7998/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=229
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ostrosiuzhetnoe-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6659.png",Остросюжетное HD
+http://cdn.ottg.tv/6659/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=230
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinopremium-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4505.png",Премиальное HD
+http://cdn.ottg.tv/4505/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=231
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nash-detektiv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6359.png",Наше крутое HD
+http://cdn.ottg.tv/6359/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=232
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nash-kinoroman" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4416.png",Наш Кинороман HD
+http://cdn.ottg.tv/4416/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=233
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinokomedia" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1119.png",Кинокомедия HD
+http://cdn.ottg.tv/1119/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=234
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinosemiya" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9448.png",Киносемья
+http://cdn.ottg.tv/9448/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=235
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinosvidanie" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5897.png",Киносвидание
+http://cdn.ottg.tv/5897/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=236
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinoxit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3955.png",Кинохит
+http://cdn.ottg.tv/3955/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=237
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinomiks" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2446.png",Киномикс
+http://cdn.ottg.tv/2446/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=238
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nashe-novoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3259.png",Наше новое кино HD
+http://cdn.ottg.tv/3259/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=239
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rodnoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7965.png",Родное кино
+http://cdn.ottg.tv/7965/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=240
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="indiyskoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6200.png",Индийское кино
+http://cdn.ottg.tv/6200/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=241
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv1000" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1411.png",TV 1000 HD
+http://cdn.ottg.tv/1411/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=242
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv1000-action" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9080.png",TV 1000 Action HD
+http://cdn.ottg.tv/9080/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=243
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv1000-russkoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1502.png",TV 1000 Русское кино HD
+http://cdn.ottg.tv/1502/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=244
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vip-premiere" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8785.png",ViP Premiere HD
+http://cdn.ottg.tv/8785/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=245
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vip-megahit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8448.png",ViP Megahit HD
+http://cdn.ottg.tv/8448/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=246
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vip-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2903.png",ViP Comedy HD
+http://cdn.ottg.tv/2903/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=247
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vip-serial" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1514.png",ViP Serial HD
+http://cdn.ottg.tv/1514/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=248
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinopokaz-hd1" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7023.png",Шокирующее HD
+http://cdn.ottg.tv/7023/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=249
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinopokaz-hd2" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4010.png",Комедийное HD
+http://cdn.ottg.tv/4010/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=250
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="amedia-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3610.png",Amedia Premium HD
+http://cdn.ottg.tv/3610/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=251
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="amedia1" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7386.png",Amedia 1 HD
+http://cdn.ottg.tv/7386/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=252
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="amedia-hit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4546.png",Amedia Hit HD
+http://cdn.ottg.tv/4546/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=253
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russky-roman" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3574.png",Русский роман HD
+http://cdn.ottg.tv/3574/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=254
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russky-illuzion" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9282.png",Русский иллюзион HD
+http://cdn.ottg.tv/9282/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=255
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russky-detektiv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6590.png",Русский детектив
+http://cdn.ottg.tv/6590/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=256
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russky-bestseller" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7525.png",Русский бестселлер
+http://cdn.ottg.tv/7525/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=257
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russkaya-komedia" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4167.png",Русская комедия
+http://cdn.ottg.tv/4167/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=258
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pobeda" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2988.png",Победа HD
+http://cdn.ottg.tv/2988/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=259
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fox" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9764.png",Fox HD
+http://cdn.ottg.tv/9764/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=260
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="foxlife" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3108.png",Fox Life HD
+http://cdn.ottg.tv/3108/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=261
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sony-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4830.png",Sony Channel HD
+http://cdn.ottg.tv/4830/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=262
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sony-scifi" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5009.png",Sony Sci-Fi
+http://cdn.ottg.tv/5009/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=263
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sony-turbo" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1490.png",Sony Turbo
+http://cdn.ottg.tv/1490/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=264
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kino-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5930.png",КиноТВ HD
+http://cdn.ottg.tv/5930/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=265
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinopokaz" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9591.png",Кинопоказ
+http://cdn.ottg.tv/9591/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=266
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="cinema-ru" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5974.png",Синема
+http://cdn.ottg.tv/5974/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=267
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nst" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9044.png",НСТ
+http://cdn.ottg.tv/9044/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=268
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="strashnoe-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1961.png",Страшное HD
+http://cdn.ottg.tv/1961/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=269
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tvxxi" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3043.png",TV XXI Век
+http://cdn.ottg.tv/3043/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=270
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="paramount-channel" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9462.png",Paramount Channel HD
+http://cdn.ottg.tv/9462/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=271
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="paramount-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4957.png",Paramount Comedy HD
+http://cdn.ottg.tv/4957/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=272
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="muzhskoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5595.png",Мужское кино
+http://cdn.ottg.tv/5595/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=273
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="domkino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2851.png",Дом Кино
+http://cdn.ottg.tv/2851/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=274
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="domkino-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6799.png",Дом кино Премиум HD
+http://cdn.ottg.tv/6799/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=275
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="hollywood-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1996.png",Hollywood HD
+http://cdn.ottg.tv/1996/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=276
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-igra" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4780.png",Матч! Игра HD
+http://cdn.ottg.tv/4780/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=277
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-nash-sport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7937.png",Матч! Страна
+http://cdn.ottg.tv/7937/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=278
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-arena" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3226.png",Матч! Арена HD
+http://cdn.ottg.tv/3226/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=279
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5292.png",Матч! HD
+http://cdn.ottg.tv/5292/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=280
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2321.png",Матч! Футбол 1 HD
+http://cdn.ottg.tv/2321/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=282
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6026.png",Матч! Футбол 2 HD
+http://cdn.ottg.tv/6026/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=283
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football3" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6866.png",Матч! Футбол 3 HD
+http://cdn.ottg.tv/6866/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=284
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-premier" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7517.png",Матч! Премьер HD
+http://cdn.ottg.tv/7517/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=285
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8521.png",Футбол 1 HD Украина
+http://cdn.ottg.tv/8521/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=286
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2070.png",Футбол 2 HD Украина
+http://cdn.ottg.tv/2070/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=287
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1515.png",Eurosport 1 HD
+http://cdn.ottg.tv/1515/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=288
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1525.png",Eurosport 2 HD
+http://cdn.ottg.tv/1525/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=289
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport-gold" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8749.png",Eurosport Gold HD
+http://cdn.ottg.tv/8749/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=290
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="belarus5" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5813.png",Беларусь 5 HD
+http://cdn.ottg.tv/5813/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=291
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kazsport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9686.png",Kazsport
+http://cdn.ottg.tv/9686/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=292
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="viasat-sport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1072.png",Viasat Sport HD
+http://cdn.ottg.tv/1072/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=293
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="extreme-sports" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1285.png",Extreme Sports
+http://cdn.ottg.tv/1285/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=294
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="setanta-sports" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4652.png",Setanta Sports 1 HD
+http://cdn.ottg.tv/4652/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=295
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="setanta-sports-plus" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1931.png",Setanta Sports 2 HD
+http://cdn.ottg.tv/1931/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=296
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-boets" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1403.png",Матч! Боец
+http://cdn.ottg.tv/1403/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=297
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="box-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9550.png",Бокс ТВ
+http://cdn.ottg.tv/9550/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=298
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ufc" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9546.png",UFC ТВ HD
+http://cdn.ottg.tv/9546/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=299
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kxl" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2957.png",КХЛ ТВ
+http://cdn.ottg.tv/2957/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=300
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kxl-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6328.png",КХЛ HD
+http://cdn.ottg.tv/6328/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=301
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russky-ekstrim" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8809.png",Russian Extreme HD
+http://cdn.ottg.tv/8809/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=302
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="detsky" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5438.png",Детский HD
+http://cdn.ottg.tv/5438/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=303
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nickelodeon-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/3240.png",Nickelodeon HD
+http://cdn.ottg.tv/3240/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=304
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mult" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/7952.png",Мульт HD
+http://cdn.ottg.tv/7952/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=305
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="disney" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/7528.png",Канал Disney
+http://cdn.ottg.tv/7528/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=306
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="karusel" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/7419.png",Карусель
+http://cdn.ottg.tv/7419/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=308
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="karusel-pl3" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5013.png",Карусель +2
+http://cdn.ottg.tv/5013/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=309
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9641.png",Карусель +4
+http://cdn.ottg.tv/9641/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=310
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="karusel-pl7" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/4123.png",Карусель +6
+http://cdn.ottg.tv/4123/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=311
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sts-kids-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9954.png",СТС Kids HD
+http://cdn.ottg.tv/9954/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=312
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tiji" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/7521.png",TiJi
+http://cdn.ottg.tv/7521/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=313
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mult" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9985.png",Мульт
+http://cdn.ottg.tv/9985/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=314
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="multimuzyka" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5321.png",Мультимузыка
+http://cdn.ottg.tv/5321/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=315
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="jimjam" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9763.png",JimJam
+http://cdn.ottg.tv/9763/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=316
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="cartoon-network" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5635.png",Cartoon Network HD
+http://cdn.ottg.tv/5635/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=317
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nick-jr" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/3727.png",Nick Jr
+http://cdn.ottg.tv/3727/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=318
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="v-gostiax-u-skazki" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9375.png",В гостях у сказки
+http://cdn.ottg.tv/9375/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=319
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="o_" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/4299.png",Канал О!
+http://cdn.ottg.tv/4299/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=320
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="boomerang" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/2275.png",Boomerang
+http://cdn.ottg.tv/2275/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=321
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="radost-moya" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5876.png",Радость Моя
+http://cdn.ottg.tv/5876/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=322
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ani" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9170.png",Ani
+http://cdn.ottg.tv/9170/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=323
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="detsky-mir" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9295.png",Детский мир
+http://cdn.ottg.tv/9295/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=324
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="gulli-girl" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/3723.png",Gulli Girl
+http://cdn.ottg.tv/3723/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=325
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="baby-tv" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/7114.png",Baby TV
+http://cdn.ottg.tv/7114/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=326
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="1hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/3533.png",1HD Music
+http://cdn.ottg.tv/3533/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=327
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="m1-ua" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/7349.png",М1
+http://cdn.ottg.tv/7349/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=328
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="muztv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/1806.png",Муз ТВ
+http://cdn.ottg.tv/1806/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=329
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bridge-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/1774.png",Bridge TV
+http://cdn.ottg.tv/1774/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=330
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bridge-hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/3413.png",Bridge TV Deluxe HD
+http://cdn.ottg.tv/3413/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=331
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bridge-tv-classic" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/9334.png",Bridge TV Classic
+http://cdn.ottg.tv/9334/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=332
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bridge-tv-dance" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/3704.png",Bridge TV Hits
+http://cdn.ottg.tv/3704/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=333
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bridge-tv-ruxit" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/5747.png",Bridge TV Русский хит
+http://cdn.ottg.tv/5747/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=334
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="europa-plus-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/9995.png",Europa Plus TV
+http://cdn.ottg.tv/9995/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=335
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ru-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/5778.png",RU TV
+http://cdn.ottg.tv/5778/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=336
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mtv-russia" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/9621.png",MTV HD
+http://cdn.ottg.tv/9621/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=337
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mtv-dance" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/9197.png",MTV Dance
+http://cdn.ottg.tv/9197/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=338
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mtv-rocks" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/2922.png",MTV Rocks
+http://cdn.ottg.tv/2922/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=339
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vh1-classic" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/1635.png",VH1 Classic
+http://cdn.ottg.tv/1635/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=340
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vh1-european" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/8870.png",VH1 European
+http://cdn.ottg.tv/8870/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=341
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mcm-top" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/1148.png",MCM TOP
+http://cdn.ottg.tv/1148/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=342
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tnt-music" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/4885.png",ТНТ Music
+http://cdn.ottg.tv/4885/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=343
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mezzo-live-hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/3203.png",Mezzo Live HD
+http://cdn.ottg.tv/3203/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=344
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="iconcerts" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/4880.png",iConcerts HD
+http://cdn.ottg.tv/4880/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=345
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rbk" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/4428.png",РБК ТВ
+http://cdn.ottg.tv/4428/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=346
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rossia-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/7146.png",Россия 24
+http://cdn.ottg.tv/7146/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=347
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="euronews" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/3882.png",EuroNews
+http://cdn.ottg.tv/3882/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=348
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bbc" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/4330.png",BBC World News Europe
+http://cdn.ottg.tv/4330/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=349
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="cnn" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/1797.png",CNN
+http://cdn.ottg.tv/1797/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=350
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="moskva-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/7554.png",Москва 24
+http://cdn.ottg.tv/7554/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=351
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="112-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9340.png",112 Украина HD
+http://cdn.ottg.tv/9340/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=352
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fanhd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2006.png",FAN HD
+http://cdn.ottg.tv/2006/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=373
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fuel-tv-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5679.png",FUEL TV HD
+http://cdn.ottg.tv/5679/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=374
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="e-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7865.png",E TV
+http://cdn.ottg.tv/7865/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=375
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football-ru" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2647.png",Футбол HD
+http://cdn.ottg.tv/2647/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=376
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="usadba" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8254.png",Усадьба
+http://cdn.ottg.tv/8254/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=377
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="teatr" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7310.png",Театр
+http://cdn.ottg.tv/7310/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=378
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="shanson-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/5260.png",Шансон TB
+http://cdn.ottg.tv/5260/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=379
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="feniks-plus-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6923.png",Феникс+ Кино
+http://cdn.ottg.tv/6923/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=380
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tochka-otryva" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2746.png",Точка отрыва HD
+http://cdn.ottg.tv/2746/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=381
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tochka-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4361.png",Точка ТВ
+http://cdn.ottg.tv/4361/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=382
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="retro-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4309.png",Ретро
+http://cdn.ottg.tv/4309/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=383
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="izvestia" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/1751.png",Известия
+http://cdn.ottg.tv/1751/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=384
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mir-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/1306.png",Мир 24
+http://cdn.ottg.tv/1306/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=385
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russia-today" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/6969.png",Russia Today HD
+http://cdn.ottg.tv/6969/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=386
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dozhd" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/7702.png",Дождь HD
+http://cdn.ottg.tv/7702/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=387
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kino-ultra-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5408.png",Кино UHD PREMIUM+
+http://cdn.ottg.tv/5408/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=388
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="insight-ultra-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7004.png",Insight UHD PREMIUM+
+http://cdn.ottg.tv/7004/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=389
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="id-xtra-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7060.png",Investigation Discovery
+http://cdn.ottg.tv/7060/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=390
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport-4k" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9006.png",Eurosport 4k PREMIUM+
+http://cdn.ottg.tv/9006/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=391
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bolt" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8597.png",Bolt HD
+http://cdn.ottg.tv/8597/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=392
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="amedia2" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7515.png",Amedia 2 HD
+http://cdn.ottg.tv/7515/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=393
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="360-podmoskovie" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4898.png",360 HD
+http://cdn.ottg.tv/4898/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=394
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="spas" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2291.png",Спас
+http://cdn.ottg.tv/2291/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=395
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="soyuz" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8666.png",Союз
+http://cdn.ottg.tv/8666/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=396
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="prosveschenie" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7504.png",Просвещение
+http://cdn.ottg.tv/7504/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=397
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pes-i-ko" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4479.png",Пёс и Ко
+http://cdn.ottg.tv/4479/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=398
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="o-la-la" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/8942.png",О-ля-ля 18+
+http://cdn.ottg.tv/8942/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=399
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="okino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4140.png",О!Кино
+http://cdn.ottg.tv/4140/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=400
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nashe-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8739.png",Наше ТВ
+http://cdn.ottg.tv/8739/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=401
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="muzhskoy" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9283.png",Мужской
+http://cdn.ottg.tv/9283/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=402
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="motorsportv-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2697.png",Моторспорт ТВ HD
+http://cdn.ottg.tv/2697/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=403
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="la-minor" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/9843.png",Ля-минор
+http://cdn.ottg.tv/9843/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=404
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="lubimoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8314.png",Любимое кино
+http://cdn.ottg.tv/8314/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=405
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="jurnaltv" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/7631.png",Jurnal TV MD
+http://cdn.ottg.tv/7631/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=406
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bollywood-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7148.png",Bollywood HD
+http://cdn.ottg.tv/7148/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=407
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="m1global" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8036.png",M-1 Global
+http://cdn.ottg.tv/8036/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=408
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="museum-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3605.png",Museum HD
+http://cdn.ottg.tv/3605/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=410
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/4736.png",Babes TV HD 18+
+http://cdn.ottg.tv/4736/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=411
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nastoyaschee-vremia" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/2782.png",Настоящее время HD
+http://cdn.ottg.tv/2782/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=412
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2284.png",Футбол 1 HD UA PREMIUM+
+http://cdn.ottg.tv/2284/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=413
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7054.png",Футбол 2 HD UA PREMIUM+
+http://cdn.ottg.tv/7054/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=414
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="viasat-nature" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5532.png",Viasat Nature HD
+http://cdn.ottg.tv/5532/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=415
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zhara" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/4248.png",Жара HD
+http://cdn.ottg.tv/4248/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=416
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zhivi" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9643.png",Живи!
+http://cdn.ottg.tv/9643/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=417
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="setanta-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7662.png",Setanta Sports UA HD
+http://cdn.ottg.tv/7662/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=418
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zhar-ptica" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4396.png",Жар Птица
+http://cdn.ottg.tv/4396/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=419
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="360-news" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/3082.png",360 Новости
+http://cdn.ottg.tv/3082/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=420
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bobior" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5063.png",Бобёр
+http://cdn.ottg.tv/5063/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=422
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bolshaya-azia" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6657.png",Большая Азия HD
+http://cdn.ottg.tv/6657/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=423
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dikiy" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2503.png",Дикий
+http://cdn.ottg.tv/2503/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=424
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="doverie" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6289.png",Доверие
+http://cdn.ottg.tv/6289/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=425
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dorama" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2233.png",Дорама HD
+http://cdn.ottg.tv/2233/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=426
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="drive" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5603.png",Драйв
+http://cdn.ottg.tv/5603/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=427
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="evrokino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5240.png",Еврокино HD
+http://cdn.ottg.tv/5240/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=428
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eda" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2048.png",Еда
+http://cdn.ottg.tv/2048/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=429
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zdorovoe-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7715.png",Здоровое ТВ
+http://cdn.ottg.tv/7715/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=430
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="illuzion-plus" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9804.png",Иллюзион+ HD
+http://cdn.ottg.tv/9804/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=431
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="krasnaya-linia" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3638.png",Красная линия
+http://cdn.ottg.tv/3638/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=432
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ldpr-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2211.png",ЛДПР ТВ
+http://cdn.ottg.tv/2211/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=433
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2575.png",Матч! ТВ
+http://cdn.ottg.tv/2575/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=434
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pervy-obrazovatelny" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9677.png",Первый образовательный
+http://cdn.ottg.tv/9677/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=435
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tayna" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2207.png",Тайна
+http://cdn.ottg.tv/2207/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=436
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="centralnoye-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9939.png",Центральное телевидение
+http://cdn.ottg.tv/9939/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=437
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="echotv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9320.png",Эхо-ТВ
+http://cdn.ottg.tv/9320/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=438
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="yuvelirochka" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9886.png",Ювелирочка
+http://cdn.ottg.tv/9886/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=439
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="amedia-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7564.png",Amedia Premium
+http://cdn.ottg.tv/7564/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=440
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="animal-planet" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7435.png",Animal Planet
+http://cdn.ottg.tv/7435/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=441
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="clubbing-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/7053.png",Clubbing TV HD
+http://cdn.ottg.tv/7053/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=442
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3721.png",Discovery Channel
+http://cdn.ottg.tv/3721/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=443
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-science" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9502.png",Discovery Science
+http://cdn.ottg.tv/9502/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=444
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dtx" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5508.png",DTX
+http://cdn.ottg.tv/5508/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=445
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="deutsche-welle-eu" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7489.png",DW-TV
+http://cdn.ottg.tv/7489/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=446
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6623.png",Eurosport 1
+http://cdn.ottg.tv/6623/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=447
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fashion-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1223.png",Fashion TV HD
+http://cdn.ottg.tv/1223/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=448
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="france-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/9153.png",France 24 HD
+http://cdn.ottg.tv/9153/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=449
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="home-4k" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7533.png",Home 4K PREMIUM+
+http://cdn.ottg.tv/7533/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=450
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mtv-hits" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/5568.png",MTV Hits
+http://cdn.ottg.tv/5568/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=451
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mtv-live-hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/8299.png",MTV Live HD
+http://cdn.ottg.tv/8299/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=452
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9038.png",Nat Geo Wild
+http://cdn.ottg.tv/9038/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=453
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="national-geographic" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5938.png",National Geographic
+http://cdn.ottg.tv/5938/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=454
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nhk-world" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4102.png",NHK WORLD-JAPAN
+http://cdn.ottg.tv/4102/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=455
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/2466.png",Nickelodeon
+http://cdn.ottg.tv/2466/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=456
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="o2tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6802.png",O2TV HD
+http://cdn.ottg.tv/6802/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=457
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="paramount-channel" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6956.png",Paramount Channel
+http://cdn.ottg.tv/6956/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=458
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russian-extreme-uhd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3146.png",Russian Extreme Ultra PREMIUM+
+http://cdn.ottg.tv/3146/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=459
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russian-musicbox" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/8131.png",Russian MusicBox
+http://cdn.ottg.tv/8131/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=460
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="shop-n-show" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9106.png",Shop&Show
+http://cdn.ottg.tv/9106/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=461
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="shot-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2829.png",Shot TV
+http://cdn.ottg.tv/2829/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=462
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="spike" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5914.png",Spike
+http://cdn.ottg.tv/5914/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=463
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="star-cinema" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5109.png",Star Cinema HD
+http://cdn.ottg.tv/8803/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=464
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tlc" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9427.png",TLC
+http://cdn.ottg.tv/9427/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=465
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ultra-hd-cinema" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6870.png",Ultra HD Cinema
+http://cdn.ottg.tv/6870/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=466
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="viasat-sport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2839.png",Viasat Sport
+http://cdn.ottg.tv/2839/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=467
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="world-fashion-channel" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2387.png",Luxury World HD
+http://cdn.ottg.tv/2387/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=468
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zee-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7669.png",Zee TV
+http://cdn.ottg.tv/7669/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=469
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ont-by" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/9363.png",ОНТ HD BY
+http://cdn.ottg.tv/9363/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=470
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="belarus1" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/7574.png",Беларусь 1 HD BY
+http://cdn.ottg.tv/7574/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=471
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtr-belarus" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/9136.png",РТР HD BY
+http://cdn.ottg.tv/9136/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=472
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="belarus2" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/6512.png",Беларусь 2 HD BY
+http://cdn.ottg.tv/6512/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=473
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="belarus3" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/8020.png",Беларусь 3 HD BY
+http://cdn.ottg.tv/8020/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=474
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nlo-tv-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4728.png",НЛО ТВ
+http://cdn.ottg.tv/4728/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=475
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-hd-showcase" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3258.png",Discovery Showcase HD
+http://cdn.ottg.tv/3258/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=476
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rentv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6401.png",Рен ТВ
+http://cdn.ottg.tv/6401/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=477
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="konny-mir" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8609.png",Конный мир HD
+http://cdn.ottg.tv/8609/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=478
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="romantichnoe" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7262.png",Романтичное HD
+http://cdn.ottg.tv/7262/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=479
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nashe-lubimoe" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8420.png",Любимое HD
+http://cdn.ottg.tv/8420/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=480
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mir-basketbola" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3271.png",Мир баскетбола
+http://cdn.ottg.tv/3271/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=481
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv-xit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1445.png",НТВ Хит
+http://cdn.ottg.tv/1445/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=482
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kvartal-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1142.png",Квартал ТВ
+http://cdn.ottg.tv/1142/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=483
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9567.png",Сварожичи
+http://cdn.ottg.tv/9567/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=484
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2065.png",Матч! Футбол 1 HD PREMIUM+
+http://cdn.ottg.tv/2065/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=485
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4286.png",Матч! Футбол 2 HD PREMIUM+
+http://cdn.ottg.tv/4286/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=486
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football3" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2773.png",Матч! Футбол 3 HD PREMIUM+
+http://cdn.ottg.tv/2773/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=487
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-igra" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3570.png",Матч! Игра HD PREMIUM+
+http://cdn.ottg.tv/3570/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=488
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-arena" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9517.png",Матч! Арена HD PREMIUM+
+http://cdn.ottg.tv/9517/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=489
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-planeta" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2616.png",Матч! Планета
+http://cdn.ottg.tv/2616/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=490
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7962.png",Матч! HD PREMIUM+
+http://cdn.ottg.tv/7962/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=491
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-premier" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3678.png",Матч! Премьер HD PREMIUM+
+http://cdn.ottg.tv/3678/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=492
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kxl-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3069.png",КХЛ HD PREMIUM+
+http://cdn.ottg.tv/3069/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=493
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8413.png",Eurosport 1 HD PREMIUM+
+http://cdn.ottg.tv/8413/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=494
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9523.png",Eurosport 2 HD PREMIUM+
+http://cdn.ottg.tv/9523/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=495
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="viasat-sport-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2453.png",Viasat Sport HD PREMIUM+
+http://cdn.ottg.tv/2453/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=496
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6822.png",Nat Geo Wild HD PREMIUM+
+http://cdn.ottg.tv/6822/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=497
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="national-geographic" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3999.png",National Geographic HD PREMIUM+
+http://cdn.ottg.tv/3999/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=498
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3186.png",Discovery Channel HD PREMIUM+
+http://cdn.ottg.tv/3186/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=499
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="animal-planet" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5474.png",Animal Planet HD PREMIUM+
+http://cdn.ottg.tv/5474/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=500
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="hd-life" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5446.png",HD Life PREMIUM+
+http://cdn.ottg.tv/5446/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=501
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-hd-showcase" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3628.png",Discovery Showcase HD PREMIUM+
+http://cdn.ottg.tv/3628/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=502
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kazakhstan" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5396.png",Казахстан KZ
+http://cdn.ottg.tv/5396/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=503
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ktk-kz" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/7174.png",КТК
+http://cdn.ottg.tv/7174/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=504
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="astana" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/7893.png",Астана ТВ
+http://cdn.ottg.tv/7893/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=505
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="7kanal-kz" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/3206.png",7 канал (Казахстан)
+http://cdn.ottg.tv/3206/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=506
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/8162.png",Armenia TV
+http://cdn.ottg.tv/8162/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=507
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/6042.png",Armenia HD AM
+http://cdn.ottg.tv/6042/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=508
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Shant HD" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/7658.png",Shant HD
+http://cdn.ottg.tv/7658/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=509
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5659.png",Atv HD AM
+http://cdn.ottg.tv/5659/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=510
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/2190.png",Kentron AM
+http://cdn.ottg.tv/2190/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=511
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="lnk" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/1753.png",LNK LT
+http://cdn.ottg.tv/1753/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=512
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="btv" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/3855.png",BTV
+http://cdn.ottg.tv/3855/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=513
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lv" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/7524.png",TV3 HD LV
+http://cdn.ottg.tv/7524/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=514
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lt" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/2255.png",TV3 LT
+http://cdn.ottg.tv/2255/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=515
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="lrt-tv" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/3733.png",LRT
+http://cdn.ottg.tv/3733/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=516
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ltv1" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/1144.png",LTV1
+http://cdn.ottg.tv/1144/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=517
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pervy" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2580.png",Первый HD PREMIUM+
+http://cdn.ottg.tv/2580/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=518
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rossia1" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2151.png",Россия 1 HD PREMIUM+
+http://cdn.ottg.tv/2151/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=519
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2017.png",НТВ HD PREMIUM+
+http://cdn.ottg.tv/2017/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=520
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="xabar" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/7001.png",Хабар
+http://cdn.ottg.tv/7001/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=521
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eurosport2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6904.png",Eurosport 2
+http://cdn.ottg.tv/6904/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=522
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="belarus24" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5581.png",Беларусь 24
+http://cdn.ottg.tv/5581/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=523
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tro" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/1.png",БелРос
+http://cdn.ottg.tv//video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=524
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="star-family" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8048.png",Star Family HD
+http://cdn.ottg.tv/6198/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=525
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="5kanal-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7806.png",5 канал
+http://cdn.ottg.tv/7806/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=526
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="112-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8241.png",112
+http://cdn.ottg.tv/8241/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=527
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="34-dnepr" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9439.png",34 Канал
+http://cdn.ottg.tv/9439/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=528
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rti" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4661.png",4 канал
+http://cdn.ottg.tv/4661/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=529
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pro-vsio" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/8335.png",8 канал HD
+http://cdn.ottg.tv/8335/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=530
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="enter-film" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/3420.png",Enter Film
+http://cdn.ottg.tv/3420/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=531
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fauna" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/2317.png",Fauna
+http://cdn.ottg.tv/2317/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=532
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="lale" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/6020.png",Lale HD
+http://cdn.ottg.tv/6020/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=533
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="musicbox-ua-hd" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9482.png",Musicbox UA
+http://cdn.ottg.tv/9482/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=535
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="newsnetwork" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/9142.png",News Network
+http://cdn.ottg.tv/9142/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=536
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="newsone-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/6294.png",News One HD
+http://cdn.ottg.tv/6294/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=537
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5077.png",NIKI Junior HD
+http://cdn.ottg.tv/5077/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=538
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8665.png",NIKI Kids HD
+http://cdn.ottg.tv/8665/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=539
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="oboz-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4917.png",OBOZ TV HD
+http://cdn.ottg.tv/4917/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=540
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="o-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/4787.png",OTV
+http://cdn.ottg.tv/4787/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=541
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="star-cinema-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5109.png",Star Cinema HD UA
+http://cdn.ottg.tv/5109/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=542
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="star-family-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8048.png",Star Family HD UA
+http://cdn.ottg.tv/8048/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=543
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ua-pershy" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9279.png",Перший HD
+http://cdn.ottg.tv/9279/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=544
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vintazh" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9187.png",Vintage TV
+http://cdn.ottg.tv/9187/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=545
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="xsport-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5019.png",Xsport HD
+http://cdn.ottg.tv/5019/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=546
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="xsport-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1385.png",XSPORT
+http://cdn.ottg.tv/1385/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=547
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zik-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1297.png",Zik HD
+http://cdn.ottg.tv/1297/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=548
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zoom-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8065.png",Zoom
+http://cdn.ottg.tv/8065/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=549
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="priamyj" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8658.png",Прямий UA
+http://cdn.ottg.tv/8658/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=550
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bigudi" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7141.png",Бігуді
+http://cdn.ottg.tv/7141/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=551
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="hromadske" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4097.png",Громадьске ТВ
+http://cdn.ottg.tv/4097/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=552
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dacha" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5030.png",Дача
+http://cdn.ottg.tv/5030/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=553
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7331.png",Етно HD
+http://cdn.ottg.tv/7331/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=554
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="krt-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/2488.png",КРТ
+http://cdn.ottg.tv/2488/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=555
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="m2-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1046.png",М2
+http://cdn.ottg.tv/1046/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=556
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="maxxi-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8190.png",Максi ТВ
+http://cdn.ottg.tv/8190/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=557
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="maliatko-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5341.png",Малятко TV
+http://cdn.ottg.tv/5341/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=558
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mega-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/6269.png",Мега
+http://cdn.ottg.tv/6269/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=559
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nadia" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7990.png",Надия
+http://cdn.ottg.tv/7990/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=560
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nauka" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1419.png",Наука
+http://cdn.ottg.tv/1419/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=561
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nashe-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/2872.png",Наше HD
+http://cdn.ottg.tv/2872/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=562
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="1auto" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7319.png",Первый Автомобильный
+http://cdn.ottg.tv/7319/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=563
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ua-pershy" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/3990.png",Перший
+http://cdn.ottg.tv/3990/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=564
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pixel" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5692.png",Пиксель
+http://cdn.ottg.tv/5692/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=565
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="plusplus" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/8454.png",ПлюсПлюс
+http://cdn.ottg.tv/8454/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=566
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="priamyj" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9847.png",Прямий HD
+http://cdn.ottg.tv/9847/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=567
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sonce-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9412.png",Сонце
+http://cdn.ottg.tv/9412/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=568
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sport1-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1339.png",Спорт-1
+http://cdn.ottg.tv/1339/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=569
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sport2-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1427.png",Спорт-2
+http://cdn.ottg.tv/1427/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=570
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="bolt-ru" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1382.png",Болт HD Россия
+http://cdn.ottg.tv/1382/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=571
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ukraina" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5515.png",Украина HD
+http://cdn.ottg.tv/5515/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=572
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/2370.png",Тера
+http://cdn.ottg.tv/2370/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=573
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="trofey" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9445.png",Трофей HD
+http://cdn.ottg.tv/9445/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=574
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="unian-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/6532.png",Унiан
+http://cdn.ottg.tv/6532/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=575
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="chepe-info" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5641.png",ЧП.ТВ
+http://cdn.ottg.tv/5641/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=576
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="chernomorskaya" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1612.png",Черноморская
+http://cdn.ottg.tv/1612/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=577
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="espreso-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9440.png",Эспресо TV
+http://cdn.ottg.tv/9440/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=578
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="espreso-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4231.png",Эспресо ТВ HD
+http://cdn.ottg.tv/4231/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=579
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sat1" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/9002.png",Sat.1 HD DE
+http://cdn.ottg.tv/9002/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=580
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="prosieben" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/6594.png",ProSieben HD DE
+http://cdn.ottg.tv/6594/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=581
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vox" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/1000.png",VOX HD DE
+http://cdn.ottg.tv/1000/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=582
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtl" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/3456.png",RTL HD DE
+http://cdn.ottg.tv/3456/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=583
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtl2" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/5948.png",RTL 2 HD DE
+http://cdn.ottg.tv/5948/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=584
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kabel-1" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/9447.png",Kabel Eins HD DE
+http://cdn.ottg.tv/9447/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=585
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sky-cinema-action" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/6304.png",Sky Cinema Action HD DE
+http://cdn.ottg.tv/6304/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=586
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sky-cinema-hits" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/8900.png",Sky Hits HD DE
+http://cdn.ottg.tv/8900/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=587
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sky-cinema" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/1381.png",Sky Cinema HD DE
+http://cdn.ottg.tv/1381/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=588
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/9952.png",n-tv HD DE
+http://cdn.ottg.tv/9952/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=590
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="supertennis" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6107.png",Super Tennis HD
+http://cdn.ottg.tv/6107/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=591
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="cbs-reality" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/4399.png",CBS Reality
+http://cdn.ottg.tv/4399/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=592
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="8kanal-by" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/8447.png",8 Канал HD BY
+http://cdn.ottg.tv/8447/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=593
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tvplay-sports" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7729.png",TV3 Sport HD PREMIUM+
+http://cdn.ottg.tv/7729/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=594
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tnt4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2304.png",ТНТ4 HD
+http://cdn.ottg.tv/2304/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=595
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv-pravo" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8025.png",НТВ Право
+http://cdn.ottg.tv/8025/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=596
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv-style" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6190.png",НТВ Стиль
+http://cdn.ottg.tv/6190/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=597
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="multik-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/2273.png",Мультик HD
+http://cdn.ottg.tv/2273/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=598
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="muzyka-pervogo" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/8805.png",Музыка первого
+http://cdn.ottg.tv/8805/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=599
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kto-est-kto" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7182.png",Кто есть кто
+http://cdn.ottg.tv/7182/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=600
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="malysh" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/4852.png",Малыш
+http://cdn.ottg.tv/4852/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=601
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ryzhy" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5672.png",Рыжий
+http://cdn.ottg.tv/5672/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=602
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinosat" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6899.png",Киносат
+http://cdn.ottg.tv/6899/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=603
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ntv-serial" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3213.png",НТВ Сериал
+http://cdn.ottg.tv/3213/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=604
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv1000-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3127.png",TV3 Film HD PREMIUM+
+http://cdn.ottg.tv/3127/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=605
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinoseria" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9769.png",Киносерия
+http://cdn.ottg.tv/9769/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=606
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tvplay-sports-plus" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4490.png",TV3 Sport 2 HD PREMIUM+
+http://cdn.ottg.tv/4490/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=607
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/1487.png",Открытый HD
+http://cdn.ottg.tv/1487/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=608
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zagorodny" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5180.png",Загородный
+http://cdn.ottg.tv/5180/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=610
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zagorodnaya-zhizn" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3366.png",Загородная жизнь
+http://cdn.ottg.tv/3366/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=611
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="travel-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9704.png",Travel Channel
+http://cdn.ottg.tv/9704/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=612
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="psixologia-21" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8819.png",Психология
+http://cdn.ottg.tv/8819/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=613
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="domashnie-zhivotnye" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3646.png",Домашние животные
+http://cdn.ottg.tv/3646/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=614
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zoopark" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6767.png",Зоопарк
+http://cdn.ottg.tv/6767/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=615
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="uspex" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7840.png",Успех
+http://cdn.ottg.tv/7840/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=616
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="rtg-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6063.png",RTG TV
+http://cdn.ottg.tv/6063/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=617
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="telekafe" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3719.png",Телекафе
+http://cdn.ottg.tv/3719/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=618
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="history-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1410.png",History
+http://cdn.ottg.tv/1410/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=619
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="cartoon-network" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9603.png",Cartoon Network
+http://cdn.ottg.tv/9603/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=620
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football-ru" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7976.png",Футбол
+http://cdn.ottg.tv/7976/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=621
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="4ever-music" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/9047.png",4 Ever music HD
+http://cdn.ottg.tv/9047/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=622
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-igra" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1182.png",Матч! Игра
+http://cdn.ottg.tv/1182/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=623
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sovsek" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6097.png",Совершенно секретно
+http://cdn.ottg.tv/6097/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=624
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="glazami-turista" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7083.png",Глазами туриста HD
+http://cdn.ottg.tv/7083/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=625
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="paramount-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8952.png",Paramount Comedy
+http://cdn.ottg.tv/8952/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=626
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv1000" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9948.png",TV 1000
+http://cdn.ottg.tv/9948/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=627
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="hollywood" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2884.png",Hollywood
+http://cdn.ottg.tv/2884/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=628
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sony-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9605.png",Sony
+http://cdn.ottg.tv/9605/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=629
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fox" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2166.png",Fox
+http://cdn.ottg.tv/2166/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=630
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="foxlife" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7353.png",Fox Life
+http://cdn.ottg.tv/7353/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=631
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="perec-int" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5850.png",Перец International
+http://cdn.ottg.tv/5850/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=632
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fightbox-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3336.png",Fightbox
+http://cdn.ottg.tv/3336/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=633
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="multimania" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/2229.png",Мультиландия
+http://cdn.ottg.tv/2229/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=634
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2806.png",Первый канал HD +4
+http://cdn.ottg.tv/2806/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=635
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7439.png",Футбол 1 Украина
+http://cdn.ottg.tv/7439/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=636
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7486.png",Футбол 2 Украина
+http://cdn.ottg.tv/7486/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=637
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7721.png",Матч! Футбол 1
+http://cdn.ottg.tv/7721/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=638
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9099.png",Матч! Футбол 2
+http://cdn.ottg.tv/9099/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=639
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-football3" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/7197.png",Матч! Футбол 3
+http://cdn.ottg.tv/7197/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=640
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-premier" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/3863.png",Матч! Премьер
+http://cdn.ottg.tv/3863/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=641
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="newsone-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/6656.png",News One UA
+http://cdn.ottg.tv/6656/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=642
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tnt" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5889.png",ТНТ HD PREMIUM+
+http://cdn.ottg.tv/5889/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=644
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pobeda" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8934.png",Победа
+http://cdn.ottg.tv/8934/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=643
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mir-seriala" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9667.png",Мир сериала
+http://cdn.ottg.tv/9667/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=646
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="discovery-world" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8568.png",Discovery World
+http://cdn.ottg.tv/8568/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=647
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zik-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5632.png",Zik
+http://cdn.ottg.tv/5632/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=648
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vip-premiere" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2110.png",ViP Premiere HD PREMIUM+
+http://cdn.ottg.tv/2110/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=649
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vip-megahit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7787.png",ViP Megahit HD PREMIUM+
+http://cdn.ottg.tv/7787/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=650
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="vip-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9807.png",ViP Comedy HD PREMIUM+
+http://cdn.ottg.tv/9807/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=651
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="muzhskoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6241.png",Мужское Кино HD
+http://cdn.ottg.tv/6241/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=652
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="english-club-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7783.png",English Club
+http://cdn.ottg.tv/7783/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=653
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ginger-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9549.png",Капитан Фантастика HD
+http://cdn.ottg.tv/9549/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=654
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="zarubegnie_rtr-moldova" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5143.png",RTR Moldova HD
+http://cdn.ottg.tv/5143/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=655
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="id-xtra-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5630.png",Investigation Discovery HD
+http://cdn.ottg.tv/5630/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=656
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fastfunbox-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/9879.png",Fast&Fun Box
+http://cdn.ottg.tv/9879/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=657
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="1plus1-int" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7224.png",1+1 International
+http://cdn.ottg.tv/7224/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=658
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="1plus1" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/6801.png",1+1 HD
+http://cdn.ottg.tv/6801/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=659
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv3-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1540.png",ТВ 3 HD
+http://cdn.ottg.tv/1540/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=660
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="super" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3894.png",Супер HD
+http://cdn.ottg.tv/3894/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=661
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="setanta-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/2290.png",Setanta Sports UA HD PREMIUM+
+http://cdn.ottg.tv/2290/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=662
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinopremiera-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2095.png",Кинопремьера HD PREMIUM+
+http://cdn.ottg.tv/2095/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=663
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kidzone-plus" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/9521.png",KidZone+ HD PREMIUM+
+http://cdn.ottg.tv/9521/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=664
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kino-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2733.png",Кино ТВ HD PREMIUM+
+http://cdn.ottg.tv/2733/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=665
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nasha-sibir-4k" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3521.png",Наша сибирь 4K
+http://cdn.ottg.tv/3521/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=666
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fashion-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5477.png",Fashion TV 4K
+http://cdn.ottg.tv/5477/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=667
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="serial-ultrahd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5312.png",Сериал UHD
+http://cdn.ottg.tv/5312/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=668
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/9311.png",Stingray Festival 4K
+http://cdn.ottg.tv/9311/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=669
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7157.png",Nasa 4k (test)
+http://cdn.ottg.tv/7157/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=670
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/5355.png",One 4k (test)
+http://cdn.ottg.tv/5355/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=671
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/6439.png",TV8 HD MD
+http://cdn.ottg.tv/6439/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=672
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/9548.png",Pro TV HD RO
+http://cdn.ottg.tv/9548/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=673
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/1601.png",Pro TV Int. RO
+http://cdn.ottg.tv/1601/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=674
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/1712.png",Antena 1 HD RO
+http://cdn.ottg.tv/1712/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=675
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/8160.png",TVR1 RO
+http://cdn.ottg.tv/8160/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=676
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="nauka-20" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5656.png",Наука 2.0 HD
+http://cdn.ottg.tv/5656/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=677
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pervy-kanal-eu" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4795.png",Первый канал Европа
+http://cdn.ottg.tv/4795/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=678
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="musicbox" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/3147.png",Music Box GOLD
+http://cdn.ottg.tv/3147/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=679
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="tv1000-worldkino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9018.png",TV 1000 World Kino
+http://cdn.ottg.tv/9018/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=680
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8110.png",5 канал +8
+http://cdn.ottg.tv/8110/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=682
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4799.png",Россия-К +8
+http://cdn.ottg.tv/4799/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=681
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7618.png",ТВЦ +8
+http://cdn.ottg.tv/7618/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=683
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="match-arena" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6495.png",Матч! Арена
+http://cdn.ottg.tv/6495/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=686
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="russky-roman" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8833.png",Русский роман
+http://cdn.ottg.tv/8833/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=685
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="dozhd" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/1238.png",Дождь
+http://cdn.ottg.tv/1238/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=684
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinouzhas" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1755.png",Киноужас HD
+http://cdn.ottg.tv/1755/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=687
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="sts" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2990.png",СТС HD
+http://cdn.ottg.tv/2990/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=688
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinomiks" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7385.png",Киномикс HD
+http://cdn.ottg.tv/7385/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=689
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="pod-yolkoj" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9884.png",Под Ёлкой HD
+http://cdn.ottg.tv/9884/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=690
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="eu-music" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/2784.png",EU Music HD
+http://cdn.ottg.tv/2784/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=691
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ostrosiuzhetnoe-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4999.png",Остросюжетное HD PREMIUM+
+http://cdn.ottg.tv/4999/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=692
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="kinopremium-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/7718.png",Премиальное HD PREMIUM+
+http://cdn.ottg.tv/7718/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=693
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="love-nature-4k" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/1893.png",Love Nature 4K
+http://cdn.ottg.tv/1893/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=694
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/9477.png",Extasy 4K 18+
+http://cdn.ottg.tv/9477/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=695
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fightbox-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1949.png",FightBox HD
+http://cdn.ottg.tv/1949/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=696
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="docubox-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/5291.png",DocuBox HD
+http://cdn.ottg.tv/5291/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=697
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="fastfunbox-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/1647.png",Fast&FunBox HD
+http://cdn.ottg.tv/1647/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=698
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="setanta-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5493.png",Setanta Sports UA
+http://cdn.ottg.tv/5493/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=699
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ua-donbas" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4816.png",UA:Донбас
+http://cdn.ottg.tv/4816/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=700
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/2187.png",Мариупольское ТВ
+http://cdn.ottg.tv/2187/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=701
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="teleputeshestvia" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/3385.png",Телепутешествия
+http://cdn.ottg.tv/3385/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=702
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="c-music-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/3499.png",C-Music HD
+http://cdn.ottg.tv/3499/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=703
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="aiva" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/1543.png",AIVA HD
+http://cdn.ottg.tv/1543/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=704
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="start" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/8180.png",СТАРТ HD
+http://cdn.ottg.tv/8180/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=705
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="setanta-sports" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/5528.png",Setanta Sports 1
+http://cdn.ottg.tv/5528/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=706
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="setanta-sports-plus" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/6754.png",Setanta Sports 2
+http://cdn.ottg.tv/6754/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=707
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="krik-tv" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/7374.png",Крик ТВ
+http://cdn.ottg.tv/7374/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=708
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="mir-vokrug" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7164.png",Мир Вокруг HD
+http://cdn.ottg.tv/7164/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=709
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="myzen-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9218.png",MyZen 4K
+http://cdn.ottg.tv/9218/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=710
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ducktv" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/.png",Duck TV
+http://cdn.ottg.tv/2314/video.m3u8?username=xristo2121&password=hack56ever&token=adc1ffc8c701d55450e011532d81c368&ch_id=711
