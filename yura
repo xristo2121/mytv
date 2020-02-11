@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/127/index.m3u8
 #EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
