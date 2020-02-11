@@ -19,9 +19,9 @@ http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/128/index.m3u8
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/520/index.m3u8
 #EXTINF:0 tvg-id="kvn-tv" group-title="Channels",КВН ТВ
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/546/index.m3u8
-#EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels" tvg-id="Jurnal TV" tvg-name="Jurnal TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032011/jurnaltv_rgb.png?itok=Z_mC72wk",Jurnal TV
+#EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
 http://212.0.215.115/JurnalTV/video.m3u8
-#EXTINF:0 tvg-id="moldova1" group-title="Channels" tvg-id="Молдова 1" tvg-name="Молдова 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Moldova_1.svg",Молдова 1
+#EXTINF:0 tvg-id="moldova1" group-title="Channels",Молдова 1
 http://212.0.215.115/Moldova1/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 2
 http://212.0.215.115/Moldova2/mpegts
@@ -39,9 +39,9 @@ http://212.0.215.115/STS/mpegts
 http://212.0.215.115/TVC21/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal 3
 http://212.0.215.115/Canal3/mpegts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2
+#EXTINF:0 tvg-id="Canal2.mx" group-title="Channels",Canal 2
 http://212.0.215.115/Canal2/mpegts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV8
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
 http://212.0.215.115/TV8/mpegts
 #EXTINF:0 tvg-id="KanalD.ro" group-title="Channels",Kanal D
 http://212.0.215.115/KanalD/mpegts
@@ -135,7 +135,7 @@ http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/234/index.m3u8
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/144/index.m3u8
 #EXTINF:0 tvg-id="boec" group-title="Channels",Боец
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/150/index.m3u8s
-#EXTINF:0 tvg-id="protv-moldova" group-title="Channels",PRO TV Chișinău
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO TV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
 http://livebeta.publika.md/LIVE/P/1000.m3u8
@@ -147,7 +147,7 @@ rtmp://live.trm.md:1935/live/MoldovaUnu1
 rtmp://live.trm.md:1935/live/MoldovaDoi2
 #EXTINF:0 tvg-id="n4" group-title="Channels",Național 4
 http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 HD
+#EXTINF:0 tvg-id="Canal2HD.mx" group-title="Channels",Canal 2 HD
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/101/index.m3u8
@@ -205,7 +205,7 @@ http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/105/index.m3u8
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/525/index.m3u8
 #EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/732/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/542/index.m3u8
 #EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/733/index.m3u8
