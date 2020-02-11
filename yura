@@ -57,10 +57,6 @@ http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/905/index.m3u8
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/906/index.m3u8
 #EXTINF:0 tvg-id="rus-detective" group-title="Channels",Русский детектив
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/907/index.m3u8
-#EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
-http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/503/index.m3u8
-#EXTINF:0 tvg-id="ntn" group-title="Channels",HTH
-http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/533/index.m3u8
 #EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/532/index.m3u8
 #EXTINF:0 tvg-id="mama" group-title="Channels",Мама
