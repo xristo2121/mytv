@@ -49,6 +49,32 @@ http://cdn02n.ipstream.one:80/tnt4/video.m3u8?token=s.202002.83eb608f036b1a1335a
 http://cdn02n.ipstream.one:80/sts-love/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
 #EXTINF:0 tvg-id="kvn-tv" ,КВН ТВ
 http://cdn02n.ipstream.one:80/kvn-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
+#EXTINF:-1,JURNAL TV
+http://212.0.215.115/JurnalTV/mpegts
+#EXTINF:-1,Moldova 1
+http://212.0.215.115/Moldova1/mpegts
+#EXTINF:-1,Moldova 2
+http://212.0.215.115/Moldova2/mpegts
+#EXTINF:-1,Prime
+http://212.0.215.115/Prime/mpegts
+#EXTINF:-1,Publika
+http://212.0.215.115/PublikaTV/mpegts
+#EXTINF:-1,Pro TV Chisinau
+http://212.0.215.115/ProTV/mpegts
+#EXTINF:-1,N4
+http://212.0.215.115/N4/mpegts
+#EXTINF:-1,CTC_MEGA
+http://212.0.215.115/STS/mpegts
+#EXTINF:-1,Canal 3
+http://212.0.215.115/Canal3/mpegts
+#EXTINF:-1,Canal 2
+http://212.0.215.115/Canal2/mpegts
+#EXTINF:-1,TV8
+http://212.0.215.115/TV8/mpegts
+#EXTINF:-1,Kanal D
+http://212.0.215.115/KanalD/mpegts
+#EXTINF:-1,TVR1
+http://212.0.215.115/TVR/mpegts
 #EXTINF:0 tvg-id="pyatnica" ,Пятница HD
 http://cdn02n.ipstream.one:80/piatnicaHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
 #EXTINF:0 tvg-id="pyatnica" ,Пятница
