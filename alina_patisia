@@ -37,6 +37,40 @@ http://cdn02n.ipstream.one:80/mir-premium/video.m3u8?token=s.203692.33c3929994aa
 http://cdn02n.ipstream.one:80/otr/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntvmir" ,НТВ Мир
 http://cdn02n.ipstream.one:80/ntv-mir/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
+#EXTINF:-1,JURNAL TV
+http://212.0.215.115/JurnalTV/mpegts
+#EXTINF:-1,Moldova 1
+http://212.0.215.115/Moldova1/mpegts
+#EXTINF:-1,Moldova 2
+http://212.0.215.115/Moldova2/mpegts
+#EXTINF:-1,Prime
+http://212.0.215.115/Prime/mpegts
+#EXTINF:-1,Publika
+http://212.0.215.115/PublikaTV/mpegts
+#EXTINF:-1,Pro TV Chisinau
+http://212.0.215.115/ProTV/mpegts
+#EXTINF:-1,N4
+http://212.0.215.115/N4/mpegts
+#EXTINF:-1,CTC_MEGA
+http://212.0.215.115/STS/mpegts
+#EXTINF:-1,Canal 3
+http://212.0.215.115/Canal3/mpegts
+#EXTINF:-1,Canal 2
+http://212.0.215.115/Canal2/mpegts
+#EXTINF:-1,TV8
+http://212.0.215.115/TV8/mpegts
+#EXTINF:-1,Kanal D
+http://212.0.215.115/KanalD/mpegts
+#EXTINF:-1,TVR1
+http://212.0.215.115/TVR/mpegts
+#EXTINF:-1,GurinelTV
+http://212.0.215.106/Gurinel/mpegts
+#EXTINF:-1 ,Disney
+http://89.37.104.9/DisneyChannel/mpegts
+#EXTINF:-1 ,Minimax
+http://89.37.104.9/Minimax/mpegts
+#EXTINF:-1 ,Nickelodeon Romania
+http://89.37.104.9/Nick/mpegts
 #EXTINF:0 tvg-id="chetv" ,Че
 http://cdn02n.ipstream.one:80/che/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kultura" ,Россия-Культура
