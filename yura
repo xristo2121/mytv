@@ -20,33 +20,33 @@ http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/520/index.m3u8
 #EXTINF:0 tvg-id="kvn-tv" group-title="Channels",КВН ТВ
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/546/index.m3u8
 #EXTINF:0 tvg-id="JurnalTV.ro" group-title="Channels",Jurnal TV
-http://212.0.215.115/JurnalTV/video.m3u8
+http://212.0.215.115:8080/JurnalTV/video.m3u8
 #EXTINF:0 tvg-id="moldova1" group-title="Channels",Молдова 1
-http://212.0.215.115/Moldova1/mpegts
+http://212.0.215.115:8080/Moldova1/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 2
-http://212.0.215.115/Moldova2/mpegts
+http://212.0.215.115:8080/Moldova2/mpegts
 #EXTINF:0 tvg-id="prime-md" group-title="Channels",Prime
-http://212.0.215.115/Prime/mpegts
+http://212.0.215.115:8080/Prime/mpegts
 #EXTINF:0 tvg-id="Publika.ro" group-title="Channels",Publika
-http://212.0.215.115/PublikaTV/mpegts
+http://212.0.215.115:8080/PublikaTV/mpegts
 #EXTINF:0 tvg-id="pro-tv" group-title="Channels",Pro TV Chisinau
-http://212.0.215.115/ProTV/mpegts
+http://212.0.215.115:8080/ProTV/mpegts
 #EXTINF:0 tvg-id="n4" group-title="Channels",N4
-http://212.0.215.115/N4/mpegts
+http://212.0.215.115:8080/N4/mpegts
 #EXTINF:0 tvg-id="sts-dixi" group-title="Channels",CTC MEGA
-http://212.0.215.115/STS/mpegts
+http://212.0.215.115:8080/STS/mpegts
 #EXTINF:0 tvg-id="tvc-21" group-title="Channels",TVC21
-http://212.0.215.115/TVC21/mpegts
+http://212.0.215.115:8080/TVC21/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal 3
-http://212.0.215.115/Canal3/mpegts
+http://212.0.215.115:8080/Canal3/mpegts
 #EXTINF:0 tvg-id="Canal2.mx" group-title="Channels",Canal 2
-http://212.0.215.115/Canal2/mpegts
+http://212.0.215.115:8080/Canal2/mpegts
 #EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
-http://212.0.215.115/TV8/mpegts
+http://212.0.215.115:8080/TV8/mpegts
 #EXTINF:0 tvg-id="KanalD.ro" group-title="Channels",Kanal D
-http://212.0.215.115/KanalD/mpegts
+http://212.0.215.115:8080/KanalD/mpegts
 #EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR1
-http://212.0.215.115/TVR/mpegts
+http://212.0.215.115:8080/TVR/mpegts
 #EXTINF:0 tvg-id="vesti" group-title="Channels",Россия 24
 http://7341035e.edemist.com/iptv/ZYAB7HVP542MQF/507/index.m3u8
 #EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ HD
