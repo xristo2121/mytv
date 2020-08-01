@@ -37,40 +37,40 @@ http://cdn02n.ipstream.one:80/mir-premium/video.m3u8?token=s.203692.33c3929994aa
 http://cdn02n.ipstream.one:80/otr/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="ntvmir" ,НТВ Мир
 http://cdn02n.ipstream.one:80/ntv-mir/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
-#EXTINF:-1,JURNAL TV
-http://212.0.215.115:8080/JurnalTV/mpegts
-#EXTINF:-1,Moldova 1
-http://212.0.215.115:8080/Moldova1/mpegts
-#EXTINF:-1,Moldova 2
-http://212.0.215.115:8080/Moldova2/mpegts
-#EXTINF:-1,Prime
-http://212.0.215.115:8080/Prime/mpegts
-#EXTINF:-1,Publika
-http://212.0.215.115:8080/PublikaTV/mpegts
-#EXTINF:-1,Pro TV Chisinau
-http://212.0.215.115:8080/ProTV/mpegts
-#EXTINF:-1,N4
-http://212.0.215.115:8080/N4/mpegts
-#EXTINF:-1,CTC_MEGA
-http://212.0.215.115:8080/STS/mpegts
-#EXTINF:-1,Canal 3
-http://212.0.215.115:8080/Canal3/mpegts
-#EXTINF:-1,Canal 2
-http://212.0.215.115:8080/Canal2/mpegts
-#EXTINF:-1,TV8
-http://212.0.215.115:8080/TV8/mpegts
-#EXTINF:-1,Kanal D
-http://212.0.215.115:8080/KanalD/mpegts
-#EXTINF:-1,TVR1
-http://212.0.215.115:8080/TVR/mpegts
-#EXTINF:-1,GurinelTV
-http://212.0.215.115:8080/Gurinel/mpegts
-#EXTINF:-1 ,Disney
-http://212.0.215.115:8080/DisneyChannel/mpegts
-#EXTINF:-1 ,Minimax
-http://212.0.215.115:8080/Minimax/mpegts
-#EXTINF:-1 ,Nickelodeon Romania
-http://212.0.215.115:8080/Nick/mpegts
+#EXTINF:-1 tvg-type="" tvg-name="Jurnal TV" group-title="Channels",Jurnal TV
+http://185.14.28.215:9821/live/chris/1234/5.ts
+#EXTINF:-1 tvg-type="" tvg-name="Pro TV Chisinau" group-title="Channels",Pro TV Chisinau
+http://tv.skynetmd.eu:25461/Corona/Virus/1048
+#EXTINF:-1 tvg-type="" tvg-name="Publika TV" group-title="Channels",Publika TV
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 tvg-type="" tvg-name="Canal2.md" group-title="Channels",Canal 2
+http://tv.skynetmd.eu:25461/Corona/Virus/1036
+#EXTINF:-1 tvg-type="" tvg-name="Prime.md" group-title="Channels",Prime TV
+http://tv.skynetmd.eu:25461/Corona/Virus/1042
+#EXTINF:-1 tvg-type="" tvg-name="ntv.md" group-title="Channels",NTV Moldova
+http://tv.skynetmd.eu:25461/Corona/Virus/1044
+#EXTINF:-1 tvg-type="" tvg-name="n4.md" group-title="Channels",N4
+http://tv.skynetmd.eu:25461/Corona/Virus/1050
+#EXTINF:-1 tvg-type="" tvg-name="Moldova 1" group-title="Channels",Moldova 1
+rtmp://live.trm.md:1935/live/MoldovaUnu1
+#EXTINF:-1 tvg-type="" tvg-name="Moldova 2" group-title="Channels",Moldova 2
+rtmp://live.trm.md:1935/live/MoldovaDoi2
+#EXTINF:-1 tvg-type="" tvg-name="Accent TV" group-title="Channels",Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:0 group-title="Channels",TVR1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:0 group-title="Channels",TVR2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0 group-title="Channels",TVR3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:0 group-title="Channels",TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:0 group-title="Channels",RU TV Moldova
+https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+#EXTINF:-1 tvg-name="DisneyChannel.ro" group-title="Channels",Disney Channel
+http://tv.skynetmd.eu:25461/Corona/Virus/1100
+#EXTINF:-1 tvg-type="" tvg-name="Noroc TV" group-title="Channels",Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:0 tvg-id="chetv" ,Че
 http://cdn02n.ipstream.one:80/che/video.m3u8?token=s.203692.33c3929994aa50ba46ad36536dd0acf345c
 #EXTINF:0 tvg-id="kultura" ,Россия-Культура
