@@ -1,389 +1,385 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ort-hd" ,Первый HD
-http://cdn02n.ipstream.one:80/pervyHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ort" ,Первый канал
-http://cdn02n.ipstream.one:80/pervy/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rossiya-hd" ,Россия 1 HD
-http://cdn02n.ipstream.one:80/rossia1HD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rtr" ,Россия 1
-http://cdn02n.ipstream.one:80/rossia1/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tnt" ,ТНТ HD
-http://cdn02n.ipstream.one:80/tntHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tnt" ,ТНТ
-http://cdn02n.ipstream.one:80/tnt/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="sts" ,СТС
-http://cdn02n.ipstream.one:80/sts/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ntv" ,НТВ HD
-http://cdn02n.ipstream.one:80/ntvHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ntv" ,НТВ
-http://cdn02n.ipstream.one:80/ntv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rentv" ,РЕН ТВ
-http://cdn02n.ipstream.one:80/rentv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rentv" ,РЕН HD
-http://cdn02n.ipstream.one:80/rentvHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tvcen" ,ТВЦ
-http://cdn02n.ipstream.one:80/tvcentr/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tv3" ,ТВ-3
-http://cdn02n.ipstream.one:80/tv3-ru/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="home" ,Домашний
-http://cdn02n.ipstream.one:80/domashny/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="piter" ,Пятый канал
-http://cdn02n.ipstream.one:80/5kanal-ru/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mir" ,Мир
-http://cdn02n.ipstream.one:80/mir/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Мир Premium HD
-http://cdn02n.ipstream.one:80/mir-premium/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="otr" ,ОТР
-http://cdn02n.ipstream.one:80/otr/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ntvmir" ,НТВ Мир
-http://cdn02n.ipstream.one:80/ntv-mir/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="chetv" ,Че
-http://cdn02n.ipstream.one:80/che/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="kultura" ,Россия-Культура
-http://cdn02n.ipstream.one:80/rossia-k/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="zvezda" ,Телеканал Звезда
-http://cdn02n.ipstream.one:80/zvezda/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tnt4" ,ТНТ4
-http://cdn02n.ipstream.one:80/tnt4/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="sts-love" ,СТС Love
-http://cdn02n.ipstream.one:80/sts-love/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="kvn-tv" ,КВН ТВ
-http://cdn02n.ipstream.one:80/kvn-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:-1 tvg-type="" tvg-name="Jurnal TV" group-title="Channels",Jurnal TV
-http://185.14.28.215:9821/live/chris/1234/5.ts
-#EXTINF:-1 tvg-type="" tvg-name="Pro TV Chisinau" group-title="Channels",Pro TV Chisinau
-http://tv.skynetmd.eu:25461/Corona/Virus/1048
-#EXTINF:-1 tvg-type="" tvg-name="Publika TV" group-title="Channels",Publika TV
-http://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:-1 tvg-type="" tvg-name="Canal2.md" group-title="Channels",Canal 2
-http://tv.skynetmd.eu:25461/Corona/Virus/1036
-#EXTINF:-1 tvg-type="" tvg-name="Prime.md" group-title="Channels",Prime TV
-http://tv.skynetmd.eu:25461/Corona/Virus/1042
-#EXTINF:-1 tvg-type="" tvg-name="ntv.md" group-title="Channels",NTV Moldova
-http://tv.skynetmd.eu:25461/Corona/Virus/1044
-#EXTINF:-1 tvg-type="" tvg-name="n4.md" group-title="Channels",N4
-http://tv.skynetmd.eu:25461/Corona/Virus/1050
-#EXTINF:-1 tvg-type="" tvg-name="Moldova 1" group-title="Channels",Moldova 1
-rtmp://live.trm.md:1935/live/MoldovaUnu1
-#EXTINF:-1 tvg-type="" tvg-name="Moldova 2" group-title="Channels",Moldova 2
-rtmp://live.trm.md:1935/live/MoldovaDoi2
-#EXTINF:-1 tvg-type="" tvg-name="Accent TV" group-title="Channels",Accent TV
-http://video.a-tv.md/hls/accent.m3u8
-#EXTINF:0 group-title="Channels",TVR1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:0 group-title="Channels",TVR2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:0 group-title="Channels",TVR3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0 group-title="Channels",TVR Moldova
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
-#EXTINF:0 group-title="Channels",RU TV Moldova
-https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1 tvg-name="DisneyChannel.ro" group-title="Channels",Disney Channel
-http://tv.skynetmd.eu:25461/Corona/Virus/1100
-#EXTINF:-1 tvg-type="" tvg-name="Noroc TV" group-title="Channels",Noroc TV
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:0 tvg-id="pyatnica" ,Пятница HD
-http://cdn02n.ipstream.one:80/piatnicaHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="pyatnica" ,Пятница
-http://cdn02n.ipstream.one:80/piatnica/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="muztv" ,Ю
-http://cdn02n.ipstream.one:80/yu/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="super" ,Супер
-http://cdn02n.ipstream.one:80/super/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,FAN
-http://cdn02n.ipstream.one:80/fan/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,FAN HD
-http://cdn02n.ipstream.one:80/fanhd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="game-show" ,E tv
-http://cdn02n.ipstream.one:80/e-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="365dney" ,365 дней ТВ
-http://cdn02n.ipstream.one:80/365-dnej/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="bober" ,Бобёр
-http://cdn02n.ipstream.one:80/bobior/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="eda-hd" ,Еда Премиум
-http://cdn02n.ipstream.one:80/eda-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="food-network-rus" ,Food Network
-http://cdn02n.ipstream.one:80/food-network/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="food-network-rus" ,Food Network HD
-http://cdn02n.ipstream.one:80/food-networkHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="history" ,Viasat History
-http://cdn02n.ipstream.one:80/viasat-history/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="explorer-rus" ,Viasat Explore
-http://cdn02n.ipstream.one:80/viasat-explore/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="viasat-nature" ,Viasat Nature
-http://cdn02n.ipstream.one:80/viasat-nature/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="natgeo" ,Nat Geographic
-http://cdn02n.ipstream.one:80/national-geographic/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="natgeo_hd" ,National Geographic HD
-http://cdn02n.ipstream.one:80/national-geographicHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="HistoryHD.ru" ,History HD
-http://cdn02n.ipstream.one:80/history-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="history2-rus" ,H2
-http://cdn02n.ipstream.one:80/h2/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ntv-style" ,НТВ Стиль
-http://cdn02n.ipstream.one:80/ntv-style/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nature-history" ,Viasat Nature/History HD
-http://cdn02n.ipstream.one:80/viasat-nature-history-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="wild-hd" ,Nat Geo Wild HD
-http://cdn02n.ipstream.one:80/nat-geo-wild/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="avto24" ,Авто 24
-http://cdn02n.ipstream.one:80/avto24/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="drive" ,Драйв
-http://cdn02n.ipstream.one:80/drive/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="avto-plus" ,Авто Плюс
-http://cdn02n.ipstream.one:80/avto-plus/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nautical" ,Морской
-http://cdn02n.ipstream.one:80/morskoy/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="discov_rus" ,Discovery Channel
-http://cdn02n.ipstream.one:80/discovery-channel/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="discov_rus-hd" ,Discovery Channel HD
-http://cdn02n.ipstream.one:80/discovery-channelHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="id-extra" ,ID Xtra
-http://cdn02n.ipstream.one:80/id-xtra-ru/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="discov_turbo-extra" ,DTX
-http://cdn02n.ipstream.one:80/dtx/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="discov_sci" ,Discovery Science
-http://cdn02n.ipstream.one:80/discovery-science/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="discov_sci" ,Discovery Science HD
-http://cdn02n.ipstream.one:80/discovery-scienceHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="travel-hd" ,Travel Channel HD
-http://cdn02n.ipstream.one:80/travel-channelHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="travel+adv" ,Travel+Adventure
-http://cdn02n.ipstream.one:80/travel-adventure/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="travel-adv-hd" ,Travel+Adventure HD
-http://cdn02n.ipstream.one:80/travel-adventureHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nauka" ,Наука 2.0
-http://cdn02n.ipstream.one:80/nauka-20/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="eureka-hd" ,Eureka HD
-http://cdn02n.ipstream.one:80/eureka-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ntv-pravo" ,НТВ Право
-http://cdn02n.ipstream.one:80/ntv-pravo/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="puteshestviya-hd" ,Приключения HD
-http://cdn02n.ipstream.one:80/prikluchenia-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="animal_rus" ,Animal Planet
-http://cdn02n.ipstream.one:80/animal-planet/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="animal-hd" ,Animal Planet HD
-http://cdn02n.ipstream.one:80/animal-planetHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="animal-family-hd" ,В мире животных HD
-http://cdn02n.ipstream.one:80/v-mire-zhivotnyx-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="FineLiving.ru" ,Fine Living
-http://cdn02n.ipstream.one:80/fine-living/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="FineLiving.ru" ,Fine living HD
-http://cdn02n.ipstream.one:80/fine-livingHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tlc-russia" ,TLC
-http://cdn02n.ipstream.one:80/tlc/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tlc-russia-hd" ,TLC HD
-http://cdn02n.ipstream.one:80/tlcHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ohota-i-rybalka" ,Охота и рыбалка
-http://cdn02n.ipstream.one:80/oxota-i-rybalka/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rtg-hd" ,RTG HD
-http://cdn02n.ipstream.one:80/rtg-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="iq-hd" ,Планета HD
-http://cdn02n.ipstream.one:80/planeta-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Дикая охота HD
-http://cdn02n.ipstream.one:80/dikaya-oxota-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Дикая рыбалка HD
-http://cdn02n.ipstream.one:80/dikaya-rybalka-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" ,Охотник и Рыболов HD
-http://cdn02n.ipstream.one:80/oxotnik-i-rybolov-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Дикий
-http://cdn02n.ipstream.one:80/dikiy/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="moya-planeta" ,Моя Планета
-http://cdn02n.ipstream.one:80/moya-planeta/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="kinopokaz-hd1" ,Шокирующее
-http://cdn02n.ipstream.one:80/kinopokaz-hd1/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="kinopokaz-hd2" ,Комедийное HD
-http://cdn02n.ipstream.one:80/kinopokaz-hd2/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="paramount-comedy" ,Paramount Comedy
-http://cdn02n.ipstream.one:80/paramount-comedy/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="paramount-comedy" ,Paramount Comedy HD
-http://cdn02n.ipstream.one:80/paramount-comedy-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="fox-hd" ,FOX HD
-http://cdn02n.ipstream.one:80/foxHD/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="fox-life" ,Fox Life
-http://cdn02n.ipstream.one:80/foxlife/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="fox-crime" ,Fox Russia
-http://cdn02n.ipstream.one:80/fox/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="amedia1" ,Amedia 1
-http://cdn02n.ipstream.one:80/amedia1/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="amedia2" ,Amedia 2
-http://cdn02n.ipstream.one:80/amedia2/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="amedia-hit" ,Amedia Hit
-http://cdn02n.ipstream.one:80/amedia-hit/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="amedia-hd" ,AMEDIA Premium HD
-http://cdn02n.ipstream.one:80/amedia-premium/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="domkino-prem" ,Дом Кино Премиум HD
-http://cdn02n.ipstream.one:80/domkino-premium/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="evrokino" ,Еврокино
-http://cdn02n.ipstream.one:80/evrokino/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="kino-tv" ,КИНО ТВ
-http://cdn02n.ipstream.one:80/kino-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="kino-tv" ,Кино ТВ HD
-http://cdn02n.ipstream.one:80/kino-tvhd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="lyubimoe-kino" ,Любимое Кино
-http://cdn02n.ipstream.one:80/nashe-lubimoe-kino/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="domkino" ,Дом Кино
-http://cdn02n.ipstream.one:80/domkino/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nashe-hd" ,Наш Кинороман HD
-http://cdn02n.ipstream.one:80/nash-kinoroman/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="semeinoe-hd" ,Наше Крутое HD
-http://cdn02n.ipstream.one:80/nash-detektiv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="axn" ,SONY Sci-Fi
-http://cdn02n.ipstream.one:80/sony-scifi/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="strashnoe-hd" ,Страшное HD
-http://cdn02n.ipstream.one:80/strashnoe-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nstv" ,НСТ
-http://cdn02n.ipstream.one:80/nst/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="hollywood-hd" ,Hollywood HD
-http://cdn02n.ipstream.one:80/hollywood-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="set" ,Sony Entertainment Television
-http://cdn02n.ipstream.one:80/sony-enter/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tv1000" ,TV 1000
-http://cdn02n.ipstream.one:80/tv1000/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tv1000-action" ,TV1000 Action
-http://cdn02n.ipstream.one:80/tv1000-action/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="Comedy.am" ,VIP Comedy
-http://cdn02n.ipstream.one:80/vip-comedy/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tv1000-megahit-hd" ,VIP Megahit
-http://cdn02n.ipstream.one:80/vip-megahit/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tv1000-premium-hd" ,VIP Premiere
-http://cdn02n.ipstream.one:80/vip-premiere/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tv1000_rus" ,TV1000 Русское кино
-http://cdn02n.ipstream.one:80/tv1000-russkoe-kino/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tv1000-premium-hd" ,TV1000 Premium HD
-http://cdn02n.ipstream.one:80/tv1000-premium/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rus-bestseller" ,Русский бестселлер
-http://cdn02n.ipstream.one:80/russky-bestseller/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rus-detective" ,Русский детектив
-http://cdn02n.ipstream.one:80/russky-detektiv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="komediya-vgtrk" ,Русская комедия
-http://cdn02n.ipstream.one:80/russkaya-komedia/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="illuzion" ,Русский Иллюзион
-http://cdn02n.ipstream.one:80/russky-illuzion/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rus-roman" ,Русский роман
-http://cdn02n.ipstream.one:80/russky-roman/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="kinopremium-hd" ,Кинопремиум HD
-http://cdn02n.ipstream.one:80/kinopremium-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ostrsuszet-hd" ,Остросюжетное HD
-http://cdn02n.ipstream.one:80/ostrosiuzhetnoe-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="uhd-cinema" ,Ultra HD Cinema
-http://cdn02n.ipstream.one:80/ultra-hd-cinema/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ntv-premiera" ,Кино UHD
-http://cdn02n.ipstream.one:80/kino-ultra-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Сериал UHD
-http://cdn02n.ipstream.one:80/serial-ultrahd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="pobeda" ,Победа
-http://cdn02n.ipstream.one:80/pobeda/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ntv-serial" ,НТВ Сериал
-http://cdn02n.ipstream.one:80/ntv-serial/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mir-seriala" ,Мир Сериала
-http://cdn02n.ipstream.one:80/mir-seriala/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Spike Russia
-http://cdn02n.ipstream.one:80/spike/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="egoist" ,SHOT TV
-http://cdn02n.ipstream.one:80/shot-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="sony-turbo" ,Sony Turbo
-http://cdn02n.ipstream.one:80/sony-turbo/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="paramount" ,Paramount Channel
-http://cdn02n.ipstream.one:80/paramount-channel/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="konnyj-mir" ,Конный мир HD
-http://cdn02n.ipstream.one:80/konny-mir/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mtv-rus" ,MTV
-http://cdn02n.ipstream.one:80/mtv-russia/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mtvlive-hd" ,MTV Live HD
-http://cdn02n.ipstream.one:80/mtv-live/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mtv-dance" ,MTV Dance
-http://cdn02n.ipstream.one:80/mtv-dance/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mtv-hits" ,MTV HITS
-http://cdn02n.ipstream.one:80/mtv-hits/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mtv-rocks" ,MTV Rocks
-http://cdn02n.ipstream.one:80/mtv-rocks/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="muzika1" ,Музыка первого
-http://cdn02n.ipstream.one:80/muzyka-pervogo/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="europa-plus" ,Europa Plus TV
-http://cdn02n.ipstream.one:80/europa-plus-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nashe-tv" ,Наше ТВ
-http://cdn02n.ipstream.one:80/nashe-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="muz-tv" ,МУЗ
-http://cdn02n.ipstream.one:80/muztv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rutv" ,RU.TV
-http://cdn02n.ipstream.one:80/ru-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="bridge" ,Bridge TV
-http://cdn02n.ipstream.one:80/bridge-tv/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="dange" ,Bridge TV Dance
-http://cdn02n.ipstream.one:80/bridge-tv-dance/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="bridge-hd" ,BRIDGE HD
-http://cdn02n.ipstream.one:80/bridge-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tnt-music" ,ТНТ MUSIC
-http://cdn02n.ipstream.one:80/tnt-music/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rusong" ,BRIDGE TV Русский Хит
-http://cdn02n.ipstream.one:80/bridge-tv-ruxit/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="zhara" ,Жара
-http://cdn02n.ipstream.one:80/zhara/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="topsong" ,BRIDGE TV Classic
-http://cdn02n.ipstream.one:80/bridge-tv-classic/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="vh-1-classic" ,VH-1 Classic
-http://cdn02n.ipstream.one:80/vh1-classic/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="iconcerts_hd" ,iConcerts HD
-http://cdn02n.ipstream.one:80/iconcerts/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mcm-top" ,MCM Top
-http://cdn02n.ipstream.one:80/mcm-top/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="cartoon" ,Cartoon Network
-http://cdn02n.ipstream.one:80/cartoon-network/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="disney" ,Disney
-http://cdn02n.ipstream.one:80/disney/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mult" ,Мульт
-http://cdn02n.ipstream.one:80/mult/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Kapitan Fantastika HD
-http://cdn02n.ipstream.one:80/kapitan-fantastika/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="ext" ,Gulli Girls
-http://cdn02n.ipstream.one:80/gulli-girl/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="2x2" ,2x2
-http://cdn02n.ipstream.one:80/2na2/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="boomerang" ,Boomerang
-http://cdn02n.ipstream.one:80/boomerang/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="karusel" ,Карусель
-http://cdn02n.ipstream.one:80/karusel/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="det" ,Детский мир
-http://cdn02n.ipstream.one:80/detsky-mir/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nick-jr" ,Nick Jr.
-http://cdn02n.ipstream.one:80/nick-jr/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="o" ,O!
-http://cdn02n.ipstream.one:80/o_/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="jimjam" ,Jim Jam
-http://cdn02n.ipstream.one:80/jimjam/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nickelodeon-rus" ,Nickelodeon
-http://cdn02n.ipstream.one:80/nickelodeon-ru/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="nickelod-hd" ,Nickelodeon HD
-http://cdn02n.ipstream.one:80/nickelodeon-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tiji" ,Tiji TV
-http://cdn02n.ipstream.one:80/tiji/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="tlum-hd" ,Тлум HD
-http://cdn02n.ipstream.one:80/tlum-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="sts-kids" ,СТС Kids HD
-http://cdn02n.ipstream.one:80/sts-kids-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="multik-hd" ,Мультик HD
-http://cdn02n.ipstream.one:80/multik-hd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="strana" ,Мультимузыка
-http://cdn02n.ipstream.one:80/multimuzyka/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="detskiy" ,Детский
-http://cdn02n.ipstream.one:80/detsky/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="mat-i-ditya" ,Мама
-http://cdn02n.ipstream.one:80/mama/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rtvint" ,RTVi
-http://cdn02n.ipstream.one:80/rtvi/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="dozhd" ,Дождь
-http://cdn02n.ipstream.one:80/dozd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="dozhd" ,Дождь HD
-http://cdn02n.ipstream.one:80/dozhd/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="moskva24" ,Москва 24
-http://cdn02n.ipstream.one:80/moskva-24/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="rbk" ,РБК
-http://cdn02n.ipstream.one:80/rbk/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="podmoskovie" ,360° Подмосковье
-http://cdn02n.ipstream.one:80/360-podmoskovie/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="euro" ,Euronews
-http://cdn02n.ipstream.one:80/euronews/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
-#EXTINF:0 tvg-id="vesti" ,Россия-24
-http://cdn02n.ipstream.one:80/rossia-24/video.m3u8?token=s.202002.83eb608f036b1a1335a3b15c677537eefb7
+#EXTINF:0  tvg-id="ort" group-title="Channels",Первый HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/204/index.m3u8
+#EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/127/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/205/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/504/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/501/index.m3u8
+#EXTINF:0 tvg-id="ntv-serial" group-title="Channels",НТВ Сериал
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/744/index.m3u8
+#EXTINF:0 tvg-id="chetv" group-title="Channels",Че
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/513/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/502/index.m3u8
+#EXTINF:0 tvg-id="sts" group-title="Channels",СТС
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/506/index.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/128/index.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/520/index.m3u8
+#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/994/index.m3u8
+#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1 International
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/987/index.m3u8
+#EXTINF:0 tvg-id="2p2" group-title="Channels",2+2
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/995/index.m3u8
+#EXTINF:0 tvg-id="trk-ukraina" group-title="Channels",Україна
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/1011/index.m3u8
+#EXTINF:0 tvg-id="inter" group-title="Channels",Интер
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/1047/index.m3u8
+#EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/1009/index.m3u8
+#EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/936/index.m3u8
+#EXTINF:0 tvg-id="k1" group-title="Channels",К1
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/931/index.m3u8
+#EXTINF:0 tvg-id="k2" group-title="Channels",К2
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/930/index.m3u8
+#EXTINF:0 tvg-id="mega" group-title="Channels",Мега
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/929/index.m3u8
+#EXTINF:0 tvg-id="jurnal" group-title="Channels",Jurnal TV
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2446/index.m3u8
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",ProTV Chisinau
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2456/index.m3u8
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2450/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 1 HD MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2444/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moldova 2
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2445/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime 1 MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2451/index.m3u8
+#EXTINF:0 tvg-id="n4" group-title="Channels",N4 MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2460/index.m3u8
+#EXTINF:0 tvg-id="rentv-md" group-title="Channels",Рен ТВ MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2455/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2452/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 3 MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2453/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMUL
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2449/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Accent TV
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2459/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Moldova
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2461/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2465/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLD TV MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2472/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Noroc TV
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2473/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXIAL TV
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2467/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8 MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2454/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NTV MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2457/index.m3u8
+#EXTINF:0 tvg-id="tvc-21" group-title="Channels",TVC 21 MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2458/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ТНТ Exclusiv TV
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2463/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVR 1 MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2464/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",10 TV MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2466/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel Romania
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2468/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gurinel TV
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2469/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zona M MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2470/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UTV MD
+http://7341035e.edemist.com/iptv/NC3B7VZPHCNT82/2471/index.m3u8
+#EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский бестселлер
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/905/index.m3u8
+#EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский роман
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/906/index.m3u8
+#EXTINF:0 tvg-id="rus-detective" group-title="Channels",Русский детектив
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/907/index.m3u8
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/532/index.m3u8
+#EXTINF:0 tvg-id="mama" group-title="Channels",Мама
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/704/index.m3u8
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/706/index.m3u8
+#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/742/index.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="Channels",ТВ3
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/508/index.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="Channels",Ю ТВ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/534/index.m3u8
+#EXTINF:0 tvg-id="mir" group-title="Channels",Мир
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/113/index.m3u8
+#EXTINF:0 tvg-id="8-kanal" group-title="Channels",8 канал
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/1057/index.m3u8
+#EXTINF:0 tvg-id="home" group-title="Channels",Домашний
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/514/index.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="Channels",Телеканал Звезда
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/544/index.m3u8
+#EXTINF:0 tvg-id="ntv-style" group-title="Channels",НТВ Стиль
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/745/index.m3u8
+#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/743/index.m3u8
+#EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV1000 Русское кино
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/101/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony SciFi
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/110/index.m3u8
+#EXTINF:0 tvg-id="mgm-hd" group-title="Channels",MGM HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/209/index.m3u8
+#EXTINF:0 tvg-id="rtg-hd" group-title="Channels",RTG HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/210/index.m3u8
+#EXTINF:0 tvg-id="nostalgia" group-title="Channels",Ностальгия
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/102/index.m3u8
+#EXTINF:0 tvg-id="amedia1" group-title="Channels",Amedia 1
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/554/index.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/510/index.m3u8
+#EXTINF:0 tvg-id="amedia-hd" group-title="Channels",Amedia Premium HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/555/index.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",Amedia 2
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/556/index.m3u8
+#EXTINF:0 tvg-id="man-kino" group-title="Channels",Мужское кино
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/164/index.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/557/index.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",TV 1000 Action
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/131/index.m3u8
+#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Channels",Любимое Кино
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/722/index.m3u8
+#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Channels",КИНОСВИДАНИЕ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/728/index.m3u8
+#EXTINF:0 tvg-id="hd-kino" group-title="Channels",КИНОСЕМЬЯ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/125/index.m3u8
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="Channels",РОДНОЕ КИНО
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/126/index.m3u8
+#EXTINF:0 tvg-id="kino-plus" group-title="Channels",КИНОМИКС
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/509/index.m3u8
+#EXTINF:0 tvg-id="kinohit" group-title="Channels",Кинохит
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/516/index.m3u8
+#EXTINF:0 tvg-id="nashe-novoe" group-title="Channels",Наше новое кино
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/517/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Кинолюкс
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/521/index.m3u8
+#EXTINF:0 tvg-id="domkino-prem" group-title="Channels",Дом Кино Премиум HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/911/index.m3u8
+#EXTINF:0 tvg-id="tnt4" group-title="Channels",ТНТ4
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/104/index.m3u8
+#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Channels",Остросюжетное HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/904/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony Entertainment Television
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/559/index.m3u8
+#EXTINF:0 tvg-id="sony-turbo" group-title="Channels",Sony Turbo
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/708/index.m3u8
+#EXTINF:0 tvg-id="zhara" group-title="Channels",ЖАРА
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/105/index.m3u8
+#EXTINF:0 tvg-id="tv21" group-title="Channels",TV XXI
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/525/index.m3u8
+#EXTINF:0 tvg-id="kino-tv" group-title="Channels",КИНО ТВ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/732/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/542/index.m3u8
+#EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/733/index.m3u8
+#EXTINF:0 tvg-id="komediya" group-title="Channels",КИНОКОМЕДИЯ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/145/index.m3u8
+#EXTINF:0 tvg-id="detektiv" group-title="Channels",Detektiv.tv
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/734/index.m3u8
+#EXTINF:0 tvg-id="film-box" group-title="Channels",FilmBox
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/817/index.m3u8
+#EXTINF:0 tvg-id="film-box-arthouse" group-title="Channels",Filmbox Arthouse
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/818/index.m3u8
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",HD Кино
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/224/index.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",VIP Premiere
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/202/index.m3u8
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="Channels",VIP Comedy
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/200/index.m3u8
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Channels",VIP Megahit
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/201/index.m3u8
+#EXTINF:0 tvg-id="semeinoe-hd" group-title="Channels",Наш Детектив HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/915/index.m3u8
+#EXTINF:0 tvg-id="nashe-hd" group-title="Channels",Наш Кинороман HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/914/index.m3u8
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Channels",КИНОПРЕМЬЕРА HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/224/index.m3u8
+#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Channels",Кинопоказ HD1
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/913/index.m3u8
+#EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Channels",Кинопоказ HD2
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/912/index.m3u8
+#EXTINF:0 tvg-id="indiya" group-title="Channels",ИНДИЙСКОЕ КИНО
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/146/index.m3u8
+#EXTINF:0 tvg-id="zee" group-title="Channels",ZEE TV
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/1001/index.m3u8
+#EXTINF:0 tvg-id="mnogo-tv" group-title="Channels",КИНОСЕРИЯ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/148/index.m3u8
+#EXTINF:0 tvg-id="nstv" group-title="Channels",НСТ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/726/index.m3u8
+#EXTINF:0 tvg-id="illuzion" group-title="Channels",Русский Иллюзион
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/547/index.m3u8
+#EXTINF:0 tvg-id="telenovella" group-title="Channels",Теленовелла
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/548/index.m3u8
+#EXTINF:0 tvg-id="evrokino" group-title="Channels",Еврокино
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/549/index.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/132/index.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",Fox Russia
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/550/index.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",Fox Life
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/553/index.m3u8
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/920/index.m3u8
+#EXTINF:0 tvg-id="paramount-comedy" group-title="Channels",Paramount Comedy Russia
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/157/index.m3u8
+#EXTINF:0 tvg-id="domkino" group-title="Channels",Дом Кино
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/154/index.m3u8
+#EXTINF:0 tvg-id="nature-history" group-title="Channels",Viasat Nature/History HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/203/index.m3u8
+#EXTINF:0 tvg-id="hd-life" group-title="Channels",HD Life
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/226/index.m3u8
+#EXTINF:0 tvg-id="istoria" group-title="Channels",История
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/111/index.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="Channels",Моя Планета
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/117/index.m3u8
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/231/index.m3u8
+#EXTINF:0 tvg-id="nauka" group-title="Channels",Наука 2.0
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/118/index.m3u8
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Телеканал Да Винчи
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/537/index.m3u8
+#EXTINF:0 tvg-id="outdoor" group-title="Channels",Outdoor Channel
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/119/index.m3u8
+#EXTINF:0 tvg-id="sov-sek" group-title="Channels",Сов. Секретно
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/121/index.m3u8
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="Channels",Travel+Adventure HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/908/index.m3u8
+#EXTINF:0 tvg-id="avto24" group-title="Channels",Авто 24
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/538/index.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/133/index.m3u8
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",Nat Geo Wild HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/216/index.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/134/index.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/230/index.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Discovery World
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/135/index.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/136/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/137/index.m3u8
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/218/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/232/index.m3u8
+#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/233/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Investigation Discovery
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/139/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/140/index.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/227/index.m3u8
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Channels",Охотник и рыболов HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/917/index.m3u8
+#EXTINF:0 tvg-id="avto-plus" group-title="Channels",Авто Плюс
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/151/index.m3u8
+#EXTINF:0 tvg-id="vremya" group-title="Channels",Время
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/552/index.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="Channels",Россия-Культура
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/505/index.m3u8
+#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="Channels",Домашние Животные
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/158/index.m3u8
+#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="Channels",Охотаи Рыбалка
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/159/index.m3u8
+#EXTINF:0 tvg-id="kuhnya" group-title="Channels",Кухня ТВ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/152/index.m3u8
+#EXTINF:0 tvg-id="bober" group-title="Channels",Бобёр
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/725/index.m3u8
+#EXTINF:0 tvg-id="zoopark" group-title="Channels",Зоопарк
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/731/index.m3u8
+#EXTINF:0 tvg-id="game-show" group-title="Channels",Game Show
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/736/index.m3u8
+#EXTINF:0 tvg-id="nautical" group-title="Channels",Морской
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/742/index.m3u8
+#EXTINF:0 tvg-id="psihologiya21" group-title="Channels",Психология 21
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/532/index.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Channels",Доктор
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/512/index.m3u8
+#EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",Nickelodeon HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/223/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/524/index.m3u8
+#EXTINF:0 tvg-id="det" group-title="Channels",Детский мир
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/543/index.m3u8
+#EXTINF:0 tvg-id="jimjam" group-title="Channels",Jim Jam
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/138/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/143/index.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="Channels",Карусель
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/156/index.m3u8
+#EXTINF:0 tvg-id="ani" group-title="Channels",Ani
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/129/index.m3u8
+#EXTINF:0 tvg-id="mult" group-title="Channels",Мульт
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/909/index.m3u8
+#EXTINF:0 tvg-id="tlum-hd" group-title="Channels",Тлум HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/240/index.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Channels",Boomerang
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/723/index.m3u8
+#EXTINF:0 tvg-id="o" group-title="Channels",О!
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/727/index.m3u8
+#EXTINF:0 tvg-id="detskiy" group-title="Channels",Детский
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/730/index.m3u8
+#EXTINF:0 tvg-id="vgus" group-title="Channels",В гостях у сказки
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/737/index.m3u8
+#EXTINF:0 tvg-id="karusel+3" group-title="Channels",Карусель (+3)
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/740/index.m3u8
+#EXTINF:0 tvg-id="multik-hd" group-title="Channels",Мультик HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/921/index.m3u8
+#EXTINF:0 tvg-id="eda-hd" group-title="Channels",Еда HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/918/index.m3u8
+#EXTINF:0 tvg-id="rbk" group-title="Channels",РБК ТВ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/106/index.m3u8
+#EXTINF:0 tvg-id="muz-tv" group-title="Channels",МУЗ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/116/index.m3u8
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Europa Plus TV
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/115/index.m3u8
+#EXTINF:0 tvg-id="tnt-music" group-title="Channels",ТНТ MUSIC
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/710/index.m3u8
+#EXTINF:0 tvg-id="dange" group-title="Channels",BRIDGE TV DANCE
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/711/index.m3u8
+#EXTINF:0 tvg-id="rusong" group-title="Channels",RUSONG TV
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/120/index.m3u8
+#EXTINF:0 tvg-id="bridge" group-title="Channels",Bridge TV
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/122/index.m3u8
+#EXTINF:0 tvg-id="bridge-hd" group-title="Channels",BRIDGE HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/236/index.m3u8
+#EXTINF:0 tvg-id="360TuneBox.cz" group-title="Channels",360 Tune Box
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/810/index.m3u8
+#EXTINF:0 tvg-id="nashe-tv" group-title="Channels",Наше ТВ
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/721/index.m3u8
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 Classic
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/724/index.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/142/index.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV Live HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/221/index.m3u8
+#EXTINF:0 tvg-id="mtv-dance" group-title="Channels",MTV Dance
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/558/index.m3u8
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Европа Плюс
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/115/index.m3u8
+#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/153/index.m3u8
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1 European
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/536/index.m3u8
+#EXTINF:0 tvg-id="muzika1" group-title="Channels",Музыка
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/155/index.m3u8
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/235/index.m3u8
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live HD
+http://xristo2121.amazzin.pw/iptv/NC3B7VZPHCNT82/217/index.m3u8
