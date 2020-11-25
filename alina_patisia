@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:0  tvg-id="ort" group-title="Channels",Первый HD
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/204/index.m3u8
 #EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
 http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/127/index.m3u8
-#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия HD
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/205/index.m3u8
 #EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
 http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/504/index.m3u8
 #EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
@@ -21,26 +17,6 @@ http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/506/index.m3u8
 http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/128/index.m3u8
 #EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
 http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/520/index.m3u8
-#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/994/index.m3u8
-#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1 International
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/987/index.m3u8
-#EXTINF:0 tvg-id="2p2" group-title="Channels",2+2
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/995/index.m3u8
-#EXTINF:0 tvg-id="trk-ukraina" group-title="Channels",Україна
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/1011/index.m3u8
-#EXTINF:0 tvg-id="inter" group-title="Channels",Интер
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/1047/index.m3u8
-#EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/1009/index.m3u8
-#EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/936/index.m3u8
-#EXTINF:0 tvg-id="k1" group-title="Channels",К1
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/931/index.m3u8
-#EXTINF:0 tvg-id="k2" group-title="Channels",К2
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/930/index.m3u8
-#EXTINF:0 tvg-id="mega" group-title="Channels",Мега
-http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/929/index.m3u8
 #EXTINF:0 tvg-id="jurnal" group-title="Channels",Jurnal TV
 http://7341035e.edemist.com/iptv/C2MEK3RMAS8FDC/2446/index.m3u8
 #EXTINF:0 tvg-id="pro-tv" group-title="Channels",ProTV Chisinau
@@ -95,6 +71,26 @@ http://7341035e.edemist.com/iptv/C2MEK3RMAS8FDC/2469/index.m3u8
 http://7341035e.edemist.com/iptv/C2MEK3RMAS8FDC/2470/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",UTV MD
 http://7341035e.edemist.com/iptv/C2MEK3RMAS8FDC/2471/index.m3u8
+#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/994/index.m3u8
+#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1 International
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/987/index.m3u8
+#EXTINF:0 tvg-id="2p2" group-title="Channels",2+2
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/995/index.m3u8
+#EXTINF:0 tvg-id="trk-ukraina" group-title="Channels",Україна
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/1011/index.m3u8
+#EXTINF:0 tvg-id="inter" group-title="Channels",Интер
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/1047/index.m3u8
+#EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/1009/index.m3u8
+#EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/936/index.m3u8
+#EXTINF:0 tvg-id="k1" group-title="Channels",К1
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/931/index.m3u8
+#EXTINF:0 tvg-id="k2" group-title="Channels",К2
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/930/index.m3u8
+#EXTINF:0 tvg-id="mega" group-title="Channels",Мега
+http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/929/index.m3u8
 #EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский бестселлер
 http://xristo2121.amazzin.pw/iptv/C2MEK3RMAS8FDC/905/index.m3u8
 #EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский роман
